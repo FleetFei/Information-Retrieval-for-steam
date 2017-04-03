@@ -1,0 +1,7 @@
+
+							About This Content
+							This DLC is a Skirmish pack with two new game modes: "Trench Assault " and "Team Defence "
+Trench warfare  a distinctive feature of  the First World War. Together with your friends you have to confront a very tricky opponent under control of AI in the trenches.
+In the Trench Assault mode players will assault positions and capture control points, defended by the AI. The game continues untill the players or the opponent does capture all the control points or the timer expires in 90 minutes. Number of active AI bots depends on the number of players. The intensity of the resistance of the AI depends on the difficulty level.
+
+In the Team Defence mode players defend against the constant attacks of AI. The main task of the players is to hold the flag. The game ends when the AI player captures the flag or the player fights off the last attack of AI.						

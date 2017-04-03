@@ -1,0 +1,7 @@
+
+							About This Game
+							Welcome to the world of The Universim! In this demo, we will give you a sneak peek at the diverse ecosystems and dynamic weather created by our Procedural Planet Generator. The Crytivo Games team devoted a huge amount of effort toward ensuring that the planets in The Universim were more than just static environments- they are living, breathing worlds. Today, we are excited to share our achievements in planet generation with our fans. 
+
+Of course, we are still working to improve this system, and there are still many features that have yet to be implemented. This demo is intended only to display the Procedural Planet Generator, so all gameplay mechanics are disabled. We will run closed Alpha and Beta gameplay tests through our website so that we can collect information and make necessary changes before we release The Universim on Steam Early Access. If you are interested in participating in these tests or if you want more information about The Universim, please visit our website.
+
+We hope you enjoy this technical demonstration and look forward to hearing your valuable feedback.						

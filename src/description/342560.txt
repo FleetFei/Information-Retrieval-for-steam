@@ -1,0 +1,7 @@
+
+							About This Game
+							Design steampunk pixel airships out of functional modules and conquer the skies!
+
+In the game, ships are viewed side-on, and their modules are operated by individual crew members. During combat, players give high-level commands to a small fleet, positioning their ships, ramming and boarding others. Ships and terrain are fully destructible: they can catch fire, explode, break apart, and fall. Players can also compete against one another in Internet and LAN matches.
+
+The ships are highly detailed, teeming with sailors moving around at their individual tasks, like an ant farm or a cut-away drawing. The player's choices in ship layout are crucial, and an important part of the game is exploring the design space of different airships and their matching tactics.						

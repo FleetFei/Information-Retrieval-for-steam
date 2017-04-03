@@ -1,0 +1,7 @@
+
+							About This Game
+							Freebie is a casual game where you launch a ball against a paddle  and hit a green surface. Be careful not to hit the red surfaces or you'll lose a life!
+
+Two Game Modes:
+-Normal mode
+-Epilepsy mode (This mode is unsuitable for those prone to epileptic seizures.)						

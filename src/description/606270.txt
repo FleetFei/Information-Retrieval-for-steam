@@ -1,0 +1,5 @@
+
+							About This Game
+							This game is for the HTC Vive and allows you to play chess in virtual reality, either against the computer AI, against a friend on the same computer (using desktop screen and mouse), or against someone online. There are 3 AI settings to choose from and the chess board measures 1.5m x 1.5m.
+
+To play the game, just place your controller on the piece you wish to move and then pull the trigger whilst lifting the piece up. Then place it over a valid square and let go of the trigger, when that square has turned green. If playing against a friend on the same computer, then they will need to use the desktop screen and mouse. They can then play by first clicking on the desired piece and then clicking on the valid square they wish to move to.						

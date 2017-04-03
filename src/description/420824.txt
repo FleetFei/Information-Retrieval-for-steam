@@ -1,0 +1,6 @@
+
+							About This Content
+							The FaceRig support for Intel® RealSense™ DLC enables you to add this sensor to the FaceRig multiple sensors update. 
+You can combine the Intel® RealSense™ Camera (for hands, cheeks and tongue) with another regular camera (for face tracking).
+
+ The FaceRig support for Intel® RealSense™ DLC only works if you have the  Intel® RealSense™ Camera.						

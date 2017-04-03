@@ -1,0 +1,9 @@
+
+							About This Game
+							Ever wanted to be a hacker? Hack your way into the heart of a mysterious organization to uncover their secrets. Hack RUN® is a game which uses 'old school' command prompts (like DOS or UNIX) that simulate a real operating system. Learn the commands of each system to help you navigate through your adventure. 
+
+As you hack into their systems, you will learn about the organization and the people who work there. Read files and emails to find clues and riddles which will give you access to more accounts. Data found on their systems will help you learn about the motives of the organization, and how dark their plans can get. You may also discover dirty little secrets about the employees as well. 
+
+Hacking into new accounts or discovering key information will increase your skill level. As you achieve your goals, you will move closer and closer to the final achievement; over 50 levels deep! 
+
+It's time for a Hack RUN!						

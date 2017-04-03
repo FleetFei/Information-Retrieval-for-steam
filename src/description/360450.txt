@@ -1,0 +1,11 @@
+
+							About This Game
+							Kiai Resonance is a 2D versus fighting game for Windows.
+
+You take part in multiplayer samurai combats where one hit off-guard is fatal, and several challenges to perfect your skills. The player can change his katana position at any time to adjust to his opponent's, creating a mind game where you have to anticipate his next attack.
+
+The graphics are attempting to restore the simple aesthetics of traditional Japanese prints by taking some pictorial elements of its great masters, while imbuing it with violence that characterized the confrontations.
+
+Among the available game modes are included the classic one vs. one, either alone against the AI, two on the same screen, or online, as well as various mini games to test our samurai skills.
+
+The game supports current gamepads, and online play with ranking system.						

@@ -1,0 +1,3 @@
+
+							About This Game
+							Tower of Archeos is a mix between a roguelike and a puzzlegame. Group monsters of same type to kill as many as possible in one stroke. Rules Attack group of monsters with the same type. Monsters will retaliate but group size dont affect final damage, so try to destroy large groups first. When they die monsters will drop some gold. You need this gold to level up your character. You need a key to open doors and chest Opening a door will refill the level with monsters and recharge your items. Blocked door can be unblocked by killing monsters next to it Reach the 10th floor to fight Archeos						

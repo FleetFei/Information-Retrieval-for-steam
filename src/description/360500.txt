@@ -1,0 +1,3 @@
+
+							About This Game
+							Snake Cubed is a 3d version of the classic snake game. The game is a single-player 3D puzzle game for Windows, with Mac and Linux versions coming soon. It’s a twist on the classic game Snake, played on 3D environments, allowing you to go “over the edge!” as you explore all sides of the map while avoiding your ever growing tail. The gameplay has been updated with traps, enemies, power-ups, jumps, achievements, and all around awesomeness.						

@@ -1,0 +1,3 @@
+
+							About This Game
+							Quatros Origins is a block puzzle game that tries to reconnect with the good old days where classic arcade games were easy to play, but hard to master!The objective of the game, is to manipulate tetromino- and pentomino blocks, and placing them strategically to make at least one full horizontal line. At first sight it looks like a 2D game, but with each block you place, the platform will turn ninety degrees, giving you four playing fields. But every piece will affect every side!Features and modes Normal mode Hardcode mode Raid mode Fixate mode Local Multiplayer, up to four players Leaderboard and achievements (S)NES controller, keyboard and XBox controller support. Keyboard mapping Delay and repeat options						

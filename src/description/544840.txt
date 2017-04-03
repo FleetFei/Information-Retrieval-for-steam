@@ -1,0 +1,9 @@
+
+							About This Game
+							Lead your civilization of Orc Children, stranded on a planet.
+Build infrastructure, explore continents, and instruct your peers.
+
+Children of Orc mixes the point-and-click adventure game with real-time-strategy.
+You control one single Orc and will have to instruct your tribe on how to explore and exploit your habitat.
+
+Children of Orc requires an AVX capable processor (2011 or later.)						

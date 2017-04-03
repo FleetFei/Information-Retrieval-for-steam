@@ -1,0 +1,3 @@
+
+							About This Game
+							Ever wanted to see how the popular Hacker Evolution games were made?Here is your chance with this package which contains all 3 Hacker Evolution games and their source code: Hacker Evolution (game + source code) Hacker Evolution Untold  (game + source code) Hacker Evolution Duality  (game + source code)The 3 source code projects will compile and run from within Visual Studio 2010 and are written in simple to understand C/C++. Upon purchasing the source code you will also receive unlimited support via email directly from the lead developer.More information on each of the individual games:http://store.steampowered.com/app/70100/http://store.steampowered.com/app/70110/http://store.steampowered.com/app/70120/						

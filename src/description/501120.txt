@@ -1,0 +1,9 @@
+
+							About This Game
+							Clock Simulator is a minimalistic rhythm game. It puts the player in the role of the clock itself to explore the concept of time in a whole new way and offer challenge, relaxation, or plain and simple fun. All that a clock needs to do is to advance precisely once every second. Second, after second, after second, after second… Sounds simple enough? But could YOU take over and do it? Calm down. Relax. Focus on your inner rhythm. Click once a second. Every second. You are the clock. 
+
+Clock Simulator offers:
+- A unique concept of a clock-based rhythm game: you are the clock
+- Controls so simple you could play with your eyes closed
+- A variety of play modes and themes ranging from meditative to arcade
+- Option to unlock modes and themes you enjoy to play them at your own leisure						

@@ -1,0 +1,13 @@
+
+							About This Game
+							Neon Shadow is a fast paced Cyber Punk FPS inspired by classic shooters. Suit up and grab your shotgun. Your mission: Save humanity from the dark mechanoids who have taken control of your space station and soon the rest of the galaxy!
+Everything in the Steam version has been improved from the controls to the graphics, we would like to think of it as Neon Shadow 2.0.  Please shout if there are additional features you would like to see! 
+Planned additions so far are; split-screen up to 4,  chat functions, player names (over head) and Tobii support.
+
+Features:
+• Multiplayer.
+• Old school first person shooter game-play.
+• Single player campaign.
+• Online multiplayer death-match mode
+• LAN multiplayer death-match.
+• Cyber Punk soundtrack from Abducted by Sharks.						

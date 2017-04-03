@@ -1,0 +1,16 @@
+
+							About This Game
+							Alert! Alert! -- Captain, Moonbase Six is being attacked again. Get outside and kill as many as you can before time runs out.
+
+8-Bit Arena is a fast paced gallery shooter where you try to get the highest score in the given time limit. 
+
+
+Controls:
+
+Left mouse button - Shoot/Hold to Accept
+W,S - Move Forwards and Backwards
+A,D - Strafe Left and Right
+ESC - Exit Game
+
+
+Music created by Pascal Tatipata						

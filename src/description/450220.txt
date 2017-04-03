@@ -1,0 +1,17 @@
+
+							About This Game
+							Overload is a new six-degree-of-freedom shooter from the creators of Descent, currently under development.  This Playable Teaser is an alpha-level demo of the game.  Originally released during our Kickstarter campaign in March 2016, Version 2.0 is a complete overhaul and shows the game as it stands in March 2017.
+
+Overload is an intense combat game that takes place in a full-3D world.  The full game will feature:
+
+- Single-player story campaign with 15+ FULL-SIZE atmospheric levels
+- Upgradeable player ship and 12+ weapons with multiple upgrade options
+- More than a dozen unique robots with multiple variants, and 3 massive bosses
+- Story by the writer of FREESPACE 2, plus pulse-pounding soundtrack
+- Includes Multiplayer Expansion (6-8 months after release)
+- Greatly expanded Challenge Mode with lots of levels and online leaderboards
+- Easy-to-use custom Level Editor (post-release) so you can build and share levels
+
+This demo contains a training level, a sample single-player "destroy the reactor" level, and two Challenge Mode levels that let you test your skills against a horde of enemies.
+
+Overload will be available via Steam Early Access on March 13, 2017.  If you like the demo, check out the full version!						

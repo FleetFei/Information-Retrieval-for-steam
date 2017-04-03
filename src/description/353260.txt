@@ -1,0 +1,19 @@
+
+							About This Game
+							They are slow and dumb, and they sure need you!
+
+Snails is a 2D platformer/puzzle game where the main objective is to help the snails reach the level exit. 
+
+There are 4 different game modes: The Escort, in which the player needs to take the snails to the exit. The Exterminator, in which the player has to kill all the snails. The Snail King, in which there’s a special snail, The King, that the player has to take to the exit and must be kept alive. Finally, Time Attack, in which the player has to take the snails to the exit within the time limit.
+
+There are multiple ways to finish the levels and some ways are better than others. The player is awarded with 3 types of medals depending on the score : Gold, Silver and Bronze. The score depends on the time taken, the number of snails escorted and the coins collected.
+
+Main features
+    84 Levels
+    4 Themes
+    Achievements
+    Replayability, the same level plays in different ways
+    Supported languages: English, French, Italian, German, Spanish and Portuguese 
+    Hours of gameplay
+
+Get ready to be challenged, get ready for Snails!						

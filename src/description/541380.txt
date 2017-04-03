@@ -1,0 +1,10 @@
+
+							About This Game
+							PhysDrive is a great physic simulated racing game with a giant map! Go through a big loops, falling blocks, destructible walls, fans, rails, stairs, spikes, traps and more!
+
+
+Features 
+• Really giant map 
+• Checkpoint system 
+• Physical interaction with the map 
+• Fun mode						

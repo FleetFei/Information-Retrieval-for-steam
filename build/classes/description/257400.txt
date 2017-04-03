@@ -1,0 +1,3 @@
+
+							About This Software
+							Fuse is a standalone 3D character creator that enables you to make unique characters to use in your game. Fuse comes with 70+ body parts, 150+ clothing meshes, 42 dynamic texturing substances, Unlimited free Auto-Rigs and Animations through the Mixamo service (activated Adobe ID required). *What is an Auto-Rig?The Auto-Rigger is Mixamo's easy online way of getting your 3D character ready to animate. Normally, rigging a character takes a 3D professional days, but one Auto-Rig on Mixamo.com takes just minutes.						

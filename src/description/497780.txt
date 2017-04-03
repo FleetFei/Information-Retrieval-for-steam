@@ -1,0 +1,3 @@
+
+							About This Game
+							Recursed is a 2D puzzle-platform game where the structure of the world can be twisted. Stack up boxes and use keys to unlock doors to get the crystal at the end of each level. Jump into chests to enter other rooms, or pick up the chests and move the rooms around. Duplicate, destroy or alter the structure of the level to solve the puzzles.There's no way to die, no enemies to fight and no holes to fall in or spikes to hit. The only tool you need is logic.FeaturesOver 60 levels with hundreds of rooms.Hidden bonus puzzles.An extensive, atmospheric soundtrack.Large amounts of acid.Several sound effects.Graphics.						

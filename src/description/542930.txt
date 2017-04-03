@@ -1,0 +1,7 @@
+
+							About This Game
+							Painted Memories is an Action/Adventure game that you journey through using various equipment in your arsenal, such as a crossbow or a torch. You will encounter different creatures, bosses, puzzles and more! Most importantly, nothing will be holding your hand to guide you here, you have to discover where to go and what to do all by yourself.
+
+Whilst Painted Memories is an Action/Adventure game, it plays like an ARPG. Alongside the nice environments you'll discover a compelling story with some basic character development where you learn new skills as you progress through the game
+
+The game is developed by a single person, using Unreal Engine 4						

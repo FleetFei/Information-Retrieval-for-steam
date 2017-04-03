@@ -1,0 +1,15 @@
+
+							About This Game
+							You were on the way to a recycling process when fortunately for you - and unfortunately for the environment - you accidentally ran off. 
+
+Now your goal is to escape from the facility, which is an extremely difficult task due to the fact that you are a battery without legs. Equipped with a limited number of electric beams, you can connect to walls, move or destroy objects, turn switches, and charge generators. 
+You also have the ability to jump or push off the walls - the rest is up to physics and gravity.
+
+Key features:
+
+- puzzle platformer with a lot of explosions
+- over 60 levels divided into 4 industrial-themed zones
+- boss stages
+- unlockable 12-bit levels
+- unlockable batteries
+- unlimited lives !						

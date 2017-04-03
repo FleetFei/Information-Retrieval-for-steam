@@ -1,0 +1,9 @@
+
+							About This Game
+							Gran Vitreous is a PC shmup that combines classic arena shooter gameplay with the mechanics of a loot driven action RPG. Upgrade your ships equipment and level up as you battle through a galaxy filled with randomly generated encounters.
+
+Fight your way through a randomly generated galaxy as it unfolds in front of you. Each zone you encounter is unique; asteroid fields, gravity wells, large motherships, and massive army clusters are just some of the zone types you will find. In addition each zone is randomly given attributes that change the encounter, you could be fighting against larger tougher enemies in one zone and in another be battling in a tiny arena with slow firing enemies and your ships weapons are overcharged.
+
+Enemies you destroy drop items and credits that you can use to upgrade your hull, shields, utility, main weapons, secondary weapons, and super weapons. Every piece of equipment is a unique piece of loot with randomly assigned stats and attributes. Item attributes are those you've come to expect from the loot driven subgenre  (Critical hit chance, Increased item drop rate,  Increased damage percent).
+
+You will also gain XP from enemies you destroy to level up and gain skill points as well as allowing you to use higher level items. Use your skill points to enhance your ship in the way you see fit whether its to strengthen your shields increase your firerate or increase the drop quality of your items. Forge the ultimate weapon of space destruction to fight your way through the toughest enemies and bosses towards the edge of charted space.						

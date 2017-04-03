@@ -1,0 +1,6 @@
+
+							About This Game
+							Plastic PlayGround is a fast paced, team based, LAN multiplayer first-person shooter. In PPG you play as everyones favorite toy only this time you get to run, jump, jetpack, grapple, and fly.  The goal is to capture as many control points as you can while eliminating and evading hostile toys from the enemy team.
+
+Note from the developer:
+This project was taken from concept to completion over the course of five months as part of Full Sail’s Game Development program. What started as a final project turned into a passion project and so much more. We hope you enjoy playing it as much as we have making it.  We hope to hear your feedback and will try to answer everyone back.   -Ryan						

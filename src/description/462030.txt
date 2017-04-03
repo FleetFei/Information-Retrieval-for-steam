@@ -1,0 +1,9 @@
+
+							About This Game
+							BitRay is a simple puzzle game in which your task is to destroy all the red cubes, and do so all the white appeared on the platform. 
+
+Features: 
+- Minimalistic graphics, TimeKiller. 
+- More than 50 different levels. 
+- Many cubes and spheres with their own unique abilities 
+- 2 Soundtracks						

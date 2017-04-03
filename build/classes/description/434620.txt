@@ -1,0 +1,15 @@
+
+							About This Game
+							Pythagoria is a brain-teasing number puzzle game.
+
+The puzzle is simple to explain: find the missing value, which is denoted by a question mark highlighted in color. The only mathematics you need to know to get started is that the area of a rectangle is the length multiplied by the width. Only basic math knowledge is required to understand and solve the puzzles.
+
+Here’s what makes the puzzle hard: you are not allowed to use fractions in the solutions. All area puzzles can be solved using only whole numbers.
+
+Pythagoria is fun, brain-teasing puzzle game made for all ages. Solve the area puzzles from easier ones to harder ones, and remember that some of problems need kind of inspiration to solve. 
+
+Features:
+- 60 Unique Puzzles
+- 5 Steam Achievements and Steam Trading Cards
+- Freehand drawing on the puzzles
+- Calm BGM Music						

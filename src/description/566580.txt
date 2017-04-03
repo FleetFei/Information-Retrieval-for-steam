@@ -1,0 +1,5 @@
+
+							About This Game
+							If you are a fan of jigsaw puzzles, then this game is for you. There are a number of images that you can choose from and there is also the option of loading in your own. There are 3 different puzzle sizes, of which increase in difficulty, the larger they are. Once the puzzle has been generated, you can then sit on the floor and start to reassemble it. While you are doing the puzzle, you can choose to listen to one of the internet radio stations available in the selection.
+
+To add your own images, you need to locate the 'Custom' folder that can be found in the game's root directory. You can add a maximum of 14 images to this folder, of which should be as high a resolution as you can find (preferably at least 4k width), in order to get the best results. The images also need to be JPG files and not contain any large areas of the same colour, to prevent identical jigsaw pieces when choosing the largest sized puzzle. The jigsaw puzzles are a 2:1 size ratio, so if the images are not this ratio then they will be cropped.						

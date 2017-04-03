@@ -1,0 +1,17 @@
+
+							About This Game
+							Miasmata is a first-person survival/adventure game, developed from the ground-up by brothers Joe and Bob Johnson. You play as Robert Hughes, a plague-stricken scientist on a journey to discover a cure. Your adventure begins on the shores of a remote and mysterious island. Long ago, the island was inhabited by a group of indigenous people, whose extant monuments still decorate the island landscape. The island is now home to a scientific research outpost and it is your hope to reunite with your colleagues working there. Unfortunately, you'll soon discover that something has gone terribly wrong.
+
+
+During your adventure, you will encounter a mysterious and deadly creature. This creature can stalk you for miles, lurking behind grasses and vegetative cover. By treading carefully and with stealth, you may be able to elude the creature. If you are careless, however, you will be forced to confront the creature head-on.
+
+
+Key Features
+
+
+Experience: An engine built from the ground up, featuring voxel-based volumetric clouds, advanced water reflection and refraction, volumetric light-shafts and atmospheric scattering simulations.
+Explore: A lush and incredibly detailed natural world. The island landscape is covered by forests with lush canopies. The terrain surfaces are blanketed by tufts of moss and grass. The forest floors have thick undergrowth and are littered with fallen leaves, rotting logs, stumps and sticks.
+Discover: Dozens of camps, outposts and ruins. Find maps, notes and clues that lead you on your adventure.
+Survive: A deadly world. Discover plants and fungi and synthesize them into life-saving medicines. Find water and shelter to stave off fever, dehydration and exhaustion. Use stealth and cunning to escape the deadly creature.
+Create: A map of the island using an innovative cartography mechanic. Use a true-to-life triangulation system to pinpoint your location on the island and construct a map of the its boundaries, contours and landmarks.
+						

@@ -1,0 +1,32 @@
+
+							About This Game
+							A long time ago ... ruled by powerful and evil forces that govern darkness,
+a continent called "Orbis Terrarum" existed.
+
+
+Tkl Online is for fans of:
+
+- Online games
+- MMORPGs
+Customizable characters
+More depth than the usual RPG Maker system
+
+Contents:
+
+Tkl Online (TO) is an MMO-style single player RPG created with RPG Maker VX.
+
+You are a human in the world of Orbis Terrarum, in which monsters and magic are real.
+
+- Slaughter monsters with an arsenal of weapons.
+- Down monsters in one swoop with powerful magic spells.
+- Develops skills to capture monsters.
+- Buy and sell goods and support other adventurers.
+
+Orbis Terrarum is a free-roaming open world where you have the freedom to become anything you want.
+
+Features:
+
+- Original UI
+- Mouse gameplay
+
+For more information check our homepage: http://www.kuronekosoft.com/to/						

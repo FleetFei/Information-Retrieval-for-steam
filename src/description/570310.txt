@@ -1,0 +1,7 @@
+
+							About This Content
+							This DLC for Aerofly FS 2 features the area of New York with detailed city buildings and over 10 airports, like KJFK John F. Kennedy International and KGLA La Guardia. Additionally this DLC features high resolution aerial images of New York and the surrounding area with up to 1 meter resolution.
+
+The system requirements for this DLC are slightly higher compared to the main program. For a smooth simulation we recommend to use a 3D graphic card with at least 2 GB of dedicated RAM and comparable in performance to a NVIDIA GeForce 760 GTX or newer.
+
+If you want to experience this DLC in VR we highly recommend to use a NVIDIA GeForce 1060 or faster for smooth performance.						

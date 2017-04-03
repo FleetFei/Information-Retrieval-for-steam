@@ -1,0 +1,15 @@
+
+							About This Game
+							“Hunters of the Dead” is a survival/roguelike tower defense game with some micro management elements. You have to rescue your fellow Hunters and with their help locate and destroy Dracula. Dracula has raised an army of undead and has taken the whole city. You must defend your base while in the meantime you have to explore the buildings around and salvage what you can. However, better stay close to your base because as you get further and further you will be finding harder and more frequent battles.
+
+You can send your hunters to get healed in the hospitals or trained in the graveyards, but you won’t be able to use them in the battle. That means that you will have fewer units to defend your base in case a battle occurs! So you should manage your Hunters with caution. In case your base gets destroyed, you shouldn’t be discouraged. You will be able to use what resources you have acquired to make upgrades and restart stronger.
+Happy Hunting!
+
+Features:
+•	Permadeath
+•	Randomly generated city, quests, weapons, hunters…. Pretty much everything
+•	Dozens of different quests
+•	16 upgrades
+•	2 unlockable difficulty levels
+•	Battle and map micromanagement of your Hunters
+•	5 hunter classes						

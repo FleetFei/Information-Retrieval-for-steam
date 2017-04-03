@@ -1,0 +1,9 @@
+
+							About This Software
+							Kodon is a 3D sculpting program for roomscale VR. It allows you to freely shape objects in 1:1 roomscale. You can map up physical objects in your room to be viewed in VR, allowing you to use physical desks and tools for stability and precision in the 3D sculpting process. The idea is to provide functionality that can partly or wholly replace the sculpting process in 
+
+Note that Kodon is
+
+1) EARLY ACCESS - meaning "under development" or alpha build, where you should expect crashes, lags and occasional problems on new versions.
+
+2) A program which requires quite a bit from your PC. Standard "VR Ready" specs are not necessarily enough. Please refer to the minimum system requirements.						

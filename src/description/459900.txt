@@ -1,0 +1,14 @@
+
+							About This Game
+							Sokos is a single player 2D platform adventure game where a cute alien uses wormholes to find its lost child. 
+Fully controlled by your mouse.
+
+The story goes more or less like this: 
+"Soko is the only parent of a child called Toko. One night Soko (I know this alien has the same name as the whole species, not THAT original :D) wakes up to some kind of "earthquake" and when he gets up everything's gone, including the child. The only hint is a trail of orange goo which Soko will follow. The truth that Soko unveils through the game is that an alien race called "the Phorgs" have kidnapped everyone in the planet in order to obtain the energy from the bodies of the Sokos (from which they're actually unaware themselves... that's better explained in the pages of a book that you will find in some of the levels of the game)." 
+
+- Finally a platform game that you will love playing with a touchscreen or a mouse. 
+- Beautiful game design made from scratch by a one-man-studio. 
+- A very personal soundtrack contains music composed and played with my own collection of musical instruments. 
+- Increasing difficulty will please the most demanding gamers. 
+- Powered by multiple OpenSource tools: LibGDX, Inkscape, Tiled, Gimp, Audacity. 
+- Find the hidden artwork in the story pages spread among the 40 levels of the game.						

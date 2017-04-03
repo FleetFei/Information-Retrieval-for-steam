@@ -1,0 +1,19 @@
+
+							About This Game
+							Steno Arcade is a suite of four arcade games designed to teach and drill steno and keyboarding fundamentals in an immersive, addictive, responsive, and interactive way. Steno Arcade is 100% free and open source and works with any steno machine or keyboard.
+
+The Early Access build of Steno Arcade includes one of the four games in the suite, Steno Hero! Imagine your favorite rhythm games, but instead of pressing buttons that vaguely emulate the original instruments, you're hitting steno chords or keyboard keys to precisely and accurately produce the lyrics to your favorite music! It's like singing karaoke with your fingers! Steno Hero currently includes seven songs, with more to be added over time:
+
+“Sunday Smiled” by Hungry Lucy
+“The Standing Ones” by Hungry Lucy
+“I Think I Started a Trend” by Brad Sucks
+“I’m Your Moon” by Jonathan Coulton
+“Mandelbrot Set” by Jonathan Coulton
+“That Spells DNA” by Jonathan Coulton
+“I Feel Fantastic” by Jonathan Coulton
+
+While Steno Arcade is designed to be played with a steno machine, it can also be looked at as a traditional typing game that can be played with any standard keyboard. You only need an NKRO (N-key rollover) keyboard if you intend to learn stenography and want to play the game using steno. For example, the slower, easier songs in Steno Hero are perfectly playable using a standard keyboard, but when you get to the faster, harder songs you may find yourself having trouble keeping up with a standard keyboard and will need to use steno if you want to complete the songs with a high level of accuracy and precision.
+
+Steno Arcade is being developed on top of the Godot open source game engine, and the source will be released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license upon completion.
+
+Steno Arcade is brought to you by The Open Steno Project and For All To Play.						

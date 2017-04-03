@@ -1,0 +1,11 @@
+
+							About This Game
+							A game about permanent growth. Once you grow, you cannot shrink.
+
+Hitting something means death.
+
+There are blue colored zones, (grow zones) each letting you grow a fixed number of times (displayed inside the zone) by a certain percentage.
+
+And then there are green colored zones, (gates) which will only let you through if you are of a certain size. (displayed inside the gate)
+
+So growing up has its advantages and disadvantages.						

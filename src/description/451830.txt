@@ -1,0 +1,12 @@
+
+							About This Game
+							If you think that anywhere you can find a lot of different outputs, difficult and easy, it means that you have not played "One way to exit". In this game you will have only one way out, and no chance to stop. 
+
+
+Move forward or backward in search of an exit, but remember, if you started moving you can not stop, and in any case, do not touch the walls, otherwise you have to start all over again. 
+
+Features: 
+- More than 25 levels initially. 
+- Continuous addition of new levels. 
+- Different levels. 
+- The unique design of maps.						

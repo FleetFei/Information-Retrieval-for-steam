@@ -1,0 +1,13 @@
+
+							About This Game
+							Monsterland is an MS-DOS-style textmode shooter with a story-driven campaign which is about 3 hours long. As you blast your way through the levels, finding keycards and unlocking doors, you are faced with increasingly frantic battles with a variety of Monsters. 
+
+While all Monsters are dumb, they're dumb in different ways. Some of them can dodge rockets. Others snipe you from distance, try to blend with the scenery, or launch energy blasts in your general area, hoping to get you with splash damage.
+
+Each weapon is useful in a different situation. 
+
+Power shotgun blasts through 2-6 Monsters at once, but has poor range. Range shotgun has great reach, but doesn't go through multiples. Chaingun pushes Monsters back. A well placed rocket destroys clustered groups. Flamethrower sweep covers a large area and sets Monsters on fire. NRG-8000 can wipe out dozens of Monsters, but will also melt your face off. Minigun is incredibly powerful but eats ammo very fast. Scrap gun has infinite ammo. It is weak, but required for making way through weak walls and across Water. Plasma gun ... well, plasma gun has no drawbacks.
+
+You carry multiple weapons and can switch instantly between them, using number keys. 
+
+Game can be saved and loaded at any time. Because sometimes, you just eat a rocket to the face.						

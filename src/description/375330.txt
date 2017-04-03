@@ -1,0 +1,13 @@
+
+							About This Game
+							Butsbal is a fast paced multiplayer shooter game inspired by pong. Play the four different game modes with or against friends in the local multiplayer or play against strangers in the online multiplayer. The clean and minimalist design puts the focus on the gameplay. 
+
+Players will carry up to 5 bullets and will receive a new bullet every 3 seconds or kill. Bullets fired by the players will travel at a constant velocity and will bounce against the borders. Which makes it a hectic but fun shooter. You always have to watch your back!
+
+Features
+
+- 2 to 8 players local multiplayer 
+- Online multiplayer up to 8 players 
+- 4 game modes: DM, TDM, CTF and Last Man Standing 
+- 8 different levels 
+- Xbox 360 controller supported						

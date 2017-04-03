@@ -1,0 +1,21 @@
+
+							About This Game
+							Summary: Graveyard Smash is a tongue in cheek, small, retro-style, skill-based action game in which you play the protagonist Manuel Rodriguez, the main groundskeeper of a local cemetery. Each night Manuel will run around on a randomly generated map using his shovel to smash the ever growing number of Undead back into the grave and prohibit the Undead from attending the mash.
+
+The Story: Manuel, an ordinary graveyard worker, has found himself under the threat of the rising dead. He must use his elite groundskeeper training along with his trusty shovel, Maria, to put the dead back in the ground and make sure they stay that way.
+
+Game Play Highlights:
+• SNES-Era action game (Whack-a-Undead)
+• D-Pad + 2 Button like controls (Arrows/WASD + X and Z)
+• Randomly generated Maps
+• Randomized enemy Spawns
+• SNES-Era on pick-up Power-Ups
+• A story mode with cut scenes
+• An endless mode for an endurance challenge
+• Mouse Based UI
+• Tower Defense like Health system vs. Player Health Bar
+
+Other Important Information:
+• Graveyard Smash was successfully KickStarted last November
+• Graveyard Smash is ready for immediate distribution.
+• Graveyard Smash was developed in Unity3d and is available on multiple platforms.						

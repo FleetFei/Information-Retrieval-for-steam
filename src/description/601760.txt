@@ -1,0 +1,18 @@
+
+							About This Game
+							You are welcome to enjoy an incredible world of sonic virtual reality. Look at visualization of your favorite songs and melodies with 6 impressive visualizers:
+Impressive Sphere
+Tune Circle 
+Radio City
+Beat Detection
+Rainbow
+Sidescroller 
+
+Controls: 
+Start - Select Scene 
+Key "L" - Select MP3 or WAV 
+Escape - Quit
+← - Previous Scene
+→ - Next Scene
+↑ - Zoom + 
+↓ - Zoom -						

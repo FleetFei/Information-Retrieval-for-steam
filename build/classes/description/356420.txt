@@ -1,0 +1,13 @@
+
+							About This Game
+							Interloper is an online multiplayer real-time strategy game with matches that take only 5 minutes. Instead of destroying your opponent, you win by claiming domain. By predicting your opponent's movements, you corner them to claim the entire map. 
+Interloper distills RTS mechanics to their essence, bringing a focused, stripped down, fast-paced, and accessible strategy experience.
+
+
+Features:
+
+•	Fast-paced strategy that’s easy to learn, hard to master.
+•	Short, intense matches taking no longer than 5 minutes.
+•	Compete in online multiplayer, or against AI of various difficulties.
+•	Extensive singleplayer content revealing the depth of the game.
+•	View replays of other player’s matches and upload your own.						

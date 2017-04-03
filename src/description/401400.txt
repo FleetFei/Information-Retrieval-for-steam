@@ -1,0 +1,3 @@
+
+							About This Game
+							Synonymy is a non-profit, educational word game narrated by Richard Dawkins that challenges players to find a path between random words through their network of synonyms. By taking the synonym of a word, and then a synonym of that synonym, and so on, you can ultimately arrive at any other word in the English language. This lite version is free but has limited difficulty and multiplayer functionality. It is otherwise identical to the full version except for a locally served ad prompting you to upgrade to the full version. Thank you for trying the game and for your support!						

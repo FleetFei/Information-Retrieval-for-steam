@@ -1,0 +1,11 @@
+
+							About This Content
+							Battlemagic adds four new spells – a new spell for each of the playable races as well as one new spell that will be available for all races. Defenders of Ardania (DoA) is a next-generation tower defense game set in the rich fantasy world of Majesty with a twist. Besides the addictive core mechanics of placing towers to stop advancing enemy units, DoA also allows players to take on the role of the attackers seeking to conquer the enemy base.
+Although Defenders of Ardania includes a single-player portion, the focus of the game is multiplayer, where two to four players can take each other on or compete against AI opponents via Internet or LAN. The multiplayer component offers three different game modes where players can assume either the defensive or offensive sides – or both!
+Key features:
+
+Extort (for all race): Recharges the resource pool with 300 resource, but decreases the resource recharge rate to 0 for 1 minute.
+Trap (Nature):  Strong roots and stalks surface and trap the units standing in the area, rendering them motionless for a short time.
+Arise (Underworld): Creates zombie units from enemy corpses. These reanimated units ‘lives’ for only 30 seconds.
+Frozen Shield (Human): Decreases the damage that all friendly units suffer from the enemy while the spell is active.
+						

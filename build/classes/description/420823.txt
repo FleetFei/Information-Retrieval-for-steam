@@ -1,0 +1,6 @@
+
+							About This Content
+							The Warriors DLC contains two original FaceRig avatars: Dra`Gosh and  Mittaka - The Swordart Mistress. They are lean, mean, fighting machines. 
+For these avatars, emphasis was put on detail to be able to bring an orc and an amazon to life in a realistic manner.
+In order to be accepted by the real time renders, like the one used by 3D games and also by Facerig, we had to optimize the geometry. 
+The optimization process was not done automatically in order to better maintain shape fidelity, thus making possible a later stage of detail baking, which would have as information source the initial model.						

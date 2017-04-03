@@ -1,0 +1,5 @@
+
+							About This Game
+							LightWalk is a 2D puzzle platformer where every surface is a Laser. In this world, Lasers stop each other where they intersect, so you can change the entire configuration of a level by placing a block. There are a variety of laser types that can help or hinder you in getting to the goal of each level, and there are different gadgets that let you interact with Lasers in different ways. The goal of each puzzle level is to get the player character to the goal block. 
+
+The level editor for LightWalk is included!						

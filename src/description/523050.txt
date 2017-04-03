@@ -1,0 +1,17 @@
+
+							About This Software
+							ArtStage is VR creative application.
+- 3D Paint
+You can paint color on any 3D model textures you have.
+Open any your 3D model. and open and save texture image file.
+- Voxel sculpting
+You can create anything what you want to make.
+It feels like real clay modeling!
+Save, load, and export to 3D model file. (.obj) 
+You can use "auto UV unwrap" for paint to exported sculpt work.
+
+・Support type of 3D model file
+.obj
+・Support type of texture image file
+.png
+・If you want to paint your 3D model, It must have UV mapping.						
