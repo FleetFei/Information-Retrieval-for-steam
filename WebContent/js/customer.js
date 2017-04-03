@@ -41,7 +41,7 @@ function DisplaySch(response) {
 	for(var i in myobj.data) {
 		var name = myobj.data[i].Rname;
 		var id = myobj.data[i].Rid;
-		var li = $("<li>" + name + "</li>");
+		var li = $("<li class=\"list-group-item\">" + name + "</li>");
 		$("#show_Sch_Rlt").append(li);
 	}
 	
