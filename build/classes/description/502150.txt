@@ -1,0 +1,3 @@
+
+							About This Game
+							Interstellar Logistics Inc. is a gravity based Sci-fi Action Puzzle game. Each level has multiple ways to reach the end point. Along with the goal of reaching the end point there are six tracking satellites in every level. To fully complete the levels you must hit all the satellites. The challenge comes from finding the path that the container must travel to hit all satellites and reach the end point. If the container is destroyed all progress is reset and you must try again.						

@@ -1,0 +1,40 @@
+
+							About This Content
+							Battles of Norghan Gold Version adds extra features to Battles of Norghan and lets you easily modify the game.
+
+* Easily modifiable text files so you can create your own modifications of the game: 
+
+* Modify the name lists of the mercenaries. There are three separated name lists which the game uses to pick a random name from for the mercenaries: Last names, female first names and male first names. There can be as many or as few names as you want in the lists. 
+* Modify just about everything related to the races and created units in Battles of Norghan: 
+Their skills, attributes, racial attributes (such as flying or not being able to wear heavy armours), stories, rival races etc. 
+* Modify equipment or their costs or add new equipment. 
+* Very quickly modify the map theme chances. (If you for example want to play on the dirt terrain more often and less often in the grass terrain.) 
+* Very quickly modify the unit placing distances. 
+* And more. 
+
+Lots of additional statistics: 
+
+* Clans' total wins % 
+* Clans' total salaries 
+* Top 45 unit of the battle 
+* Top 45 unit of the battle awards won 
+* Top 45 salaries 
+* Top 45 total battles fought 
+* Top 45 all-time star units 
+* Top 45 starpoints per battle 
+* Top 45 melee skills 
+* Top 45 ranged skills 
+* Top 45 dodgers 
+* Top 45 all-time killers 
+* Top 45 melee dual wielders 
+* Top 45 shield users 
+
+Other new features: 
+
+* The clan menu's Spy other clans and Spy next enemy buttons are now enabled and enable you to watch enemy clans in the same way you are watching your own clan to better prepare for a battle. Spying a clan for one round costs 60 gp. You can only spy one clan per round. 
+* Custom difficulty. Easily adjust the winning gold percentage for your clan and the artificial intelligence value modifier. 
+* You are able to quickly and easily decide whether you want to simulate or watch an artificial intelligence controlled clan vs. artificial intelligence controlled clan battle. You can also still just simulate all of those battles without any additional hassle if you want. 
+* New button in the battles which when clicked, will enable or disable showing the in-game distance from the mouse cursor to the active unit. This feature is especially useful in ranged battles. 
+* There's a hidden extra gold on-click cheat in the Gold Version. The gold cheat also enables you to spy any amount of clans on the same round. HINT: Gold bag. 
+
+Battles of Norghan Demo Version, Full Version and Gold Version saved games are cross-compatible.						

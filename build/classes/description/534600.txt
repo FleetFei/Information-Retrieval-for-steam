@@ -1,0 +1,7 @@
+
+							About This Series
+							This video series contains the sessions and panels presented at the Steam Dev Days conferences. Steam Dev Days is an occasionally-held conference for game developers, hardware vendors, and other members of the PC gaming and VR ecosystems.
+
+Steam is the best place in the world for customers to play games, and for developers to build communities. The potential upside for developers has never been bigger, and Steam Dev Days is about navigating that opportunity. The business decisions, the technical hurdles, and the future - including virtual reality.
+
+Steam has enabled game makers to be innovative, customer-focused and profitable, and we think openness and collaboration are driving that success. We believe that developers have just as much to learn from one another as they have to learn from Valve, and every developer who participates with the conference content makes it that much more valuable.						

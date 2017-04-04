@@ -1,0 +1,19 @@
+
+							About This Game
+							Pixel-Warfare is BACK with better quality and improved gameplay.
+One of the most played games for Web Player and Webgl, with additional features that were not possible for browsers.
+The game includes:
+Multiplayer with up to 30 players
+Map editor to create your own custom maps...just click and your map will be ready and full with players
+3 game modes: Deathmatch, Team Deathmatch and Zombies
+Full arsenal with weapons like snipers, shotguns, machineguns, granade launchers, pistols and more.
+
+Pixel-Warfare was created in 2014, and to this day continues to be updated with new features.
+
+Upcoming features:
+Map Editor: READY!
+Character Editor: IN PROGRESS...
+Weapons Editor: IN PROGRESS...
+Vehicles Editor: IN PROGRESS...
+
+We wish you... many many fun and successful shots.						

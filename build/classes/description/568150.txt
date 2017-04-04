@@ -1,0 +1,35 @@
+
+							About This Game
+							Technoball is a spin on an old classic! 
+
+Technoball allows players to place their own music within the game, which is then used to adapt the arena through a dynamic audio visualiser. The game will package with a small amount of music, but the aim is for players to have their own soundtrack and play to the music they love! 
+
+Your paddle's momentum has a direct effect on the ball. The faster you move, the faster the ball will get. Keep rallying to get the ball to insane speeds! 
+
+Designed for 1-4 players using local play, pick from one of five game modes and maps. 
+
+Get the ball past your opponent to score a point, first to 11 points wins in normal mode, first to 21 in Chaos! 
+
+----------------------------------------------------------------------------- 
+
+GAME MODES 
+
+- 1 vs AI : Vanilla Technoball against a variety of bot difficulties 
+- Normal mode : Technoball with periodic item spawns. Hit them with the ball to adapt game play! 
+- Chaos mode : Items spawn 10 times quicker, and have no despawn timer! 
+- Warp Mode : The walls aren't solid! Time bounces with the music to let the ball fly through and teleport to the other side. 
+- Moving obstacles : Audio visualiser notes move around the arena 
+
+----------------------------------------------------------------------------- 
+
+ITEMS 
+
+- Multiball : Instantly spawns 2 more balls! 
+- Speed Down : Halves the speed of the ball for a specific amount of time 
+- Speed Up : Doubles ball speed! 
+- Size up : Ball size increases 
+- Size down : The ball is tiny ;) 
+- Reversal : Rebounds the ball in the opposite direction 
+- Walls : Can only be collected by the main ball, builds a defensive wall for the last player that hit the ball 
+- Paddle reversal : Inverts enemy controls for 3 seconds 
+- Phase Ball : Ball can travel through obstacles and built walls						

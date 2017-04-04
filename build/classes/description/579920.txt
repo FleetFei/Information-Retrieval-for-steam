@@ -1,0 +1,3 @@
+
+							About This Software
+							Swatcher is a color palette creation tool with a variety of features to streamline, organize and automate the process for you. Swatcher allows you to:Use a variety of options and settings to quickly generate different color harmonies and shadesRapidly design and organize your project's color schemesCtrl+click any saved color to copy it's hex code to the clipboardQuickly convert between hex codes, rgb, hsv, and cmykSave and load your color project in an easily-editable JSON file						

@@ -1,0 +1,8 @@
+
+							About This Game
+							Roomscale Coaster is an intense, fast paced game designed to take full advantage of your playspace. Dodge, duck and collect to increase your high-score as your fly through the air on a sci-fi platform.Features:Fast paced dodge mechanics make for a great work out
+Activate slow motion mode to refine your senses
+Beautiful environment created in Unreal Engine 4
+Unique soundtrack that'll make you feel like a superhero
+Challenge yourself for a higher score with local high score
+Comfort mode for those who are prone to motion sickness						

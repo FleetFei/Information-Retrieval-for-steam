@@ -1,0 +1,9 @@
+
+							About This Game
+							Lazerbait is a free arcade strategy game set in virtual reality with one simple goal: capture all the planets to build more ships and destroy your enemies!
+
+The player is presented with a god-like perspective of a system of planets. Each planet that a player owns will produce ships over time. Using the motion controllers, the player can direct their fleet of ships from planet to planet in attempt to capture as many planets as possible. The more planets a player owns, the more ships the player can produce. Eventually players can build up fleets of many hundreds of ships that lead to awesome massive space battles.
+
+The player is challenged by up to 7 A.I. characters in free-for-all style who are also working hard to capture all the planets and eliminate their enemies. The game is highly configurable allowing players to choose the game speed, map size, ship limits, number of A.I. players, and A.I. difficulty. Maps are procedurally generated at random for each game played so no two games will ever be the same.
+
+Global stats and leaderboards are kept over time for the total number of ships destroyed and the total number of A.I. players defeated at each difficulty setting.						

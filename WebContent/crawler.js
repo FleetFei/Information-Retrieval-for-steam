@@ -29,7 +29,7 @@ function gIdlist(){
 // 			console.log("err: " + err);
 // 		});
 		var array=[];
-		for(var i=24000, j=0; i<rawarray.length; i++,j++){
+		for(var i=25000, j=0; i<rawarray.length; i++,j++){
 			array[j]=rawarray[i];
 		}
 		
@@ -89,6 +89,7 @@ function visitPage(raw_url,id,cb) {
   			var fWriteName = path.resolve(__dirname, "../src/description/"); 
   			fs.writeFile(fWriteName+id+".txt",content,function (err) {
 				if (err) throw err ;
+				console.log(content);
 				console.log("File Saved !"); //文件被保存
 			}); 
   		});
@@ -97,8 +98,7 @@ function visitPage(raw_url,id,cb) {
   			console.log(err);
   		});  
   	});
-  	
-  	cb();
+  
 }
 //write content to file
 function write(fWriteName,content){
@@ -108,12 +108,12 @@ function write(fWriteName,content){
 	}); 
 }
 
+/**
 //main 
+**/
+// var a="http://store.steampowered.com/app/";
 gIdlist();
-// console.log(array[1]);
-// for(var i in IdList) {
-//     console.log(IdList[i]);
-// }
+// visitPage(a,1000);
 
 	
 

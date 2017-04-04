@@ -1,0 +1,7 @@
+
+							About This Game
+							All the fun of the fair in the comfort of your own home!
+
+Funfair is a showcase of mini games built with the VRTK toolkit (SteamVR Unity Toolkit).
+
+Have a relaxing time in your local funfair, playing on the games or riding the attractions. Featuring as many cool aspects of the VRTK toolkit as possible to demonstrate what it's capable off.						

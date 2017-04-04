@@ -1,0 +1,30 @@
+
+							About This Software
+							Multiscreens is a early-access program that lets you have as many screens as you want in VR. Specifically, each program is its own screen and can be moved around as desired.
+
+Right now you can:
+
+- Change the target framerate of each window captured
+- Play multiple videos simultaneously (just make sure if you are in chrome to disable Hardware Acceleration in advanced settings) while playing a game
+- Turn on supersampling
+- Control everything with your mouse which leaves your keyboard and controller free for typical use (there is also a mouse sensitivity setting)
+- Move windows freely in a 3D space around you and make them bigger or smaller as desired
+- Capture right click menus and other context menus
+- Capture the mouse on the currently active window
+- No Headless Ghosts are required, this program works fine when you simply have a single physical monitor (or headless ghost) plugged in
+- Minimize (hide) windows as desired
+- Change focus between windows with a single click
+- Use a webcam that's displayed below you to see your keyboard while in VR
+- Multiscreens can technically capture every window, but some it can only capture while they are currently focused
+- There is a "virtual taskbar" that allows you to bring up programs you have opened by clicking on their icons below
+- You can change this Taskbar's position
+- Reset view
+
+Current limitations (in order of planned feature addition):
+
+- Screens can't be curved yet
+- You generally need to open windows before opening Multiscreens, it's difficult to start programs while in Multiscreens (I'm going to add a search bar to open any program you currently have installed and allow you to "pin" programs to your taskbar)
+- Can't capture the entire desktop
+- Vive controller support doesn't exist yet, everything is currently controlled with your mouse
+
+Enjoy, and let me know what you think! I'm happy to listen to feedback and will try and make this the best product for all of you as possible :)						

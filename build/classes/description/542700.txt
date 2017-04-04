@@ -1,0 +1,13 @@
+
+							About This Game
+							Power Overwhelming is a easy entry Top-Down dungeon shooting game.
+
+Game World
+There were two witches that grew up with each other in the magic land, failing to challenge the dread lord. The fire witch was held hostage in the magic castle while the ice witch was freed. Many years later, leading her magic apprentices, the ice witch attacked the dread lord city for saving her friend who had been held as hostage. Out of surprise, she found that the fire witch had been the minion of the dread lord. The magic land was not only controlled by two powers any more, the nature controller - botanical magicians, the most wealthiest- the golden witch, and the awake dark power from another world.
+
+You will play the botanical witch to find disappeared magicians and the other witches in the dungeon.
+
+WASD to move
+Left-Mouse to shoot
+Right-Mouse to spend energy to regain health.Kill skeleton magician can get energy.
+Shift to change attack type and move speed.						

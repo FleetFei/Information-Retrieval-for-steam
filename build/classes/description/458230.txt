@@ -1,0 +1,13 @@
+
+							About This Game
+							Infinite Shooter is a top down arcade shooting game, also known as a "Shmup", with the emphasis squarely on the action. With no story in the way of your fun, simply choose an opponent and take them down to earn powerful weapons, upgrades, ships, and power-ups! With an infinite number of stages to play and a continually scaling difficulty the action never ends! 
+
+Infinite Shooter is a slightly different take on this most classic of genres. With procedurally generated levels players are rewarded for quick thinking and good reactions more than pattern memorization. This allows for a greater appeal to casual fans of the genre while providing great reflex training for hardcore fans.  
+
+A few of the features are: 
+1. Procedurally Generated: No level is the same twice 
+2. Lotsa Customization: 13 ships and 15 weapons 
+3. 10 Challenging bosses to fight 
+4. 10 Powerups with combinable effects 
+5. Unlimited action 
+6. Default controls similar to standard FPS controls						

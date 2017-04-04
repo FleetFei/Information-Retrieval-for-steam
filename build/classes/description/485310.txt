@@ -1,0 +1,18 @@
+
+							About This Game
+							Take a role in a caroonish styled FPS multiplayer game. Choose among 5 characters and bunch of weapons and play Head Shot online with friends and strangers.
+
+Features:
+-5 classes (Assault, Sniper, Engineer, Medic, Machine Gunner);
+-Various types of weapons including  Assaults, Equipments, Machine Guns, Pistols, Rocket Launchers, Shotguns and Snipers;
+-Vehicles;
+-Different game modes (currently Death Match and Team Death Match)
+
+Planned features:
+-More weapons;
+-More game modes;
+-More items and various other content that will bring more fun into the game.
+-Open chest system and various other stuff...
+
+
+More features coming soon.						

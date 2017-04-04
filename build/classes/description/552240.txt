@@ -1,0 +1,5 @@
+
+							About This Game
+							Tangram is a Chinese intellectual game with a long history.It consists of seven board ,
+Player can use them to constitute a variety of characters, images, animals, bridges, housing, towers, etc.In Fancy Tangram we have prepared more then 40 levels,most of them are numbers and letters.
+At the beginning of the game please find the logo of a dog and stare it to go in the UI level.Try to put the board in to the white space on the floor,If the white space doesn't disappear ,please try again or try to put the board to the other place.						

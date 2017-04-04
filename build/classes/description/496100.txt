@@ -1,0 +1,3 @@
+
+							About This Content
+							3DMark Time SpyTime Spy is a DirectX 12 benchmark test for gaming PCs running Windows 10. With its pure DirectX 12 engine, built from the ground up to support new API features like asynchronous compute, explicit multi-adapter, and multi-threading, Time Spy is the ideal benchmark for testing the DirectX 12 performance of the latest graphics cards.						

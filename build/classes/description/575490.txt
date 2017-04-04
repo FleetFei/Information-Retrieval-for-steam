@@ -1,0 +1,30 @@
+
+							About This Game
+							Let's Draw is a drawing game for everyone especially children ... 
+
+Key Features 
+
+- Tools List : 
+1. Pencil 
+2. Brush 
+3. Paint 
+4. Paint Roller 
+5. Paint Can 
+6. Stamp 
+7. Eraser 
+8. Hand 
+
+- Bezier Path for Smooth Lines 
+- Zoom IN/OUT 
+- 14 Colors 
+- Trash with Confirm Dialog 
+- 2D Sprites Used 
+- 14 Sprites per Tool 
+- Scrollable Lists 
+- Scrollable shapes selector 
+- Drawing Shapes 
+- Draw saving between Shapes
+
+
+
+- Screenshot Print & Export will be added with updates						

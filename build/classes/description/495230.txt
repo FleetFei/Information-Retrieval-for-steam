@@ -1,0 +1,11 @@
+
+							About This Game
+							Hypnorain is a vertical bullet hell shooter.
+
+The player guides a character through handcrafted levels, shooting and dodging their way through an army of enemies and their mesmerizing bullet patterns.
+
+Each stage is divided into two parts - it starts with you being thrown into an area full of varied enemies and ends with an intense boss fight.
+
+Hypnorain is different from most other Shoot 'Em Up (also known as shmup) games with its careful level design. Unique enemy sequences and attack patterns will overlap with each other to challenge the player's reflexes and quick decision making. Will you risk losing a life for the sake of a few hundred extra score points, or will you choose a less rewarding, but safer maneuver?
+
+A single bullet hit will cost you a life, after all.						

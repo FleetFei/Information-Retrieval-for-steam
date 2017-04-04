@@ -1,0 +1,3 @@
+
+							About This Game
+							**There are probably a lot of bugs. Remember to be very descriptive when hurling your insults or giving advice.*****As of now, there is a maximum of 20 players at one time.***Rollout is a multiplayer "eat-to-grow" game but, unlike others that you may have played, I've added an extra dimension. The goal is to grow as big as you can while not being eaten. The rules are simple: Eat anything smaller than you and avoid anything bigger.Controls:Aim with mouseWASD to moveSpace to jump when you're big enoughClick to boost when you're big enoughHold space to climb buildings when you're big enoughUse the scroll wheel to adjust how far the camera can see. Shorter distance  == better performance.						
