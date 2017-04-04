@@ -1,0 +1,16 @@
+
+							About This Game
+							Xmodule is a sci-fi car racing game that allows you to fully customize your car. The aim of this project is to give the gamer the feeling of being the creator of his own car as there are hundreds of customisation possibilities. 
+
+Features:
+- Quick race mode
+- Split screen mode
+- 3 customisable modules
+- 3 customisable characters
+- 3 tracks (two of them in development stage)
+- Drum&Bass music
+- Xbox 360 controller partial support
+
+
+
+Mutiplayer mode is one of our goals but we cannot guarantee we will realize it. It will really depend on how the early access will go.						

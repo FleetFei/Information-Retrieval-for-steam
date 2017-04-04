@@ -1,0 +1,21 @@
+
+							About This Content
+							Warhammer 40,000: Armageddon Soundtrack:
+
+Steam downloads game soundtracks to a separate folder in your game's Steamapps directory. 
+You can right-click on a game in your Steam Library, select Properties>Local Files and click Browse Local Files to access that game's directory.
+
+The soundtrack itself consists of 12 tracks: 
+
+01. The Battle for Armageddon
+02. Thakka's Plot
+03. March of the Steel Legion
+04. Dante's Retribution
+05. Death Mire Falls
+06. Yarrick's Choice
+07. Crossing the Palidus Mountains
+08. CUTSCENE Horst's Introduction
+09. CUTSCENE Von Strab's Speech
+10. CUTSCENE Faldrak's and the Space Marines
+11. CUTSCENE Dante's Speech
+12. CUTSCENE Yarrick's Finale						

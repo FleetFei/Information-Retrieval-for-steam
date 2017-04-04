@@ -1,0 +1,11 @@
+
+							About This Game
+							The ultimate goal of Glider Island is to bring the magical sensation of flight right into your own room! Beta 1 is our first take at this. 
+
+In Beta 1 your main goal is to try and fly through as many hoops as possible before loosing speed and crashing to the ground. Use thermals, your rocket booster and smart thinking to stay airborne the longest. 
+
+At the moment we have 2 Islands you can fly. Volcano Island and Forest Island. Every 50 points an event will happen in game depending which island you are on. For instance on Volcano Island the volcano will erupt and you must dodge lava bombs. While on Forest Island, a thunderstorm is triggered and you must fight the wind. Depending on how well you do, you can earn a Bronze, Silver or Gold medal.
+
+Built for the HTC Vive and Oculus Rift. You are able to control the glider 3 ways. The first is with the Vive Hand Controllers. Use your hands to grab the glider and control the glider through your outstretched hands.  Second is by VR head movement. Move your head up, down, left and right to control the glider, this way is a little easier and causes less motion sickness. The 3rd is the Xbox controller. Use the Xbox controller to steer the glider while looking around with your head. You are also able to fly without any virtual reality if you prefer. Just start the game in none VR mode and enjoy flying with just an Xbox controller! 
+
+As we progress further down the early access road we will be constantly revising the game to bring more realism and fidelity to the game. We are currently working on a Beta 2 where there will be more realistic flight physics, much larger terrain, free flight mode and new challenges. We will be releasing more info as we get closer to release. Thanks, and we hope you enjoy!						

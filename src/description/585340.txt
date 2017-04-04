@@ -1,8 +1,0 @@
-
-							About This Software
-							SYMMETRY is a VR software tool for professionals in architecture, engineering, and construction.
-
-SYMMETRY converts CADs into VR with a highly intuitive man-machine interface, enabling users across several industries to communicate ideas and direction with ease to efficiently facilitate consensus formation.
-
-Supported file formats:
-.skp(SketchUp)						

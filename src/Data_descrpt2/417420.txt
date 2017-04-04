@@ -1,0 +1,5 @@
+
+							About This Game
+							My name is Nampung. I’m alone on a silence street at night. How did I get here? I cannot remember a single thing.
+
+LeftWay is an Adventure Horror game. The movement of the character is controlled by pressing direction buttons. Camera in the game is a still camera which switches to various angles according to the location that the character arrived. The character will face unusual things and it seems like she is not in the world she used to be. The player must solve the puzzle in order to pass to the next scene.						

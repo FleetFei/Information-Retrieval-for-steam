@@ -1,0 +1,31 @@
+
+							About This Game
+							TechWars Online 2 is the world’s first mmo isometric action mecha with direct control. Apart from the simple reaction, to win in every battle, you need an impeccable sense of tactics and ability to skillfully use weapons, robots, and peculiarities of the landscape of the area. With these skills, you will be able to destroy dozens of enemies!
+
+The powerful military component is based on an alternative history from Mikhail Vlad’s books. According to the plot, the world slid into anarchy in 2050 and now there is only one law – the law of force that is based on cutting-edge technologies. Huge robots – the Russian ‘Dominion’ and American ‘Kato’ robots – clashed in an apocalyptic confrontation of supercorporations for control over the planet. 
+
+The player will have to become a pilot for one of the factions and take part in the battle for control over a number of locations. The choice of a faction plays an important role. Each faction has its global technologies. The Dominion robots can cause devastating air strikes in an area, while mechanoids Kato can protect itself from damage within a few seconds. 
+
+Modified mode ‘flag capture’ is a key mechanism for victory in each battle. The main thing here is the ability to think strategically: frontal pressure on control points will only lead to unnecessary losses and rapid defeat. 
+
+The advanced class robot system stimulates subtle interplay between players. The system features the following:
+•	Scouts: they are vulnerable but very fast; they can quickly find weak spots in enemy defenses and report such to the allies.
+•	Stormtroopers: the main striking force in the battlefields; they are powerful and tough.
+•	Destroyers: slow but extremely dangerous at long-range units.
+
+Each player can own several robots at once and use them depending on the game situation. The destruction physics of TechWars Online 2 received special attention from developers. Almost all the objects on the map can be destroyed. Partial destruction of objects can be used tactically to create temporary shelters and enemy safe shooting zones. All this will be a pleasant addition to the main thing –  destroy all enemies within the sight range.
+And by the way, as you're there thinking, they are already catching fun!
+
+List of key features planned for the final version of the game:
+- Support class: weak individually, but indispensable for a unit group with the ability to restore armor and supplies.
+- Titans class: very rare and unique fighters, whose skills can be key to victory. 
+- Detailed and sophisticated collapsibility of robots
+- Collapsibility of all objects consisting of a material that can be destroyed (for example, concrete, brick, blocks of other building material)
+- Over 60 advanced mechs with unique characteristics. Each mech uses a unique technological skill
+- Over 200 upgradable weapons and items
+- Any combat unit can be improved in several ways to gain fantastic superiority. There is a separate modification system for all kinds of weapons. However, significantly improving some characteristics will be at the expense of others.
+- Up to 100 mechs can participate in a single battle at the same time
+- Shelters and terrain to gain advantage
+-  The robots themselves equally behave realistically. For example, injury to the right hand makes it impossible for the robot to use a gun attached to its right hand; if the left hand is injured, the robot wont be able to use short-range weapons on its left hand.
+Players can interact with each other and outside the battlefield – they can be friends, they can unite in clans or find deadly enemies. For the latter, a special indicator shows who killed the most number of players in the last rounds. 
+- In a battle, you can always see who killed you the last time ;)						

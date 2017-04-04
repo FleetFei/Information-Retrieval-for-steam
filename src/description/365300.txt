@@ -1,3 +1,0 @@
-
-							About This Game
-							Transmissions : Element 120 is a short single player experience set in the Half-Life Universe featuring a unique gravity defying weapon that allows you to jump buildings and sustain large falls. The story takes place at a mysterious date & location. Where are you? Why have you been sent?To help bring the Source Engine up to date several new features are included:Enhanced dynamic lightingIntegrated Source Shader Editor 0.5 for enhanced post processing & lightingImproved support for complex physics structuresSupport for super massive physics objectsImproved AI and situational awareness on multiple AI types						

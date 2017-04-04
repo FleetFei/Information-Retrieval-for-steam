@@ -1,7 +1,0 @@
-
-							About This Game
-							Sentinel is an interactive audio tower defense game. It mixes strategic game play with a dynamic music system.
-
-The game takes place on a sequencer-like grid. As you add defenses, collect resources and destroy enemies, musical elements are triggered in time to the music. 
-
-Fight through 31 levels to clear the virus from the system.						

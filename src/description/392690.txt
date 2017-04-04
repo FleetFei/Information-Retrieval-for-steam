@@ -1,3 +1,0 @@
-
-							About This Game
-							Erwin's Timewarp is an Adventure game in which the player controls a dog named Erwin, the pet of the scientist Dr. Zachory. He has invented a time machine with that Erwin was transferred to the time 1984 by accident. In order to come back to present time Erwin has to find parts of a time machine in different words and times. For this task a lot of puzzles have to be solved.Features:Control your player through a Top-Down camera environmentCollect and combine items to solve puzzlesTake care of aggressors and trapsThere are companions that help youGraphics are a nice mix of comic- and arcade styleThe camera can be rotated and zoomed using the mouse-wheel						

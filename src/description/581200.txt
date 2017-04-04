@@ -1,3 +1,0 @@
-
-							About This Game
-							NASH RACINGFast your seatbelts! Nash Racing is upcoming indie racing gameNash Racing is racing game where you drive against opponents in different tracks, with different cars. You can choose car from 10 different cars. Every AI opponents have different driving skills. There is also tuning system, where player can modify cars.Be the fastest driver and challenge opponentsGame contains: -	Single race-	10 different cars -	AI Opponents-	Lap time and best lap time system-	Drive 1-4 laps race-	10 tracks-	1 open world where to test car-	Car damage system-	Not fully realistic physics yet-	3 different cameras-	Tuning system which contain: Painting car, changing tyres, bumbers, wheels etc-      Controller support						

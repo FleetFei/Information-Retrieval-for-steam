@@ -1,7 +1,0 @@
-
-							About This Game
-							The Citadel. Built in 1986 by a lunatic and left undiscovered, decomposing for 30 long years. You are its first victim.
-
-Avoid the broken down, animatronic creatures. Learn to swim in the gravity defying waters and avoid the good old fashioned lasers, stompers, acid pools and lava. Learn about the Citadel's grim past and defeat the madman behind it all. Collect the keys if you want to go free!
-
-Citadel 1986 is a retro platform game harking back to the Commodore 64 days. The entire game is set across a single giant scrolling level, just like the games that inspired me to start coding : )						

@@ -1,0 +1,28 @@
+
+							About This Game
+							You can spend relaxing time with goldfish in VR space.
+
+In VR space you can do the following operations.
+· You can touch goldfish
+· You can call goldfish
+· You can take pictures and Gif movie.
+· You can change the background.
+· You can change BGM
+
+The types of goldfish are below
+・Wakin(和金)
+・Comet(コメット)
+・Ryukin(琉金)
+・Demekin(出目金)
+・Rantyu(らんちゅう)
+
+The type of background is below
+・BubbleDome
+���Sakura
+・Fireworks
+
+Future Update
+· Increase the kind of goldfish
+· Adjust the appearance of goldfish
+· Add the function to edit Aquarium
+· Plans to fix the problem						

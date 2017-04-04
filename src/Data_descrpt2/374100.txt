@@ -1,0 +1,7 @@
+
+							About This Content
+							A 30 page artbook presented in PDF format. The book contains artworks from both Unhack and Unhack:Destruction. Also included inside are thoughts on the design decisions made throughout this game.
+
+After purchasing and downloading this DLC, the PDF can be found inside Unhack's root directory on Steam. To access this folder, right click on Unhack in your Steam library and select properties. Inside the pop up, pick the local files tab and click the browse local files button. You should see the PDF in the folder that appears.
+
+Thank you for the support, and I hope you will enjoy the read!						

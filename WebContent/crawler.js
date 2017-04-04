@@ -49,9 +49,9 @@ function gIdlist(){
 					 var $ = cheerio.load(html); //采用cheerio模块解析html
 					 var content = $("#game_area_description").text();
 					 // write to file
-					 var fWriteName = path.resolve(__dirname, "../src/description/"); 
+					 var fWriteName = path.resolve(__dirname, "../src/"); 
 					//  console.log(fWriteName);
-					 fs.writeFile(fWriteName+"/"+id+".txt",content,function (err) {
+					 fs.writeFile(fWriteName+"Description.txt",content,function (err) {
 						 if (err) throw err ;
 						 console.log("File Saved !"); //文件被保存
 					 }); 
@@ -86,8 +86,13 @@ function visitPage(raw_url,id,cb) {
   			var $ = cheerio.load(html); //采用cheerio模块解析html
   			var content = $("#game_area_description").text();
   			//write to file
-  			var fWriteName = path.resolve(__dirname, "../src/description/"); 
-  			fs.writeFile(fWriteName+id+".txt",content,function (err) {
+  			var fWriteName = path.resolve(__dirname, "../src/"); 
+  			// fs.writeFile(fWriteName+id+".txt",content,function (err) {
+// 				if (err) throw err ;
+// 				console.log(content);
+// 				console.log("File Saved !"); //文件被保存
+// 			}); 
+			    fs.writeFile(fWriteName+"Description.txt",content,function (err) {
 				if (err) throw err ;
 				console.log(content);
 				console.log("File Saved !"); //文件被保存

@@ -1,5 +1,0 @@
-
-							About This Game
-							Stonehenge VR is a virtual reality educational experience where you travel to the world famous prehistoric monument in Wiltshire England. This VR experience includes narrated voice overs and animations that will give you new appreciation for its fascinating history and beauty.
-
-This application currently works optimally with "Allow Reprojection" turned turn off if you have a 980 or better.  To turn off "Allow Reprojection" go to your SteamVR performance settings tab.						

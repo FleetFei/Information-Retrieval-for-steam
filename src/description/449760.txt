@@ -1,6 +1,0 @@
-
-							About This Game
-							Tenrow is a grid-based logical puzzle game. 
-Each level, the player is given a shape created using squares. A number in a square depicts the number of red squares that share a row or a column with it. (including itself) 
-Taking all these numbers into account, turn the blue squares into red to complete all numbers and win the level.
-Includes 50 levels.						

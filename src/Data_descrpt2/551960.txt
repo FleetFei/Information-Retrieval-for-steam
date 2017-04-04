@@ -1,0 +1,18 @@
+
+							About This Software
+							DatavizVR is the first virtual reality data visualization software designed for the next generation of big data analytics.  Welcome to the future!
+
+How The Demo Works:
+
+1) Plot
+Easily assign variables to any axes or other marks such as size, shape, color and more!  The data plots instantly.  Dynamic data plotting shows changes in real-time.
+
+2) Manipulate
+Filter, sort, cluster and categorize your data.  Rotate, scale, stack or combine your data plots.
+
+3) Analyze
+Spot new trends, gain insight and make new discoveries unavailable in traditional 2D data software.  Make better decisions in less time.
+
+DatavizVR is more powerful, intuitive and efficient than any other data visualization platform.
+
+If you would like to load your own datasets and gain access to our enterprise features, please apply for the closed beta!						

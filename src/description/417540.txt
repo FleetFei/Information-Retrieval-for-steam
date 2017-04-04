@@ -1,5 +1,0 @@
-
-							About This Software
-							The problem: You may have hardware or devices in your system that throw up red flags now and then because of compatibility problems or outdated functionality. Games could work slower or even not at all.
-
-The solution: Gamefuel Driver Control will check your computer for potential driver problems, give you a report on outdated or missing drivers it detects, and let you quickly update them to the latest manufacturer-recommended versions.						

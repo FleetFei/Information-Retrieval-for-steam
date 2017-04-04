@@ -1,0 +1,7 @@
+
+							About This Game
+							Forgotten Ball is a minimalist abstract platformer in an open world.
+
+Moving in 2.5 dimensions (well, 3) the ball must ascend a tower with little clues of who it came to be, or why the ball is there. Red primitives patrol the world, set out to stop ball wherever they can.
+
+Forgotten Ball features a unique automatic world rotation ability, where the world rotates 90 degrees to allow the ball to travel along a new plane. It's cool.						
