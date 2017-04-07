@@ -1,0 +1,3 @@
+
+							About This Game
+							Design, build and wire up your own unique robot to complete challenging logic puzzles.LogicBots is a puzzle game where robots are used to complete the various levels. Sometimes the LogicBots will be controlled by the player and other times they will work independently to complete the puzzles. In both cases it will be up to the player to design, build and wire their LogicBot to meet the requirements of the level.Key Features40 challenging levels5 in depth tutorials3 bonus objectives for each levelLanguage packsSandbox modeLevel builderWorkshop integrationEndless combinations of parts and circuitsPhysics driven gameplaySoundtrack by Brandon Penney aka Neon-Bard						

@@ -1,3 +1,0 @@
-
-							About This Content
-							Upgrades CopperCube 5 game engine to the Professional Edition: Adds video playback capabilities, makes it possible to use unlimited scenes per file, unlocks the scene metrics tool, adds a command line interface.  For details of all these features, refer to the CopperCube documentation.						

@@ -1,0 +1,7 @@
+
+							About This Game
+							In Drizzlepath you are set on a journey to the top of the Mountain of Fire. This game is what you'd call a "walking simulator". It aims to be an atmospheric, relaxed and enigmatic experience. It was made in CryEngine 3 to achieve an immersive graphic quality. If you enjoy games that are about the experience of discovering of the world around you, you will probably love Drizzlepath.
+
+When you download the game, you also have the game's OST in your "...Steam\steamapps\common\Drizzlepath\Drizzlepath OST" folder.
+
+Note: Drizzlepath is a short game and has no save feature. The checkpoint system in game is for situations like getting stuck in a hole or dying by falling down from high grounds. It only works in game session and resets when you quit game to main menu or desktop.						

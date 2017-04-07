@@ -1,0 +1,10 @@
+
+							About This Game
+							Hack_me is a hacker simulator game. The main objective in game – is to hack big companies's servers to show people that there is nothing in this world that protected on 100%. You’ll need to use your cmd, bruteforce, SQL-injectors and other programs to hack servers. 
+
+FEATURES 
+• References to Mr. Robot and other films and games 
+• Dozens of hacker’s stuffs to achieve your goals 
+• Dynamic gameplay 
+• Real hacking - you'll use real ways and programms to achieve your goals (all programms were renaimed for for general security ;D )
+• Pleasant atmosphere – music, graphics, and your partner – Elena, prepare you to have a good time						

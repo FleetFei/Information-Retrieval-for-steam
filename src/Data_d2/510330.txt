@@ -1,0 +1,32 @@
+
+							About This Game
+							Introduction
+Shotgun Raiders is a 2d fast action platform shooter. 
+Inspired by the easy controls of classic mario, limited gun angles of the good old arcade shooters, and level crafting. 
+This is a bloody 4 player local party game with file access to import your own characters, share created backgrounds & levels. 
+
+Features
+Trading Cards!
+Premade levels. 
+You can choose (original levels or player created levels) 
+2-4 player battles or play against ai on easy medium or hard. 
+You can create your own levels, even the 2 layers of parallaxing background! 
+Also you can import your custom made characters! 
+
+Gameplay
+You can walljump, wallclimb with a pickaxe, and doublejump to quickly move around. 
+Shotgun ammo & grenades are infinite, battles are quickly won by those who master the easy controls. 
+Grenades can be cooked (hold button = grenade timer). 
+If you have kills and you do a grenade suicide, a kill is substracted in the form of a large golden jewel. 
+This jewel is thrown into the level and can be taken by any player giving them the kill you worked for! 
+So cook those grenades :-) 
+The gametypes are deathmatch and last man standing.
+
+Controls
+Requires a gamepad or a arcade/fightstick to play
+
+Extra info
+I have made this game so, that you can easy access your game files. 
+This makes it possible for you to pack your levels/backgrounds/characters into a zip and send it to friends any way you like. 
+
+A special thanks to everyone who voted!						

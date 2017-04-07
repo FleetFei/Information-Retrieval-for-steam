@@ -1,0 +1,15 @@
+
+							About This Game
+							Battle of the civil war ironclads. Take part in battles from USS Monitor vs CSS Virginia before battles between armored squadrons of steamships and other vessels.
+					The flow of time is organized into rounds. Within the limits of each round, the player and the computer opponent take turns executing all actions possible within five minutes of real time combat for each of their ships. At the moment when the selected active ship is carrying out an action, all other game units are motionless. Time for decision-making is not limited.
+					Game locations are presented in real 1:1 scale and are not divided into cells or hexagons. The trajectory of movement of the active ship is determined by laws of physics and calculated using realistic speed, size and shape of a unit.
+					The campaign based on alternate outcomes of events which assume a more favourable position for the Confederation in the first two years of the conflict, including diplomatic recognition and construction of a stronger, more balanced Southern fleet in European shipyards.
+					USA and CSA campaigns: 14 missions, 80 hours of game time, 54 unique ships. USS Monitor, CSS Virginia, USS New Ironsides and others Civil War ironclads 3d models.
+					Key features:
+					Historical accuracy: the game's locations are created based on historical maps and other surviving documents and accounts of real battles
+					3D models of the civil war ironclads and other warships are based on original drawings and designs from archives, or those restored by experts using photos, models and descriptions of the ships that participated in the Civil War
+					Realness: use of real specifications of the civil war ironclads and other warships: the size, hull contours, displacement, construction materials and design, quality and arrangement the crew and armament, speed and acceleration
+					Calculations of physical interactions such as collisions between ships, flooding and capsizing, shell modeling, ammunition fires and flooding
+					Use of a special ballistic calculator on the basis of original artillery tables for definition of accuracy, penetration ability, explosion and shrapnel damage
+					
+											

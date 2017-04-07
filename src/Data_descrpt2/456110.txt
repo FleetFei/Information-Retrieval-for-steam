@@ -1,3 +1,0 @@
-
-							About This Content
-							The Voxelizer DLC enables you to import and effortlessly convert standard OBJ meshes into voxelized models. Import OBJ with MTL and full texture support Rotate and scale loaded meshes in real time after importImported meshes can be copied, pasted and duplicated like all other objects Voxelized meshes can be converted to regular matrices for manual editing 						

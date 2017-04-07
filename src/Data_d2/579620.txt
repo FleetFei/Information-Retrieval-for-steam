@@ -1,0 +1,11 @@
+
+							About This Software
+							The Body VR: Anatomy Viewer will display 3D volumes generated from traditional CT/MRI scans that will allow radiologists, medical students, and patients to view anatomical scans in entirely new ways. The application will include scans from the brain, abdomen, heart, lungs, spine, and allow users to import their own DICOM files.
+
+Users will be able to directly interact with these models using hand controls, allowing a level of engagement on par with high end virtual reality applications. These controllers will allow the user to scale, rotate, and crop scans freely in 3D space.
+
+Users can add annotations to specific areas within a scan, to indicate lesions and tumors. The volumes can then be saved and uploaded to be viewed anywhere in the world, all patient health information is removed in the process.
+
+You can select between multiple preset color schemes and even create your own. There are multiple environments built in to the Anatomy Viewer to suit your preference.
+
+To apply to the private beta contact us at http://TheBodyVR.com/contact/						

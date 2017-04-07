@@ -1,9 +1,0 @@
-
-							About This Series
-							Using Values to control Materials. This is a follow up video to the Painting with Materials video, but focused mostly on the tools, and values. 
-
-The topics covered:
-- Understanding Hotkeys more than ever.
-- Demonstrating a control of Opacity and Flow.
-- Being Patient before lighting.
-- How to determine when to make things shiny or when not too.						

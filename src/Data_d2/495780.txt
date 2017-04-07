@@ -1,0 +1,3 @@
+
+							About This Game
+							Hexoscope is a new puzzle game that challenges your skills to create from Chaos.You should arrange the chaotic combination of hexagonal Chips to create a Chain from Power Source to Power Receiver. You should swap Chips with each other to combine their pins into solid Chain from Source to Receiver.The puzzle is arranged when the Receiver gains Power from the Source through the Chain.Features- Unique gameplay. - The relaxing music which is composed by Dmitriy “Cyberworm” Vasilyev specifically for Hexoscope. - 72 chaotic levels of various complexity. - Levels are randomized on each replay.						

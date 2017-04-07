@@ -1,0 +1,10 @@
+
+							About This Video
+							Table of contents:
+
+- Step by step in the creation of a tileable material of medieval blocks with Substance Designer
+- It shows you how to achieve the random blocks so you can use as heightmap on a chosen layout of blocks.
+- Explains how to achieve color, roughness, normal map and masks
+- Gives you an in depth view of SD nodes and mindset using procedural methods.
+- It's not limited to the medieval blocks, you can do a lot more learning from this video.
+- Mask Generators are included, as well as source files.						

@@ -1,3 +1,0 @@
-
-							About This Game
-							Learn HTML and CSS in the context of a 2D puzzle platformer! Super Markup Man teaches real web development practices without making you write any code. Simply carry the tags around the screen and watch your website render in real-time. Match your website with the preview to pass each level. The game includes: 100 levels/exercises HTML mode that covers basic tags like A, IMG, STRONG, and EM CSS mode for more advanced markup and styling Local co-op* Optional "bug" setting to keep you on your toes Free Play mode where you can export levels to actual HTML files* Note: Only Free Play and CSS Mode support local co-op. Player 2 will also need to use a gamepad (Xbox 360 controller recommended).						

@@ -1,0 +1,29 @@
+
+							About This Content
+							This stunning train has been upgraded to give you the best experience. The Nickel Plate has had its Train Motion settings tweaked to mimic realistic behaviour using the new Train Motion system in TANE.
+
+In addition to this, you can now play the brand new driving session created for this train. This means you can find the Nickel Plate train located in the Kickstarter County session menu. That isn’t to say you can’t go and place it in Surveyor yourself like before, but we thought some of you will want to just get in and drive!
+
+Relive the halcyon years of steam hauled freight services in the US with this stunningly modeled Trainz Simulator addon.
+
+This DLC pack includes the following: 
+
+New York, Chicago & St. Louis / 'Nickel Plate Road' Class S-2 2-8-4 locomotive in early and late condition
+Pere Marquette Class N-1 2-8-4 locomotive in 'as preserved' condition
+NKP 40' Boxcar
+NKP 400 Series Bay Window Caboose 
+Features Include:
+
+Custom 3d Locomotive Interior.
+Custom 3d Caboose Interior.
+Animated ringing bell, including bell lever controlls in locomotive cab.
+Configurable classification lights and flags.
+Automatically assigned prototypical vehicle numbering for Locomotive, Boxcar, and Caboose.
+Tender automatically displays the running number.
+Automatic tail light on rear of tender.
+Automatically configured end of train flags (day), marker lamps (night) and a lantern for backing up on the Caboose.
+Interior of Caboose is lit at night.
+Train crew will board / alight from caboose at the crew depot.
+Automatic brake hose connection on all vehicles using the ACS standard.
+Boxcar loads palletized goods by default, other loads configurable in surveyor.
+Boxcar doors are animated and will open when loading and unloading products.						

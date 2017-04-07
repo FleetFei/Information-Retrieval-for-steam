@@ -1,0 +1,35 @@
+
+							About This Game
+							Explore-Dig-Build-Play that's what you can do in Medieval Playground. Choose from four different types of terrain and start building your playground. Place and edit trees, animals, people and buildings to your liking. Make battles with allies and enemies and choose your side. Create underground caves and decorate them. 
+It's a medieval sandbox where you can create without limits. Enjoy have fun with it.
+
+Story
+
+You assume the role of an adventurer who has gone through many dangers, until he decided to settle. This kind of life is new to him and begins to choose a good place to start this new chapter. Without knowing it, this is the beginning of a new adventure that involves finding a way to survive and defend himself. But this task is not easy to do it alone, you need help. So then you start to build a small village and find people that will help you achieve the dream of living another kind of life. You'll have to go through many difficulties to see this dream come true.
+
+Main game goal 
+
+Medieval playground is an open world sandbox, where you need to stay alive. To do this, first you will create a small village and get people to help maintain it.
+It has been in development for a while, but still has a lot of features and improvements to make.
+
+These are some of the main features to implement.
+
+-Choose your settlement location
+-Start gathering some resources like wood, stone, food and gold.
+-Prepare some defences because you may be attacked by trolls, ogres or other creatures.
+-Build a warehouse and Town Hall to start recruiting some peseants for your settlement.
+-Order them to gather resources, farm, hunt or build.
+-Expand your settlement by building farms, houses and defences.
+-Upgrade your town hall to expand your size of your settlement
+-Build barracks, armory and ballistics recruit some warriors to help defend the settlement.
+-Manage your assets so you can maintain your small empire.
+-Defende your village from enemies.
+-Battles to gain resources and gold.
+
+And also you some function that the player will need to do.
+
+-Eat, Drink, Sleep.
+-Get shelter or protect yourself from weather conditions.
+-Hunt, Farm, collect resources from the world.
+-Craft weapons, armor.
+-Build structures Houses, Farms, Defense buildings depending from resources.						

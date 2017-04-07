@@ -1,0 +1,32 @@
+
+							About This Software
+							Hindenburg  VR
+“ The virtual window to the past “
+
+Slightly colorized by imagination but still the detailed and genuine 3D reconstruction of largest flying machine ever built - LZ 129 Hindenburg.
+Immerse yourself to the virtual reality and explore the exterior and interior of the airship, read the story behind, enjoy the experience of flight and soak up the atmosphere on board.
+Meet the history using the technology of the future, educate yourself through play.
+80th Anniversary of the last flight of Hindenburg LZ -129 (3-6 May 1937).
+Be prepared to know everything about its design.
+
+Features:
+4 Experience Modes - Explore, Disaster, Night and RC
+
+1. Explore Mode: 
+Exploration of exterior and interior of the airship
+Voiceover of the Hindenburg story 
+Titles
+Blueprints, Drawing
+Aim Teleport, Free step, Layers toggle, Mini map, Direct Teleport
+
+2. Disaster Mode:
+Observation and experience of the crash from all angles
+Aim Teleport, Free step, Mini map, Direct Teleport
+
+3. Night Mode:
+Exploration of exterior and interior of the airship in the dark
+Aim Teleport
+Flashlight
+
+4. RC Mode:
+Flying with small remote control airship						

@@ -1,0 +1,20 @@
+
+							About This Game
+							Monkey King Saga is a new style "action tower defence" game featuring the theme from the Journey to the West story. 
+
+As fans of tower defence games, our goal is to bring a new gameplay experience to the TD genre, by mixing action and TD together into a beautifully crafted visual story, that uses RTS style controls for moving heroes. 
+
+In Monkey King Saga, players can play as their favourite characters the Monkey King, Pigsy and Sandy as they journey across ancient China protecting Tripitaka the Monk, on their quest to Vulture Peak to retrieve the sacred scrolls. 
+
+FEATURES 
+-RTS style mouse controls for easy play. 
+-Control up to 3 moveable hero towers, each with their own skills and special attacks. 
+-Collect and upgrade monsters as Ally tower support. 
+-Over 23 hand-painted scenes. 
+-Narrative story over 6 themed chapters. 
+-RPG system for hero upgrades. 
+-Ton of enemies. Over 50 unique characters including favorites from the story such as the Bull Demon King, Spider Demoness, and the Iron Fan Princess. 
+-Heaps of heavenly bombs and potions to give extra support during battles. 
+-Optimised graphics and visual effects for 1080p including effects water, lightning, and snow. 
+
+Monkey King Saga is a 3D game built on Unity game engine.						

@@ -1,0 +1,3 @@
+
+							About This Content
+							The FPS Weapons Pack provides a small arsenal of game-ready weapons, with no coding required.  Drag these objects into your map for the player to pick up and use.  Pulverize your enemies with a machete, .22 pistol, combat shotgun, MP5 submachine gun and an M4 carbine.  Each weapon includes sounds, effects, animations, and scripted behavior that make it ready-to-use in your Leadwerks games.Installing the DLCTo install this DLC, select the "Workshop > Browse Workshop" (or "Manage AddOns" in Linux) menu in the main window.  Select the "Subscribed" tab and choose this DLC in the list.  Press the Install button, and the DLC contents will be added to your current project.						

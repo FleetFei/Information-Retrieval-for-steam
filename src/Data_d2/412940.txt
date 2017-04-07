@@ -1,0 +1,5 @@
+
+							About This Game
+							Crytek first earned its reputation for pushing the limits of computer graphics with the original X-Isle/ Dinosaur Island  demo, which wowed press at 1999’s E3 convention in LA. Now we come full circle with Back to Dinosaur Island, which blew away attendees of GDC 2015 earlier this year. Back to Dinosaur Island takes advantage of 15 years of CRYENGINE development to show users the sheer endless possibilities that upcoming Virtual Reality devices like the Oculus Rift offer, bringing them face to face with the most terrifying predator that has ever walked the Earth. 
+
+Back to Dinosaur Island has been built from the ground up to take advantage of the Oculus Rift HMD, and requires an Oculus Rift DK 2 device to run. Please check the System Requirements below- Virtual Reality games require a high frame rate to guarantee a comfortable experience for the user. Running Back to Dinosaur Island on weaker hardware can cause lower frame rates, which can lead to users having a less than ideal experience.						

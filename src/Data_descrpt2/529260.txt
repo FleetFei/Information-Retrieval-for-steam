@@ -1,9 +1,0 @@
-
-							About This Game
-							Robot Incursion is a virtual reality wave shooter for the HTC Vive. This is a room scale VR experience where you will have to defend yourself against endless waves of enemy robots. There are 7 different environments, each with it's own unique enemies. In each environment you will have to defend yourself using either an assault rifle, turret or grenades, depending on what's available.
-
-In this game you will need to physically go to the ammo box and collect a magazine to reload. You will also have to utilize any cover, if available and use the radar attached to your weapon, to locate incoming enemies. Some environments, such as the 'Warehouse', are intensely difficult and will require a lot energy in order to get a high score. The turret has a heat display that shows you how hot it is. When it gets too hot then you will be forced to switch to using the assault rifle, while you wait for the turret to cool down enough to use again.
-
-When you first start the game, please go to 'Training', where you will learn to use the weapons and complete various timed challenges. The timed challenges involve completing all the various targets that enter the arena, as fast as you can, using a specific weapon. Depending on the challenge, the robots may also have a training laser equipped that you will need to take cover from.
-
-Each environment has a global and local leaderboard shown below it in the menu scene, so you can compete with other players to get the highest score. You can view these leaderboards by navigating to the 'Community Hub', then clicking on 'View Stats' and 'Global Leaderboards'.						

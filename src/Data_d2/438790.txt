@@ -1,0 +1,5 @@
+
+							About This Game
+							You're a robot. Murder other robots with your data-destroying weapons and create a stack of dismantled enemies. Be the last heap standing and DO NOT RUN OUT OF MEMORY!
+
+RAM is a 1st person arena shooter with a unique look and fast-paced action. Play online against your friends (or enemies) across 5 arenas. The 9 different weapons in the game won't hurt your opponents, but rather leak their memory, causing different glitches and bugs.						

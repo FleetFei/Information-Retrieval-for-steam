@@ -1,0 +1,18 @@
+
+							About This Game
+							Rush Rover is a 2D top down view shooter game. Compared with the same type of games, this game's shooting experience closer to the traditional STG game.It includes random map generation,random elements,unique weapons and devices design, various enemies and exciting boss battles,dynamic chiptune style game soundtrack,also with traditional STG game’s barrages dodge elements. 
+
+In the future, intelligent robots mining exploration has spread over every galaxy. After the war of independence against humanity, the highly intelligent and powerful machines attempt to rule all robots.  So theystart to format other robots.You control an "unformated" mining rover, pick up weapons and rush to survival! 
+
+FEATURES
+- Roguelike gameplay. 
+- Random map generation. 
+- Wepons Upgration.
+- Bluemap collection.
+- Devices creation.
+- Exciting boss battles. 
+- Various enemies. 
+- Unique weapons and devices. 
+- Barrages dodge. 
+- Sci-fi pixel art style . 
+- 8bit style chiptune sound track.						

@@ -1,0 +1,12 @@
+
+							About This Game
+							Slice and dice! Beat Ninja is a rhythm based VR game that has you cutting up music like never before. Slice through the music notes as the fly at you from all angles while a tower defense mini-game plays out to your actions. Works with any .wav, .mp3, .flac, .aif, or .ogg file and supports user made beat maps in addition to auto-generated ones.
+
+Features
+-Use your own music or stream right from YouTube
+-Auto-generated and custom beat map support
+-Dual wield giant swords!
+-Hot, music slicing action!
+-2 games in 1 with a unique TD health bar
+-Customize how you slice with 9 different swords to choose from!
+-Beat map creator so you can slice up your music how YOU like!						

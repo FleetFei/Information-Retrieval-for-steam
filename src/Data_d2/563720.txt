@@ -1,0 +1,16 @@
+
+							About This Content
+							Discover the origins of VERLIES!
+
+Verlies is a dungeon crawler / Hack & Slash taking place in dungeons filled with deadly traps, chests and other randomly generated stuff. You will be facing enemies, searching for equipment and powerful scrolls, and meeting NPCs offering various services for a fee. All of this being randomly generated, from start to finish (spells' cost and power, enemies' strenght, gear's statistics, location of the NPC, etc ...). It's impossible to play the same game twice !
+
+To face these traps waiting to kill you at every corner you cross and every box you open, you will have 12 "jobs" to choose from. They will allow you to build your own and unique character.
+
+Building a balanced game (difficulty, economy, ...) was one of the main objective of the development, and was conducted with the utmost care. You will definitively have a hard time choosing between the various services offered by the NPCs (sale & purchase, maintenance of the gear, blessings, forging of new items, etc...).
+
+-Key Features
+-Game randomly generated
+-60 dungeons
+-4 levels of difficulty
+-Loot, loot and loot
+-Fully moddable						

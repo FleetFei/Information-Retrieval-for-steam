@@ -1,9 +1,0 @@
-
-							About This Game
-							Bad Sector is a game about immunizing a data storage device while a virus works against you.
-
-The virus' abilities expand as you progress, from blindly hopping between nodes to actively following and interfering with your immunization attempts.
-
-On top of that, you're working against the clock to reach a minimum immunization percentage before each round ends.
-
-Bad Sector: High-Density Disk Edition introduces collectible power-ups, tougher enemies and an endless survival game mode.						

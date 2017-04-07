@@ -1,0 +1,9 @@
+
+							About This Software
+							Substance Designer is the comprehensive 3D Material Authoring and Scan Processing Tool. It has become the standard in the entertainment industry for PBR material authoring and is extensively used by more than 150 AAA game projects and the most prestigious VFX and animation studios.
+
+Create materials with full control and an infinity of variations. Edit complete texture sets instantly with the procedural node-based workflow and produce Substance textures and MDL materials that will be directly compatible with your renderer or game engine.
+
+Substance Designer 6 comes with new exciting features such as a Curve node, a Text node and HDR color space, along with a suite of scan processing tools that makes photogrammetry workflows accessible to everyone.
+
+The Indie license lets you use Substance Designer for commercial purpose, as long as your company/entity doesn’t generate more than 100 000$ per year!						

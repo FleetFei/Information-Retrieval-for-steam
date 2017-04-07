@@ -1,7 +1,0 @@
-
-							About This Game
-							Drink, Shoot or Die! You are caught by zombie apocalypse caused by a virus, which affects only sober people. If you want to stay alive, you have to drink and shoot zombies
-
-Drinking has its own mechanics. If you are close to sober you shoot accurately. When you get more drunk, your accuracy drops, but time begins to run slower. 
-You have a scale that measures your drunkenness (also HP because you get sober when zombies hit you). If you get too drunk or too sober - you loose.
-When you kill zombies you get points, amount of which depend on your drunkenness level.						

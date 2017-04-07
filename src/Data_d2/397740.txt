@@ -1,0 +1,9 @@
+
+							About This Game
+							Hylics is a recreational program with light JRPG elements.
+
+Features:
+-Advanced graphics.
+-RPG battles.
+-Overuse of random text generation.
+- ~2+ hours of content.						

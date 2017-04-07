@@ -1,0 +1,4 @@
+
+							About This Content
+							Randomly generated levels for endless game mode.
+Enemies have individual characteristics and generated in different numbers. You can see amount of wins and losses. For wins you also will get new genes as reward to improve your organisms.						

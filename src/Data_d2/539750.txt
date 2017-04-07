@@ -1,0 +1,3 @@
+
+							About This Game
+							Kombine is a minimalist puzzle game played on a grid. The goal is to remove all of the blocks that have borders by matching three or more of the same blocks together. When blocks are matched, a new block is created with the same color and a higher value. Three 1s create a 2, three 2s create a 3, etc. However, you can only place blocks with a 1 value, so it can become challenging to create a match with higher value blocks. There are 50 levels to play through in both normal and time trial modes. In time trial mode, you play quickly through 10 levels at a time trying to get the best time.Optional KeysM = mute/unmute soundB = toggle background scrollingEsc = exit game when on menu						

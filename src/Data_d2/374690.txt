@@ -1,0 +1,18 @@
+
+							About This Software
+							RigIT is a 3D computer graphics animation tool that automatically rigs skeletons from an animation library to 3D meshes from 3D mesh libraries. RigIT is a fast, high resolution, near pose, automatic rigger that can rig skeletons to meshes with or without well-defined interiors. It allows you to import skeletons and animations from Motion Capture (.bvh) files and automatically rigs them to objects imported from Wavefront (.obj) files that contain a single object mesh.  These rigged meshes can then be exported to a Collada (.dae) file.  RigIT is designed to decrease time to market costs by reducing the time requirement for, and simplifying the process of, assigning animations to computer graphics. 
+
+System requirements: 
+Operating system: Windows 7 or later
+
+Key product features: 
+Automatic rigging of skeletons to meshes 
+
+To see tutorials on how to use RigIT see: 
+https://www.youtube.com/channel/UCIiRDJPsojFIja_cDgUwjQw
+
+For more information see our website: 
+http://www.rigitgraphics.com/ 
+
+To download Blender for free visit: 
+http://www.blender.org/						

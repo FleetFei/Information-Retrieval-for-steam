@@ -1,0 +1,9 @@
+
+							About This Video
+							In this two part tutorial series I will go through my entire process from blockout to rendered highpoly of this scifi vehicle in Modo, to the finished textured lowpoly in Marmoset toolsbag/unreal 4.
+
+In the first part, I go through the blockout stages, assembling a kitbashing set, modelling the entire highpoly vehicle aswell as creating decals, materials and rendering in Modo. 
+
+In the second part, I create a lowpoly, unwrap it, bake it out from Modo and texture it in photoshop using the shaders that were created in part one, before putting it in Unreal 4/Marmoset toolbag.
+
+This tutorial is for intermediate users of modo, it does assume that you have some knowledge of how to find your way around modo and its tools, as I do not go into detail on all the tools, but focus more on specifik tips and tricks. With the tutorials you will get all sourcefiles and textures used in these tutorials.						

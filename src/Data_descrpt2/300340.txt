@@ -1,3 +1,0 @@
-
-							About This Game
-							Immersive first-person parkour in a surreal, physics-driven voxel world.Lemma enables creative building through movement. Spawn structures just by moving through space. Extend platforms, smash through walls, and build new ones, all through parkour moves.Non-linear story - four possible endingsOculus Rift support (currently limited to SDK v0.6.0.1-beta)Time trial modeBuilt-in level editor with Steam Workshop supportXbox 360 Controller support						

@@ -1,0 +1,6 @@
+
+							About This Game
+							The game of kings for the PC - play against different computer opponents in various difficulty levels, watch and analyze famous chess games or play a game of chess over the Internet.
+The 3D view allows you to rotate and zoom the chessboard freely and varity is provided by many different boards, and sets of pieces as well as a physically realistic behavior. You can even throw the figures off the board whenever you are annoyed by a lost game. Some sets of pieces are animated and you can watch the figures walking and fighting in various environment scenes such as dungeon, medieval and graveyard.
+A selection of strong chess engines offers you a variety of challenging gameplay when playing against the computer. Third-party chess engines can also be easily added if the UCI protocol is supported.
+Already included are hundreds of historical chess games which can be watched and continued at any point. Additional games can be imported in PGN format. Network games via a local network or the Internet are also supported.						

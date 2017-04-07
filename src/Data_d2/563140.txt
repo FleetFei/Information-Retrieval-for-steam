@@ -1,0 +1,12 @@
+
+							About This Game
+							Play as a main character called Hooi, explore forgotten place, find weapons, armor and fight! 
+
+Features:
+
+- Inventory and Equipment 
+- Items (melee weapons, magic staffs, potions, armor) 
+- Combat system 
+- Experience system 
+- Enemies with simple AI 
+- Simple dialogs system						

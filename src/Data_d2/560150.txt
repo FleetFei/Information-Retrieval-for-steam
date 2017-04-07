@@ -1,0 +1,23 @@
+
+							About This Game
+							PLANNES is a game of zero-gravity tennis. As you visit various planets on your spaceship, you are challenged by the planets' national teams! Outsmart your opponents by making full use of your various rackets, each with unique abilities!
+
+Simple rules:
+* Destroy all the crystals behind your opponent to win.
+* Destroy crystals by hitting them with the ball.
+* Winning matches will earn you points.
+* You can use the points to unlock new rackets.
+
+VS Mode:
+Two players can play on one PC! Player 2 uses the monitor and the gamepad.
+
+---------------------------------------------------------------------
+プラネス���無重力空間で行うテニスのようなVRスポーツです。
+あなたは宇宙船で様々な惑星に降り立ち、その惑星の代表選手と対戦する中で、様々なアビリティを有するラケットを手に入れていきます。
+
+ルールはシンプルです。
+相手側にある5つの水晶を全て破壊すればあなたの勝利です。
+水晶は、ボールをぶつけることで破壊することが可能で、対戦に勝利することで、ポイントが獲得できます。
+獲得したポイントを消費することで、新たなラケットを使えるようになります。
+
+Oculus RiftとTouchを装着したプレイヤーと、PCモニタとGamepadを使用するプレイヤーで対戦を楽しめるローカル対戦モードを搭載しています。						

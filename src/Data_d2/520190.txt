@@ -1,0 +1,16 @@
+
+							About This Content
+							The original soundtrack for Sisyphus Reborn. Contains 7 tracks composed by Edwin Montgomery.
+
+Tracklisting:
+
+1. Intro
+2. The Cave
+3. The Desert
+4. The Hermit
+5. The Nothing
+6. Sisyphus Reborn
+7. This Path Was My Own (Bonus Track)
+
+The tracks are in mp3 format and will be downloaded within the game folder in your Steam directory, for example:
+C:\Program Files\Steam\SteamApps\common\Sisyphus Reborn\Soundtrack						

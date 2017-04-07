@@ -1,0 +1,12 @@
+
+							About This Game
+							BitRay 2 -  is a simple puzzle game in which your task is to destroy all the black cubes, and do so all the white appeared on the white platform. 
+
+Features: 
+- Beautiful minimalistic graphics.
+- 2 Types of graphics - (Default and Outline graphics)
+- More than + 160 different levels.
+- Good TimeKiller .
+- Many cubes and spheres with their own unique abilities 
+- 3 Soundtracks
+- Low price.						

@@ -1,5 +1,0 @@
-
-							About This Game
-							Engage in pitched combat piloting a spectacular dragon through worlds of medieval fantasy.  Dragonflight features massive, destructible environments, fast-paced combat with up to twenty enemies swarming the skies around you, ancient castles teeming with archers, and lost wizard towers shrouded in mist. Dragonflight also features a VR mode - ride your dragon through showers of flaming arrows, or dodge trees as you fly low over a fantasy landscape, hiding from enemies arrayed against you.  Dragonflight includes unique combinations of game dynamics - acrobatic flight compliments stealthly subterfuge, as you dodge from cloud to cloud, sneaking up on fortifications too large to approach out in the open.
-
-VR Support is now offered for Vive & Oculus, through our "pre-alpha" build (look in the beta tab, under properties).  We're experimenting with different VR modes now - some are best with hand-held controllers, some are best with a joystick/game-pad.  VR modes require you to install SteamVR.						

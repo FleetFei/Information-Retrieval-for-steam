@@ -1,0 +1,11 @@
+
+							About This Game
+							'Energy Cycle' – new puzzle game from the developers of ‘Energy Balance’. When you click each cell on the game field - it changes color, and the colors of adjacent cells horizontally and vertically. Your task to bring all the cells to the same color. Sounds pretty easy, but try to do it!
+
+'Energy Cycle' feature three modes for every taste:
+- Puzzle
+(Without timer. Pre-designed puzzles.)
+- Time Attack
+(With timer and scoring. Random puzzles.)
+- Infinite Play
+(Without timer. Like ‘Time Attack’, but you can play it forever.)						

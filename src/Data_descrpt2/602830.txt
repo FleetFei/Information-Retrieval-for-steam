@@ -1,5 +1,0 @@
-
-							About This Game
-							A classic puzzle game. Collect the keys to go to the next level.
-Cross the platforms with the help of springboards, collect coins, calculate the strength of the jump. 
-A fall from the platform will result in the level being completed.						

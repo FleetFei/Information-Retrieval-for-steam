@@ -1,0 +1,11 @@
+
+							About This Game
+							Crimson Nights is a multiplayer dungeon crawler, where players try to survive floors of enemies. 
+
+Players can team up with friends locally or play for themselves in 1 to 4 player action! 
+
+There are 4 game modes: 
+-A dungeon crawler game mode that players descend infinitely down different dungeons. 
+-A survival mode where players fight in one room against hordes of enemies. 
+-Player vs Player where people can fight each other to decide the best player. 
+-And a floors mode where an objective can be set for players to reach.						

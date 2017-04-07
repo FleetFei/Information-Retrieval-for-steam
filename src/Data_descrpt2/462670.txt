@@ -1,3 +1,0 @@
-
-							About This Game
-							VR-Xterminator is a VR Indie Arcade Shooter, designed with an artistic Pixel-Style to revive the nostalgic Arcade Hall Experience. While its' core gameplay is inspired by classic Arcade Games, such as "Centipede", we translated the game into a modern 360° VR Environment and added innovative VR Motion Control and modernized features. Game-Features: a 3D- and 360°- Environment fully Virtual Reality optimized Player Control controllable Player Vehicle Platform Weapon Magazine Management versatile PowerUp System increasing difficulty with each round local Highscore						

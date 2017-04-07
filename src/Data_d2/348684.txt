@@ -1,0 +1,31 @@
+
+							About This Content
+							20 custom voices will become available for selection during custom character creation in "Edit Mode".
+*The lines used by these voices are the same as those used by other custom voices.
+
+Cast
+Custom Male Voices
+Pure 3: Kousuke Oonishi
+Hot-blooded 3: Masato Kokubun
+Optimist 3: Ikuto Kanemasa
+Refined 3: Yoshimitsu Takasugi
+Calm 3: Kousuke Oonishi
+Hero 3: Ikuto Kanemasa
+Leader 3: Masato Kokubun
+Samurai 3: Yoshimitsu Takasugi
+Veteran 3: Daiki Hamano
+Silent 3: Ryo Iwasaki
+
+Custom Female Voices
+Innocent 3: Kasumi Hitosugi
+Young 3: Mayu Isshiki
+Graceful 3: Yuna Taniguchi
+Active 3: Sanae Nakata
+Determined 3: Yukari Ishii
+Calm 3: Yoko Fujita
+Old-fashioned 3: Mayu Isshiki
+Alluring 3: Chieko Kagose
+Brave 3: Yukari Ishii
+Overbearing 3: Mari Hagai
+
+* The images are from an in-development build and may differ from the final version.						

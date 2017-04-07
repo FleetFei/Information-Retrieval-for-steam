@@ -1,0 +1,31 @@
+
+							About This Game
+							"Rogue Port - Red Nightmare" is a turn based modern RPG that uses a 16 bit graphic style and an in game day/night calendar system with dynamic lighting where you name your friends and pet dog at the beginning of the game, choose one of three classes for your primary character and answer a series of questions to determine your primary character's stats.
+
+Features include : Dynamic Equipment (main Player's character sprite changes based on what apparel is equipped). 
+
+Day and Night System (1 second is a minute in game time), Calendar System (4 total months for each Season). 
+
+Dynamic Lighting (different lighting in exterior cells based on time). 
+
+Random Trash Can Items (each searchable trash can in the game offers 1 of 3 random items). 
+
+Stamina Sprinting (you can only run until you run out of stamina). 
+
+Temporary Fog of War (cave and dungeon tiles are only visible around the Player in a small radius).
+
+Secret Chests (every map in the game that has enemies has a secret chest that will only appear when all the enemies are defeated on that map). 
+
+Portals (there are a total of 30 different portals, each appearing on a different day on the calendar regardless of the season). 
+
+Animated Battlers and Backgrounds (enemies you fight in battle are animated as well as the background). 
+
+Dynamic Music (soundtrack will change depending on if it's day or night time). 
+
+Arcade Games (two arcade games that both have unique prizes called "StarShot" and "Jumper" can be played). 
+
+Player's Garden (behind the Player's house, there is a garden that allows them to grow up to 4 crops at once. Crop grade depends on how many times you've watered them before harvest and eating them will increase your max stamina meter). 
+
+Seasonal Town Festival (at the end of each month, a festival starts in the City of Rogue Port where the Mayor will judge contestants crops for a chance at unique prizes that cannot be found elsewhere). 
+
+Original music compositions by Cwglassmusic and Kain Vinosec.						

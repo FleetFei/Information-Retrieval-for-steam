@@ -1,0 +1,7 @@
+
+							About This Content
+							This provides tools for creation and uploading Workshop content for Simutrans.
+Included applications are:
+SimutransWorkshop - Workshop uploader for Simutrans
+MakeObj - PAK file creation tool
+TileCutter - Application to make it easier to create tiles for use with MakeObj.						

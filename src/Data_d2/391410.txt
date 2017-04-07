@@ -1,0 +1,19 @@
+
+							About This Game
+							"Rock, the Tree Hugger" is a casual arcade-style game where you must "save" humans and "hug" trees all while rushing against an impending forest fire in increasingly harder levels. 
+
+The goal of "Rock, the Tree Hugger" is to "save" a certain number of humans and "hugging" a certain amount of tree score. 
+You are a rock rolling around colored forests with one goal: avoid the fire; and "save" humans, AND "hug" trees! 
+You control the rock by holding down left-mouse button and moving the mouse around. 
+
+Green trees give you normal score. 
+Red trees speed you up, like taking Methamphetamine. 
+Blue trees slow you down, like after taking Methamphetamine. 
+Yellow trees give you double score. 
+Orange trees reduce your size, like working out. 
+Purple trees increases your size, like eating donuts. 
+Humans increase your 'save humans' score. Save has apostrophes for a reason... 
+Fire will kill you. Don't touch fire. 
+
+
+Can you hug all the trees, and save all the humans?						

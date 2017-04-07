@@ -1,0 +1,10 @@
+
+							About This Game
+							'Bacteria' - A new puzzle game from the creators of 'Energy Balance' and 'Energy Cycle'.
+ 
+This game is based on the rules of the cellular automaton ‘Life’ devised by John Horton Conway in 1970.
+(You can read more about how it works in greater details here: http://en.wikipedia.org/wiki/Conway's_Game_of_Life )
+ 
+In 'Bacteria' you have a square game field that is in some form of a stable state.  You need to add in a certain number of cells so that, after a few steps, the field will be halted (in colored mode) or even cleared (in "hard" black & white mode).  You could draw in single points, or use standard 'Life' patterns like "Gliders" (they move at an angle) and "Lightweight spaceships (LWSS)" (they move in a straight line).
+ 
+Depending on the difficulty level, the player can use a smaller area to add new cells.						

@@ -1,0 +1,8 @@
+
+							About This Game
+							It's a fun puzzle game. You have to connect as many figures as possible together. Use yellow "shifters" to change direction of the line. Get more points for longer line.
+
+- Different modes (Ranking levels, Randomly generated levels)
+- Different elements (Blank, Connectors, Shifters, Locked Shifters, Bonus connectors)
+- Different difficulty levels (Grids: 7x7, 9x9, 11x11, 13x13)
+- Great soundtrack						

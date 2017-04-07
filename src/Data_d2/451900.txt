@@ -1,0 +1,17 @@
+
+							About This Game
+							WizardCraft is a fantasy-themed real-time strategy (RTS) game where players try to destroy AI opponents by collecting resources and creating an army. The game is played in a medieval setting with fantasy elements, where both sides have melee (knights), ranged (archers), aerial units (dragons), and spell casters (wizards). Most of the missions follow the pattern "collect resources, build buildings and units, destroy opponents".
+
+The game is played by building up a working economy to produce military units, and then going to war against AI enemies. Iron and coal is needed to produce weapons that are needed to 'recruit' soldiers, which in turn requires mines and food production. All buildings require wood and stone to build, and all peasants need living space, which results in a complex chain of infrastructure required before big armies may be produced. Upgrade points earned during combat can be used in the Castle to upgrade various units. The Castle is considered as the central hub in the game, if it is destroyed it's game over.
+
+WizardCraft currently contains 30 missions and two different skirmish modes, 'normal mode' and 'battle mode'. Battle mode is a quick mode which only uses two resources 'wood' and 'gold' to produce buildings and units, this allows players to quickly build an army so players can focus more on the attacking aspect of the game. Normal mode contains all 29 different resources available in the game and players must create a stable economy in addition to managing an army. Both skirmish modes can be further customized to increase the cap limit on buildings and units, as well as the stats of each individual unit, allowing players the freedom to play the game however they decide.
+
+The game's easy to use map editor also allows players to develop maps for use in the skirmish modes.
+
+Key Features Include: 
+Over 30 missions; 
+Skirmish mode containing over 50 different maps and a fast paced 'Battle' mode which allows players to focus more on attacking enemy players. 
+Create your own skirmish maps with our easy to use map editor. 
+3 different difficulty levels. 
+Real-time battles with up to 600 units. 
+Take control of 12 different units, including archers, knights, cannons, wizards and dragons.						

@@ -1,3 +1,0 @@
-
-							About This Game
-							Very Real Chess is one of the first Virtual Reality chess games created specifically for a Steam VR experience. Compete one-on-one with AI in a fully featured chess environment.Key Features:Move around in a simplistic room-scale or standing-only game environmentPlay against the computer with one of the best AI in the world -- the Stockfish chess enginePlay on either side as white or blackWrong move detection tells you when a move is not possibleOverhead view allows the player to see the chessboard from above like a traditional 2D chess gameInterested in developing your own virtual reality experience? Very Real Chess is released under the GPL 3.0 license, so contact the developer for source code!						

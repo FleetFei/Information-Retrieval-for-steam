@@ -1,0 +1,20 @@
+
+							About This Game
+							Grid based first person RPG, dungeon crawler game.
+12 playable characters.
+
+Warrior :A knight trusting in their body.
+Crusader :A knight shielding others.
+Fencer :A swordsman possessing strength and skill.
+Chaser :A ranger who reads the path ahead.
+Dark Knight :Those who have sworn themselves to darkness.
+Enchanter :A knight wielding macigal powers.
+Hunter :A nimble hunter.
+Felpurr :Those without a care in the world.
+Magician :A researcher of the magical arts.
+Cleric :A priest healing the wounded.
+Druid :One who mutters curses.
+Mystic :An eccentric wizard.
+
+Old classic style game.
+now version 1.032						

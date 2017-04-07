@@ -1,0 +1,13 @@
+
+							About This Game
+							Fine China is a VR 'you-break-it-you-buy-it' simulator for the HTC Vive. 
+
+Put on your oversized backpack and have make your way through an antique store. The faster you reach the register, the higher your score, but be careful not to break too much!
+
+Alternatively, let out your inner hooligan in Destruction mode where you do as much damage as possible in a set amount of time. 
+
+The game is meant for roomscale and uses the WalkAbout locomotion system which allows you to rotate around your play area, independent of your position in game, so you never run out of room. 
+
+In the game you wear the backpack by placing your controller behind you in your belt or back pocket, so either a belt or pants are required to play the game.
+
+I'd recommend to try the free demo, which represents the finished game, but with limited content.						

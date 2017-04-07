@@ -1,0 +1,87 @@
+
+							About This Game
+							The Worm is a game that mixes the classic with innovation!
+
+The protagonist is “the worm”, he stretches every time you turn on the blocks below and he can not touch his body with his head.
+With the button ‘turbo / god mode‘ the worm rushes impulsively and can destroy enemies!
+
+The mazes are always random and unpredictable because they are procedurally generated.
+The goal is to tap more blocks as possible to pass the levels!
+Good fun!
+
+The goal is to drive the worm through random mazes to reach more 'save points' as possible.
+After turning a box the worm stretches, creating the dynamics of the classic games like “Snake” !!!
+
+Of course the worm can not touch the body with the head, otherwise it will be GAME OVER !!
+
+Game Features:
+
+Multiple maps!
+
+There are four types of randomly generated maps:
+
+– Labyrinth normal: classic labyrinth without walls
+– Labyrinth with walls: maze with walls that prevent the fall of the worm.
+– Caves normal: caverns map without walls
+– Caves with walls: caves map with walls that prevent the fall of the worm.
+
+Persistent maps!
+
+Was improved the storage of the current game, with the preservation of the map for a level failed.
+
+Enemies
+
+Enemies follow the main character moving and jumping.
+There are TEN enemy types, with different characteristics and speed.
+The more advanced enemies can not be killed by jumping on them.
+
+Bonuses
+
+Bonuses are spherical objects placed randomly on the maze.
+They can be moved and are deadly for the enemies.
+
+Unlimited levels
+
+The game is practically infinite, the number of levels is unlimited and therefore the real challenge is to fill as many blocks as possible to become a legend.
+
+Multiple cameras
+
+In the game you can select various types of cameras:
+– Normal (the camera gently follows the movements close the protagonist)
+– Map (the camera is fixed from above)
+– Dynamic map (the camera is at the top and follows the rotations of the protagonist)
+– Dynamic (the camera follows the protagonist in the third person, with the view from below)
+
+Multiple game modes
+
+You can select various game options, including the camera, game difficulty levels, the number of enemies and their speed.
+All this to offer an even richer gameplay.
+
+Full game statistics
+
+The game saves the complete statistics of the game in progress, including the score, time played, enemies destroyed, blocks filled, jumps, levels completed, levels failed etc.
+In this way, lovers of statistics will have even more pleasure in playing.
+
+Full game rankings
+
+The game will store up to 100 high scores with its partial statistics.
+This will make real the challenge to become a legend !!
+
+Full procedural generation, exploration and discovery
+
+Each level is generated procedurally with the algorithm of construction of random ‘Dungeon’.
+Even the main character, enemies, blocks and everything are placed and constructed randomly.
+In this way, the game is always unpredictable and dynamics are always unknown.
+
+Fight and strategy
+
+In each level there are the bases from which the enemies will appear.
+These enemies will follow you to kill you.
+This way to overcome the levels you’ll also face fierce fighting from enemy waves.
+
+Incremental difficulty
+
+With the advancement in the levels, these become ever larger and increasingly difficult mazes.
+It also increases the number of enemies and the number of blocks present and to save.
+In this way, with the advancement in the game becomes more difficult and challenging to become a
+legend!						

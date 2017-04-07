@@ -1,0 +1,27 @@
+
+							About This Game
+							RTS Creator is the easiest way to create Real Time Strategy games.
+
+RTS Creator enables anyone to create their very own Real Time Strategy game with no prior coding experience. 
+
+With RTS Creator you can create a variety Real Time Strategy style games including the following - 
+•	Classic 
+•	Adventure 
+•	Tower Defense 
+•	Space 
+���	2D 
+
+RTS Creator contains the following features and will continue to grow. 
+•	AI 
+•	Heads Up Display (HUD) 
+•	Units 
+•	Turrets 
+•	Structures 
+•	Factions 
+•	Obstacles 
+•	Particles 
+•	Resources 
+•	Weapons 
+•	Technology Trees 
+•	Menus 
+•	Levels						

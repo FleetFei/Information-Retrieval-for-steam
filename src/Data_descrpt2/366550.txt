@@ -1,3 +1,0 @@
-
-							About This Software
-							No need to be an artist. Create nice textures in a few minutes.This software allows you to create textures by combining basic operators.You stack operators in a hierarchical fashion to get a result.Simple and fast UI.128bit internal resolution to prevent loss of higher range when combining effects.Try the demo first to make sure it works on your PC.The projects created with the demo are compatible with the full product.Limitations:    English only, no UNICODE support for filenames (when saving/loading), only basic ASCII.    The UI is not customizable, i.e. font, font color, font size, window color.    Export formats supported: JPG, TGA, TIFF ( Export is disabled in demo ).						

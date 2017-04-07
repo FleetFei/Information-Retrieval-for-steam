@@ -1,0 +1,3 @@
+
+							About This Game
+							This is a remake and expansion of an earlier PuzzleScript game, Signal. What I thought was so brilliant about the original is that while the rules never change, the level design is such that your ability to fully comprehend and exploit those rules shifts radically over time. The early levels are trivial to figure out — it looks at first like a standard block-pushing game — but it turns out that even the basic mechanism through which you were interacting with those puzzles works differently than you could have intuited. There are at least five revelatory moments and each delivers a nice little jolt of discovery and recontextualization.Features:Puzzle ExplorationNon-linear narrativeDark and mysterious cybernetic atmosphere						

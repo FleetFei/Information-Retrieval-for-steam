@@ -1,0 +1,9 @@
+
+							About This Game
+							A nice little 3D puzzle platformer that takes after a lot of my fond memories with great N64 games! This title won 3rd place during the 64digits 2014 spring contest!
+
+Play as Mayfly, a young girl literally snatched away from her normal life by Ferace, a humongous​ demon. Mayfly is weak and powerless, knowing nothing of combat, so instead she must use her wit and agility to get as far away as possible from Ferace and the mindless monsters that he warns her about.
+
+In her adventure she encounters many tools, all of which prove to make for bad weapons in her hands, think about what the tools are good for in real life and it will all come together.
+
+Back in 2014 This game was originally designed to play with keyboard and mouse, the option to support gamepad controls was added later on demand using Game Cube and Logitech controllers. While those can work the game just fine, X-Box360 and similar controllers has a different analog axis orientation which was not able to be tested originally when building the gamepad support.						

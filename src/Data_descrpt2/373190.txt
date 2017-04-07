@@ -1,3 +1,0 @@
-
-							About This Content
-							The Epanalepsis Papers is made up scans from designer and developer Cameron Kunzelman's notebooks from the development of Epanalepsis. Presented alongside additional essays and annotations, The Epanalepsis Papers offers a deeper look into the creative process behind the exciting adventure game Epanalepsis.To view this file, right click on Epanalepsis in your game list, go to "properties", go to the "local files" tab, and click "browse local files". The pdf will be in the "The Epanalepsis Papers" folder.						

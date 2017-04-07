@@ -1,0 +1,7 @@
+
+							About This Game
+							SquareCells is an ambient logic puzzle game.
+
+Reveal the pattern in the grid using the surrounding clues.
+
+Includes 36 brain teasing puzzles.						

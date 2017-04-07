@@ -1,3 +1,0 @@
-
-							About This Game
-							Neon Warp is a simple yet very unique puzzle game. On each level there are blocks of 3 colors. When you move the frame from a block of one color to a block of another a third color appears. Using this technique your goal is to repaint all blocks into a single color and you need to do it with least amount of turns.Features150 levelsTime trial mode with 10+ levelsFull controller supportSteam achievements and leaderboards						

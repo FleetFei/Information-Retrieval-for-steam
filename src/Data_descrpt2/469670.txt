@@ -1,3 +1,0 @@
-
-							About This Content
-							This high-quality character, designed exclusively for Leadwerks Game Engine, includes high-res 4096x4096 textures, an assault rifle, and a prefab set up to work with the Leadwerks soldierAI script. Drop him into your game, set his team to "good" or "bad", and watch him fight!Texture Resolution: 4096Polygon Count: 12,970Source art is included in FBX, PNG, and BMP formats.AnimationsDeathFireHitIdleMeleeRunWalk						

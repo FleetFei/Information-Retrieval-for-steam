@@ -1,0 +1,9 @@
+
+							About This Game
+							RoboBlitz™ is a humorous, physics-based action game full of inventive gizmos, weapons, characters, and environments. Players take on the role of Blitz, a multi-talented robot who must activate an aging Space Cannon to save his world from a band of maladjusted space pirates.
+					
+					19 levels of puzzle-solving and high-intensity action, set in 7 unique environments
+					Humorous characters and unique weapons
+					Gameplay entirely driven by physics
+					Advanced robot simulation and control theory
+					Powered by Unreal® Engine 3						

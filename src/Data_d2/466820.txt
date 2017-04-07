@@ -1,0 +1,31 @@
+
+							About This Game
+							This is not a drill! I repeat: This is not a drill! Suit up, strap in, and start blasting! Operation Zenodyne-R starts here!
+
+Zenodyne R is a new 90s-style shoot-'em-up game filled with YM2612 music and real Blast Processing action, where your reflexes and patience will be tested in their entirety!
+
+Comes with all the features you may enjoy, like:
+
+- 6 stages that keep raising the bar!
+
+- 5 unique ships with different pilots and playing styles!
+
+- Unlockables that you unlock by gaining Tech Points from clearing stages. 
+Gain even more Tech Points by going the high road, if you are ready.
+Unlock ships, pilot biographies, lore, and even extra credits!
+
+- Branching paths that increase more than the difficulty!
+
+- Blast Processing bullet patterns!
+
+- A 25 track YM2612 soundtrack by Hal "HeavyViper" Binderman
+
+Controls (default, can be rebinded)
+
+Arrows - movement
+
+Z - Shot
+
+X - Bomb!
+
+Shift - Altfire!						

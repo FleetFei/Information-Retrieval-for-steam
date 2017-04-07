@@ -1,0 +1,8 @@
+
+							About This Game
+							Game rule
+Every turn, the player of that turn must play a card that give you a total value greater or equal the total value of the opponent, in case of a draw, both player's cards on the field is removed, and both players draw 1 card. (For example, if i have 3 on the field, and my opponent have 2+3, you must play a card that added to your current value gives you 5 or higher, so in this case any number higher or equal than 2 are good.)
+At the end of the game, which is when both player have no cards in their hand, the player that have higher value will win. Also you must surpass your opponent every turn, if you don’t you will lose even if you still have in your hand.
+
+Card type
+Cards are divided into two types, 1~8 are ordinary cards, J, Q, K, Z are special cards, special cards can reverse the situation.						

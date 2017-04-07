@@ -1,3 +1,0 @@
-
-							About This Content
-							The Chroma Key extension for the PlayClaw overlays composites captured gameplay video with a real time webcam feed (or other overlays video) based on color hue (chroma range). Or in other words, "Green Screen". All you need to do is select a Chroma Key color and the software will make that color transparent thereby revealing gameplay video in the background.						

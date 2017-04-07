@@ -1,0 +1,13 @@
+
+							About This Game
+							Bipolar is a game with a simple premise. Get your player object to the end green portal using the magnetic polarities of positive and negative to assist you in reaching that goal. Unlike most games, there is no traditional jumping. The power of magnets is your best friend here.
+
+Featuring unique and original gameplay, Bipolar is quite unlike any other game out there. Featuring 50 levels of differing challenges and gameplay, the game appeals to players of all types whether your casual, moderate or hardcore. The game also features levels of various themes and challenges, meaning that you will never know what to expect.
+
+Levels vary from your typical earth-like gravity to more abstract space-style levels where there is a distinct lack of it, and must use your polarities to affect your direction of float to enable you to accomplish your tasks.
+
+Game elements are scattered throughout the levels. Some to assist you (cameras, polarity platforms, pinball bumpers etc) and others which are best avoided (mines, trip-wires etc).
+
+Winners of the Monash award for most outstanding student work (Caulfield campus) in studio 2010 and entrants in the Independent Games Festival (entered in both Commercial and student categories), Bipolar is the outstanding work of just four students. Later work on the game was done solely by Jason Free.
+
+Bipolar is not only a game where you get to play levels. You can make your own if you so wish. Featuring a level editor created by lead programmer Tom Parry, so that you will be free to create levels of your own to give to your friends or share with others online. Simply run the editor and the rest is limited only by your creativity.						

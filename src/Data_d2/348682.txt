@@ -1,0 +1,31 @@
+
+							About This Content
+							The residences will become available for selection in Empire Mode, and the scenarios will become available for selection.
+
+* How to use
+The residence can be selected by going to "Settings" -> "Select Residence" under the "Info Menu".
+The scenario can be selected by going to "Downloadable Content" under "Select Scenario".
+
+* Added Residences
+・Camp Residence
+・Camp (Audience Chamber)
+・Amusement Park Residence
+・Amusement Park (Audience Chamber)
+・Military Residence
+・Military (Audience Chamber)
+・Science Fiction Residence
+・Science Fiction (Audience Chamber)
+・Tropical Residence
+・Tropical Residence (Audience Chamber)
+・Retro Residence
+・Retro (Audience Chamber)
+
+* Added Scenario
+・Three Kingdoms
+・Marauders' Masquerade
+・Swimsuit Paradise
+・The Coming Invasion
+・Rival Warlords
+・Familial Conflict
+
+* The images are from an in-development build and may differ from the final version.						

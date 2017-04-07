@@ -1,0 +1,11 @@
+
+							About This Game
+							 "Book of Merlin" is a VR puzzle game with magic style. The game is developed with
+ Unity3d engine and it supports HTC Vive. In the game you will act as the descendant
+ of Wizard Merlin, you need to solve different puzzles remained in the Magic Tower 
+with your wisdom. You will get the unique power from the book of Merlin after 
+crack the seal!
+
+《梅林之书》是一款魔幻风格的密室解谜游戏，面向HTCVIVE硬件设备开发，
+采用U3D引擎制作，游戏中玩家作为人类世界中梅林大法师的后人，
+需要通过智慧破解梅林的魔法塔存留的谜题。最终破解封印，成功获���梅林之书的力量						

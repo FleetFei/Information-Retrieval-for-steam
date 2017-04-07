@@ -1,0 +1,20 @@
+
+							About This Game
+							KINGDOMS is a procedural medieval RPG in a randomly generated open world. The main feature of KINGDOMS is a smart AI system that completely controls NPC behavior. As the player, you can fully interact with this massive world and become any person you want to be.
+
+MAIN FEATURES
+
+>>DYNAMIC WORLD
+During the game, the world changes constantly: settlements appear, new houses, taverns, and shops are built. NPCs decide for themselves what to build next and how their settlement should be developed; and of course this living world reacts to any players' actions.
+
+>>LIVING AI
+Each npc has his own life goal and acts depending on this goal. Every NPC is unique - temper, motivation, reputation, skills and many other parameters affect NPC behavior. Even when NPCs have the same goal, this goal can be reached in different ways depending on situation.
+
+>>FREEDOM
+You can do anything you want, you can go anywhere you want. Explore caves and ruins, fight wild animals and bandits, trade with other characters, open shops, taverns or manufactories, create settlements or even whole kingdoms and manage them or just help other people. It’s up to you!
+
+>>DYNAMIC COMBAT
+As with all other aspects of KINGDOMS, we want to make combat as realistic as possible. The movement of your sword depends on mouse movement. Our goal is to make combat intuitive and give you a challenge. One perfect strike can be the final one.
+
+>>K-EDITOR
+Our mods editor, K-Editor, allows you to make any kind of modifications from new items to global mods. World, quests, AI, items, creatures - All can be changed or modified.						

@@ -1,0 +1,10 @@
+
+							About This Game
+							Chaostower is a physics-based action puzzler.
+
+Build a tower from a whole bunch of different parts and prove it against several natural forces like earthquakes, wind and meteors.
+Defend your tower against artificial enemies, like robots, tanks, bomb-birds and many more.
+Improve your turret defense by a set of automatic cannons with different abilities (machine gun turrets, cannons or gravity guns)
+or directly control a configurable robot drone.
+
+Featuring more than 30 levels in 5 different scenarios and different level objectives.						

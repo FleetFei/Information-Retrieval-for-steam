@@ -1,0 +1,16 @@
+
+							About This Game
+							Snik is an extremely hard game that will test your reflexes, timing, aiming and planning ahead in a simple, minimalist interface.
+You control a dark blue colored ball. Clicking a position in the screen will make the ball travel to that position in a straight line. You need to collect all golden orbs to win.
+
+You lose the game by hitting barriers. They come in red, light blue, purple and green flavors.
+
+BLUE - Standalone, stationary barriers.
+
+RED - Rotates around a parent barrier in a circular orbit.
+
+GREEN - Moves along a defined path in a loop.
+
+BLACK - Stationary, disappears when a certain orb is collected.
+
+In some levels, you have orange colored purple orbiting around you. You need to protect them too!						

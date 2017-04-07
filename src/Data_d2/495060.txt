@@ -1,0 +1,23 @@
+
+							About This Game
+							Table Tennis VR is an authentic and realistic virtual reality game for the HTC Vive. Experience the fun of table tennis with the possibilities of virtual reality.Photo-realistic graphics powered by Unreal Engine 4.
+Motion controllers and haptic feedback help provide a truly immersive gameplay experience.
+Realistic physics and sounds.
+Play against AI to hone your skills.
+Play in different locations.
+More than just ping pong:Table Tennis VR provides a variety of minigames, gamemodes, and locations.The current gamemodes include:AI Match- play a full round of table tennis against the computer. 
+Endless- play endlessly against an AI. No scoreboards or rules. 
+SelfPong- teleport to the opposite side of the table to return your own swings.
+HoloPong- hit the ball against a holographic wall that keeps score of how many times you hit it. 
+Current Locations:Basement
+Gym
+Hotel
+Rooftop
+Planned features:Multi-player
+Beer Pong
+Multi-ball
+Survival
+Space
+Customization
+Online Leaderboards
+						

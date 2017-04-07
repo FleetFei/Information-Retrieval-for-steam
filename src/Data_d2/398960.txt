@@ -1,0 +1,31 @@
+
+							About This Game
+							Welcome to the world of Hoven! Join Bradley and his friends on an adventure that transforms into an epic quest! Traverse dangerous dungeons and battle fearsome foes. Discover the truth about who you are and what you have to do to save the world from the evil sage, Maluma! The fate of hoven hangs in the balance, will you rise to the challenge?
+
+Notable Reviews/Accomplishments:
+
+Hoven has been Featured at the ScrewAttack Gaming Convention 2 years in a row! We were also invited to Super Bit Con and the Arkansas Gaming Con.!
+
+Hoven received a 7/10 review from The Platformer at SGC 2015! 
+
+Hoven has been played and enjoyed by youtubers such as: Matpat, Johntron, and Wretch Plays!   
+
+What to expect from Hoven:
+
+1. Exceptional music- Hoven's soundtrack, composed by DjEnob, is one of it's main staples. With over 40 different tracks, and themes ranging from ambient to 
+    just plain silly, there will be a little something for everyone to enjoy!
+2. Innovation- Hoven is the FIRST RPG Maker title to be fully compatible with the DualShock 4 controller! Just be sure to plug it up before you launch the game!
+3. A good amount of game time- Hoven has a roughly 12 hour main story time with plenty of extras such as secrets and side quests!
+4. No vulgarity!!
+
+CONTROLS:
+
+KEYBOARD: Walking- Arrow keys
+                  Use/Confirm- Space bar/ Enter
+                  Menu/Cancel- 0(ins)/Esc.
+                  Confirguration- F1
+                  Main menu- F12
+
+Dualshock 4- Walking- Left stick
+                   Use/Confirm- Circle
+                   Menu/Cancel- X						

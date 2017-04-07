@@ -1,0 +1,6 @@
+
+							About This Game
+							The Gleam: VR Escape the Room is a short room-scale experience designed to provide an immersive, claustrophobic, obstacle course full of puzzles and codes that you must solve in order to escape.Full room-scale based on minimum room-scale requirements. No teleporting or artificial locomotion.
+Horror ambiance provides a constant lingering fear that you aren't alone in the "gleam".
+Creative obstacles have you crawling through vents as you search high and low for items that'll help you solve puzzles.
+						

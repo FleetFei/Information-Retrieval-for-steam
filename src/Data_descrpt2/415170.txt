@@ -1,5 +1,0 @@
-
-							About This Game
-							Engare is a game about movement and geometry. Part puzzle game, part drawing tool, Engare is a all about your geometric imagination. 
-By selecting a point on a moving object, players trace delicate shapes in the air and hopefully match the target glyph for that level. It’s a meditation on the dynamics of simple machines and the beauty buried deep within repeating motion. 
-The game also offers a sandbox where players can draw their own geometric shapes and patterns using the systems introduced in the game. It allows the player to export their drawings as images or 3D models.						

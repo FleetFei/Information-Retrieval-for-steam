@@ -1,7 +1,0 @@
-
-							About This Game
-							Huge letters loom in the darkness of the RNG. The sinister organisation of the ILLUMINASCII conspire to bring forth a New World Order throughout all the ascii land. As the lowly @ symbol, can you defeat their agents and overturn the conspiracy? 
-
-Illuminascii is a new first person shooter with an ascii text based visual style that features randomly generated content and roguelike / rpg elements. Monsters, weapons, armor, levels and cutscenes are all created with random characteristics. 
-
-The aesthetics of a roguelike, in a modern engine.						

@@ -1,3 +1,0 @@
-
-							About This Game
-							The Lost City of Malathedra is a graphic adventure game heavily inspired by classics such as The Fate Of Atlantis, The Dig, and the Kings Quest series. It is built on EDI's in house engine specifically designed to create games that take advantage of the latest 3D hardware capabilities while retaining a nostalgic feel and supporting modest system specs. Malathedra's advanced engine and classic focus appeals to both modern and retro adventure fans.						

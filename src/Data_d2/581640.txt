@@ -1,0 +1,4 @@
+
+							About This Game
+							NumberLine - addictive puzzle game in which you have to repeat the image of the figures. But this is not so easy - in fact you can only create units with number "One". Fortunately, figures interact with each other.You can create only a block with "1", but it also increase nearest numbers by one.Pleasant soundtrack, beautiful design and a low level of difficulty will help you to relax, and the high level will strain gyrus.Features: Pleasant soundtrackMinimalistic designSimple but addictive gameplayComing soon:
+Different modesLevel editor						

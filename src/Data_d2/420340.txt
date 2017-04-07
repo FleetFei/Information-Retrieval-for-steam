@@ -1,0 +1,17 @@
+
+							About This Content
+							This scenery is designed to be used with Ilan Papini's Vehicle simulator.
+
+It makes extensive use of autogen objects and animated traffic, so it may be a little demanding with old computers.
+
+Dozens of harbors and marinas, as well as many airports are included.
+It covers the entire territory of Spain, Portugal, as well as some areas of South France, Morocco and Algeria.
+
+These are some of the special features of this scenery:
+Large and complex library of autogen objects to create a living populated scenery. 
+Animated traffic, You'll find maritime traffic both in harbors and at open seas, as well as airplanes and helicopters. 
+Land class textures including urban areas, created by using real data from European Space Agency data.
+Many scenery sounds.
+New visual effects for lighthouses, sky and new environment sounds. 
+It covers a large area with detail, including many large harbors, airports, wind farms, lighthouses... 
+Multiple ship/plane wrecks scattered on the sea bottom all over the scenery.						

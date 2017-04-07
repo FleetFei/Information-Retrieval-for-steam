@@ -1,0 +1,10 @@
+
+							About This Game
+							Zero G Arena is an online multiplayer, 3rd person arena shooter, with zero gravity. Players have magnetic shoes that can be turned on or off to switch between running on magnetic surfaces and floating. Players also have a grapple beam, which can be used for swinging or pulling towards objects or surfaces, as well as a wall jump, which can be used to kick off from surfaces while floating.
+
+The mechanics can be used in combination for a practically unlimited range of manoeuvres. The zero gravity mechanic is supported by ragdoll physics, so that the in-game avatars react convincingly to forces and the environment.
+
+The aforementioned magnetic surfaces can be at different angles to each other, allowing for interesting situations such as where your wall is another player's floor.
+
+
+The game is still at a fairly early stage of development. I recommend reading the Early Access section above for more information on it's current state before purchasing.						

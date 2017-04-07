@@ -1,0 +1,12 @@
+
+							About This Game
+							AVSEQ is an audio-visual sequencer puzzle game. Connect falling atoms to unlock near-endless varieties of music at each stage. Every level of AVSEQ is a music sequencer with 2.2300745198530623×10^43 possible audio permutations, that's 22 tredecillion in total!
+
+No, we're not making those numbers up. We actually did the math. This is a generative music game designed by procedural systems wizard Tom Betts, and it provides a colorful, beautiful challenge to even the most hardcore of puzzle-game experts.
+
+Key Features
+
+Infinite freeplay mode
+Generative unlockable music
+Twenty-two tredecillion audio permutations
+						

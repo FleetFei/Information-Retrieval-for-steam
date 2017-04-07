@@ -1,0 +1,17 @@
+
+							About This Game
+							3 Coins at School is a simple and funny game that can be played in both single and multiplayer mode. 
+
+The game is turn-based, attack and defense. 
+
+The attack turn can be divided in 3 parts: 
+
+1 - Break the "20 cent" coins with the "Euro" coin, then choose which 20 cent coin to pick to start the next step. 
+2 - Intersect the other two coins to get closer to the opponent's box. 
+3 - Strike in the opponent's box 
+
+The 2nd step is not mandatory. You can break the coins and directly strike in the opponent's box, but as you are far from it, will be more difficult to score. 
+
+When playing the defense turn, try to stop the opponent' strikes by moving your middle finger. 
+
+The first player who scores 5 times wins the game.						

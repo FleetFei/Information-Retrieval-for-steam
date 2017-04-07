@@ -1,3 +1,0 @@
-
-							About This Game
-							Logical game, where you have to connect all the light bulbs to the power supply. Features:Four levels of difficulty, differing not only in size playing field, but also the possibility of passage of electricity from one end of the field to the other end of the field. Completely random generation of the playing field, not based on any templates and patterns. Each new game will be unique. Saving the top ten results. Convenient controls: moving, scaling.						

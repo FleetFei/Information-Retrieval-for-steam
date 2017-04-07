@@ -1,0 +1,20 @@
+
+							About This Game
+							Dolguth is a 2D oldschool brawler for up-to 6 local players. 
+Choose your mech to fight in one of the Dolguth arenas and destroy the other warriors. 
+Each mech is powered with a melee weapon and a 6-bullets cannon. 
+Each pilot has an EMP gun (able to stun mechs) and a grapple to reach impervious zones.
+
+Remember: the pilot of a destroyed mech can repair it ! kill him fast !
+
+The Game requires at least 1 joystick/gamepad for each player.
+Keyboard is supported for single player modes (currently Dungeons and Cliffhanger) but highly discouraged.
+
+Gameplay notes:
+
+- press the grab/throw button when (as a pilot) you want to activate a meditower (to spawn the repairing drone)
+- in Dungeon mode you can voluntary eject the pilot from the mech (to open gates or activate elevators) by pressing the grab/throw button for 2 seconds
+- generally to re-enter into a mech you just need to go over it. The only exception is Dungeon mode where you need to press grab/throw
+- press grab/throw (as a pilot) to enter the gatling turrets (available in some arena) then press the range button to shot
+- the only single player modes are currently the dungeon and cliffhanger, configuring a single player in the other modes is a no-go (you will hear 'ready' for the player but the game will not start)
+- in Dungeon mode, when more than a player is in the game, the camera will always try to spot every alive player until a predefined limit. If the limit is reached, players are required to rejoin themselves.						

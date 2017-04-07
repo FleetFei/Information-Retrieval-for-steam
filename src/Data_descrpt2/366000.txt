@@ -1,9 +1,0 @@
-
-							About This Game
-							Rogue System's goal is to depict the possibilities of space exploration and combat within a realistic environment--choosing not to ignore the "science" in science-fiction. Key features do/will include proper orbital mechanics for all objects in space; detailed ship system control, functionality, inter-dependency and damage reaction; and the ability to move freely from one ship to another, EVA, and effect repairs while in flight.
-
-Rogue System’s Core Module (CM) will be a complete campaign-driven sim on its own. It utilizes both dynamic as well as scripted missions to allow for greater replay-ability while telling an intriguing story.
-
-Finally, Rogue System is fully moddable, allowing both DCI as well as the sim’s community to add new ships, missions, and even campaigns.
-
-Later, Extension Modules (EM) will add even more gameplay.						

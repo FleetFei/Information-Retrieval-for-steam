@@ -1,0 +1,13 @@
+
+							About This Game
+							Pe-2: Diving bomber combines arcade scroller genre and fly-simulator in a universe of World War II. All combat operations take place during the Great Patriotic War on the east battle front. Each mission in game has real historical background for every month of the war. There are different types of missions - bombing enemy grounds, intercept Axis planes, recon missions, supply mission and others. Chose hardcore game mode and upgrade your plane and weapons to cause even more damage to the enemy.
+
+Game features:
+
+    * The game is a mix of genres: Arcade, Flight simulator
+    * The most notable operations of the Red Army: 48 offensive, defensive, assault operations
+    * Tree-like upgrade system: 33 ways to upgrade the player's plane
+    * Two playing modes: Casual, Hardcore
+    * Two control types: Arcade, Realistic
+    * A variety of miscellaneous units: 8 plane types, 28 types of machinery, 30 buildings, 2 ship types
+    * Detailed statistics: Medals and honours, Badges						

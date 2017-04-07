@@ -1,0 +1,21 @@
+
+							About This Game
+							Ridge - it's an adventure game developed by one person, inspired by real events. You will come face to face with danger, riddles and mysteries, against the background of beautiful scenery and terrible caves and dungeons.
+
+Will you reveal the secret?
+Will you survive?
+Will you dare to wade through?
+
+Ridge - a real place, rumor has it that there are very strange things happen. Residents of Volgograd region argue that there is a constant presence of UFOs and other unexplained things. Twisted and scorched trees, force to give serious thought to it.
+
+Product Features:
+- Investigation on the real place
+- The storyline is revealed only at the end, it keeps the player on tenterhooks
+- A huge open world, more than 50 caves, spaces for research
+- An exciting musical accompaniment
+- Find ancient artifacts in the most remote and dangerous locations
+- Large amount of enemies with their own abilities
+- Horror elements
+- Changing day time and weather conditions that have an impact on gameplay
+- Developed on Unreal Engine 4
+- The average duration of the game more than 4 hours						

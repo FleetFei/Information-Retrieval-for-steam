@@ -1,9 +1,0 @@
-
-							About This Game
-							VR Retreat is a place to meditate, chill and play relaxing games in virtual reality. Enjoy different game modes, music and environments and play at your own pace.
-
-Right now this demo has three game modes. The grow game mode in which you control a bubble through space and try to make it become the biggest. The exist game mode in which you can throw bubbles at other bubbles and the meditate game mode in which you can play with particles.
-
-For the exist game mode you can steer the direction of the bubbles with touchpad up. The grow game mode has its own tutorial in game and in the meditate game mode you can just use the trigger and touch pad buttons to attract or push away particles.
-
-We hope you enjoy the demo and send us some feedback.						

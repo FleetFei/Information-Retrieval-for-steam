@@ -1,0 +1,51 @@
+
+							About This Game
+							Stop! You haven't captured the train yet? Didn't  build a base and haven't mastered the planet? I won't jump from a springboard to take the flag! I'll be waiting for you!
+
+Different types of vehicles:
+- Buggy
+- Tanks (NEW!)
+- Hover (in development)
+- Terrain Vehicles (in development)
+- Spaceship (in development)
+- Mega-robots (in development)
+
+Different modes:
+- Building base
+- Capture a train
+- Capture the flag
+- Deathmatch
+- Hover-racing with shooting (in development)
+- Capture the points (in development)
+- Capture the fort (in development)
+- Mega-robot vs All (in development)
+- Clan wars (in development)
+- Tournaments (under development)
+- Co-op mode (in development)
+
+Modular editor vehicle:
+- Primary weapon (blaster / gun, etc.)
+- Secondary Weapon (shocker, energy shield, etc)
+- Armor Plates
+- Protection of the wheels
+- Spoilers
+- Colors
+- Trails
+- Wheels (in development)
+- Camouflage (in development)
+- Flags (in development)
+- Toot (in development)
+- Engine sound (in development)
+
+Building base:
+- The main building, which generates income
+- Other 10 buildings (in development)
+- Ability to build springboards (in development)
+- Teleports (in development)
+- Clan Base (in development)
+
+Communication:
+- Chat
+- Invitation to battle(NEW!)
+- Clans (in development)
+- Friends (in development)						

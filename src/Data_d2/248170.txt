@@ -1,0 +1,10 @@
+
+							About This Software
+							Game and software creation has never been easier or quicker than with Clickteam Fusion 2.5! Discover the tool used by so many multimedia professionals, game creators, and creative people from all walks of life.With CF2.5’s amazing event editor system you are able to quickly generate games or apps without mastering a traditional programming language.Within your first hour you will have learned the basics of the tool. Compile a windows app with a mouse click, Or target additional platforms like iOS, Android, Flash and XNA (Windows Mobile phone and Xbox) with the purchase of our optional exporters. Harness the power of Clickteam Fusion 2.5 today.Steam Games #MadeWithFusionAmazing Features from the Original Drag and Drop Programming Tool-Make your first game in under an hour!-No need for previous programming knowledge-Easy to use and intuitive physics engine-The original and world famous Event Editor makes programming a breeze-Used by professionals and students alike-Shader effects available-Inserting assets is as easy as drag and drop-Publish games and apps for multiple platforms-Complete creative flexibility-Hardware accelerated games and apps-Outstanding, friendly community supportBuild for many platforms with optional exporters     Generates HTML5 on the fly and runs automatically in your browser
+Open extension SDK for endless functionality       Use hardware acceleration & shaders on powerful Windows machines
+100's of additional objects provide additional functionality to the tool		Build directly from CF2.5 to any of your Android devices and build APKs
+Access the Android OS with our simple permissions management system		Build games for all iOS touch devices including iPad, iPhone and iPod
+Maximize control options with the Accelerometer and Multitouch interface objects
+		Build Games for Xbox and Windows 8 Mobile
+Multiple Control options for Multiple Platforms		Produce quality Flash content in record time
+Fully Customizable SWF Generated Easily							

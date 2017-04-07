@@ -1,0 +1,17 @@
+
+							About This Game
+							Experience crazy races at break-neck speed! In „ATV Quadracer Ultimate“ you can prove your driving skills on several tracks while doing impressive jumps and tricks at high speeds.
+
+Train your skills at high speeds in single races against the time, or compete in multiplayer modus via LAN or internet against your friends. There is also a championship available, and you can show them, who's the best driver in town.
+
+Features:
+- Several Quads with different driving-charateristics 
+- Large selection of tracks in different landscapes ( town/winter/desert/forest and so on )
+- Realistic Physic-Engine
+- Various game modes: Single race, time trial and competitions
+- Singleplayer against intelligent computer opponents
+- Multiplayer with up to 4 players via LAN or internet
+- Earn money by winning races and thus unlock more tracks, cars and access to the competitions
+- Moddable quad bikes ( purchasable engines, skins and tires )
+- Damage simulation ( repairmode )
+- Extensive configuration options						

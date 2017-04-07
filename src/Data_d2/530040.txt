@@ -1,0 +1,8 @@
+
+							About This Game
+							Reconquest is a real-time strategy base building game. After World War III, mankind got close to extinction. You have to reconquer Earth by making better strategic decisions than your opponents. The most valuable resource that still exists is radioactive shale gas, and its possession will determine the outcome of battles.
+
+The game can be played in 3 game modes: 
+- In campaign mode you can choose from the two sides: the urban forces and the outlaw clan. Both sides has 10 individual story missions where comics connects the story line between the missions. 
+- In skirmish mode you can compete with 3 AIs at maximum on 8 different maps. 
+- In trapped mode you can choose between 8 preset challenges.						

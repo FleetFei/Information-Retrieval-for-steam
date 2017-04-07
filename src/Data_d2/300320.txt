@@ -1,0 +1,21 @@
+
+							About This Game
+							Take command over RAF during the WW2 history turning point, the Battle of Britain! 
+
+The goal of the game is to defend Great Britain against German bombing raids. 
+
+The game has two distinct gameplay experiences where: 
+* The player manages war production and squadron placement 
+* The player organizes patrol routes and tactics 
+
+Once combat is initiated the player can lead their squadrons to attack waves of German bombers utilizing simple touch or mouse commands. 
+
+The game follows the historical timeline very closely, but at the same time - the game mechanics are easy to learn (yet hard to master) and it provides great entertainment for both seasoned and novice players. 
+
+* There are 8 aircraft types in the game - including of course the famous Supermarine Spitfire! 
+* Every pilot is earning his own experience - witness your rookies become aces! 
+* Manage the British war machine - decide what should be built and where 
+* Fight epic air battles! 
+* Lead English, Polish, Czechs, Canadian and New Zealands squadrons to fight for freedom! 
+
+The game implements ‘German Command AI” which results in each campaign playing out differently. No two games will ever be the same.						

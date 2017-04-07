@@ -1,0 +1,27 @@
+
+							About This Game
+							Wondershot is a local multiplayer battle arena!
+
+You have only one ammo and one life to defeat your opponent. If you miss your shot, your ammo will be lost on the map and you need to pick it up without dying. You can play 1 to 4 players.
+Each round, your weapon changes and the map does too. 
+
+You have four analog weapons:
+
+Hammer: You can dash towards walls and ammos, it's a melee weapon. You dash further if you load your weapon.
+
+Bow: If you load your bow, your arrow will be extremely fast, if not your arrow will have a little auto aiming.
+
+Boomerang: It's a very fast weapon which comes back. If your load your weapon, the boomerang becomes stationary. He comes back when you decide.
+
+Slingshot: The slingshot bounces three times before stopping. It's a very tricky weapon! If you load your weapon, the slingshot becomes faster, but smaller.
+
+
+Wondershot has 3 game modes:
+
+Multiplayer: you can fight 1 to 4 players. 
+
+Challenges (solo mode): 45 challenges are there to really ask the best from you.
+
+Endless (cooperation mode): It's cooperative battles against waves of monsters. The map changes dynamically for each wave! Mages, Chargers, Supports, Ranged and Melee monsters, you will have a lot to do to survive!
+
+No luck, just skill !						

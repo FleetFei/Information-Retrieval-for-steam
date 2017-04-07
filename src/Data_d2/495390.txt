@@ -1,0 +1,11 @@
+
+							About This Game
+							The Wire Loop Game VR brings this traditional well known game into virtual reality. It requires the HTC Vive and one motion controller to play it.
+
+The aim of the game is to guide the metal hoop along the length of the wire without it touching. If it touches the wire, then the buzzer will sound and you will fail. In this version of the game there is also a time limit to complete the wire in. You can adjust the height of the wire by sliding a control on the table, in order to accommodate different player heights and preferences.
+
+This game will require extreme concentration, focus and dexterity in order to complete all the wires. There are 50 wires to complete and when you have completed them all, you will unlock the achievement. You will also need a steady hand as shaking may cause you to fail.
+
+If you are having controller tracking problems (e.g. jumping / drifting), then this is most likely caused by your body blocking one or both of the lighthouses from the controller. To try and solve this you can try changing the height of a particular wire to see if that makes the problem go away. If that fails then you may need to check the setup of the lighthouses to confirm they are in the optimum position.
+
+WARNING: This game may be the most frustrating game you have played in VR!						

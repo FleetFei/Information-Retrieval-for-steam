@@ -1,0 +1,3 @@
+
+							About This Content
+							The Unreal Engine "cooks" the assets for the built game. These files cannot be loaded in the UE4 editor anymore. Therefore you cannot mod the installed game directly. Instead you can download our uncooked project files here. With this DLC you can make your own levels and skins or change the existing game mechanics to your liking!						

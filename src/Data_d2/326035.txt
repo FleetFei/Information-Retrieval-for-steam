@@ -1,0 +1,5 @@
+
+							About This Content
+							The Hbins tt 292 is a conversion of the sliding wall Hbillns 302 wagon and is used for the transport of parts for the automobile industry. The loading profile is 2.6 x 3 meters, meaning that three loading racks can be placed on top of each other, but also limiting use of the wagons to certain routes. . 
+
+In this pack, the wagons named Hbins tt 292 Multi 1 and Multi 2 use the virtulaRailroads feature RandomSkin: when you place these wagons in a scenario, the wagon texture will change to one of four possible textures, giving a realistic unsorted appearance to your consists.						

@@ -1,0 +1,8 @@
+
+							About This Game
+							The game is made up of stages, with a puzzle on each stage and story cut-scenes in between. The game has auto-save feature in each stage so if you failed in a certain puzzle, you can try again by clicking continue. 
+
+On every stage there will be a trial phase and a battle phase. In the trial phase, the player will be given a puzzle that can be solved alone by thinking or calculating. In the next phase, which is the battle phase, the player will have a match against the AI. Battles require concentration and patience. 
+
+Calcu-Late was developed by Blazing Fanfish and is being published by Back To Basics Gaming. 
+www.BackToBasicsGaming.com						

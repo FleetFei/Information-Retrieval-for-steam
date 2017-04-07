@@ -1,0 +1,5 @@
+
+							About This Game
+							FALL is a 3d action game in fully physically calculations.
+You can break the Objects buildings and stratum in real time.
+You have to kill the enemy or break the wall while falling.						

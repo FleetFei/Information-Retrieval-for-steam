@@ -1,0 +1,16 @@
+
+							About This Game
+							Welcome to your Zenohell, soldier. Zenohell is a 90s styled shoot-em'up (in short, shmup) that is all about shooting, dodging, collecting medals and getting score, while blasting your speakers to the sound effects and music.
+
+Warning: The game does contain profanities at some points so tread carefully.
+ 
+- 6 stages of ever increasing scale and intensity - but there are more for the especially skilled pilots.
+- A secret mode that you can unlock.
+- 3 player ships offering completely different playstyles, with some more you can unlock by playing the game.
+- A 28 track soundtrack made by Jorgen "dj_emphatic" Sjolander, that you get for free with the game - just look at the data files.
+- 3 different gameplay modes.
+- Music modding, which lets you swap out the music for your personal favorites, if desired.
+- Options which let you customize your game view, TATE (rotating your screen), Filter, Transparent medals and more!
+- Gameplay from times when it was more about reflexes and less about complex scoring.
+ 
+We, at Grybanser Fox, are excited to finally show our game to the world and we hope that you will be as excited to play it as we were making it.						

@@ -1,9 +1,0 @@
-
-							About This Game
-							Welcome to Hero! A simple 3rd person fantasy action adventure game created by Bakershah Games, a 2 man game studio based in San Francisco, CA. Hero is a game where you the player go on quests in a world with 3 kingdoms. You must unite all 3 kingdoms to defeat a dark enemy that has been unleashed upon your world. The game is meant to be an homage to all the classical Action Adventure games from the 90's. Cheesy dialogue, weird animations, but worlds as a kid you could escape too and loved. That is what Hero wishes to recreate. It is a simplistic adventure game which focuses on 3 basic pillars that people like to do in these games.
-
- 1). Exploration: Explore open environments. Think of Witcher 2. Semi open world with linear gameplay. 
-
-2). Combat: Fight orcs and dragons throughout the game. We use a simple hack and slash combat system that focuses on precision of attacks rather than button mashing.
-
-3). Dialogue: Throughout the story you will be conversing with many NPC's and the choices you make in those conversations will affect things. Those things might happen immediately at the end of a quest you're on or will be way later in the game where the consequence of your actions will be shown.						

@@ -1,6 +1,0 @@
-
-							About This Game
-							Xor the inner and outer gates blocking your character with those of another cell to clear passage.  Score points by collecting items.  Arrows can be shot for defending against the ravenous hounds.  A potion will render you invincible for some time.  Rescuing the Elven Princess will score you double the points.  All will be lost if you don't stash your points in the chest though!
-
-Big credits to Thebluefish for compiling for windows, without that release would not have been possible! http://swiggidy.com/
-Also credits to the artists on opengameart.org and the Urho3D engine developers!						

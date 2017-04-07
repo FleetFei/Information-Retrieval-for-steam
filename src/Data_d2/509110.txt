@@ -1,0 +1,5 @@
+
+							About This Game
+							Spikit is a bullet hell game developed by a single developer, Igor Petrović. With a soundtrack composed by Dario Malešević. In this game, the player will have to dodge a constant barrage of spikes coming from the side of the screen. Not only will the player have to evade the spikes currently on the screen, but they will also need to keep an eye out on the next wave of spikes and position themselves accordingly. 
+
+The longer the player manages to stay alive, the higher their end-score will be, with difficulty gradually increasing as time passes. As the game progresses, there will also be the chance of a box appearing. Boxes are the 'currency' of the game - collecting enough of them allows the purchase of new skins and themes, both mostly aesthetical features.						

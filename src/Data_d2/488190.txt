@@ -1,0 +1,10 @@
+
+							About This Content
+							This is the complete C++ source code for Crongdor the Barbarian, version 1.4.
+It compiles with Clang or GCC. It will build with Visual Studio but you
+will need to download or build appropriate library files for MSVC.
+
+We plan to incrementally add commentary, critical review ("post-mortem"), and
+tutorials related to this code over the coming months, based on demand. OpenGL
+students are usually curious how larger projects can be managed, so this should
+be interesting as /one/ way to do that.						

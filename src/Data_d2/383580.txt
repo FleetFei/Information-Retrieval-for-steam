@@ -1,0 +1,18 @@
+
+							About This Game
+							Flesh Eaters is retro style single player RTS zombie survival game with resource gathering and crafting. 
+Zombies are everywhere! You must gather resources to build barricades, upgrade weapons and armour and explore the city under the siege of the dead 
+
+Features:
+★ Equip and upgrade different weapons and armour for your survivors. 
+★ Level up and upgrade your survivors stats 
+★ Gather resources to build barricades and defend your survivors against the horde. 
+★ Fight against different types of zombies 
+★ 3 different survivor classes to chose from, each class has 3 unique skills. 
+Solider - The soldier can equip weapons and armours. 
+Medic - The medic can heal other survivors and equip melee weapons. 
+Engineer - The engineer can build turrets, traps and equip melee weapons. 
+
+
+Flesh Eaters is being developed by 16bit Nights and published by Back To Basics Gaming. 
+http://www.backtobasicsgaming.com/						

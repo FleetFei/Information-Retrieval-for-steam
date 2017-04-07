@@ -1,0 +1,17 @@
+
+							About This Game
+							Doomed Kingdoms – is a RPG. The game features turn-based combat system, which includes tactical elements. And this is combined with interesting non linear story, dialogues, puzzles and more! 
+
+About combat system: 
+There are two types of attacks: physical and magical. 
+Physical attacks are divided into weapon attacks and just hits (for example a kick). With each strike weapons state is reduced to a specific unit, depending on the strike. Magical abilities are divided on causing damage and protecting spells. 
+Each enemy reacts differently to different magical abilities. To learn all the weaknesses of your enemy, you need to try on him most of your abilities. 
+The game has “level-up” system. By killing enemies, you get gold and experience points. Once you have reached a new level, you can improve your passive characteristics, like max health and mana, the probability of critical hit, resistance to magical damage, resistance to physical attacks, etc. And you can choose new active ability, which can be used in combat. 
+
+About the world: 
+The game world is divided into three kingdoms. Each kingdom has unique nature and citizens. They are divided into three types: civilians, knights of the local king and bandits. Depending on the kingdom and of belonging to this or that faction, residents differ in color, clothing, weapons and combat style. For example, knights of Red Valley prefer to use swords, and do not possess any magic skills. Explore the world, find all treasures of doomed kingdoms.
+
+Key features:
+-Non linear story
+-unique combat system based on time
+-puzzles						

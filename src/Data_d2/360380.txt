@@ -1,0 +1,10 @@
+
+							About This Game
+							This mind-bending game was inspired by Bridge Constructor and World of Goo, create complex structures to get your woodland creatures over vast chasms.  In a bridge-builder first, you'll guide your creatures and construct your bridges in real time.  Use the weight of various creatures to balance your structures as you build them.    
+
+Features:
+
+- 72 unique levels across 6 worlds
+- Construction physics applied in real-time 
+- Steam Achievements and Steam Leaderboards integration 
+- Steam Cloud support						

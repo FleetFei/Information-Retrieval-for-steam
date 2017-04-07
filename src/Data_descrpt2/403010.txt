@@ -1,5 +1,0 @@
-
-							About This Game
-							Assemble an army of warriors from all ages (space rangers, spartans, mafia lords, etc) and battle for glory and domination! Includes has fully destructible terrain, a fortress construction system, epic slow motion, a weapon shop, and basic ragdoll mechanics. Good luck!
-
-This game was initially intended so that I could learn more about programming, but I decided to polish it off and publish it!						

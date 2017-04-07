@@ -1,9 +1,0 @@
-
-							About This Game
-							Atooms to Moolecules is a chemistry based puzzle game. In this game you are in a Chemistry lab, your task is to solve different puzzles. You can arrange atoms to make ring, linear, small or big molecules and have fun with them. The game is played in different lab equipment. Don’t start wondering about your elementary chemistry concepts, you really don’t need them to master this game. Just explore the lab and solve the puzzles.
-Key Features:
-
-Adventure Mode: Adventure Mode is the primary mode, and it allows you to learn the ways to make molecules. Adventure Mode is divided into 8 stages.
-Lab Setup Mode: Lab Setup is a sand box mode where you can setup a lab of yourself.
-Scoring: You can grab some extra points with the help of Ring Bonus and Hydrogen Bonus.
-						

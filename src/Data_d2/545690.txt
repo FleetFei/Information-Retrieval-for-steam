@@ -1,0 +1,3 @@
+
+							About This Game
+							Do you think 1 + 1 = 0 is correct? So what do you think about "black + black = white" statement? VOI is relaxing minimal puzzle game based on XOR logic;0+0=01+0=10+1=11+1=0VOI gives you a few draggable geometric shapes (triangle, square, rhombus, parallelogram etc.) to reach target shape. That's all. Do you think that the easy?* One page game (no start button, no exit button)* Cool music and fx* Use mouse wheel to scroll levels						

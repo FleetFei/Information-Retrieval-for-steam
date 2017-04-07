@@ -1,0 +1,13 @@
+
+							About This Game
+							The Bottom of the Well 
+A visual novel where Alice steps into a different kind of wonderland. 
+
+In The Bottom of the Well, you play as Alice who has just had an unsettingly life-like dream about the end of the world. She retells her experience to her friend in a huge, branching narrative. Although a single play-through might take as little as 20 minutes, experiencing all the possible paths Alice can take through the ruins of her city will take you many hours. 
+
+The game is intended to be replayed several times with different permutations of Alice: try playing as a survival-minded lone-wolf, or a social butterfly, or why not attempt the difficult but rewarding romantic route? The stats you select for your Alice in the beginning of the game influences everything from small comments to major choices. 
+
+This is an updated, reworked and improved version of my entry to the WAG (Write A Game) Challenge arranged by IGDA's Game Writing SIG, where it placed first in the amateur category. The jury had this to say: 
+
+- WINNER: THE BOTTOM OF THE WELL 
+The Bottom of The Well delivers an entertaining, branched story with interesting options. Alice's dream is genuinely terrifying. The conversations feel natural and appropriate. Players can randomize their character stats, but still negotiate the game with deliberate and meaningful choices. The final game stats give The Bottom of the Well immense replay value. One judge played the game several times to find the "best" ending!						

@@ -1,9 +1,0 @@
-
-							About This Game
-							"There are bodies buried beneath the cherry trees!"
-
-A Japanese poetic literature "Beneath The Cherry Trees(1928)" by Motojirō Kajii starts from a shocking sentence.
-We made a short Visual Novel based on this story with Illustrator Kotori's watercolor works, beautiful photographs, and imposing musics.
-
-This work is a FREE demonstration of Visual Novel Engine "AIRNovel"
-It is also a good chance to try the smooth system of the engine.						
