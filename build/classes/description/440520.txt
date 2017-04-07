@@ -1,3 +1,0 @@
-
-							About This Software
-							VirtualHere allows you to use the XBox One Wireless Controller, steering wheels, microphone, headphones, flight sticks, PS3 controllers, bluetooth adapters, and many other USB devices directly on your Steam Link!Click here for FAQVirtualHere improves the compatibility of most gaming controllers because it transmits the actual USB signal between the Steam Link and the remote pc. The remote PC thinks the gaming controller is local to it, whereas really its plugged into your Steam Link. VirtualHere uses the Steam Link network connection as a USB cable and you can share up to 3 devices at a time with VirtualHere						

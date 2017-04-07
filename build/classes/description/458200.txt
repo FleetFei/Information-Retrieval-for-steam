@@ -1,3 +1,0 @@
-
-							About This Software
-							Rumpus is a live-coding playground for room-scale VR.Please note that Rumpus is highly experimental! There will be bugs, crashes, performance issues, and possibly even ghosts. It's easy to wedge it in its current state. If this happens, you can always just delete or move your Documents/Rumpus folder aside to get a fresh start.Follow along with development at http://twitter.com/rumpusland or find me at http://twitter.com/lukexi.						

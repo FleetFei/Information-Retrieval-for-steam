@@ -1,3 +1,0 @@
-
-							About This Game
-							Originally a jam game, Crown and Council is a casual strategy game of geopolitical drama. Conquer, expand, build and develop your kingdom, until all your foes are crushed!Crown and Council relied on procedural generation for the 75 included maps. The generator is built into the game, and you can generate new maps on the fly.						

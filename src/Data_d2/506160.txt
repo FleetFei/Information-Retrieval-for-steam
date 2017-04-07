@@ -1,9 +1,0 @@
-
-							About This Software
-							VR Fractals is a 3D Fractal Viewer for the Oculus Rift and the HTC Vive. To use this you must have one of those headsets.
-
-This is an experience similar to Oculus Dreamdeck, so expect about 5-20 minutes of gameplay.
-
-Right now there are 8 fractals. A code editor is included which will allow users to create their own fractals/shaders and share them with the community. More fractals might be added in later updates as well.
-
-There is a free demo available with one fractal and no editor that should give you a pretty good jist of what to expect.						

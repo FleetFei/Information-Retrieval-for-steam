@@ -1,18 +1,0 @@
-
-							About This Game
-							Niche is still in development. Please read the Early Access text below before purchasing. Thank you :)
-
-Niche is a fresh blend of turn-based strategy and simulation combined with roguelike elements. Shape your own animal tribe and find an ecological niche for it to live in. 
-Keep your tribe alive against dangers, such as hungry predators, climate change and spreading sickness. Resource management and smart breeding based on real genetics are key in Niche. All worlds and animals are procedurally generated.   
-
-Niche is played from a top-down perspective, giving the player a god-like view over the board. Rounds are represented by a day cycle, in which the player controls animals to move and perform actions (collecting food, scouting a new field, mating, attacking a predator, etc). Animals have a limited lifespan, which makes procreation indispensable. An animal’s characteristics are defined by its genes, which are being passed on to the next generation. Challenges come in form of animals dying and dwindling resources. The game is lost, when a player's tribe goes extinct. In the next game a new world is generated, but the previously unlocked genes remain.
-
-Games that inspired us
-- The Creatures series 
-- Spore (mainly the first stage) 
-- The Curious Expedition 
-- Black & White 
-- Don’t Starve 
-
-Educational aspects
-While playing Niche, the player is introduced to the scientific mechanics of genetics (featuring dominant-recessive, co-dominant inheritance, etc). The game also features the five pillars of population genetics (genetic drift, genetic flow, mutation, natural selection, sexual selection). All knowledge is interwoven with the game-mechanics. This creates the effect of learning by playing.						

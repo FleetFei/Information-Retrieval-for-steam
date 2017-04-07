@@ -1,5 +1,0 @@
-
-							About This Game
-							Cogito is a puzzle game for the HTC Vive that contains increasingly difficult puzzles in the realm of escape-room style puzzles, logic puzzles, spatial reasoning, and memory. You'll have to use your brain to its utmost potential to decipher puzzles, ciphers, and patterns!
-
-Currently only has support for the HTC Vive.						

@@ -1,3 +1,0 @@
-
-							About This Content
-							Wing IDE is an integrated development environment for the Python programming language.  Wing's powerful editing, debugging, testing, code inspection, refactoring, search, and revision control features make programming in Python faster and easier.  This is the Commercial Use version for professional programmers.						

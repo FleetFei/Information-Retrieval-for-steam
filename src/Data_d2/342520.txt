@@ -1,3 +1,0 @@
-
-							About This Game
-							BoxesWithGuns is a 2D neon vertex endless shooter game. Try to survive as long as possible by avoiding collisions with the enemies that spawn. One game equals the length of the background music track playing. Collect dollars and customize your spaceship by adding new boxes and weapons. Upgrade existing weapons to increase your chances of survival. For temporary boosts, power ups spawn randomly. Based on the current music playing in the background, the attached weapon systems get enabled or disabled. The blur and bloom effects and pixel destruction are influenced by the music as well.						

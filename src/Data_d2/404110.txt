@@ -1,7 +1,0 @@
-
-							About This Video
-							In this tutorial I go through some of my processes and thoughts on how to get faster at modelling in Modo. I go through in detail how to set up hotkeys, how to set up hotkeys within specific tools, how to create Macros and piemenus aswell as editing config files and creating your own self-contained configsetups. I also talk a bit about what I do to find new ways of getting faster, and ironing out slow parts of my modelling process.
-
-48 min narrated video
-
-Also included are an example selfcontained config from the video and an example hotkey config file						

@@ -1,5 +1,0 @@
-
-							About This Game
-							VRbloX is a unique and challenging puzzle game designed and built for the Oculus Rift. In VRbloX, you must manipulate the blocks in front of you to achieve the goal. The goal for each level changes based on one of the multiple game modes from: Free build mode - How high can you build your tower. Time attack - build to the target height within the time limit. Challenge mode - build to the target height, but you have limited blocks to use. VRbloX seems easy at first, but is devilishly challenging, with each of the challenges gaining in difficulty, it will take a true player to complete them all!
-
-Please note, this game requires an Oculus Rift CV1. This game does not support the DK1 or DK2, or any SDK versions below 1.3						

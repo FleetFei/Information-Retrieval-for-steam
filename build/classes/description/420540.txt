@@ -1,5 +1,0 @@
-
-							About This Content
-							This set contains 748 face graphics from "ROMANCE OF THE THREE KINGDOMS XIII." As an added bonus, we have included the RTK XIII scenario, "Yellow Turban Rebellion."
-By setting the face graphics using "Officer Edit" in EDIT mode, officers will appear in the game using the indicated faces.
-As a default, the scenario uses the face graphics from "RTK XIII." In addition, this scenario can be edited.						

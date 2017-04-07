@@ -1,9 +1,0 @@
-
-							About This Software
-							Speech Trainer is a VR auditorium where you can practice presentations and learn to overcome your fear of public speaking by addressing a virtual audience. Bring your own presentation (in PDF format) and use the clicker and microphone to practice your speech until you feel ready for the real thing.
-
-Notes: 
-Requires Vive and headphones for full effect.
-Landscape PDF recommended for slides.
-To move forward a slide click the touch pad on the laser pointer, to move back a slide press the button above the touch pad.
-To get used to the sound of your own voice wear headphones and raise the microphone to your mouth.						

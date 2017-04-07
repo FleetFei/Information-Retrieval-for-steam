@@ -1,7 +1,0 @@
-
-							About This Game
-							A game about trust.
-Even though they live in separate worlds, have oposite world views and are completely different, they still work with the some goal in mind.
-
-Thrugh the Mirror is a puzzle platformer based on  mind bending mirrored mechanics.
-It's an expanded version of a Ludum Dare game, complete with a lot new levels, game mechanics and visuals.						

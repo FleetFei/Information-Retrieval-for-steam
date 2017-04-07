@@ -1,5 +1,0 @@
-
-							About This Game
-							Reckpunk is a platformer where you destroy obstacles and move level elements directly using your mouse, rather than controlling the main characters. Even though the characters move by themselves, you can push them, use blocks to slow them down, and bring them to inaccessible places.
-
-Each level got it own theme. It could be avoiding indestructible spikes, making bridges over a cliff or escaping angry dragons.						

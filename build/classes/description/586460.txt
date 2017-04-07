@@ -1,7 +1,0 @@
-
-							About This Game
-							Manage your own kennel of greyhounds. Train, enter them into races, study the form and place bets and watch the race unfold! Use your winnings to breed new superstars.
-
-Realistic form cards, betting and racing. The No.1. Greyhound Racing management game.
-
-Reboot of the 2011 dog racing management game for Steam. Now works correctly under newer operating systems (including Windows 10). Other improvements include: Minor visual tweaks, DirectX11 renderer, Tweaked race sequence audio, improved menu fonts and auto game backups (with option to revert to an older backup).						

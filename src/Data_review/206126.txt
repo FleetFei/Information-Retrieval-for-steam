@@ -1,1 +1,0 @@
-{"success":1,"html":"<div id=\"Reviewssummary0\">\r\n\r\n\t\t<div class=\"leftcol\">\r\n\t\t\t\t\t<\/div>\r\n\t\t<div class=\"rightcol recent_reviews\">\r\n\t\t\t\t\t<\/div>\r\n\t\t<div style=\"clear:left;\"><\/div>\r\n\r\n\t\t\r\n\t\t<div style=\"clear: both\"><\/div>\r\n\t\t<\/div>\r\n","dayrange":30,"recommendationids":[]}

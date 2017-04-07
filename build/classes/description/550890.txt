@@ -1,9 +1,0 @@
-
-							About This Game
-							Repulsanoid is a unique but simple 3D Puzzle game, that features a one-of-a-kind control method and provides a wide variety of challenges based around it.
-
-It tasks the player with controlling the bounds of the stage, rather than a character.
-It's a stress-free, but engaging test of your reflexes and 3D thinking.
-
-Guide the projectile around the stage, to mark every target within.
-With a variety of controllable shapes, types of targets and obstacles, you'll find a wide range of increasingly complex tasks.						

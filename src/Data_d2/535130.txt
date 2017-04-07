@@ -1,8 +1,0 @@
-
-							About This Content
-							This DLC unlocks package of the textures for PAINT mode.
-Current pack includes textures:
-- patterns: wood, carbon, rust, scratches
-- stickers: skulls, flames, flags, special stamps
-In the PAINT mode user may change textures of the models, add stickers and patterns.
-For each model user may have 3 slots of the paints, this DLC unlocks 3 additional slots for each model. But overall can be maximum 6 slots						

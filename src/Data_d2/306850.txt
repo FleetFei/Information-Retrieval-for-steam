@@ -1,3 +1,0 @@
-
-							About This Content
-							The uncompiled source assets that are used to create the game.  These include JSON files, PNG image files, FLA and SWF Flash animation files, and more.  These are delivered via the “Mod Content” free DLC.  You must install this DLC in order to mod The Banner Saga.						

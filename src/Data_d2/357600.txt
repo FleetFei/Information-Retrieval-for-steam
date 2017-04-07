@@ -1,7 +1,0 @@
-
-							About This Game
-							Your task is to draw a line.  A single line.  How complex can that be?
-
-Start with one tile and trace a line to the next, then the next.  Each tile you pass over flips from black to white, or back again.  Using only a single line, can you flip all the black tiles?
-
-The simplest puzzle can have hundreds of solutions, and Unium features over 100 levels to solve your way through.  Unlock harder puzzles by solving easier ones, learn what works and what doesn't, and solve puzzles in multiple ways to earn achievements.  Even better, use the built-in level editor to create your own puzzles, and share them on Steam Workshop!  Unium is a fantastic pick up and play puzzle game that can entertain for a minute or an hour.						

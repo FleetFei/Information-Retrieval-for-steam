@@ -1,5 +1,0 @@
-
-							About This Game
-							Hotel Blind is a simulator of a blind person in a hotel room.  Enter a new room and complete five objectives before leaving the room.  Text popups and audio describe the objects in the room and the walls, allowing you to map out the room in your mind as you play.  Navigate the room using movement keys or your gamepad.  Completing all of the objectives will complete the room.  Each play starts a random room.  Hotel Blind can be a standard experience, or a VR experience on the Oculus Rift or HTC Vive.
-
-Hotel Blind is powered by Unreal Engine 4.  It is inspired by this NPR Story: http://www.thisamericanlife.org/radio-archives/episode/464/invisible-made-visible						

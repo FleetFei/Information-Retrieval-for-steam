@@ -1,5 +1,0 @@
-
-							About This Game
-							Pavel Quest is a pixel art, puzzle platformer where you cannot stop running, and you can only turn around by bumping into walls. Breakable walls, fireballs, acid spouts, and spikes are only some of the obstacles in your way. 
-
-Created by ElevenSeventy, a team of two game lovers, Pavel Quest is the first commercial product released by ElevenSeventy. We opted to aim for a simple concept, and make it great. Over time we added features like gravity anomalies, bounce pads, fireballs, acid spouts, secret characters, and a replay system. All while preserving the balance of simplicity and difficulty. Pavel Quest is a hard game, but it is rewarding as well.						

@@ -1,3 +1,0 @@
-
-							About This Game
-							Robots, teleporters, jump pads, lasers! Be prepared for an action-filled challenging puzzle experience! Antiflux an oldschool-style puzzle platformer. Puzzles are complex but easy to understand. The platforming is simple but fun, controls comfortably with a touch screen or controller. Pick up upgrades along your journey recover lost research on an abandoned planet, and discover its dark secrets!Features:Puzzle-platformer with oldschool game design.Interesting mechanics and puzzles.Over 60 well designed levels.Metroidvania-style permanent upgrades.Runs on Vertex Engine 7 - Custom built OpenGL ES2 engine.Full controller support.Atmospheric original soundtrack.						

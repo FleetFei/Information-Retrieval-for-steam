@@ -1,8 +1,0 @@
-
-							About This Software
-							The VirZOOM Gamepad Emulator, or VZGE, is an application that allows you to use the VirZOOM Bike Controller as a normal joystick. The application uses the buttons on the bike, the pedal speed, as well as the Oculus or Vive's position tracking as input into games, disguised as normal joystick input. 
-• Use to hookup the VirZOOM bike to compatible PC games 
-• Maps bike data and VR inputs, including player lean, to virtual joystick controls 
-• Currently compatible with Vive and Oculus games launched from Steam (Oculus Home compatibility intended in future update) 
-• Uses per-game configuration files, which players can author and share through the Steam Workspace
-• Some games additionally require x360ce						

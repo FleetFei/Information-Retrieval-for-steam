@@ -1,7 +1,0 @@
-
-							About This Game
-							Sound Shift is a VJ style music visualiser mixed with a simple arcade shooter.
-
-Shoot targets to earn credits which can be spent to unlock new videos and FX.
-
-Music is streamed directly from your computer's audio output, so you can use sound from any source including on-line streaming services.						

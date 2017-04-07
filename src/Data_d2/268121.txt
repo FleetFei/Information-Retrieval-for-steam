@@ -1,3 +1,0 @@
-
-							About This Content
-							The GrooveMover is a way for you to instantly remix your beat. It’s a MIDI effect that alters the arrangement of the notes in a bar.How can you use it? Say, for example, you want to switch up the beat for the last bar of a four-bar loop. Just select all the region in that bar and press the GrooveMover arrows.Based on the underlying color patterns, the entire beat will transform into something somewhat closely related to what you originally had; it’s great for turnarounds or variations.This is only one example, but it’s useful in a variety of ways. As with all the features in Liquid Rhythm, the best way to learn is to play around with it, but we encourage you to check out our videos too!						

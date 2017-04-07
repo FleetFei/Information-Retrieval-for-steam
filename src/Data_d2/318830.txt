@@ -1,3 +1,0 @@
-
-							About This Content
-							Sprite Lamp pro adds a variety of additional features, mostly more specialised or more targeted at larger studios, to Sprite Lamp.Full command line interfaceThe ability to create anisotropy maps from hand-drawn 'flow maps', including a Phong/Ward anisotropic shader in the preview window, and a variety of export optionsThe ability to load multiple sets of images (such as frames of an animation), process them all at once, and play/cycle through them in the preview window.A set of tools to edit and fine tune generated depth maps from within Sprite Lamp.						

@@ -1,5 +1,0 @@
-
-							About This Game
-							A Skeet shooting simulator for the HTC Vive. Play Skeet mode (with a proper range and rules), Trap mode (with arcade-style gameplay), or Quickdraw mode.
-
-Lightgun games were a childhood staple. We wanted to recreate some of that fun in a true VR experience. Featuring three modes and three guns (Over Under, Side By Side, and Pump Action), and highscore tracking.						

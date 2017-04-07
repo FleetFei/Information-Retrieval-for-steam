@@ -1,3 +1,0 @@
-
-							About This Content
-							 DLC - Crazy Sapper Classic modeThis package adds new game mode "Classic", in which Sapper do not need to pass through all minefield, but the goal is to open all mined on the field.Airplane transports Sapper to any available spot on the minefield, and if player will win the level in bonus time - it will increase level scores. But Sapper has only 1 life, so its just one attempt and if failed player starts from the start again.Available 3 difficulty modes:Beginner - for easy play and training, minefield size 9x9;Intermediate - for earning game money, minefield size 16x16;Expert - the challenge for the real experts! Minefield size 16x30.Enjoy your play!						

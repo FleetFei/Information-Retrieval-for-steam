@@ -1,5 +1,0 @@
-
-							About This Game
-							Janken Cards is a turn based card videogame, influenced by “Rock-Paper-Scissors”. The rules are easy: there are 30 cards on the board and you must fill 3 columns with cards of the same suit in order to win. However, if nobody manages to fill 3 columns, then the one who scores the most points becomes the winner. Sounds easy, right? Try it out: enjoy the best game to share with your family and friends! 
-
-Are you an old-school card player? Trust us; you should dare to use special cards to make EPIC COMBOS to win the match in the last few seconds! Would you rather beat the CPU, your best friends or your whole family? There are a lot of game modes to choose from!  Easy to play, hard to master. Prove you’re the greatest strategic mind in the room, become the new Janken champion!						

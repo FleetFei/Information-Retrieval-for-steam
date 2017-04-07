@@ -1,4 +1,0 @@
-
-							About This Game
-							Existence speed is a minimal action game. Manage the tunnel to avoid a collision.
-Three difficulty modes, different shapes and different tunnel animation.						

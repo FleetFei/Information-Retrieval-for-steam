@@ -1,7 +1,0 @@
-
-							About This Game
-							Red is Dead is an intense action game with a randomized obstacle course containing over 120 levels. While playing this game you get an insane rush while being heavily amused. There are many physics in the game that you can interact with. Overcome insanely hard levels and beat your personal high score. 
-Red objects make you die when you collide with them.
-Black objects are neutral.
-Blue objects move when they collide or are close enough to the player.
-Have fun!						

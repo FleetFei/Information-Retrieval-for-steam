@@ -1,3 +1,0 @@
-
-							About This Game
-							Dodge is a minimalist arcade-style game originally made for Ludum Dare 26. Your aim is simple: To dodge the incoming squares for as long as possible. With music by Cameron 'The Brogrammer' Smith.featuresPlay potentially infinitely on Level Infinity. Remember - losing is fun.Highly customisable difficulty on Level Infinity. Adjust enemy frequency and more.If you don't like losing, you can play 30 short pre-prepared levels and have a go at winning for once.Don't like black-on-white? Change the colour scheme. We won't judge.						

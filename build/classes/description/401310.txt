@@ -1,5 +1,0 @@
-
-							About This Video
-							This video is a basic introduction to modelling in Modo, aimed at complete beginners. I go through everything from the interface and modelling to UVs and rendering, at a very basic level.
-
-This video is primarily aimed at people who want a quick introduction to modo and where things are located, how things work, aswell as general tips and tricks. I do not go into depth in any particular tools, but I do try to cover the basics of what I think you need to know to start getting your way around modo.						

@@ -1,7 +1,0 @@
-
-							About This Game
-							Enter surreal computer generated worlds and do battle with the mighty KOTH. Climb to the top of the map to defeat it but don't be caught in its deadly radar beam.
-
-Inspired by the 8 bit classic "The Sentinel" and re-imagined for VR, KOTH is written with full support for the HTC VIVE as well as standard PC mode using keyboard and mouse.
-
-If using VR, this game is best played standing and requires a tracked controller.						

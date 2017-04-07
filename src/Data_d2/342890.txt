@@ -1,9 +1,0 @@
-
-							About This Game
-							Synonymy is a non-profit, educational word game narrated by Richard Dawkins where players are challenged to find a path between random words through their network of synonyms. By taking the synonym of a word, and then a synonym of that synonym, and so on, you can ultimately arrive at any other word in a language.
-
-The game supports multiplayer, and weekly challenges in which users can compete globally on set start and end words. Every time a path is uncovered by a user, it is tweeted from @synonymygame and posted to our Facebook page. All profits go to educational charities. 
-
-A visualization of the game's network can be seen here -- http://tinyurl.com/med6g8b -- In order to compute relative distance, all synonyms were mapped using 3d graphing software, as if each word were a planet that had a gravitational pull proportional to its number of relationships to other nodes. Above is a 2D representation of that model, a 40,000 x 40,000 rendering.
-
-Music by Daduk						

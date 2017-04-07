@@ -1,3 +1,0 @@
-
-							About This Game
-							Radium is a physics-based skill game, featuring unique game controls. A game which avoids any non-essential elements and focuses on the elementary minimum. Navigate the ball through the levels, by controlling with two tractor beams that exert force on the ball. In some levels you need to collect tokens to activate the exit.The polarisation change is simple but challenging. By collecting an item the interface changes to yellow, the ball falls upwards and the tractor beams pushes the ball away.Features:• 130 levels of increasing difficulty• Unique physics-based game controls• Automatic zoom and scroll function• Polarization change• Pure minimalism						

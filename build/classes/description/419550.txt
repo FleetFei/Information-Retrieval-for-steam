@@ -1,3 +1,0 @@
-
-							About This Video
-							Learn how to sculpt and render an Axehead demon bust using ZBrush, Keyshot and Photoshop. This video tutorial covers every step of the process and shows you how to create the final image using various techniques. This tutorial was recorded live with voice-over. Average knowledge of ZBrush, Photoshop and Keyshot required.Latest ZBrush UI configs available at http://www.dominicqwek.com/tutorialsChapter 1 - Sculpting Primary FormsChapter 2 - Sculpting Final DetailChapter 3 - Lighting & RenderingChapter 4 - Compositing In PhotoshopFiles:Keyshot bip file with SSS shaders set upZBrush Decimated ZTLPSD with working layers at 1k resolution4 hi-res texture maps used ZBrush UI						

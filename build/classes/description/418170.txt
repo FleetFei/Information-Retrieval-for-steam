@@ -1,9 +1,0 @@
-
-							About This Game
-							MicroRC Simulation is a driving simulator for radio-controlled toy cars.
-You must practise to learn the different tracks and conquer the
-podium.This is not an arcade game, as practise is required to win the
-races.
-The A.I. doesn't follow a predefined path, but reads the track in real time.
-Get in game experience to unlock the accessories that will help you to
-win against highly skilled competitives.						

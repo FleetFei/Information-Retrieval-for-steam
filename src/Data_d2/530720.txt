@@ -1,3 +1,0 @@
-
-							About This Game
-							Solitaire Royale is the classic 52-card deck Solitaire game also known as Klondike Solitaire. This version of Solitaire features a 3-card waste when flipping through the deck and is both easy to learn and still challenging for expert players. Your goal is to get all 52 cards into the four foundations at the top in order from Ace through King. Cycle through the deck, three cards at a time, and remove cards to build stacks of cards in the tableau.						

@@ -1,6 +1,0 @@
-
-							About This Game
-							Inspired by classic games like Tetris, Color Assemblers and Connect4, COLOR SYNDROME combines different well known elements from these games in its mechanics resulting in a completely new experience.
-We wanted to create a fun, enjoyable game that will easily kill boredom no matter if you are at work, having a first morning coffee or just have a few minutes to play.
-In order to earn points and pass levels players must connect 4 or more cubes of the same color horizontally or vertically.
-Color Syndrome also has Leaderboards, Achievements, 4 Game Modes, PowerUps and Trading Cards.						

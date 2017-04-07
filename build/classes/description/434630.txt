@@ -1,5 +1,0 @@
-
-							About This Content
-							Pak64 is the evolution of the original Simutrans pakset. Many artists have contributed to this pakset since the 8 bit age.
-
-This packset only has single height hills making the construction of train tracks and bridges easier, and uses less memory, allowing it to run better on older machines.						

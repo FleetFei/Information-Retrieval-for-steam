@@ -1,7 +1,0 @@
-
-							About This Game
-							You are playing as a former miner, who worked in one of the mines of the Ural Mountains in the Soviet Union. One day, a series of powerful aftershocks interrupted your work, and soon an arrival of emergency State Commission was announced. Everyone were asked to finish their job and rise to the surface. The next day, at the mine entrance, military forced you to sign non-disclosure documents. Five years after these events, at a time when the Soviet Union is collapsing, and the mine is completely unguarded, you decide to find out what really happened in the mine and reveal its secrets.
-
-You will find a fascinating and frightening adventure through the old mine, where you have to hide from enemies in order to survive. Approximate duration of gameplay for about 3 hours on 5 unique maps
-
-The game uses my own game engine. The game took me four years to make, every part of the game and the engine were written from scratch.						

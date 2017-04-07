@@ -1,8 +1,0 @@
-
-							About This Game
-							Minimalism - platformer with a lot of levels, made in minimalist style - which is a cube protogonist. The game is a kind of labyrinth consisting of levels, to go between them you need to open the doors with collected keys.
-
-Features:
-- 30 increasing complexity as you progress through levels
-- Minimalistic design
-- Good music						

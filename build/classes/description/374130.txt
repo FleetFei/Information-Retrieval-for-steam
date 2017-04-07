@@ -1,7 +1,0 @@
-
-							About This Game
-							Color Assembler is an abstract color mixing puzzle game. Connect the starting colors to various shapes that manipulate colors in their unique way. The goal is to create the target color.
-
-Each of the 9 shapes manipulates colors differently. It's up to you to find out how and use them to achieve the solution.
-
-Put your combination skills through a test of 84 levels, none two of which are solved the same way, while your combinations create a colorful nebula in the background. In order to not disturb you from the experience, the game contains absolutely no text.						

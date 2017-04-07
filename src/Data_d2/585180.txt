@@ -1,3 +1,0 @@
-
-							About This Game
-							Technology. Magic. Puns.Open Sorcery follows the development of an Elemental Firewall: a fire elemental bound with C++ code to protect a network of people and places.You guide her as she makes decisions and grows. She can learn things, develop relationships, and even gain sapience.Or she can burn everything with fire.Up to you.						

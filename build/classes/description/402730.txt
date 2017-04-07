@@ -1,3 +1,0 @@
-
-							About This Video
-							In part I of this tutorial I build the base of the truck in Zbrush using references and discuss hard surface techniques and various tricks used in the pipeline for look development. In part II of this tutorial I add a hookloader to the back of the truck and continue adding other details in Zbrush. I discuss my decisions and strategies regarding design and explain my thinking process when building realistic mechanisms. In part III ( the final part) of this tutorial I talk about texturing and rendering in Keyshot 5 and finalizing the image in Photoshop.						

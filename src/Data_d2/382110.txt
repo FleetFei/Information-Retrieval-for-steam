@@ -1,3 +1,0 @@
-
-							About This Software
-							Virtual Desktop is an application developed for the Oculus Rift and HTC Vive that lets you use your computer in VR. You can browse the web, watch movies, Netflix or even play games on a giant virtual screen.Other features include:Hardware accelerated 360 video playbackAbility to play/stream YouTube 360 videosBrowse and view 360 photosMilkDrop support for music visualization3D Side-By-Side video supportGame launcher with voice commandsMulti-monitorEnvironment Editor to create custom environmentsSteam Workshop integration for environments						

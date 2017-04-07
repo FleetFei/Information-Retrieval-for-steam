@@ -1,9 +1,0 @@
-
-							About This Content
-							The Randomizer is a MIDI effect that generates rhythm patterns– just how random those patterns are is totally customizable. It works sort of like a time machine would, were a time machine to be possible in the physical world.
-
-First, you dial in your settings: will there be a wild variation in the patterns, the velocity, will those patterns be distributed across several tracks (more on that soon). Once you’re satisfied you have some coordinates that could yield interesting results, press the Suprise Me! button.
-
-Just as a time machine would propel you through the time-space continuum at alarming velocities we could never quite understand, so too will the Randomizer create patterns based on those coordinates.
-
-Distribute patterns across several tracks. What does that mean? Some pro’s use two or three different hi hats to get an interesting texture in the drums. Use the Randomizer to distribute a hi hat pattern, for example, across three different hi hat tracks.						

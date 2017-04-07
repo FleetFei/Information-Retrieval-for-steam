@@ -1,7 +1,0 @@
-
-							About This Game
-							Earth has been depleted of all its natural resources so humans decided to build spaceships with an artifical intelligence called "Tile Creator". This machine built tiles with specified elements, ex.: food, disco, wedding. Due to a flaw in the Tile Creator's rules, it went rogue. The Evil Tile creator now wakes up civilians and leads them unknowingly to their death. 
-
-You are put in the shoes of a newly awakened polygonoid who can traverse the ship in an isometric 3D view. You wake up in the cryogenic sleep tile and from there you can teleport to the main tile storage map and enjoy any of the tiles the ship has to offer. Each tile has a specific objective to be completed in order to unlock the exit, and to complete the game you must collect all the code pieces scattered around the ship. The tiles range from puzzles, to our  favorite kids game tag, to running into- I mean harvesting- crops.
-
-You are awoken.						

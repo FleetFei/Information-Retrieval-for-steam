@@ -1,7 +1,0 @@
-
-							About This Game
-							Space Cat is an arcade platforming game. The goal is to collect as many points as possible without dying. The game's terrain is constantly being manipulated by destructive forces, such as bombs and missiles, and UFOs, which randomly generate new terrain. No two playthroughs of the game are the same!
-
-There are three different game modes. Classic Mode, the main game, is as described above. Giant Mode lets you experience the game on a map that's 4x as large as the original game. Battle Mode allows you to play a free-for-all deathmatch with up to four players on six unique stages.
-
-The game's options menu allows for a completely personalized gameplay experience. You can toggle items and movement options to adjust the difficulty to whatever you feel is best for you. If you want an especially difficult game, turn off all movement options and turn on more hazards, and for an easier game, vice versa...						

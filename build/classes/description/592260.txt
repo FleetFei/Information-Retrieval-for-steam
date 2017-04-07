@@ -1,3 +1,0 @@
-
-							About This Software
-							Dungeon Painter Studio is a powerful encounter map design tool, with a lot of features:    Layers and groups    Easy import of custom art    Export to multipage pdf for print    1 inch, 1.5 inch & 1 cm grids     Square and hex grid types    Filters (Drop Shadow, Glow, Bevel, Tint...)    All objects are editable    Terrain brush tool    Responsive interface     Sketchs import    One click D20 random generator dungeons import						

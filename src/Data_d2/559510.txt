@@ -1,9 +1,0 @@
-
-							About This Series
-							3D packages can be a very effective tool in terms of creating thumbnail sketches for clients .
-
-In this video I will be using maya to demonstrate how use basic primitives to create environments ( though you can use any program that you like that has some kind of lighting in it )
-
-From there we will take those basic block outs and paint over them!
-
-This lesson will come with 1 video hour of basic modeling in maya , 1 hour video showing how to paint over the 3D block out , and a 30 minute "sped up" video of myself painting over two blocks outs with no commentary.						

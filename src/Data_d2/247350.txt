@@ -1,3 +1,0 @@
-
-							About This Game
-							Artemis is designed for anyone who watched Star Trek and dreamed of what it would be like to sit on the bridge of a star ship. Artemis simulates a spaceship bridge by networking several computers together. You cannot play Artemis single-player!  One computer runs the simulation and the "main screen", while the others serve as workstations for the normal jobs a bridge officer might do, like Helm, Communication, Engineering, and Weapon Control. Artemis is a social game where several players are together in one room ("bridge") , and while they all work together, one player plays the Captain, a person who sits in the middle, doesn't have a workstation, and tells everyone what to do.						

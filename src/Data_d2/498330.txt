@@ -1,9 +1,0 @@
-
-							About This Game
-							Cats are Liquid is (as the name might suggest) a 2D platformer about a cat with the ability to transform into liquid.
-
-The game has 90 levels, that are spread across 9 different worlds. It has a minimalistic but colorful style. Along the way the game introduces new mechanics, like flying and summoning bombs to break down walls.
-
-The story is about a cat whose owner locked her in a set of rooms. She desperately wants to get out, but the rooms just keep continuing. Along the way the cat meets a new "friend" and gains new abilities. The story is told through small in game text pieces.
-
-#CatsAreLiquid on Twitter						

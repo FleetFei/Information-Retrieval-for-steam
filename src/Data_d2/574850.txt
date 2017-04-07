@@ -1,6 +1,0 @@
-
-							About This Game
-							About the game 
-Hardnoid is a challenging Arkanoid, where our goal is to protect not only one but all the four sides of the playing field with the help of the teeth or/and the hands of our character, which depends on the difficulty level of the game. The playing field is a square mouth of one of the sick creatures who have caught a virus, which we’ll strike with a pill. The difficulty of the game is in the controls as controllable objects are moving in pairs in reverse in relation to each other. 
-The plot 
-The game takes place in a distant galaxy on a square planet. Once a meteorite with some dangerous microbes has fallen on the planet. The microbes have infected the locals with a variety of diseases, so they went to the doctor named Boxhead. In a short time the doctor has created pills which should have helped to cure the diseases. But it turned out that there was one proviso – in order to work out it is strictly forbidden to remove the pill from the mouth, otherwise it will kill you.						

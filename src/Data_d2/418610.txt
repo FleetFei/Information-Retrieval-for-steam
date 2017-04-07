@@ -1,3 +1,0 @@
-
-							About This Game
-							Swiftly is a very challenging platformer game. It has simple graphics and easy to understand rules, but you are going to have a hard time completing the levels.Blue platforms are just your average platform with no special traits.Green platforms has a bounciness of 120%Red platforms have zero friction.Throughout the level, there are gears which come in all sizes, looking to kill the cube. The player's objective is to lead the cube to the winning point. There are also checkpoints scattered throughout the levels.						

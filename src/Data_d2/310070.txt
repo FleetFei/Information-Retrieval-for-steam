@@ -1,9 +1,0 @@
-
-							About This Game
-							The Nightmare Cooperative is a strategic roguelike where you lead a group of unlikely comrades through some rather difficult situations. Your village has fallen on hard times (due to some rather reckless spending by the Village Council) and it’s up to you to bring back some gold. Or even just try and survive for a bit.
-
-Each member of the Cooperative will bring a different power to your group; the Warrior fights hard (despite her moral objections), the Miner overcomes deep psychological issues to dig you out of sticky situations, the Necromancer is pretty creepy. 
-
-A tricky thing, though: you have to control them all together. Move left, and the whole group moves left. Activate the special power, and every member will jump into action.
-
-And please, do your best to bring home some gold, the Village could really use it.						

@@ -1,8 +1,0 @@
-
-							About This Game
-							ThrounnelVR is a tetris-like puzzler with a first-person view.
-
-Controls:
-- Use your HMD to move the blocks, and your game controller or keyboard to rotate them.
-- Long press ESC to quit the game.
-- You can use VIVE controller now!						

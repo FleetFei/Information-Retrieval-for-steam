@@ -1,8 +1,0 @@
-
-							About This Game
-							The Rail Adventures VR Tech Demo is a free product, showcasing the upcoming action game Rail Adventures.
-In Rail Adventures you race in a minecart on railways, through various epic environments, facing various obstacles and challenges.
-
-In this tech demo, you race through one of the epic environments that will be part of the game and get to experience the beautiful views.
-The purpose of this tech demo is for us to gather feedback and make sure we are developing the VR side of the game in the righ direction.
-It is also a great experience to enjoy on your Vive.						

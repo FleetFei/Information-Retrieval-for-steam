@@ -1,3 +1,0 @@
-
-							About This Game
-							"Gun Brothers"  is a difficult action roguelike for 1-4 players. The fast-paced action is spiced up with a variety of unique items and weapons found throughout the procedurally or randomly generated levels. Features Full Controller Support; Online Cross-platform Multiplayer A variety of unique items with special effects Character Ability Challenging boss fights on every zone Deadly trapsCross-platform MultiplayerWe signed a plan with Photon Engine (Photon Unity) to provide true cross-platform functionality, where you can play from a pc with your friend with phone device.Controller SupportThis game has Full Controller Support.						

@@ -1,7 +1,0 @@
-
-							About This Game
-							It is a VR Experience where you need to find clues to solve puzzles and find your way out of the Room. There are some items that can be grabbed and carried around. With some items you can interact (such as switches,piano and numpads). 
-
-Please notice: 
-It currently only supports the HTC Vive. 
-Medium room size is recommended.						

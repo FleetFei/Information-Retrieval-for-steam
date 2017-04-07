@@ -1,9 +1,0 @@
-
-							About This Game
-							War Cube is a strategy game, each team is on a face of the cube and the player must turn sideways to position your troops so that they stop in an attacking position, being behind or beside the enemy.
-
-There are two game modes, Battle and Convoy. 
-
-In Battle mode, all sides of the cube are against you, be the only survivor. 
-
-In Convoy mode, your goal and defeat all enemy soldiers but at the same time protect the team that is disarmed, a soldier killed unarmed results in a failed mission.						

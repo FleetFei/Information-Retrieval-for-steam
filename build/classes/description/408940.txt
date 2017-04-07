@@ -1,3 +1,0 @@
-
-							About This Content
-							Stuff For NerdsEver wanted to download the source code of some irrelevant indie game on Steam? Now you can do it!This DLC includes the source code for both the game engine (based on OpenSLUDGE) and game scripts consisting of The Secret of Tremendous Corporation.Found a bug you want to fix for us? Want to learn how the game works? Muh freedomz? We got you covered!The DLC installs the source code into the "src" directory in your Steam library. With a little bit of software building experience and manpage reading skills, you should be able to build your own copy of TSoTC entirely from scratch.Please don't judge us when you read the code!						

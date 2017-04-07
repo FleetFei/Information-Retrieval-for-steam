@@ -1,3 +1,0 @@
-
-							About This Content
-							The Eaos-x 075 is an open bogie wagon used by DB to transport scrap and bulky cargo. The pack includes the following load variants: Loaded with coalLoaded with loose scrapLoaded with cubed scrapEmptyIt also includes a random version placement tool in the scenario editor to enable scenario writers to quickly assemble trains with realistic wagon variety.						

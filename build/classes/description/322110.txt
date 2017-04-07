@@ -1,9 +1,0 @@
-
-							About This Game
-							If you like roguelikes or Mega Man, 20XX is for you! 
-
-20XX is a roguelike action platformer that you can play with a friend. Jump and shoot your way through ever-changing levels, collect awesome new powers, and battle mighty bosses in the name of saving the human race maybe!
-
-20XX also features full co-op. Play with a friend on the couch or over the interwebs!
-
-20XX currently supports 1-2 players locally or online via Steam. (Online play is 90% stable at this time.)						

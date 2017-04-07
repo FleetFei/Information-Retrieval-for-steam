@@ -1,7 +1,0 @@
-
-							About This Game
-							BUMPER is a casual game made on Blender Game Engine where the player must to destroy the vehicles as much as possible, trying not to get caught by the police, reach the checkpoints to get time and improve your weapons.
-
-The player has a total of 9 challenges to complete and each challenge completed give a new improvement to the game.
-
-A new game mode will be unlocked after all challenges completed.						
