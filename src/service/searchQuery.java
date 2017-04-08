@@ -1,3 +1,5 @@
+package service;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -11,13 +13,14 @@ public class searchQuery {
 	private BufferedReader br;
 //	private FileWriter fr;
 	
-	public searchQuery() throws IOException {
-		br = new BufferedReader( new FileReader(new File(path.lowerCaseGamelist)));
+	public searchQuery(String path) throws IOException {
+		br = new BufferedReader( new FileReader(new File(path)));
 //		fr = new FileWriter(path.resultlocation);
 	}
 	
 //	mainly it is designed for search while typing
-	public TypingResult search1(String query) throws IOException {
+	//@ 只包含首字母，并且联想
+	public TypingResult searchTyping(String query) throws IOException {
 		
 		String line = "";
 		String templine = "";
@@ -63,6 +66,7 @@ public class searchQuery {
 	
 	
 //  it is designed for search after pressing "enter"
+	//@ 只要包含字母＋可能的结果， 返回其结果
 	public EnterSearchResult search3(String query) throws IOException {
 		
 		

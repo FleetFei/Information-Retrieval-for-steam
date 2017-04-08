@@ -1,7 +1,6 @@
 package servlet;
 
 import java.io.IOException;
-import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
@@ -10,54 +9,49 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+
 import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
-import net.sf.json.JSONException;
-//import org.apache.commons.beanutils.BeanUtils;
-import service.GameList;
 import service.searchQuery;
 
 /**
- * Servlet implementation class GameResult
+ * Servlet implementation class TestInter
  */
-@WebServlet("/GameResult")
-public class GameResult extends HttpServlet {
+@WebServlet("/TestInter")
+public class TestInter extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public GameResult() {
+    public TestInter() {
         super();
+        // TODO Auto-generated constructor stub
     }
 
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		System.out.println("doGet work");
+		// TODO Auto-generated method stub
 		response.setContentType("text/html");
 		response.setCharacterEncoding("GBK");
-		//get user Input from front-side
+		//前端你输入的测试搜索
 		String inputSearch = request.getHeader("MyHeader");
-	//handle data
-		//return Search result
-		String path = this.getServletContext().getRealPath("/WEB-INF/classes/gamelist.txt");
-		ArrayList<String> schRlt = new searchQuery(path).search(inputSearch);
-		//创建JsonArrau
+		//你需要改路径
+		String path = this.getServletContext().getRealPath("/WEB-INF/classes/lowercaseGameList.txt");
+		ArrayList<String> lianxiang = new searchQuery(path).searchTyping(inputSearch).initialResult;
+		//联想内容
 		JSONArray array = new JSONArray();
 		JSONObject son = new JSONObject();
-		for(int i=0; i<schRlt.size(); i++){
+		for(int i=0; i<lianxiang.size(); i++){
 			son.put("Rid", i);
-			son.put("Rname", schRlt.get(i));
+			son.put("Rname", lianxiang.get(i));
 			array.add(son);
 		}
-		//创建JsonObject
 		JSONObject root = new JSONObject();
 		root.put("data", array);
 		
-//		GameList gl = new GameList(); 
-//		String resCtt = gl.gamelist;
 		//设置response
 		response.setCharacterEncoding("utf-8");
 		response.setContentType("application/json;charset=utf-8");
@@ -65,6 +59,7 @@ public class GameResult extends HttpServlet {
 		//传输json
 		PrintWriter out = response.getWriter();
 		out.write(root.toString());
+//		out.write(root2.toString());
 		out.flush();
 	}
 
@@ -75,4 +70,5 @@ public class GameResult extends HttpServlet {
 		// TODO Auto-generated method stub
 		doGet(request, response);
 	}
+
 }

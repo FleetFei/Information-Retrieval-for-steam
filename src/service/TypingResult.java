@@ -1,7 +1,9 @@
+package service;
+
 import java.util.ArrayList;
 
 public class TypingResult {
-	ArrayList<String> initialResult;
+	public ArrayList<String> initialResult;
 	
 	TypingResult(ArrayList<relativeName> inputInitialResult) {
 		

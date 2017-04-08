@@ -1,10 +1,13 @@
+package service;
+
 import java.util.ArrayList;
+
 
 public class EnterSearchResult {
 	
-	ArrayList<String> nonInitialResult;
-	ArrayList<String> initialResult;
-	ArrayList<String> suggestionResult;
+	public ArrayList<String> nonInitialResult;
+	public ArrayList<String> initialResult;
+	public ArrayList<String> suggestionResult;
 	
 	EnterSearchResult(ArrayList<String> nonInitialResult, ArrayList<relativeName> inputInitialResult, ArrayList<relativeName> inputSuggestionResult) {
 		this.nonInitialResult = nonInitialResult;

@@ -1,3 +1,4 @@
+package service;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -10,7 +11,7 @@ public class findGamelist {
 	private BufferedReader br;
 	private FileWriter fr;
 	
-	public findGamelist() throws IOException {
+	public findGamelist(String brpath, String frpath) throws IOException {
 		br = new BufferedReader( new FileReader(new File(path.gamelist)));
 		fr = new FileWriter(path.resultlocation1);
 	}

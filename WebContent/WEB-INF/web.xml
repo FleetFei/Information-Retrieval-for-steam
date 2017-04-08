@@ -10,11 +10,11 @@
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
   <servlet>
-  	<servlet-name>GameResult</servlet-name>
-  	<servlet-class>servlet.GameResult</servlet-class>
+    <servlet-name>NameSearch</servlet-name>
+    <servlet-class>servlet.NameSearch</servlet-class>
   </servlet>
-  <servlet-mapping>  
-    <servlet-name>GameResult</servlet-name>  
-    <url-pattern>/Game</url-pattern>  
-  </servlet-mapping> 
+  <servlet-mapping>
+    <servlet-name>NameSearch</servlet-name>
+    <url-pattern>/NameSearch</url-pattern>
+  </servlet-mapping>
 </web-app>
