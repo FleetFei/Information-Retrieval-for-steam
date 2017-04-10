@@ -12,8 +12,8 @@ public class lcGameList {
 	private FileWriter fr;
 	
 	public lcGameList(String brpath, String frpath) throws IOException {
-		br = new BufferedReader( new FileReader(new File(path.gamelist)));
-		fr = new FileWriter(path.lowerCaseGamelist);
+		br = new BufferedReader( new FileReader(new File(brpath)));
+		fr = new FileWriter(frpath);
 	}
 	
 	public void search() throws IOException {

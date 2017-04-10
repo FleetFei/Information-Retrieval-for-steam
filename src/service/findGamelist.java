@@ -12,8 +12,8 @@ public class findGamelist {
 	private FileWriter fr;
 	
 	public findGamelist(String brpath, String frpath) throws IOException {
-		br = new BufferedReader( new FileReader(new File(path.gamelist)));
-		fr = new FileWriter(path.resultlocation1);
+		br = new BufferedReader( new FileReader(new File(brpath)));
+		fr = new FileWriter(frpath);
 	}
 	
 	public void search(String query) throws IOException {
