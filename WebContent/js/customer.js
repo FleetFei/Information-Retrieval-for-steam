@@ -53,10 +53,8 @@ function NameSearchShow(response) {
 }
 
 
-function test() {
+function test123() {
 	alert("click button");
-	//先删除以前查找的内容
-	$("#testResult").empty();
 	var inputSearch = $('#test').val();
 	alert("input search -->"+inputSearch);
 	var xmlhttp;
@@ -77,3 +75,9 @@ function test() {
 	xmlhttp.setRequestHeader("MyHeader", inputSearch);
 	xmlhttp.send();
 }
+
+
+if(document.getElementById("action").checked){
+    alert("checkbox is checked");
+}
+
