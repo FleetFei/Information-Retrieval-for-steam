@@ -3,19 +3,21 @@ package service;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
-//import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+
+import ObjectsandTools.EnterSearchResult;
+import ObjectsandTools.ResultComparator;
+import ObjectsandTools.TypingResult;
+import ObjectsandTools.relativeName;
 
 
 public class searchQuery {
 	
 	private BufferedReader br;
-//	private FileWriter fr;
 	
 	public searchQuery(String path) throws IOException {
 		br = new BufferedReader( new FileReader(new File(path)));
-//		fr = new FileWriter(path.resultlocation);
 	}
 	
 //	mainly it is designed for search while typing
@@ -78,9 +80,6 @@ public class searchQuery {
 		ArrayList<relativeName> result2 = new ArrayList<relativeName>();
 		ArrayList<relativeName> result3 = new ArrayList<relativeName>();
 		query = query.toLowerCase().replaceAll("[:()!?_~; &-\'\"./]", "");
-//		String[] querylist = query.split(" ");
-//		
-//		System.out.println(querylist.length);
 		
 		ArrayList<String> division = new ArrayList<String>();
 		int n = 4;

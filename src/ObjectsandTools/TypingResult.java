@@ -1,11 +1,11 @@
-package service;
+package ObjectsandTools;
 
 import java.util.ArrayList;
 
 public class TypingResult {
 	public ArrayList<String> initialResult;
 	
-	TypingResult(ArrayList<relativeName> inputInitialResult) {
+	public TypingResult(ArrayList<relativeName> inputInitialResult) {
 		
 		this.initialResult = new ArrayList<String>();
 		
@@ -14,7 +14,7 @@ public class TypingResult {
 		}
 	}
 	
-	void print() {
+	public void print() {
 		System.out.println("Results only contain Initial words: ");
 		for (String st1 : initialResult) {
 			System.out.println(st1);

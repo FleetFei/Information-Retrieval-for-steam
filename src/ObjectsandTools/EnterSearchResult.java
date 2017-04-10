@@ -1,4 +1,4 @@
-package service;
+package ObjectsandTools;
 
 import java.util.ArrayList;
 
@@ -9,7 +9,7 @@ public class EnterSearchResult {
 	public ArrayList<String> initialResult;
 	public ArrayList<String> suggestionResult;
 	
-	EnterSearchResult(ArrayList<String> nonInitialResult, ArrayList<relativeName> inputInitialResult, ArrayList<relativeName> inputSuggestionResult) {
+	public EnterSearchResult(ArrayList<String> nonInitialResult, ArrayList<relativeName> inputInitialResult, ArrayList<relativeName> inputSuggestionResult) {
 		this.nonInitialResult = nonInitialResult;
 		this.initialResult = new ArrayList<String>();
 		this.suggestionResult = new ArrayList<String>();
@@ -22,7 +22,7 @@ public class EnterSearchResult {
 		}
 	}
 	
-	void print() {
+	public void print() {
 		System.out.println("Results only contain Initial words: ");
 		for (String st1 : initialResult) {
 			System.out.println(st1);
