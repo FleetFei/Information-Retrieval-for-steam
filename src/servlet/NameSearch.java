@@ -37,9 +37,11 @@ public class NameSearch extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		response.setContentType("text/html");
 		response.setCharacterEncoding("GBK");
-		String inputSearch = request.getHeader("MyHeader");
+//		String inputSearch = request.getHeader("MyHeader");
+		String inputSearch = request.getParameter("Name");
 		System.out.println("用户输入："+inputSearch);
-//		String inputSearch = request.getParameter
+		String genre = request.getParameter("Genre");
+		System.out.println("genre："+genre);
 		//return Search result
 		String path = this.getServletContext().getRealPath("/WEB-INF/classes/lowercaseGameList.txt");
 		/*
@@ -48,30 +50,19 @@ public class NameSearch extends HttpServlet {
 		 * 2.不含首字母，但是包含字符串
 		 */
 		
-		ArrayList<String> lianxiang = new searchQuery(path).searchTyping(inputSearch).initialResult;
-		System.out.println("联想内容："+lianxiang);
 		ArrayList<String> allrelated = new searchQuery(path).search3(inputSearch).initialResult;
-		//联想内容
-		JSONArray array = new JSONArray();
-		JSONObject son = new JSONObject();
-		for(int i=0; i<lianxiang.size(); i++){
-			son.put("Rid", i);
-			son.put("Rname", lianxiang.get(i));
-			array.add(son);
-		}
-		JSONObject root = new JSONObject();
-		root.put("data", array);
 		//全部相关内容
 		JSONArray array2 = new JSONArray();
 		JSONObject son2 = new JSONObject();
 		for(int i=0; i<allrelated.size(); i++){
 			son2.put("Rid", i);
 			son2.put("Rname", allrelated.get(i));
-			array.add(son2);
+			array2.add(son2);
 		}
-		JSONObject root2 = new JSONObject();
-		root2.put("allrelatedData", array);
 		//创建JsonObject
+		JSONObject root2 = new JSONObject();
+		root2.put("allrelatedData", array2);
+		
 		
 		
 		//设置response
@@ -80,8 +71,7 @@ public class NameSearch extends HttpServlet {
 		response.setHeader("cache-control", "no-cache");
 		//传输json
 		PrintWriter out = response.getWriter();
-		out.write(root.toString());
-//		out.write(root2.toString());
+		out.write(root2.toString());
 		out.flush();
 	}
 
