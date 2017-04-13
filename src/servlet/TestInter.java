@@ -39,8 +39,11 @@ public class TestInter extends HttpServlet {
 		//前端你输入的测试搜索
 		String inputSearch = request.getHeader("MyHeader");
 		//你需要改路径
-		String path = this.getServletContext().getRealPath("/WEB-INF/classes/lowercaseGameList.txt");
-		ArrayList<String> lianxiang = new searchQuery(path).searchTyping(inputSearch).initialResult;
+		String path = this.getServletContext().getRealPath("/WEB-INF/classes/SearchGameList.txt");
+		ArrayList<String> test = new ArrayList<String>();
+		test.add("action");
+		test.add("free to play");
+		ArrayList<String> lianxiang = new searchQuery(path).searchEntering(inputSearch,test,"valve","Oct 10 2007").initialResult;
 		//联想内容
 		JSONArray array = new JSONArray();
 		JSONObject son = new JSONObject();

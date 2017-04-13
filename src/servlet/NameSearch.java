@@ -11,7 +11,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import build.GameList;
 import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
 import net.sf.json.JSONException;
@@ -41,7 +40,7 @@ public class NameSearch extends HttpServlet {
 		System.out.println("用户输入："+inputSearch);
 //		String inputSearch = request.getParameter
 		//return Search result
-		String path = this.getServletContext().getRealPath("/WEB-INF/classes/lowercaseGameList.txt");
+		String path = this.getServletContext().getRealPath("/WEB-INF/classes/SearchGameList.txt");
 		/*
 		 * 返回3种搜索模式
 		 * 1.包含首字母
@@ -50,7 +49,8 @@ public class NameSearch extends HttpServlet {
 		
 		ArrayList<String> lianxiang = new searchQuery(path).searchTyping(inputSearch).initialResult;
 		System.out.println("联想内容："+lianxiang);
-		ArrayList<String> allrelated = new searchQuery(path).search3(inputSearch).initialResult;
+		ArrayList<String> test = new ArrayList<String>();
+		ArrayList<String> allrelated = new searchQuery(path).searchEntering(inputSearch,test, "","").initialResult;
 		//联想内容
 		JSONArray array = new JSONArray();
 		JSONObject son = new JSONObject();
