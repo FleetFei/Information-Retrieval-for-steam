@@ -40,8 +40,10 @@ public class NameSearch extends HttpServlet {
 //		String inputSearch = request.getHeader("MyHeader");
 		String inputSearch = request.getParameter("Name");
 		System.out.println("用户输入："+inputSearch);
-		String genre = request.getParameter("Genre");
-		System.out.println("genre："+genre);
+		String[] genre = request.getParameterValues("Genre");
+		for(int i=0;i<genre.length;i++){
+			System.out.println("genre："+genre[i]);
+		}
 		//return Search result
 		String path = this.getServletContext().getRealPath("/WEB-INF/classes/lowercaseGameList.txt");
 		/*

@@ -29,7 +29,6 @@
 		<!-- Navigation -->
 		<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 			<div class="container">
-
 				<!-- Brand and toggle get grouped for better mobile display -->
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -59,59 +58,113 @@
 		<div class="container">
 
 			<div class="row">
-				<div class="col-md-2">
-					<!--  <button onclick="show()"> cnm<button>-->
-					<div class="list-group">
-						<div class="input-group">
-							<input type="text" class="form-control" id='User_Sch_input'>
-							<span class="input-group-btn">
+				<div class="col-md-4"></div>
+				<div class="col-md-4">
+					<div class="input-group">
+						<input type="text" class="form-control" id='User_Sch_input'>
+						<span class="input-group-btn">
                                 <button class="btn btn-info btn-search" onclick="Search()"> search</button>
                         </span>
-						</div>
+					</div>
+				</div>
+				<div class="col-md-2">
+					<div class="input-group">
+						<input type="text" class="form-control" id='related_input'>
+					</div>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12">
+					<div class="list-group">
+						<a class="dropdown-toggle" id="genre"> genre</a>
+						<ul class="list">
+							<li class="item" style="display:inline-block; margin-left:0px;">
+								<label class="checkbox"> <input type="checkbox"  id="action" value="acton"></label> action
+							</li>
+							<li class="item " style="display:inline-block; margin-left:30px;">
+								<label class="checkbox"> <input type="checkbox"  id="Strategy" value="Strategy"></label> Strategy
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+								<label class="checkbox"> <input type="checkbox"  id="Racing" value="Racing"></label> Racing
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+								<label class="checkbox"> <input type="checkbox"  id="RPG" value="RPG"></label> RPG
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+								<label class="checkbox"> <input type="checkbox"  id="Education" value="Education"></label> Education
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+								<label class="checkbox"> <input type="checkbox"  id="Sports" value="Sports"></label> Sports
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+								<label class="checkbox"> <input type="checkbox"  id="Short" value="Short"></label> Short
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+								<label class="checkbox"> <input type="checkbox"  id="Adventure" value="Adventure"></label> Adventure
+							</li>
+						</ul>
 					</div>
 
 					<div class="list-group">
-                        <a class="dropdown-toggle" id="genre"> genre</a>
+						<a class="dropdown-toggle" id="genre"> other</a>
 						<ul class="list">
-							<li class="item item-checkbox">
-								<label class="checkbox"> <input type="checkbox"  id="action" value="acton"></label> action
+							<li class="item item-checkbox" style="display:inline-block; margin-left:0px;">
+								<label class="checkbox"> <input type="checkbox"  id="Early Access" value="Early Access"></label> Early Access
 							</li>
-							<li class="item item-checkbox">
-								<label class="checkbox"> <input type="checkbox"  id="Strategy" value="Strategy"></label> Strategy
-							</li>
-							<li class="item item-checkbox">
+							<li class="item item-checkbox" style="display:inline-block; margin-left:40px;">
 								<label class="checkbox"> <input type="checkbox"  id="Free to play" value="Free to play"></label> Free to play
 							</li>
-							<ul>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:40px;">
+								<label class="checkbox"> <input type="checkbox"  id="Violent" value="Violent"></label> Violent
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:40px;">
+								<label class="checkbox"> <input type="checkbox"  id="Sexual Content" value="Sexual Content"></label> Sexual Content
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:40px;">
+								<label class="checkbox"> <input type="checkbox"  id="Casual" value="Casual"></label> Casual
+							</li>
+						</ul>
 					</div>
-					
-					<ul class="nav navbar-nav">
-						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Publisher
-								<b class="caret"></b>
-							</a>
-							<ul class="dropdown-menu">
-								<li>
-									<a id="action-1" href="#">jmeter</a>
-								</li>
-								<li>
-									<a href="#">EJB</a>
-								</li>
-								<li>
-									<a href="#">Jasper Report</a>
-								</li>
-								<li class="divider"></li>
-								<li>
-									<a href="#">分离的链接</a>
-								</li>
-								<li class="divider"></li>
-							</ul>
-						</li>
-					</ul>
-				</div>
+					<div>
+						<a class="dropdown-toggle" id="publisher"> publisher</a>
+					</div>
+					<div>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="Valve" value="" checked> Valve
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="Dovetail"  value=""> Dovetail
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="SEGA"  value=""> SEGA
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="Paradox"  value=""> Paradox
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="Degica"  value=""> Degica
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="Ubisoft"  value=""> Ubisoft
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="Lionsgate"  value=""> Lionsgate
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="Devolver"  value=""> Devolver
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="Telltale"  value=""> DevolverTelltale						</label>
+					</div>
 
+				</div>
+			</div>
+
+			<div class="row" style="margin-top: 30px;">
 				<div class="col-md-1"></div>
-				<div class="col-md-4" id="show_Sch_Rlt">
+				<div class="col-md-4" id="resultDisplay">
 					<a href="#" class="list-group-item active">
 						<h4 class="list-group-item-heading"> Game List</h4>
 					</a>
@@ -124,7 +177,7 @@
 				</div>
 
 				<div class="col-md-1"></div>
-				<div class="col-md-4" id="show_Sch_Rlt">
+				<div class="col-md-4" id="recommendDisplay">
 					<a href="#" class="list-group-item active">
 						<h4 class="list-group-item-heading"> Recommend</h4>
 					</a>

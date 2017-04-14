@@ -1,24 +1,13 @@
 window.onload = function() {
-	 $(".dropdown-toggle").dropdown('toggle');
-//	$("#genre").click(function(){
-//		alert("genre button");
-//		var genre =[];
-//		var name =$('#User_Sch_input').val();
-//		$("input[type=checkbox]").each(function() {
-//			//由于复选框一般选中的是多个,所以可以循环输出 
-//			alert($(this).val());
-//			genre.push($(this).val());
-//		});
-//		$.post("http://localhost:8080/SteamGame/NameSearch", {
-//				Genre: genre,
-//				Name: name,
-//			},
-//			function(data, status) {
-//				alert("Data: " + data + "\nStatus: " + status);
-//				NameSearchShow(data);
-//			});
-//	});
-//	
+	$("#genre").click(function(){
+		var name =$('#User_Sch_input').val();
+		$("input[type=checkbox]:checked").each(function() {
+			//由于复选框一般选中的是多个,所以可以循环输出 
+			alert($(this).val());
+			genre.push($(this).val());
+		});   
+	});
+};
 //	$('#action').change(function() {
 //		if($(this).attr("checked")) {
 //			$(this).removeAttr("checked");
@@ -26,15 +15,7 @@ window.onload = function() {
 //			$(this).attr("checked", "true");
 //		}
 //	});
-//
-//	$('#roleplay').change(function() {
-//		if($(this).attr("checked")) {
-//			$(this).removeAttr("checked");
-//		} else {
-//			$(this).attr("checked", "true");
-//		}
-//	});
-};
+
 
 //name search button
 //function nameSearchBtn() {
@@ -63,45 +44,62 @@ window.onload = function() {
 //}
 
 function Search() {
-	alert("click button");
-	//先删除以前查找的内容
-	$("#show_Sch_Rlt").empty();
-	var name = $('#User_Sch_input').val();
-	alert("input search -->" + name);
-	var xmlhttp;
-	var txt, x, i;
+//	var a = $("<a href='#' class='list-group-item' id='" + 10 + "'>"+
+//		+"<h4 class='list-group-item-heading'>"+qifei+"</h4>"
+//		+"<p class='list-group-item-text'></p>"+
+//		+"</a>");
+	var a = $("<a href='#' class='list-group-item'>"+
+	"<h4 class='list-group-item-heading'> qifei</h4></a>");
+	alert(a);
+	$("#resultDisplay").append(a);
 	
-	$.post("http://localhost:8080/SteamGame/NameSearch", {
-				Genre: genre,
-				Name: name,
-			},
-			function(data, status) {
-				alert("Data: " + data + "\nStatus: " + status);
-				NameSearchShow(data);
-			});
+//	
+//	//先删除以前查找的内容
+//	$("#show_Sch_Rlt").empty();
+//	//name search
+//	var name = $('#User_Sch_input').val();
+//	//genre
+//	var genre =[];
+//	$("input[type=checkbox]:checked").each(function() {
+//		//由于复选框一般选中的是多个,所以可以循环输出 
+//		alert("you choose : "+$(this).val());
+//		genre.push($(this).val());
+//	}); 
+//	 $.ajax({  
+//       type:'post',  
+//       dataType:'json',
+//       traditional :true,  
+//       url:"http://localhost:8080/SteamGame/NameSearch",  
+//       data:{'Name':name,'Genre':genre},  
+//       success:function(data){  
+//      	 	SearchDisplay(data);
+//       }  
+//   });  
 }
 
 
 
-function NameSearchShow(response) {
+function SearchDisplay(response) {
 //	var myobj = JSON.parse(response);;
 	var myobj = response;
-	alert("jsonText===" + myobj);
 	var txt = "";
+	
+	
 	for(var i in myobj.data) {
 		var name = myobj.data[i].Rname;
 		var id = myobj.data[i].Rid;
 		var descript =  myobj.data[i].Description;
 		var genre = myobj.data[i].Genre;
 		var rate = myobj.data[i].rate;
-		var a = $("<a href='#' class='list-group-item' id='" + id + "'></a>");
-		var h4= $("<h4 class='list-group-item-heading'>"+name+"</h4>");
-		var p= $("<p class='list-group-item-text'></p>");
-		$("#show_Sch_Rlt").append(a).append(h4).append(p);
+		var a = $("<a href='#' class='list-group-item' id='" + id + "'>"+
+		+"<h4 class='list-group-item-heading'>"+name+"</h4>"
+		+"<p class='list-group-item-text'></p>"+
+		+"</a>");
+		$("#show_Sch_Rlt").append(a);
 	}
 }
 
-   
+//$(".dropdown-toggle").dropdown('toggle');  
 
 
 //	if(document.getElementById("action").checked) {
