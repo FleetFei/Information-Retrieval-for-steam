@@ -13,12 +13,15 @@
 
 		<!-- Bootstrap Core CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<script src="http://cdn.static.runoob.com/libs/jquery/2.1.1/jquery.min.js"></script>
+		<script src="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 		<!-- Custom CSS -->
 		<link href="css/shop-homepage.css" rel="stylesheet">
-
+		<script type="text/javascript" src="js/jquery-3.2.0.js"></script>
 		<!--Custom JS-->
-		<script type="text/javascript" src="js/customer.js"></script>
+		<script type="text/javascript" src="js/base_search.js"></script>
+
 	</head>
 
 	<body>
@@ -26,7 +29,6 @@
 		<!-- Navigation -->
 		<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 			<div class="container">
-
 				<!-- Brand and toggle get grouped for better mobile display -->
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -56,111 +58,177 @@
 		<div class="container">
 
 			<div class="row">
-				<div class="col-md-3">
-					<!--  <button onclick="show()"> cnm<button>-->
-
-					<p class="lead">search by game name </p>
-					<div class="list-group">
-						<div class="input-group">
-							<input type="text" class="form-control" id='User_Sch_input'>
-							<span class="input-group-btn">
-                                <button class="btn btn-info btn-search" onclick="nameSearchBtn()"> search</button>
+				<div class="col-md-4"></div>
+				<div class="col-md-4">
+					<div class="input-group">
+						<input type="text" class="form-control" id='User_Sch_input'>
+						<span class="input-group-btn">
+                                <button class="btn btn-info btn-search" onclick="Search()"> search</button>
                         </span>
-						</div>
 					</div>
-
-					<p class="lead">category </p>
-					<ul class="list">
-						<li class="item item-checkbox">
-							<label class="checkbox"> <input type="checkbox" checked="" id="action"></label>
-							action
-						</li>
-						<li class="item item-checkbox">
-							<label class="checkbox"> <input type="checkbox" checked="" id="roleplay"></label>
-							role play
-						</li>
-					<ul>
-						<p class="lead">test</p>
-						<div class="list-group">
-							<div class="input-group">
-								<input type="text" class="form-control" id='test'>
-								<span class="input-group-btn">
-                                <button class="btn btn-info btn-search" onclick="test123()"> test</button>
-                        </span>
-							</div>
-						</div>
-
 				</div>
-
-				<div class="col-md-9">
-					<div class="row carousel-holder">
-						<div class="col-md-12">
-							<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-								<ol class="carousel-indicators">
-									<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-									<li data-target="#carousel-example-generic" data-slide-to="1"></li>
-									<li data-target="#carousel-example-generic" data-slide-to="2"></li>
-								</ol>
-								<div class="carousel-inner">
-									<div class="item active">
-										<img class="slide-image" src="http://placehold.it/800x300" alt="">
-									</div>
-									<div class="item">
-										<img class="slide-image" src="http://placehold.it/800x300" alt="">
-									</div>
-									<div class="item">
-										<img class="slide-image" src="http://placehold.it/800x300" alt="">
-									</div>
-								</div>
-								<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
-									<span class="glyphicon glyphicon-chevron-left"></span>
-								</a>
-								<a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
-									<span class="glyphicon glyphicon-chevron-right"></span>
-								</a>
-							</div>
-						</div>
+				<div class="col-md-2">
+					<div class="input-group">
+						<input type="text" class="form-control" id='related_input'>
 					</div>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
 
-					<div class="row">
-						<p>
-							<span class="glyphicon glyphicon-star">accurate result</span>
-						</p>
-						<ul class="list-group" id="show_Sch_Rlt">
-							<li class="list-group-item">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="list-group">
+						<a class="dropdown-toggle" id="genre"> genre</a>
+						<ul class="list">
+							<li class="item" style="display:inline-block; margin-left:0px;">
+								<label class="checkbox"> <input type="checkbox"  id="action" value="acton"></label> action
+							</li>
+							<li class="item " style="display:inline-block; margin-left:30px;">
+								<label class="checkbox"> <input type="checkbox"  id="Strategy" value="Strategy"></label> Strategy
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+								<label class="checkbox"> <input type="checkbox"  id="Racing" value="Racing"></label> Racing
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+								<label class="checkbox"> <input type="checkbox"  id="RPG" value="RPG"></label> RPG
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+								<label class="checkbox"> <input type="checkbox"  id="Education" value="Education"></label> Education
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+								<label class="checkbox"> <input type="checkbox"  id="Sports" value="Sports"></label> Sports
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+								<label class="checkbox"> <input type="checkbox"  id="Short" value="Short"></label> Short
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+								<label class="checkbox"> <input type="checkbox"  id="Adventure" value="Adventure"></label> Adventure
 							</li>
 						</ul>
+					</div>
 
+					<div class="list-group">
+						<a class="dropdown-toggle" id="genre"> other</a>
+						<ul class="list">
+							<li class="item item-checkbox" style="display:inline-block; margin-left:0px;">
+								<label class="checkbox"> <input type="checkbox"  id="Early Access" value="Early Access"></label> Early Access
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:40px;">
+								<label class="checkbox"> <input type="checkbox"  id="Free to play" value="Free to play"></label> Free to play
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:40px;">
+								<label class="checkbox"> <input type="checkbox"  id="Violent" value="Violent"></label> Violent
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:40px;">
+								<label class="checkbox"> <input type="checkbox"  id="Sexual Content" value="Sexual Content"></label> Sexual Content
+							</li>
+							<li class="item item-checkbox" style="display:inline-block; margin-left:40px;">
+								<label class="checkbox"> <input type="checkbox"  id="Casual" value="Casual"></label> Casual
+							</li>
+						</ul>
+					</div>
+					<div>
+						<a class="dropdown-toggle" id="publisher"> publisher</a>
+					</div>
+					<div>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="Valve" value="" checked> Valve
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="Dovetail"  value=""> Dovetail
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="SEGA"  value=""> SEGA
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="Paradox"  value=""> Paradox
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="Degica"  value=""> Degica
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="Ubisoft"  value=""> Ubisoft
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="Lionsgate"  value=""> Lionsgate
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="Devolver"  value=""> Devolver
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="Telltale"  value=""> DevolverTelltale		
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="other"  value=""> other		
+						</label>
 					</div>
 
 				</div>
+			</div>
 
+			<!-- 搜索结果排序-->
+			<div class="row" style="margin-top: 30px;margin-bottom: 30px ;" >
+				<div class="col-md-5"></div>
+				<div class="col-md-2" id="sortCat">
+					<div class="dropdown">
+						<button type="button" class="btn dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown">主题
+      						  <span class="caret"></span>
+  					    </button>
+						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+							<li role="presentation" class="dropdown-header">sort by</li>
+							<li role="presentation">
+								<a  type="button" role="menuitem" tabindex="-1" >rating</a>
+							</li>
+							<li role="presentation">
+								<a  type="button"  role="menuitem" tabindex="-1" href="#">releasing date</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-md-5"></div>
+			</div>
+
+			<!--返回搜索结果-->
+			<div class="row" style="margin-top: 30px;">
+				<div class="col-md-1"></div>
+				<div class="col-md-4" id="resultDisplay">
+					<a href="#" class="list-group-item active">
+						<h4 class="list-group-item-heading"> Game List</h4>
+					</a>
+					<a href="#" class="list-group-item">
+						<h4 class="list-group-item-heading">免费域名注册</h4>
+						<p class="list-group-item-text">
+							您将通过网页进行免费域名注册。
+						</p>
+					</a>
+				</div>
+
+				<div class="col-md-1"></div>
+				<div class="col-md-4" id="recommendDisplay">
+					<a href="#" class="list-group-item active">
+						<h4 class="list-group-item-heading"> Recommend</h4>
+					</a>
+					<a href="#" class="list-group-item">
+						<h4 class="list-group-item-heading">免费域名注册</h4>
+						<p class="list-group-item-text">
+							您将通过网页进行免费域名注册。
+						</p>
+					</a>
+				</div>
 			</div>
 
 		</div>
 		<!-- /.container -->
 
 		<div class="container">
+			<div class="row clearfix">
+				<div class="col-md-6 column">
 
-			<hr>
-
-			<!-- Footer -->
-			<footer>
-				<div class="row">
-					<div class="col-lg-12">
-						<p>Copyright &copy; Your Website 2014</p>
-					</div>
 				</div>
-			</footer>
+
+			</div>
 
 		</div>
-		<!-- /.container -->
-
-		<!-- jQuery -->
-		<script src="js/jquery.js"></script>
-
-		<!-- Bootstrap Core JavaScript -->
-		<script src="js/bootstrap.min.js"></script>
 
 	</body>
 
