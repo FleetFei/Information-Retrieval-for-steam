@@ -2,6 +2,7 @@ package ObjectsandTools;
 
 public class Document {
 	
+//	
 	protected String docid;
 	protected String docno;
 	protected double score;
