@@ -34,12 +34,12 @@ public class searchKeywords {
 	BufferedReader gamelistReader;
 	
 //	Constructor: open reader to read SearchGameList
-	searchKeywords(String path) throws FileNotFoundException {
+	public searchKeywords(String path) throws FileNotFoundException {
 		gamelistReader = new BufferedReader( new FileReader(new File(path)));
 	}
 	
 	
-	ArrayList<relativeName> search(String indexpath, String keywords, ArrayList<String> taglist, String publisher, String releasedate) throws Exception {
+	public ArrayList<relativeName> search(String indexpath, String keywords, ArrayList<String> taglist, String publisher, String releasedate) throws Exception {
 		ArrayList<relativeName> result = new ArrayList<relativeName>();
 		
 //		keywords can be empty

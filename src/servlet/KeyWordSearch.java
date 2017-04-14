@@ -1,7 +1,6 @@
 package servlet;
 
 import java.io.IOException;
-import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
@@ -11,23 +10,26 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import ObjectsandTools.relativeName;
 import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
-import net.sf.json.JSONException;
 import service.searchQuery;
 
+import service.*;
+
 /**
- * Servlet implementation class GameResult
+ * Servlet implementation class tipSearch
  */
-@WebServlet("/NameGameSearch")
-public class NameSearch extends HttpServlet {
+@WebServlet("/tipSearch")
+public class KeyWordSearch extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public NameSearch() {
+    public KeyWordSearch() {
         super();
+        // TODO Auto-generated constructor stub
     }
 
 	/**
@@ -37,29 +39,26 @@ public class NameSearch extends HttpServlet {
 		response.setContentType("text/html");
 		response.setCharacterEncoding("GBK");
 //		String inputSearch = request.getHeader("MyHeader");
-		String inputSearch = request.getParameter("Name");
-		String[] genre = request.getParameterValues("Genre");
+		String keyword = request.getParameter("keyword");
+		String[] Tag = request.getParameterValues("Tag");
 		String publisher = request.getParameter("Publisher");
 		String releasing = request.getParameter("Year");
-		System.out.println("用户输入inputSearch："+inputSearch);
+		System.out.println("用户输入keyword："+keyword);
 		ArrayList<String> tag = new ArrayList<>();
-		for(int i=0;i<genre.length;i++){
-			System.out.println("用户选择的genre："+genre[i]);
-			tag.add(genre[i]);
+		for(int i=0;i<Tag.length;i++){
+			System.out.println("用户选择的genre："+Tag[i]);
+			tag.add(Tag[i]);
 		}
 		System.out.println("用户输入publisher："+publisher);
 		System.out.println("用户输入releasing："+releasing);
 		
-		//return Search result
+		//确认路径
 		String path = this.getServletContext().getRealPath("/WEB-INF/classes/SearchGameList.txt");
-		/*
-		 * 返回4种搜索模式
-		 * 1.包含首字母
-		 * 2.不含首字母，但是包含字符串
-		 */
+		String indexpath = this.getServletContext().getRealPath("/WEB-INF/classes/SearchGameList.txt");
+	
 		
 		//Typing内容
-		ArrayList<String> queryTping= new searchQuery(path).searchTyping(inputSearch).initialResult;
+		ArrayList<relativeName> queryTping= new searchKeywords(path).search(indexpath,keyword,tag,publisher,releasing);
 		System.out.println("queryTping内容："+queryTping);
 		JSONArray Typingarray = new JSONArray();
 		JSONObject son = new JSONObject();
@@ -101,4 +100,5 @@ public class NameSearch extends HttpServlet {
 		// TODO Auto-generated method stub
 		doGet(request, response);
 	}
+
 }
