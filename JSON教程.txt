@@ -11,3 +11,10 @@ var str = JSON.stringify(a)
 /*
 	访问JSON 对象的内容
 */
+
+var objJSON = {"TypingData":[{"Rid":0,"Rname":"Dota 2 - English Depot"}],"EnterData":[{"Rid":0,"Rname":"Dota 2 - English Depot"}]}
+
+var a = objJSON.TypingData;
+var ary = a[1];
+var name = a[1].Rname;
+var id = a[1].Rid;

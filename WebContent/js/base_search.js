@@ -61,7 +61,7 @@ function SearchDisplay(response) {
 		var descript =  typingResult[i].Description;
 		var genre = typingResult[i].Genre;
 		var rate = typingResult[i].rate;
-		var a = $("<a href='#' class='list-group-item' id=" + id + ">"+
+		var a = $("<a href='#' class='list-group-item' id=namesearch" + id + ">"
 		+"<h4 class='list-group-item-heading'>"+name+"</h4>"
 		+"<p class='list-group-item-text'></p>"+
 		+"</a>");
