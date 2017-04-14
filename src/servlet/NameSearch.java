@@ -11,7 +11,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import build.GameList;
 import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
 import net.sf.json.JSONException;
@@ -45,14 +44,30 @@ public class NameSearch extends HttpServlet {
 			System.out.println("genre："+genre[i]);
 		}
 		//return Search result
-		String path = this.getServletContext().getRealPath("/WEB-INF/classes/lowercaseGameList.txt");
+		String path = this.getServletContext().getRealPath("/WEB-INF/classes/SearchGameList.txt");
 		/*
 		 * 返回3种搜索模式
 		 * 1.包含首字母
 		 * 2.不含首字母，但是包含字符串
 		 */
 		
-		ArrayList<String> allrelated = new searchQuery(path).search3(inputSearch).initialResult;
+
+		ArrayList<String> lianxiang = new searchQuery(path).searchTyping(inputSearch).initialResult;
+		System.out.println("联想内容："+lianxiang);
+		ArrayList<String> test = new ArrayList<String>();
+		ArrayList<String> allrelated = new searchQuery(path).searchEntering(inputSearch,test, "","").initialResult;
+		//联想内容
+		JSONArray array = new JSONArray();
+		JSONObject son = new JSONObject();
+		for(int i=0; i<lianxiang.size(); i++){
+			son.put("Rid", i);
+			son.put("Rname", lianxiang.get(i));
+			array.add(son);
+		}
+		JSONObject root = new JSONObject();
+		root.put("data", array);
+
+		ArrayList<String> allrelated2 = new searchQuery(path).searchTyping(inputSearch).initialResult;
 		//全部相关内容
 		JSONArray array2 = new JSONArray();
 		JSONObject son2 = new JSONObject();

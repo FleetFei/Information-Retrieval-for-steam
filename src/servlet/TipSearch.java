@@ -43,7 +43,7 @@ public class TipSearch extends HttpServlet {
 		 * 1.包含首字母
 		 * 2.不含首字母，但是包含字符串
 		 */
-		ArrayList<String> allrelated = new searchQuery(path).search3(inputSearch).initialResult;
+		ArrayList<String> allrelated = new searchQuery(path).searchTyping(inputSearch).initialResult;
 		//提示搜索
 		JSONArray array = new JSONArray();
 		JSONObject son = new JSONObject();
