@@ -38,57 +38,58 @@ public class NameSearch extends HttpServlet {
 		response.setCharacterEncoding("GBK");
 //		String inputSearch = request.getHeader("MyHeader");
 		String inputSearch = request.getParameter("Name");
+		String[] genre = request.getParameterValues("Tag");
+		String publisher = request.getParameter("Publisher");
+		String releasing = request.getParameter("Year");
 		System.out.println("用户输入："+inputSearch);
-		String[] genre = request.getParameterValues("Genre");
+		ArrayList<String> tag = new ArrayList<>();
 		for(int i=0;i<genre.length;i++){
-			System.out.println("genre："+genre[i]);
+			System.out.println("用户选择的genre："+genre[i]);
+			tag.add(genre[i]);
 		}
+		System.out.println("用户输入："+publisher);
+		System.out.println("用户输入："+releasing);
+		
 		//return Search result
 		String path = this.getServletContext().getRealPath("/WEB-INF/classes/SearchGameList.txt");
 		/*
-		 * 返回3种搜索模式
+		 * 返回4种搜索模式
 		 * 1.包含首字母
 		 * 2.不含首字母，但是包含字符串
 		 */
 		
-
-		ArrayList<String> lianxiang = new searchQuery(path).searchTyping(inputSearch).initialResult;
-		System.out.println("联想内容："+lianxiang);
-		ArrayList<String> test = new ArrayList<String>();
-		ArrayList<String> allrelated = new searchQuery(path).searchEntering(inputSearch,test, "","").initialResult;
-		//联想内容
-		JSONArray array = new JSONArray();
+		//Typing内容
+		ArrayList<String> queryTping= new searchQuery(path).searchTyping(inputSearch).initialResult;
+		System.out.println("queryTping内容："+queryTping);
+		JSONArray Typingarray = new JSONArray();
 		JSONObject son = new JSONObject();
-		for(int i=0; i<lianxiang.size(); i++){
+		for(int i=0; i<queryTping.size(); i++){
 			son.put("Rid", i);
-			son.put("Rname", lianxiang.get(i));
-			array.add(son);
+			son.put("Rname", queryTping.get(i));
+			Typingarray.add(son);
 		}
-		JSONObject root = new JSONObject();
-		root.put("data", array);
-
-		ArrayList<String> allrelated2 = new searchQuery(path).searchTyping(inputSearch).initialResult;
-		//全部相关内容
-		JSONArray array2 = new JSONArray();
+		//Entering内容
+		ArrayList<String> queryEntering = new searchQuery(path).searchEntering(inputSearch,tag, publisher,releasing).initialResult;
+		JSONArray EnterArray = new JSONArray();
 		JSONObject son2 = new JSONObject();
-		for(int i=0; i<allrelated.size(); i++){
+		for(int i=0; i<queryEntering.size(); i++){
 			son2.put("Rid", i);
-			son2.put("Rname", allrelated.get(i));
-			array2.add(son2);
+			son2.put("Rname", queryEntering.get(i));
+			EnterArray.add(son2);
 		}
 		//创建JsonObject
-		JSONObject root2 = new JSONObject();
-		root2.put("allrelatedData", array2);
-		
-		
+		JSONObject root = new JSONObject();
+		root.put("TypingData", Typingarray);
+		root.put("EnterData", EnterArray);
 		
 		//设置response
 		response.setCharacterEncoding("utf-8");
 		response.setContentType("application/json;charset=utf-8");
 		response.setHeader("cache-control", "no-cache");
+		
 		//传输json
 		PrintWriter out = response.getWriter();
-		out.write(root2.toString());
+		out.write(root.toString());
 		out.flush();
 	}
 

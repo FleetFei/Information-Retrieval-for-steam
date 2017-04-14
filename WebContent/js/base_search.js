@@ -8,40 +8,6 @@ window.onload = function() {
 		});   
 	});
 };
-//	$('#action').change(function() {
-//		if($(this).attr("checked")) {
-//			$(this).removeAttr("checked");
-//		} else {
-//			$(this).attr("checked", "true");
-//		}
-//	});
-
-
-//name search button
-//function nameSearchBtn() {
-//	alert("click button");
-//	//先删除以前查找的内容
-//	$("#show_Sch_Rlt").empty();
-//	var inputSearch = $('#User_Sch_input').val();
-//	alert("input search -->" + inputSearch);
-//	var xmlhttp;
-//	var txt, x, i;
-//	if(window.XMLHttpRequest) {
-//		xmlhttp = new XMLHttpRequest();
-//	} else {
-//		xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
-//	}
-//	xmlhttp.onreadystatechange = function() {
-//		if(xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-//			xmlDoc = xmlhttp.responseText;
-//			txt = "";
-//			NameSearchShow(xmlDoc);
-//		}
-//	}
-//	xmlhttp.open("GET", "http://localhost:8080/SteamGame/NameSearch", true);
-//	xmlhttp.setRequestHeader("MyHeader", inputSearch);
-//	xmlhttp.send();
-//}
 
 function Search() {
 //	var a = $("<a href='#' class='list-group-item' id='" + 10 + "'>"+
@@ -55,10 +21,13 @@ function Search() {
 	
 	//先删除以前查找的内容
 	$("#show_Sch_Rlt").empty();
-	
+	/*
+	 * 搜索内容：name, genre, company, sort
+	 */
 	var name = $('#User_Sch_input').val();
-	//genre
 	var genre =[];
+	var publisher ="";
+	var releasingdate="";
 	$("input[type=checkbox]:checked").each(function() {
 		//由于复选框一般选中的是多个,所以可以循环输出 
 		alert("you choose : "+$(this).val());
@@ -69,7 +38,7 @@ function Search() {
          dataType:'json',
          traditional :true,  
          url:"http://localhost:8080/SteamGame/NameSearch",  
-         data:{'Name':name,'Genre':genre,},  
+         data:{'Name':name,'Genre':genre,'Publisher':publisher,'ReleasingDate':releasingdate},  
          success:function(data){  
         	 	SearchDisplay(data);
          }  
@@ -79,8 +48,8 @@ function Search() {
 
 
 function SearchDisplay(response) {
-//	var myobj = JSON.parse(response);;
-	var myobj = response;
+	var myobj = JSON.parse(response);;
+//	var myobj = response;
 	var txt = "";
 	
 	
@@ -94,28 +63,6 @@ function SearchDisplay(response) {
 		+"<h4 class='list-group-item-heading'>"+name+"</h4>"
 		+"<p class='list-group-item-text'></p>"+
 		+"</a>");
-		$("#show_Sch_Rlt").append(a);
+		$("#resultDisplay").append(a);
 	}
 }
-
-//$(".dropdown-toggle").dropdown('toggle');  
-
-
-//	if(document.getElementById("action").checked) {
-//		alert("checkbox is checked");
-//	}
-
-//relocation to GameInf by click game
-//function relocation() {
-//	var id = $(this).attr('id');
-//	$.post("http://localhost:8080/SteamGame/NameSearch", {
-//			id: id,
-//		},
-//		function(data, status) {
-//			alert("Data: " + data + "\nStatus: " + status);
-//			NameSearchShow(data);
-//			window.location.href = "http://www.baidu.com";
-//		});
-//}
-
-//});

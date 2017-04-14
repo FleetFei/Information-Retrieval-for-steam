@@ -1,0 +1,22 @@
+1.高级搜索与游戏名搜索不能同时搜索
+2. seachQuery类: 
+	第一个方法： searchTyping
+	目标：只根据首字母联想
+	input: 用户的游戏名输入
+	output: Typingresult类-->initialResult(ArrayList<String>) 游戏的名字
+	
+	第二个方法： searchEntering
+	目标：
+	input：用户的输入(String), tag(ArrayList<String>), Publisher(String) , ReleaseDate(String)(年份表示)
+	output: EnterSearchResult类，保存4种结果
+			1.allMatchResult:所有输入，选择全部符合
+			2.initailResult:不管怎么选择，都符合query
+			noninitialResult: 首字母出错，后面都对
+			suggestionResult: 有小错误，eg：拼写错误，会修正
+			
+3. seachKeyword类：
+	第一个方法：search
+	input: 路径indexpath(String),keyword(String), tag(ArrayList<String>), Publisher(String) , ReleaseDate(String)(年份表示)
+	
+	
+	
