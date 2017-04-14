@@ -38,7 +38,7 @@ public class NameSearch extends HttpServlet {
 		response.setCharacterEncoding("GBK");
 //		String inputSearch = request.getHeader("MyHeader");
 		String inputSearch = request.getParameter("Name");
-		String[] genre = request.getParameterValues("Genre");
+		String[] genre = request.getParameterValues("Tag");
 		String publisher = request.getParameter("Publisher");
 		String releasing = request.getParameter("Year");
 		System.out.println("用户输入inputSearch："+inputSearch);
@@ -73,7 +73,7 @@ public class NameSearch extends HttpServlet {
 		JSONArray EnterArray = new JSONArray();
 		JSONObject son2 = new JSONObject();
 		for(int i=0; i<queryEntering.size(); i++){
-			son2.put("Rid", i);
+			son2.put("Rid", i+1);
 			son2.put("Rname", queryEntering.get(i));
 			EnterArray.add(son2);
 		}
@@ -88,6 +88,7 @@ public class NameSearch extends HttpServlet {
 		response.setContentType("application/json;charset=utf-8");
 		response.setHeader("cache-control", "no-cache");
 		
+		System.out.println("后端产给前端－－>传回的结果"+root);
 		//传输json
 		PrintWriter out = response.getWriter();
 		out.write(root.toString());

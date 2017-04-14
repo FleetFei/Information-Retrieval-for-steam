@@ -1,0 +1,13 @@
+/*
+String to Json
+*/
+var a = str.parseJSON()
+
+/*
+JSON to String
+*/
+var str = JSON.stringify(a)
+
+/*
+	访问JSON 对象的内容
+*/
