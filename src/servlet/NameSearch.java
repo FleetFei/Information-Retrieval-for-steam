@@ -55,7 +55,7 @@ public class NameSearch extends HttpServlet {
 		ArrayList<String> lianxiang = new searchQuery(path).searchTyping(inputSearch).initialResult;
 		System.out.println("联想内容："+lianxiang);
 		ArrayList<String> test = new ArrayList<String>();
-		ArrayList<String> allrelated = new searchQuery(path).searchEntering(inputSearch,test, "","").initialResult;
+		ArrayList<String> allrelated = new searchQuery(path).searchEntering(inputSearch,test, "","").allMatchResult;
 		//联想内容
 		JSONArray array = new JSONArray();
 		JSONObject son = new JSONObject();

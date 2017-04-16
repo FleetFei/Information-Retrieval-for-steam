@@ -9,6 +9,7 @@ public class EnterSearchResult {
 	public ArrayList<String> allMatchResult;
 	
 	public EnterSearchResult(ArrayList<String> nonInitialResult, ArrayList<relativeName> inputInitialResult, ArrayList<relativeName> inputSuggestionResult, ArrayList<relativeName> allmatchResult) {
+		
 		this.nonInitialResult = nonInitialResult;
 		this.initialResult = new ArrayList<String>();
 		this.suggestionResult = new ArrayList<String>();
