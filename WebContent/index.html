@@ -18,9 +18,19 @@
 
 		<!-- Custom CSS -->
 		<link href="css/shop-homepage.css" rel="stylesheet">
-		<script type="text/javascript" src="js/jquery-3.2.0.js"></script>
+		<!--<script type="text/javascript" src="js/jquery-3.2.0.js"></script>-->
 		<!--Custom JS-->
 		<script type="text/javascript" src="js/base_search.js"></script>
+		<script>
+			function displayNameSrc(){
+				$("#NameSearch").show();
+				$("#KeySearch").hide();
+			}
+			function displayKeySrc(){
+				$("#KeySearch").show();
+				$("#NameSearch").hide();
+			}
+		</script>
 
 	</head>
 
@@ -56,23 +66,49 @@
 
 		<!-- Page Content -->
 		<div class="container">
-
-			<div class="row">
+			<!--
+				name input
+			 -->
+			<div class="row" id="NameSearch">
 				<div class="col-md-4"></div>
 				<div class="col-md-4">
 					<div class="input-group">
 						<input type="text" class="form-control" id='User_Sch_input'>
 						<span class="input-group-btn">
-                                <button class="btn btn-info btn-search" onclick="Search()"> search</button>
+                                <button class="btn btn-info btn-search" onclick="NameSearch()"> Name search</button>
                         </span>
 					</div>
 				</div>
-				<div class="col-md-2">
+				<div class="col-md-4"></div>
+			</div>
+			<!--
+				keyword
+			 -->
+			<div class="row" id="KeySearch" style="display: none;">
+				<div class="col-md-4"></div>
+				<div class="col-md-4">
 					<div class="input-group">
-						<input type="text" class="form-control" id='related_input'>
+						<input type="text" class="form-control" id='keyword'  value="keyword of game" onfocus="this.value=''" onblur="this.value='keyword of game'">
+						<span class="input-group-btn">
+                                <button class="btn btn-info btn-search" onclick="KeywordSearch()"> Keyword search</button>
+                        </span>
 					</div>
 				</div>
-				<div class="col-md-2"></div>
+				<div class="col-md-4"></div>
+			</div>
+
+			<!--切换搜索模式-->
+			<div class="row" style="margin-top: 30px; margin-bottom: 30px ;">
+				<div class="col-md-4"></div>
+				<div class="col-md-4">
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="GameNameInput"  checked onclick="displayNameSrc()"> Name Search
+						</label>
+						<label class="checkbox-inline">
+							<input type="radio" name="optionsRadiosinline" id="KeyWordInput" onclick="displayKeySrc()"> Keyword Search
+						</label>
+				</div>
+				<div class="col-md-4"></div>
 			</div>
 
 			<div class="row">
@@ -127,60 +163,79 @@
 							</li>
 						</ul>
 					</div>
+					
+					<!--
+                    		publisher
+                    -->
 					<div>
 						<a class="dropdown-toggle" id="publisher"> publisher</a>
 					</div>
 					<div>
 						<label class="checkbox-inline">
-							<input type="radio" name="optionsRadiosinline" id="Valve" value="" checked> Valve
+							<input type="radio" name="pub" id="Valve" value="Valve" > Valve
 						</label>
 						<label class="checkbox-inline">
-							<input type="radio" name="optionsRadiosinline" id="Dovetail"  value=""> Dovetail
+							<input type="radio" name="pub" id="Dovetail"  value="Dovetail"> Dovetail
 						</label>
 						<label class="checkbox-inline">
-							<input type="radio" name="optionsRadiosinline" id="SEGA"  value=""> SEGA
+							<input type="radio" name="pub" id="SEGA"  value="SEGA"> SEGA
 						</label>
 						<label class="checkbox-inline">
-							<input type="radio" name="optionsRadiosinline" id="Paradox"  value=""> Paradox
+							<input type="radio" name="pub" id="Paradox"  value="Paradox"> Paradox
 						</label>
 						<label class="checkbox-inline">
-							<input type="radio" name="optionsRadiosinline" id="Degica"  value=""> Degica
+							<input type="radio" name="pub" id="Degica"  value="Degica"> Degica
 						</label>
 						<label class="checkbox-inline">
-							<input type="radio" name="optionsRadiosinline" id="Ubisoft"  value=""> Ubisoft
+							<input type="radio" name="pub" id="Ubisoft"  value="Ubisoft"> Ubisoft
 						</label>
 						<label class="checkbox-inline">
-							<input type="radio" name="optionsRadiosinline" id="Lionsgate"  value=""> Lionsgate
+							<input type="radio" name="pub" id="Lionsgate"  value="Lionsgate"> Lionsgate
 						</label>
 						<label class="checkbox-inline">
-							<input type="radio" name="optionsRadiosinline" id="Devolver"  value=""> Devolver
+							<input type="radio" name="pub" id="Devolver"  value="Devolver"> Devolver
 						</label>
 						<label class="checkbox-inline">
-							<input type="radio" name="optionsRadiosinline" id="Telltale"  value=""> DevolverTelltale		
+							<input type="radio" name="pub" id="Telltale"  value="DevolverTelltale"> DevolverTelltale		
 						</label>
 						<label class="checkbox-inline">
-							<input type="radio" name="optionsRadiosinline" id="other"  value=""> other		
+							<input type="radio" name="pub" id="other"  value="other" checked> other		
 						</label>
 					</div>
 
 				</div>
 			</div>
-
+			<!--
+				releasing year
+			-->
+			<div class="row" style="margin-top: 30px ;">
+				<div class="col-md-12">
+					<div class="input-group" >	
+						<div>
+							<a class="dropdown-toggle"> releasing year</a>
+						</div>
+						<div>
+							<input type="text" class="form-control" id='releasingYear' >
+						</div>
+					</div>
+				</div>
+			</div>
+			
 			<!-- 搜索结果排序-->
-			<div class="row" style="margin-top: 30px;margin-bottom: 30px ;" >
+			<div class="row" style="margin-top: 30px;margin-bottom: 30px ;">
 				<div class="col-md-5"></div>
 				<div class="col-md-2" id="sortCat">
 					<div class="dropdown">
-						<button type="button" class="btn dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown">主题
+						<button type="button" class="btn dropdown-toggle" id="sortby" data-toggle="dropdown">sort by
       						  <span class="caret"></span>
   					    </button>
 						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
 							<li role="presentation" class="dropdown-header">sort by</li>
 							<li role="presentation">
-								<a  type="button" role="menuitem" tabindex="-1" >rating</a>
+								<a type="button" role="menuitem" tabindex="-1"  href="#" onclick="">rating</a>
 							</li>
 							<li role="presentation">
-								<a  type="button"  role="menuitem" tabindex="-1" href="#">releasing date</a>
+								<a type="button" role="menuitem" tabindex="-1" href="#" onclick="">releasing date</a>
 							</li>
 						</ul>
 					</div>
@@ -195,12 +250,12 @@
 					<a href="#" class="list-group-item active">
 						<h4 class="list-group-item-heading"> Game List</h4>
 					</a>
-					<a href="#" class="list-group-item">
+					<!-- <a href="#" class="list-group-item">
 						<h4 class="list-group-item-heading">免费域名注册</h4>
 						<p class="list-group-item-text">
 							您将通过网页进行免费域名注册。
 						</p>
-					</a>
+					</a> -->
 				</div>
 
 				<div class="col-md-1"></div>
@@ -208,12 +263,12 @@
 					<a href="#" class="list-group-item active">
 						<h4 class="list-group-item-heading"> Recommend</h4>
 					</a>
-					<a href="#" class="list-group-item">
+					<!-- <a href="#" class="list-group-item">
 						<h4 class="list-group-item-heading">免费域名注册</h4>
 						<p class="list-group-item-text">
 							您将通过网页进行免费域名注册。
 						</p>
-					</a>
+					</a> -->
 				</div>
 			</div>
 
