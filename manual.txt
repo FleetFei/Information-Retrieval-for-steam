@@ -18,3 +18,10 @@
 	第一个方法：search
 	input: 路径indexpath(String),keyword(String), tag(ArrayList<String>), Publisher(String) , ReleaseDate(String)(年份表示)
 	
+	
+4. findResultDetails类
+	getTags()
+		input: relativegame类
+		
+5. SortResults类
+	

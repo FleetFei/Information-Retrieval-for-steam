@@ -51,7 +51,7 @@ public class NameSearch extends HttpServlet {
 			}
 		}
 		else{
-			System.out.println("用户选择的genre：null");
+			System.out.println("用户选择的genre:"+genre);
 		}
 		System.out.println("用户输入publisher："+publisher);
 		System.out.println("用户输入releasing："+releasing);

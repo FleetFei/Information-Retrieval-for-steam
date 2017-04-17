@@ -6,6 +6,36 @@ window.onload = function() {
 	}); 
 };
 
+
+function KeywordSearch() {
+	/*
+	 * 搜索内容：name, tag, publisher, releasingdate, sort
+	 */
+	alert("高级搜索启动");
+	var name = $('#User_Sch_input').val();
+	var tag =[];
+	var publisher =$("input[name='pub']:checked").val();
+	var releasingdate=$("#releasingYear").val();
+	$("input[type=checkbox]:checked").each(function() {
+		//由于复选框一般选中的是多个,所以可以循环输出 
+		alert("you choose : "+$(this).val());
+		tag.push($(this).val());
+	}); 
+	alert("启动ajax");
+	 $.ajax({  
+         type:'post',  
+         dataType:'json',
+         traditional :true,  
+         url:"http://localhost:8080/SteamGame/KeyWordSearch",  
+         data:{'Name':name,'Tag':tag,'Publisher':publisher,'ReleasingDate':releasingdate},  
+         success:function(data){  
+//       	alert("success---data-->"+JSON.stringify(data));
+			alert("success---back>");
+       	 	SearchDisplay(data);
+         }  
+     });  
+}
+
 function NameSearch() {
 	/*
 	 * 搜索内容：name, tag, publisher, releasingdate, sort

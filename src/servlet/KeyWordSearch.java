@@ -40,15 +40,22 @@ public class KeyWordSearch extends HttpServlet {
 		response.setCharacterEncoding("GBK");
 //		String inputSearch = request.getHeader("MyHeader");
 		String keyword = request.getParameter("keyword");
-		String[] Tag = request.getParameterValues("Tag");
+		String[] genre = request.getParameterValues("Tag");
 		String publisher = request.getParameter("Publisher");
 		String releasing = request.getParameter("Year");
 		System.out.println("用户输入keyword："+keyword);
 		ArrayList<String> tag = new ArrayList<>();
-		for(int i=0;i<Tag.length;i++){
-			System.out.println("用户选择的genre："+Tag[i]);
-			tag.add(Tag[i]);
+		//判断用户是否选择tag
+		if(genre!=null){
+			for(int i=0;i<genre.length;i++){
+				System.out.println("用户选择的genre："+genre[i]);
+				tag.add(genre[i]);
+			}
 		}
+		else{
+			System.out.println("用户选择的genre:"+genre);
+		}
+
 		System.out.println("用户输入publisher："+publisher);
 		System.out.println("用户输入releasing："+releasing);
 		

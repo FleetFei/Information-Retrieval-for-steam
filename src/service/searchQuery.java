@@ -101,6 +101,7 @@ public class searchQuery {
 	
 	
 //  it is designed for search after pressing "enter" and returns 4 result lists
+
 	public EnterSearchResult searchEntering(String query, ArrayList<String> tags, String publisher, String releasedate) throws IOException {
 		
 		if (tags != null) {
