@@ -304,10 +304,10 @@ public class searchQuery {
 //	如果user选择了tag，但是游戏没有tag，优先返回allmatch
 	boolean ifTagMatch(ArrayList<String> tags, String gametags, String inputpublisher, String inputreleasedate, String publisher, String releasedate) {
 
-		if (!inputpublisher.equals("") && !publisher.equals(inputpublisher)) {
+		if (!publisher.equals(inputpublisher)) {
 			return false;
 		}
-		if (!inputreleasedate.equals("") && !releasedate.equals(inputreleasedate)) {
+		if (inputreleasedate != null && !releasedate.equals(inputreleasedate)) {
 			return false;
 		}
 		
