@@ -228,19 +228,39 @@ public class searchQuery {
 						if (queryLocation == 1) {
 //							判断是否符合输入时选择的tag，如果符合，加入到allmatchresult，否则加入到nmatch
 							if (ifTagMatch(tags, temptag, publisher, releasedate, temppublisher, tempreleasedate)) {
-								allMatchResult.add(new relativeName(1, templine, ratingscore));
+								if(!temptag.equals("none")) {
+									allMatchResult.add(new relativeName(3, templine, ratingscore));
+								}
+								else {
+									allMatchResult.add(new relativeName(1, templine, ratingscore));
+								}
 							}
 							else {
-								NmatchInitialResult.add(new relativeName(1, templine, ratingscore));
+								if(!temptag.equals("none")) {
+									NmatchInitialResult.add(new relativeName(3, templine, ratingscore));
+								}
+								else {
+									NmatchInitialResult.add(new relativeName(1, templine, ratingscore));
+								}
 							}
 						}
 						else {
 //							同理
 							if (ifTagMatch(tags, temptag, publisher, releasedate, temppublisher, tempreleasedate)) {
-								allMatchResult.add(new relativeName(0, templine, ratingscore));
+								if(!temptag.equals("none")) {
+									allMatchResult.add(new relativeName(2, templine, ratingscore));
+								}
+								else {
+									allMatchResult.add(new relativeName(0, templine, ratingscore));
+								}
 							}
 							else {
-								NmatchInitialResult.add(new relativeName(0, templine, ratingscore));
+								if(!temptag.equals("none")) {
+									NmatchInitialResult.add(new relativeName(2, templine, ratingscore));
+								}
+								else {
+									NmatchInitialResult.add(new relativeName(0, templine, ratingscore));
+								}
 
 							}
 						}
@@ -288,7 +308,7 @@ public class searchQuery {
 		if (tags.isEmpty()) {
 			return true;
 		}
-		if (gametags.equals("none")) {
+		else if (gametags.equals("none")) {
 			return false ;
 		}
 		for (String st : tags) {
