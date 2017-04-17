@@ -104,6 +104,14 @@ public class searchQuery {
 	public EnterSearchResult searchEntering(String query, ArrayList<String> tags, String publisher, String releasedate) throws IOException {
 		
 		
+		for (String st : tags) {
+			st.toLowerCase();
+		}
+		publisher = publisher.toLowerCase();
+		releasedate = releasedate.toLowerCase();
+		query = query.toLowerCase();
+		
+		
 		String line = "";
 		String tempappid = "";
 		String templine = "";
