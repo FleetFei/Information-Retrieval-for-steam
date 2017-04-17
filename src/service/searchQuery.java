@@ -311,7 +311,7 @@ public class searchQuery {
 			return false;
 		}
 		
-		if (tags.isEmpty()) {
+		if (tags == null) {
 			return true;
 		}
 		else if (gametags.equals("none")) {
