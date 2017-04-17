@@ -20,7 +20,7 @@ import service.*;
 /**
  * Servlet implementation class tipSearch
  */
-@WebServlet("/tipSearch")
+@WebServlet("/KeyWordSearch")
 public class KeyWordSearch extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
@@ -58,30 +58,27 @@ public class KeyWordSearch extends HttpServlet {
 	
 		
 		//Typing内容
-		ArrayList<String> queryTping= new searchKeywords(path).search(indexpath,keyword,tag,publisher,releasing).Result;
-		System.out.println("queryTping内容："+queryTping);
+		ArrayList<String> keywordResult = new ArrayList<>();
+		try {
+			keywordResult = new searchKeywords(path).search(indexpath,keyword,tag,publisher,releasing).Result;
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		System.out.println("keyword Search内容："+keyword);
 		JSONArray Typingarray = new JSONArray();
 		JSONObject son = new JSONObject();
-		for(int i=0; i<queryTping.size(); i++){
+		for(int i=0; i<keywordResult.size(); i++){
 			son.put("Rid", i);
-			son.put("Rname", queryTping.get(i));
+			son.put("Rname", keywordResult.get(i));
 			Typingarray.add(son);
 		}
-		//Entering内容
-		ArrayList<String> queryEntering = new searchQuery(path).searchEntering(inputSearch,tag, publisher,releasing).initialResult;
-		JSONArray EnterArray = new JSONArray();
-		JSONObject son2 = new JSONObject();
-		for(int i=0; i<queryEntering.size(); i++){
-			son2.put("Rid", i);
-			son2.put("Rname", queryEntering.get(i));
-			EnterArray.add(son2);
-		}
+		
 		
 		//创建JsonObject
 		JSONObject root = new JSONObject();
-		root.put("TypingData", Typingarray);
-		root.put("EnterData", EnterArray);
-		
+		root.put("keywordResult", keywordResult);
+
 		//设置response
 		response.setCharacterEncoding("utf-8");
 		response.setContentType("application/json;charset=utf-8");

@@ -1,26 +1,12 @@
 window.onload = function() {
-	$("#genre").click(function(){
-		var name =$('#User_Sch_input').val();
-		$("input[type=checkbox]:checked").each(function() {
-			//由于复选框一般选中的是多个,所以可以循环输出 
-			alert($(this).val());
-			genre.push($(this).val());
-		});   
-	});
+	$("input[type=checkbox]:checked").each(function() {
+		//由于复选框一般选中的是多个,所以可以循环输出 
+		alert("you choose : "+$(this).val());
+		tag.push($(this).val());
+	}); 
 };
 
 function NameSearch() {
-//	var a = $("<a href='#' class='list-group-item' id='" + 10 + "'>"+
-//		+"<h4 class='list-group-item-heading'>"+qifei+"</h4>"
-//		+"<p class='list-group-item-text'></p>"+
-//		+"</a>");
-//	var a = $("<a href='#' class='list-group-item'>"+
-//	"<h4 class='list-group-item-heading'> qifei</h4></a>");
-//	alert(a);
-//	$("#resultDisplay").append(a);
-
-	//先删除以前查找的内容
-	$("#show_Sch_Rlt").empty();
 	/*
 	 * 搜索内容：name, tag, publisher, releasingdate, sort
 	 */
@@ -33,6 +19,7 @@ function NameSearch() {
 		alert("you choose : "+$(this).val());
 		tag.push($(this).val());
 	}); 
+	alert("启动ajax");
 	 $.ajax({  
          type:'post',  
          dataType:'json',
@@ -40,8 +27,9 @@ function NameSearch() {
          url:"http://localhost:8080/SteamGame/NameSearch",  
          data:{'Name':name,'Tag':tag,'Publisher':publisher,'ReleasingDate':releasingdate},  
          success:function(data){  
-         	alert("success---data-->"+JSON.stringify(data));
-        	SearchDisplay(data);
+//       	alert("success---data-->"+JSON.stringify(data));
+			alert("success---back>");
+       	 	SearchDisplay(data);
          }  
      });  
 }
@@ -49,36 +37,42 @@ function NameSearch() {
 
 
 function SearchDisplay(response) {
+	
+	//先删除以前查找的内容
+	$("#EnterResult1").empty();
+	$("#EnterResult2").empty();
+	
 	var myobj = response;
-//	alert("myobjJson-->"+myobj);
-	alert("test"+JSON.stringify(response));
+//	alert("test"+JSON.stringify(response));
 	
 	var typingResult = myobj.TypingData;
-	var enterResult = myobj.EnterData;
-	for(var i in typingResult) {
-		var name = typingResult[i].Rname;
-		var id = typingResult[i].Rid;
-		var descript =  typingResult[i].Description;
-		var genre = typingResult[i].Genre;
-		var rate = typingResult[i].rate;
+	var enterResult1 = myobj.EnterData1;
+	var enterResult2 = myobj.EnterData2;
+	//enterResult1
+	for(var i in enterResult1) {
+		var name = enterResult1[i].Rname;
+		var id = enterResult1[i].Rid;
+		var descript =  enterResult1[i].Description;
+		var genre = enterResult1[i].Genre;
+		var rate = enterResult1[i].rate;
 		var a = $("<a href='#' class='list-group-item' id=namesearch" + id + ">"
 		+"<h4 class='list-group-item-heading'>"+name+"</h4>"
 		+"<p class='list-group-item-text'></p>"+
 		+"</a>");
-		$("#resultDisplay").append(a);
+		$("#EnterResult1").append(a);
 	}
-	
-	
-//	for(var i in myobj.TypingData) {
-//		var name = myobj.data[i].Rname;
-//		var id = myobj.data[i].Rid;
-//		var descript =  myobj.data[i].Description;
-//		var genre = myobj.data[i].Genre;
-//		var rate = myobj.data[i].rate;
-//		var a = $("<a href='#' class='list-group-item' id='" + id + "'>"+
-//		+"<h4 class='list-group-item-heading'>"+name+"</h4>"
-//		+"<p class='list-group-item-text'></p>"+
-//		+"</a>");
-//		$("#resultDisplay").append(a);
-//	}
+	//enterResult2
+	for(var i in enterResult2) {
+		var name = enterResult2[i].Rname;
+		var id = enterResult2[i].Rid;
+		var descript =  enterResult2[i].Description;
+		var genre = enterResult2[i].Genre;
+		var rate = enterResult2[i].rate;
+		var a = $("<a href='#' class='list-group-item' id=namesearch" + id + ">"
+		+"<h4 class='list-group-item-heading'>"+name+"</h4>"
+		+"<p class='list-group-item-text'></p>"+
+		+"</a>");
+		$("#EnterResult2").append(a);
+	}
+
 }
