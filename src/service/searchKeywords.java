@@ -51,6 +51,7 @@ public class searchKeywords {
 		}
 
 		publisher = publisher.toLowerCase();
+		
 		if (releasedate != null) {
 			releasedate = releasedate.toLowerCase();
 		}
@@ -79,17 +80,19 @@ public class searchKeywords {
 					if (line.contains("\t\t\t\t\"original name\":")) {
 						tempname = line.trim().substring(16);
 					}
-					else if (!taglist.isEmpty() && line.contains("\t\t\t\t\"tag\":")) {
+					else if (taglist != null && line.contains("\t\t\t\t\"tag\":")) {
 						
 						int length = line.trim().length();
 						temptag = line.trim().substring(7, length - 1);
-						for (String st : taglist) {
-							if (!temptag.contains(st)) {
-								ifContains = false;
+						if (taglist != null) {
+							for (String st : taglist) {
+								if (!temptag.contains(st)) {
+									ifContains = false;
+								}
 							}
 						}
 					}
-					else if (!publisher.equals("") && line.contains("\t\t\t\t\"publisher\":")) {
+					else if (line.contains("\t\t\t\t\"publisher\":")) {
 						
 						int length = line.trim().length();
 						temppublisher = line.trim().substring(13, length - 1);
@@ -97,12 +100,15 @@ public class searchKeywords {
 							ifContains = false;
 						}
 					}
-					else if (!releasedate.equals("") && line.contains("\t\t\t\t\"release date\":")) {
+					else if (line.contains("\t\t\t\t\"release date\":")) {
 						
 						int length = line.trim().length();
 						tempreleasedate = line.trim().substring(16, length - 1);
-						if (!tempreleasedate.equals(releasedate)) {
-							ifContains = false;
+						
+						if (releasedate != null) {
+							if (!tempreleasedate.equals(releasedate)) {
+								ifContains = false;
+							}
 						}
 					}
 					else if (line.contains("\t\t\t\t\"rating\":")) {
@@ -168,13 +174,12 @@ public class searchKeywords {
 					if (line.contains("\t\t\t\t\"original name\":")) {
 						tempname = line.trim().substring(16);
 					}
-					else if (!taglist.isEmpty() && line.contains("\t\t\t\t\"tag\":")) {
+					else if (line.contains("\t\t\t\t\"tag\":")) {
 						
 						int length = line.trim().length();
 						temptag = line.trim().substring(7, length - 1);
 						
-						
-						if(taglist != null) {
+						if (taglist != null) {
 							for (String st : taglist) {
 								if (!temptag.contains(st)) {
 									ifContains = false;
@@ -182,7 +187,7 @@ public class searchKeywords {
 							}
 						}
 					}
-					else if (!publisher.equals("") && line.contains("\t\t\t\t\"publisher\":")) {
+					else if (line.contains("\t\t\t\t\"publisher\":")) {
 						
 						int length = line.trim().length();
 						temppublisher = line.trim().substring(13, length - 1);
@@ -192,7 +197,7 @@ public class searchKeywords {
 								ifContains = false;
 						}
 					}
-					else if (!releasedate.equals("") && line.contains("\t\t\t\t\"release date\":")) {
+					else if (line.contains("\t\t\t\t\"release date\":")) {
 						
 						int length = line.trim().length();
 						tempreleasedate = line.trim().substring(16, length - 1);
