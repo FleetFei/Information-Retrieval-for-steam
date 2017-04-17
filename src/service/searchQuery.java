@@ -105,6 +105,7 @@ public class searchQuery {
 		
 		
 		String line = "";
+		String tempappid = "";
 		String templine = "";
 		String temptag = "";
 		String tempreleasedate = "";
@@ -150,6 +151,11 @@ public class searchQuery {
 //		读取gamelist中的每一行
 		while ((line = gamelistReader.readLine()) != null) {
 //			如果是原始名，将其存为temp
+			if (line.contains("\t\t\t\t\"appid\":")) {
+				int length = line.trim().length();
+				tempappid = line.trim().substring(9, length - 1);
+				continue;
+			}
 			if (line.contains("\t\t\t\t\"original name\":")) {
 				templine = line.trim().substring(16);
 				continue;
@@ -214,7 +220,7 @@ public class searchQuery {
 					}
 //					此处是加入的拼写错误的结果并加入rating
 					if (ifaddResult3) {
-						incorrectSpellResult.add(new relativeName(scoreToResult3, templine,ratingscore, tempreleasedate, temptag));
+						incorrectSpellResult.add(new relativeName(tempappid, scoreToResult3, templine,ratingscore, tempreleasedate, temptag));
 						ifaddResult3 = false;
 						ifContains = false;
 						continue;
@@ -229,18 +235,18 @@ public class searchQuery {
 //							判断是否符合输入时选择的tag，如果符合，加入到allmatchresult，否则加入到nmatch
 							if (ifTagMatch(tags, temptag, publisher, releasedate, temppublisher, tempreleasedate)) {
 								if(!temptag.equals("none")) {
-									allMatchResult.add(new relativeName(3, templine, ratingscore, tempreleasedate, temptag));
+									allMatchResult.add(new relativeName(tempappid, 3, templine, ratingscore, tempreleasedate, temptag));
 								}
 								else {
-									allMatchResult.add(new relativeName(1, templine, ratingscore, tempreleasedate, temptag));
+									allMatchResult.add(new relativeName(tempappid, 1, templine, ratingscore, tempreleasedate, temptag));
 								}
 							}
 							else {
 								if(!temptag.equals("none")) {
-									NmatchInitialResult.add(new relativeName(3, templine, ratingscore, tempreleasedate, temptag));
+									NmatchInitialResult.add(new relativeName(tempappid, 3, templine, ratingscore, tempreleasedate, temptag));
 								}
 								else {
-									NmatchInitialResult.add(new relativeName(1, templine, ratingscore, tempreleasedate, temptag));
+									NmatchInitialResult.add(new relativeName(tempappid, 1, templine, ratingscore, tempreleasedate, temptag));
 								}
 							}
 						}
@@ -248,18 +254,18 @@ public class searchQuery {
 //							同理
 							if (ifTagMatch(tags, temptag, publisher, releasedate, temppublisher, tempreleasedate)) {
 								if(!temptag.equals("none")) {
-									allMatchResult.add(new relativeName(2, templine, ratingscore, tempreleasedate, temptag));
+									allMatchResult.add(new relativeName(tempappid, 2, templine, ratingscore, tempreleasedate, temptag));
 								}
 								else {
-									allMatchResult.add(new relativeName(0, templine, ratingscore, tempreleasedate, temptag));
+									allMatchResult.add(new relativeName(tempappid, 0, templine, ratingscore, tempreleasedate, temptag));
 								}
 							}
 							else {
 								if(!temptag.equals("none")) {
-									NmatchInitialResult.add(new relativeName(2, templine, ratingscore, tempreleasedate, temptag));
+									NmatchInitialResult.add(new relativeName(tempappid, 2, templine, ratingscore, tempreleasedate, temptag));
 								}
 								else {
-									NmatchInitialResult.add(new relativeName(0, templine, ratingscore, tempreleasedate, temptag));
+									NmatchInitialResult.add(new relativeName(tempappid, 0, templine, ratingscore, tempreleasedate, temptag));
 								}
 
 							}
@@ -268,7 +274,7 @@ public class searchQuery {
 //					如果不包含首字母，加入noninitialresult
 //					example: query:"ota"------> return: "dota"
 					else {
-						nonInitialResult.add(new relativeName(0, templine, ratingscore, tempreleasedate, temptag));
+						nonInitialResult.add(new relativeName(tempappid, 0, templine, ratingscore, tempreleasedate, temptag));
 					}
 					ifContains = false;
 				}

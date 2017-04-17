@@ -47,6 +47,7 @@ public class searchKeywords {
 		if (keywords.equals("")) {
 			
 			String line = "";
+			String tempappid = "";
 			String tempname = "";
 			String temptag = "";
 			String temppublisher = "";
@@ -57,6 +58,8 @@ public class searchKeywords {
 			
 			while ((line = gamelistReader.readLine()) != null) {
 				if (line.contains("\t\t\t\t\"appid\":")) {
+					int length = line.trim().length();
+					tempappid = line.trim().substring(9, length - 1);
 					ifContains = true;
 				}
 				else if (ifContains) {
@@ -98,7 +101,7 @@ public class searchKeywords {
 						else {
 							temprating = Integer.parseInt(score);
 						}
-						result.add(new relativeName(0, tempname, temprating));
+						result.add(new relativeName(tempappid, 0, tempname, temprating, tempreleasedate, temptag));
 						ifContains = false;
 					}
 				}
@@ -131,6 +134,7 @@ public class searchKeywords {
 			
 			boolean ifContains = false;
 			String line = "";
+			String tempappid = "";
 			String tempname = "";
 			String temptag = "";
 			String temppublisher = "";
@@ -140,8 +144,8 @@ public class searchKeywords {
 			while ((line = gamelistReader.readLine()) != null) {
 				if (line.contains("\t\t\t\t\"appid\":")) {
 					int length = line.trim().length();
-					String id = line.trim().substring(9, length - 1);
-					if (appIds.contains(id)) {
+					tempappid = line.trim().substring(9, length - 1);
+					if (appIds.contains(tempappid)) {
 						ifContains = true;
 					}
 				}
@@ -185,7 +189,7 @@ public class searchKeywords {
 						else {
 							temprating = Integer.parseInt(score);
 						}
-						result.add(new relativeName(0, tempname, temprating));
+						result.add(new relativeName(tempappid, 0, tempname, temprating, tempreleasedate, temptag));
 						ifContains = false;
 					}
 				}

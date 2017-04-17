@@ -2,6 +2,7 @@ package ObjectsandTools;
 
 public class relativeName {
 	
+	public String appid;
 	public double score;
 	public String name;
 	public double rating;
@@ -20,7 +21,8 @@ public class relativeName {
 		this.rating = rating;
 	}
 	
-	public relativeName(int score, String name, int rating, String releasedate, String tags) {
+	public relativeName(String appid,int score, String name, int rating, String releasedate, String tags) {
+		this.appid = appid;
 		this.score = score;
 		this.name = name;
 		this.rating = rating;

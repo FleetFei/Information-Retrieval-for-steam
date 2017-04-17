@@ -1,6 +1,10 @@
-package ObjectsandTools;
+package service;
 
 import java.util.ArrayList;
+
+import ObjectsandTools.RatingComparator;
+import ObjectsandTools.ReleasedateComparator;
+import ObjectsandTools.relativeName;
 
 public class SortResults {
 	
