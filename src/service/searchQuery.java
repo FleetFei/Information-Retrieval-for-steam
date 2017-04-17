@@ -101,18 +101,13 @@ public class searchQuery {
 	
 	
 //  it is designed for search after pressing "enter" and returns 4 result lists
-<<<<<<< HEAD
-	public EnterSearchResult searchEntering(String query, ArrayList<String> tags, String publisher, String releasedate) throws IOException {	
-		for (String st : tags) {
-			st.toLowerCase();
-=======
+
 	public EnterSearchResult searchEntering(String query, ArrayList<String> tags, String publisher, String releasedate) throws IOException {
 		
 		if (tags != null) {
 			for (String st : tags) {
 				st.toLowerCase();
 			}
->>>>>>> 0f19be688fb0fd145eab10f5338887aff69facd2
 		}
 
 		publisher = publisher.toLowerCase();
