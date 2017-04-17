@@ -8,9 +8,9 @@ public class EnterSearchResult {
 	public ArrayList<String> suggestionResult;
 	public ArrayList<String> allMatchResult;
 	
-	public EnterSearchResult(ArrayList<String> nonInitialResult, ArrayList<relativeName> inputInitialResult, ArrayList<relativeName> inputSuggestionResult, ArrayList<relativeName> allmatchResult) {
+	public EnterSearchResult(ArrayList<relativeName> nonInitialResult, ArrayList<relativeName> inputInitialResult, ArrayList<relativeName> inputSuggestionResult, ArrayList<relativeName> allmatchResult) {
 		
-		this.nonInitialResult = nonInitialResult;
+		this.nonInitialResult = new ArrayList<String>();
 		this.initialResult = new ArrayList<String>();
 		this.suggestionResult = new ArrayList<String>();
 		this.allMatchResult = new ArrayList<String>();
@@ -25,9 +25,20 @@ public class EnterSearchResult {
 		for (relativeName game : allmatchResult) {
 			this.allMatchResult.add(game.name);
 		}
+		for (relativeName game : inputInitialResult) {
+			this.nonInitialResult.add(game.name);
+		}
 		
 		
 	}
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	public void print() {
 		
