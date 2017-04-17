@@ -15,6 +15,7 @@ public class findResultDetails {
 	public String getTags(relativeName game) {
 		return game.tags;
 	}
+	
 	public String getDescription(String desPath, relativeName game) throws IOException {
 		boolean ifContains = false;
 		br = new BufferedReader(new FileReader(desPath));

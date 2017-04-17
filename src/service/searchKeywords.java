@@ -43,8 +43,21 @@ public class searchKeywords {
 	public KeywordsResult search(String indexpath, String keywords, ArrayList<String> taglist, String publisher, String releasedate) throws Exception {
 		ArrayList<relativeName> result = new ArrayList<relativeName>();
 		
+		
+		if (taglist != null) {
+			for (String st : taglist) {
+				st.toLowerCase();
+			}
+		}
+
+		publisher = publisher.toLowerCase();
+		if (releasedate != null) {
+			releasedate = releasedate.toLowerCase();
+		}
+		
+		
 //		keywords can be empty
-		if (keywords.equals("")) {
+		if (keywords == null) {
 			
 			String line = "";
 			String tempappid = "";
@@ -115,6 +128,7 @@ public class searchKeywords {
 		}
 //		if query not empty:
 		else {
+
 			
 //			first process keywords
 			String processedQuery = process(keywords);
@@ -158,9 +172,13 @@ public class searchKeywords {
 						
 						int length = line.trim().length();
 						temptag = line.trim().substring(7, length - 1);
-						for (String st : taglist) {
-							if (!temptag.contains(st)) {
-								ifContains = false;
+						
+						
+						if(taglist != null) {
+							for (String st : taglist) {
+								if (!temptag.contains(st)) {
+									ifContains = false;
+								}
 							}
 						}
 					}
@@ -168,6 +186,8 @@ public class searchKeywords {
 						
 						int length = line.trim().length();
 						temppublisher = line.trim().substring(13, length - 1);
+						
+						
 						if (!temppublisher.equals(publisher)) {
 								ifContains = false;
 						}
@@ -176,9 +196,13 @@ public class searchKeywords {
 						
 						int length = line.trim().length();
 						tempreleasedate = line.trim().substring(16, length - 1);
-						if (!tempreleasedate.equals(releasedate)) {
+						
+						if (releasedate != null) {
+							if (!tempreleasedate.equals(releasedate)) {
 								ifContains = false;
+							}
 						}
+						
 					}
 					else if (line.contains("\t\t\t\t\"rating\":")) {
 						int length = line.trim().length();
