@@ -42,7 +42,7 @@ public class KeyWordSearch extends HttpServlet {
 		String keyword = request.getParameter("keyword");
 		String[] genre = request.getParameterValues("Tag");
 		String publisher = request.getParameter("Publisher");
-		String releasing = request.getParameter("Year");
+		String releasing = request.getParameter("releasingdate");
 		System.out.println("用户输入keyword："+keyword);
 		ArrayList<String> tag = new ArrayList<>();
 		//判断用户是否选择tag
