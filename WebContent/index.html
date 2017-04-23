@@ -70,6 +70,7 @@
 			<!--
 				name input
 			 -->
+			
 			<div class="row" id="NameSearch">
 				<div class="col-md-4"></div>
 				<div class="col-md-4">
@@ -113,68 +114,66 @@
 			</div>
 
 			<div class="row">
-				<div class="col-md-2" ></div>
-				
-				<div class="col-md-2">
-					<div class="list-group">
-						<!--<button class="dropdown-toggle" id="genre" onclick="$('#genreDiv').toggle(300)" > genre</button>-->
-						<button type="button" class="btn btn-primary" id="genre" data-toggle="collapse" data-target="#genreDiv" > genre</button>
-						
-						<ul id="genreDiv" class="list collapse" >
-							<!--<li class="item ">
-								<label class="checkbox"> <input type="checkbox"  id="Strategy" value="Strategy"></label> Strategy
-							</li>-->
-						</ul>					
-					</div>
-				</div>
-				
-				<div class="col-md-2" >
-					<div class="list-group">
-						<button class="btn btn-primary" data-toggle="collapse" data-target="#genreDiv2" id="genre" > other</button>
-						<ul class="collapse" id="genreDiv2" class="list">
-							<!--<li class="item item-checkbox" >
-								<label class="checkbox"> <input type="checkbox"  id="Early Access" value="Early Access"></label> Early Access
-							</li>-->
+				<ul class="nav navbar-nav">				
+					<div class="col-md-2">
+						<div class="list-group">
+							<!--<button class="dropdown-toggle" id="genre" onclick="$('#genreDiv').toggle(300)" > genre</button>-->
+							<button type="button" class="btn btn-primary" id="genre" data-toggle="collapse" data-target="#genreDiv" > genre</button>
 							
-						</ul>
-					</div>
-				</div>	
-					                    		
-				<!--publisher-->
-                <div class="col-md-2 dropdown">
-                    <button type="button" class="btn btn-primary dropdown-toggle"  data-toggle="dropdown">
-                    		<span class="caret">publisher</span>
-                    </button>
-					<ul class="dropdown-menu" id="publisherDiv" role="menu" aria-labelledby="dropdownMenu1">	
-							<input type="radio" name="pub" id="Valve" value="Valve" > Valve
-							<input type="radio" name="pub" id="Dovetail"  value="Dovetail"> Dovetail
-							<input type="radio" name="pub" id="SEGA"  value="SEGA"> SEGA
-				
-							<input type="radio" name="pub" id="Paradox"  value="Paradox"> Paradox
-						
-							<input type="radio" name="pub" id="Degica"  value="Degica"> Degica
-						
-							<input type="radio" name="pub" id="Ubisoft"  value="Ubisoft"> Ubisoft
-						
-							<input type="radio" name="pub" id="Lionsgate"  value="Lionsgate"> Lionsgate
-						
-							<input type="radio" name="pub" id="Devolver"  value="Devolver"> Devolver
-							<input type="radio" name="pub" id="Telltale"  value="DevolverTelltale"> DevolverTelltale		
-							<input type="radio" name="pub" id="others"  value="others" checked> others
-							<input type="radio" name="pub" id="unknown"  value="unknown" checked>unknown
-					</ul>							
-				</div>
-				<!--releasing year-->
-				<div class="col-md-2" >
-					<div class="input-group" >	
-						<div>
-							<a class="dropdown-toggle"> releasing year</a>
-						</div>
-						<div>
-							<input type="text" class="form-control" id='releasingYear' >
+							<ul id="genreDiv" class="list collapse" >
+								<!--<li class="item ">
+									<label class="checkbox"> <input type="checkbox"  id="Strategy" value="Strategy"></label> Strategy
+								</li>-->
+							</ul>					
 						</div>
 					</div>
-				</div>
+					
+					<div class="col-md-2" >
+						<div class="list-group">
+							<button class="btn btn-primary" data-toggle="collapse" data-target="#genreDiv2" id="genre" > other</button>
+							<ul class="collapse" id="genreDiv2" class="list">
+								<!--<li class="item item-checkbox" >
+									<label class="checkbox"> <input type="checkbox"  id="Early Access" value="Early Access"></label> Early Access
+								</li>-->
+								
+							</ul>
+						</div>
+					</div>	
+						                    		
+					<!--publisher-->
+		            <div class="col-md-2 dropdown">
+		                <button type="button" class="btn btn-primary dropdown-toggle"  data-toggle="dropdown">
+		                		<span class="caret">publisher</span>
+		                </button>
+						<ul class="dropdown-menu" id="publisherDiv" role="menu" aria-labelledby="dropdownMenu1">	
+								<input type="radio" name="pub" id="Valve" value="Valve" > Valve
+								<input type="radio" name="pub" id="Dovetail"  value="Dovetail"> Dovetail
+								<input type="radio" name="pub" id="SEGA"  value="SEGA"> SEGA
+					
+								<input type="radio" name="pub" id="Paradox"  value="Paradox"> Paradox
+							
+								<input type="radio" name="pub" id="Degica"  value="Degica"> Degica
+							
+								<input type="radio" name="pub" id="Ubisoft"  value="Ubisoft"> Ubisoft
+							
+								<input type="radio" name="pub" id="Lionsgate"  value="Lionsgate"> Lionsgate
+							
+								<input type="radio" name="pub" id="Devolver"  value="Devolver"> Devolver
+								<input type="radio" name="pub" id="Telltale"  value="DevolverTelltale"> DevolverTelltale		
+								<input type="radio" name="pub" id="others"  value="others" checked> others
+								<input type="radio" name="pub" id="unknown"  value="unknown" checked>unknown
+						</ul>							
+					</div>
+					<!--releasing year-->
+					<div class="col-md-3" >
+						<div class="input-group" >	
+							<span class="input-group-btn">
+		                            <button class="btn"> release year</button>
+		                    </span>
+							<input type="text" class="form-control" id='releasingYear'>
+						</div>
+					</div>
+				</ul>
 			</div>			
 				
 			

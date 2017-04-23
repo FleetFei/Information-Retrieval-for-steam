@@ -25,7 +25,7 @@ function KeywordSearch() {
 	 * 搜索内容：name, tag, publisher, releasingdate, sort
 	 */
 	alert("高级搜索启动");
-	var name = $('#User_Sch_input').val();
+	var name = $('#keyword').val();
 	var tag =[];
 	var publisher =$("input[name='pub']:checked").val();
 	var releasingYear=$("#releasingYear").val();
