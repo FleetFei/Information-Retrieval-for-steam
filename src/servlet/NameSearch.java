@@ -42,7 +42,7 @@ public class NameSearch extends HttpServlet {
 		String inputSearch = request.getParameter("Name");
 		String[] genre = request.getParameterValues("Tag");
 		String publisher = request.getParameter("Publisher");
-		String releasing = request.getParameter("releasingdate");
+		String releasing = request.getParameter("releasingYear");
 		System.out.println("用户输入inputSearch："+inputSearch);
 		ArrayList<String> tag = new ArrayList<>();
 		//判断用户是否选择tag
