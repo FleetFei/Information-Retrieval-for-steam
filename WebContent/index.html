@@ -115,10 +115,11 @@
 
 			<!--类别搜索-->
 			<div class="row">
-				
-					<div class="col-md-2  list-group">
+					<div class="col-md-3  list-group"></div>
+
+					<div class="col-md-1  list-group">
 						<!--<button class="dropdown-toggle" id="genre" onclick="$('#genreDiv').toggle(300)" > genre</button>-->
-						<button type="button" class="btn btn-primary" id="genre" data-toggle="collapse" data-target="#genreDiv" > genre</button>
+						<button class="btn btn-primary" id="genre" data-toggle="collapse" data-target="#genreDiv" > genre</button>
 						
 						<ul id="genreDiv" class="list-group collapse" >
 							<!--<li class="item ">
@@ -127,8 +128,8 @@
 						</ul>					
 					</div>
 					
-					<div class="col-md-2 list-group">
-						<button class="btn btn-primary" data-toggle="collapse" data-target="#genreDiv2" id="genre" > other</button>
+					<div class="col-md-1 list-group">
+						<button class="btn btn-danger" data-toggle="collapse" data-target="#genreDiv2" id="genre" > other</button>
 						<ul class="collapse list-group" id="genreDiv2" class="list">
 							<!--<li class="item item-checkbox" >
 								<label class="checkbox"> <input type="checkbox"  id="Early Access" value="Early Access"></label> Early Access
@@ -138,80 +139,106 @@
 					</div>
 						                    		
 					<!--publisher-->
-		           <div class="col-md-2 list-group">
-		                <button class="btn btn-primary"  data-toggle="collapse" data-target="#publisherDiv">
+		           <div class="col-md-1 list-group">
+		                <button class="btn btn-success"  data-toggle="collapse" data-target="#publisherDiv">
 		                		publisher
 		                </button>
 						<ul class="collapse list-group" id="publisherDiv" >	
-							<li class="list-group-item">
-								<input type="radio" name="pub" id="unknown" value="unknown" checked > unknown
+							<li class="list-group">
+								<label class="radio">
+								<input type="radio" name="pub" id="unknown" value="unknown" checked > 
+								unknown
+								</label>
 							</li >
 						</ul>							
 					</div>
+					
+					<!-- 排序-->
+					<div class="col-md-1 list-group" id="sortCat">
+						<button class="btn btn-info"  data-target="#bysort"  data-toggle="collapse">sort by </button>
+						<ul class="collapse list-group" id="bysort">
+							<li class="list-group">
+								<label class="radio">
+								<input type="radio" name="pub2" id="bydefault" value="bydefault" checked> default
+								</label>
+							</li >
+							<li class="list-group">
+								<label class="radio">
+								<input type="radio" name="pub2" id="byrating" value="byrating" > rating
+								</label>
+							</li >
+							<li class="list-group">
+								<label class="radio">
+								<input type="radio" name="pub2" id="bydate" value="bydate" > releasing date
+								</label>
+							</li >
+						</ul>
+					</div>
+					
 					<!--releasing year-->
 					<div class="col-md-1 list-group">
-							<span class="input-group-btn">
-		                            <button class="btn"> release year</button>
+							<span >
+		                            <button class="btn  btn-warning"> release year</button>
 		                    </span>
 							<input type="text" class="form-control" id='releasingYear'>
 					</div>
-					<!-- 排序-->
-					<div class="col-md-2" id="sortCat">
-						<button class="btn"  data-target="#bysort"  data-toggle="collapse">sort by </button>
-						<ul class="collapse list-group" id="bysort">
-							<li class="list-group-item">
-								<input type="radio" name="pub2" id="bydefault" value="bydefault" checked> default
-							</li >
-							<li class="list-group-item">
-								<input type="radio" name="pub2" id="byrating" value="byrating" > rating
-							</li >
-							<li class="list-group-item">
-								<input type="radio" name="pub2" id="bydate" value="bydate" > releasing date
-							</li >
-						</ul>
-				</div>
 			</div>			
 				
-			
-			
-			
-			
-
 			<!--返回搜索结果-->
-			<div class="row" style="margin-top: 30px;">	
-				<div class="col-md-6 list-group" id="EnterResult1">
-					<a href="#" class="list-group-item active">
-						<h4 class="list-group-item-heading"> Search result</h4>
-					</a>
-					<!-- <a href="#" class="list-group-item">
-						<h4 class="list-group-item-heading">免费域名注册</h4>
-						<p class="list-group-item-text">
-							您将通过网页进行免费域名注册。
-						</p>
-					</a> -->
-				</div>
-				
-				<div class="col-md-3" >
-					<a href="#" class="list-group-item active">
-						<h4 class="list-group-item-heading"> Do you mean these games</h4>
-					</a>	
-					<div class="col-md-12" id="EnterResult2">
-						
+			<div class="row clearfix" style="margin-top: 30px;">	
+				<div class="col-md-3 column"></div>
+				<div class="col-md-6 column">
+					<div class="tabbable" id="tabs-674734">
+						<!--控制面板-->
+						<ul class="nav nav-tabs">
+							<li class="active">
+								 <a href="#EnterResult1" data-toggle="tab">Section 1</a>
+							</li>
+							<li>
+								 <a href="#EnterResult2" data-toggle="tab">Section 2</a>
+							</li>
+							<li class="active">
+								 <a href="#recommendDisplay" data-toggle="tab">Section 3</a>
+							</li>
+						</ul>
+						<!--内容-->
+						<div class="tab-content">
+							<!-- EnterResult1 -->
+							<div class="tab-pane active list-group" id="EnterResult1" >
+								<a href="#" class="list-group-item active">
+									<h4 class="list-group-item-heading"> Search result</h4>
+								</a>
+								<!-- <a href="#" class="list-group-item">
+									<h4 class="list-group-item-heading">免费域名注册</h4>
+									<p class="list-group-item-text">
+										您将通过网页进行免费域名注册。
+									</p>
+								</a> -->
+							</div>
+							
+							<!-- EnterResult2 -->
+							<div class="tab-pane  list-group" id="EnterResult2">
+								<a href="#" class="list-group-item active">
+									<h4 class="list-group-item-heading"> Do you mean these games</h4>
+								</a>	
+							</div>
+							
+							<!-- RecommendGame -->
+							<div class="tab-pane  list-group" id="RecommendGame">
+								<a href="#" class="list-group-item active">
+									<h4 class="list-group-item-heading"> Recommend</h4>
+								</a>
+								<!-- <a href="#" class="list-group-item">
+									<h4 class="list-group-item-heading">免费域名注册</h4>
+									<p class="list-group-item-text">
+										您将通过网页进行免费域名注册。
+									</p>
+								</a> -->
+							</div>
+							
+						</div>
 					</div>
-				</div>
-
-				<div class="col-md-3"></div>
-				<div class="col-md-3" id="recommendDisplay">
-					<a href="#" class="list-group-item active">
-						<h4 class="list-group-item-heading"> Recommend</h4>
-					</a>
-					<!-- <a href="#" class="list-group-item">
-						<h4 class="list-group-item-heading">免费域名注册</h4>
-						<p class="list-group-item-text">
-							您将通过网页进行免费域名注册。
-						</p>
-					</a> -->
-				</div>
+				</div>	
 			</div>
 
 		</div>

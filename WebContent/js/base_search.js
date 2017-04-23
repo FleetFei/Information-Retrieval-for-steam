@@ -17,8 +17,10 @@ window.onload = function() {
 	}
 	var publisherList=["dovetail","devolver","degica","lionsgate","telltale","ubisoft","sega","paradox","valve","others"];
 	for(i in publisherList){
-		var a = $("<li class='list-group-item'>"+
+		var a = $("<li class='list-group'>"+
+							"<label class='radio'>"+
 							"<input type='radio' name='pub' id="+publisherList[i]+ " value="+publisherList[i]+ ">"+ publisherList[i]+
+							"</label>"+
 				  "</li>");
 		$("#publisherDiv").append(a);
 	}
@@ -92,13 +94,14 @@ function SearchDisplay(response) {
 	//先删除以前查找的内容
 	$("#EnterResult1").empty();
 	$("#EnterResult2").empty();
-	
+	$("#RecommendGame").empty();
 	var myobj = response;
 //	alert("test"+JSON.stringify(response));
 	
 	var typingResult = myobj.TypingData;
 	var enterResult1 = myobj.EnterData1;
 	var enterResult2 = myobj.EnterData2;
+	var RecommendGame = myobj.RecommendGame;
 	//enterResult1
 	for(var i in enterResult1) {
 		var name = enterResult1[i].Rname;
@@ -125,5 +128,17 @@ function SearchDisplay(response) {
 		+"</a>");
 		$("#EnterResult2").append(a);
 	}
-
+	//Recommend Game
+	for(var i in RecommendGame) {
+		var name = RecommendGame[i].Rname;
+		var id = RecommendGame[i].Rid;
+		var descript =  enterResult2[i].Description;
+		var genre = enterResult2[i].Genre;
+		var rate = enterResult2[i].rate;
+		var a = $("<a href='#' class='list-group-item' id=namesearch" + id + ">"
+		+"<h4 class='list-group-item-heading'>"+name+"</h4>"
+		+"<p class='list-group-item-text'></p>"+
+		+"</a>");
+		$("#RecommendGame").append(a);
+	}
 }
