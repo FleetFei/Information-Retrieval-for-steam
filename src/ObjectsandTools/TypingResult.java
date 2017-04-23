@@ -4,10 +4,12 @@ import java.util.ArrayList;
 
 public class TypingResult {
 	public ArrayList<String> initialResult;
-	
+	public ArrayList<relativeName> originResult;
+
 	public TypingResult(ArrayList<relativeName> inputInitialResult) {
 		
 		this.initialResult = new ArrayList<String>();
+		this.originResult = inputInitialResult;
 		
 		for (relativeName game : inputInitialResult) {
 			this.initialResult.add(game.name);

@@ -11,10 +11,14 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import ObjectsandTools.EnterSearchResult;
 import ObjectsandTools.KeywordsResult;
+import ObjectsandTools.TypingResult;
+import ObjectsandTools.relativeName;
 import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
 import net.sf.json.JSONException;
+import service.SortResults;
 import service.searchKeywords;
 import service.searchQuery;
 
@@ -43,8 +47,12 @@ public class NameSearch extends HttpServlet {
 		String[] genre = request.getParameterValues("Tag");
 		String publisher = request.getParameter("Publisher");
 		String releasing = request.getParameter("releasingYear");
+		String sort = request.getParameter("sort");
 		System.out.println("用户输入inputSearch："+inputSearch);
+		
 		ArrayList<String> tag = new ArrayList<>();
+		
+		SortResults sr = new SortResults();
 		//判断用户是否选择tag
 		if(genre!=null){
 			for(int i=0;i<genre.length;i++){
@@ -67,15 +75,9 @@ public class NameSearch extends HttpServlet {
 		 */
 		
 		//Typing内容
-		ArrayList<String> queryTping= new searchQuery(path).searchTyping(inputSearch).initialResult;
-		System.out.println("queryTping内容："+queryTping);
-		JSONArray Typingarray = new JSONArray();
-		JSONObject son = new JSONObject();
-		for(int i=0; i<queryTping.size(); i++){
-			son.put("Rid", i);
-			son.put("Rname", queryTping.get(i));
-			Typingarray.add(son);
-		}
+		TypingResult typingresult = new searchQuery(path).searchTyping(inputSearch);
+		ArrayList<String> queryTyping= typingresult.initialResult;
+
 		
 		//Entering内容
 		/*
@@ -88,8 +90,69 @@ public class NameSearch extends HttpServlet {
 			noninitialResult: 首字母出错，后面都对
 			suggestionResult: 有小错误，eg：拼写错误，会修正
 		 */
-		ArrayList<String> queryEntering1 = new searchQuery(path).searchEntering(inputSearch,tag, publisher,releasing).allMatchResult;
-		ArrayList<String> queryEntering2 = new searchQuery(path).searchEntering(inputSearch,tag, publisher,releasing).initialResult;
+		EnterSearchResult enterresult = new searchQuery(path).searchEntering(inputSearch,tag, publisher,releasing);
+		ArrayList<String> queryEntering1 = enterresult.allMatchResult;
+		ArrayList<String> queryEntering2 = enterresult.initialResult;
+	
+		
+		//3.推荐
+		String indexpath = this.getServletContext().getRealPath("/WEB-INF/classes/LuceneProcess");
+		String pathStopword = this.getServletContext().getRealPath("/WEB-INF/classes/stopword.txt");
+		
+		JSONArray RecommendArray = new JSONArray();
+		try {
+			KeywordsResult  recArray=new searchKeywords(path).search(pathStopword,indexpath,null, tag, publisher, releasing);
+			ArrayList<String> tmp = recArray.Result;
+			
+			if (!sort.equals("bydefault")) {
+				ArrayList<relativeName> type = typingresult.originResult;
+				
+				ArrayList<relativeName> enterallmatch = enterresult.originAllMatchResult;
+				ArrayList<relativeName> enterNmatch = enterresult.originNmatchResult;
+				ArrayList<relativeName> enterSuggest = enterresult.originNmatchResult;
+				ArrayList<relativeName> recommend = recArray.originResult;
+
+				if (sort.equals("byrating")) {
+
+					queryTyping = new TypingResult(sr.sortByRating(type)).initialResult;
+					enterresult.setAllmatchResult(sr.sortByRating(enterallmatch));
+					enterresult.setNmatchResult(sr.sortByRating(enterNmatch));
+					enterresult.setSuggestResult(sr.sortByRating(enterSuggest));
+					tmp = new KeywordsResult(sr.sortByRating(recommend)).Result;
+				}
+				else {
+					queryTyping = new TypingResult(sr.sortByReleasedate(type)).initialResult;
+					enterresult.setAllmatchResult(sr.sortByReleasedate(enterallmatch));
+					enterresult.setNmatchResult(sr.sortByReleasedate(enterNmatch));
+					enterresult.setSuggestResult(sr.sortByReleasedate(enterSuggest));
+					tmp = new KeywordsResult(sr.sortByReleasedate(recommend)).Result;
+					
+				}
+				
+				queryEntering1 = enterresult.allMatchResult;
+				queryEntering2 = enterresult.initialResult;
+			}
+			
+			
+			JSONObject son3 = new JSONObject();
+			for(int i=0; i<tmp.size(); i++){			
+				son3.put("Rid", i+1);
+				son3.put("Rname", tmp.get(i));
+				RecommendArray.add(son3);
+			}
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		System.out.println("queryTping内容："+queryTyping);
+		JSONArray Typingarray = new JSONArray();
+		JSONObject son = new JSONObject();
+		for(int i=0; i<queryTyping.size(); i++){
+			son.put("Rid", i);
+			son.put("Rname", queryTyping.get(i));
+			Typingarray.add(son);
+		}
 		
 		//1.所有选择全部符合
 		JSONArray EnterArray1 = new JSONArray();
@@ -107,28 +170,7 @@ public class NameSearch extends HttpServlet {
 			son2.put("Rname", queryEntering2.get(i));
 			EnterArray2.add(son2);
 		}
-		
-		//3.推荐
-		String indexpath = this.getServletContext().getRealPath("/WEB-INF/classes/LuceneProcess");
-		String pathStopword = this.getServletContext().getRealPath("/WEB-INF/classes/stopword.txt");
-		
-		JSONArray RecommendArray = new JSONArray();
-		try {
-			KeywordsResult  recArray=new searchKeywords(path).search(pathStopword,indexpath,null, tag, publisher, releasing);
-			ArrayList<String> tmp = recArray.Result;
-			
-			JSONObject son3 = new JSONObject();
-			for(int i=0; i<tmp.size(); i++){			
-				son3.put("Rid", i+1);
-				son3.put("Rname", tmp.get(i));
-				RecommendArray.add(son3);
-			}
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		
-		
+
 		
 		/*
 		 * Recommend by tag

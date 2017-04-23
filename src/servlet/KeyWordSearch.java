@@ -72,7 +72,6 @@ public class KeyWordSearch extends HttpServlet {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		System.out.println("keyword Search内容："+keyword);
 		JSONArray Typingarray = new JSONArray();
 		JSONObject son = new JSONObject();
 		for(int i=0; i<keywordResult.size(); i++){
@@ -80,7 +79,8 @@ public class KeyWordSearch extends HttpServlet {
 			son.put("Rname", keywordResult.get(i));
 			Typingarray.add(son);
 		}
-		
+		System.out.println("keyword Search内容："+keywordResult.toString());
+
 		
 		//创建JsonObject
 		JSONObject root = new JSONObject();

@@ -33,6 +33,7 @@ import PreprocessTools.stopwordRemover;
 public class searchKeywords {
 	
 	BufferedReader gamelistReader;
+	int x = 10;
 	
 //	Constructor: open reader to read SearchGameList
 	public searchKeywords(String path) throws FileNotFoundException {
@@ -96,7 +97,7 @@ public class searchKeywords {
 						
 						int length = line.trim().length();
 						temppublisher = line.trim().substring(13, length - 1);
-						if (!temppublisher.equals(publisher)) {
+						if (!publisher.equals("unknown") && !temppublisher.equals(publisher)) {
 							ifContains = false;
 						}
 					}
@@ -105,7 +106,7 @@ public class searchKeywords {
 						int length = line.trim().length();
 						tempreleasedate = line.trim().substring(16, length - 1);
 						
-						if (releasedate != null) {
+						if (releasedate != null && !releasedate.equals("")) {
 							if (!tempreleasedate.equals(releasedate)) {
 								ifContains = false;
 							}
@@ -130,7 +131,15 @@ public class searchKeywords {
 			gamelistReader.close();
 //			test result
 //			print(result);
-			return new KeywordsResult(result);
+			List<relativeName> finalresult = new ArrayList<relativeName>();
+			if (result.size() < x) {
+				finalresult = result;
+			}
+			else {
+				finalresult = result.subList(0, x);
+			}
+			
+			return new KeywordsResult(finalresult);
 		}
 //		if query not empty:
 		else {
@@ -142,9 +151,9 @@ public class searchKeywords {
 			HashSet<String> appIds = new HashSet<String>();
 			MyIndexReader ixreader = new MyIndexReader(indexpath);
 			// Initialize the MyRetrievalModel
-			QueryRetrievalModel model = new QueryRetrievalModel(ixreader);
+			QueryRetrievalModel model = new QueryRetrievalModel(ixreader, indexpath);
 //			use Lucene to read index and get topN results for keywords
-			List<Document> relativeDocs = model.retrieveQuery(processedQuery, 100);
+			List<Document> relativeDocs = model.retrieveQuery(processedQuery, 50);
 //			put results into appIds
 			if (relativeDocs != null) {
 				for (Document doc : relativeDocs) {
@@ -193,7 +202,7 @@ public class searchKeywords {
 						temppublisher = line.trim().substring(13, length - 1);
 						
 						
-						if (!temppublisher.equals(publisher)) {
+						if (!publisher.equals("unknown") && !temppublisher.equals(publisher)) {
 								ifContains = false;
 						}
 					}
@@ -202,7 +211,7 @@ public class searchKeywords {
 						int length = line.trim().length();
 						tempreleasedate = line.trim().substring(16, length - 1);
 						
-						if (releasedate != null) {
+						if (!releasedate.equals("") && releasedate != null) {
 							if (!tempreleasedate.equals(releasedate)) {
 								ifContains = false;
 							}
@@ -228,7 +237,14 @@ public class searchKeywords {
 			gamelistReader.close();
 //			test result 
 //			print(result);
-			return new KeywordsResult(result);
+			List<relativeName> finalresult = new ArrayList<relativeName>();
+			if (result.size() < x) {
+				finalresult = result;
+			}
+			else {
+				finalresult = result.subList(0, x);
+			}
+			return new KeywordsResult(finalresult);
 		}
 		
 		

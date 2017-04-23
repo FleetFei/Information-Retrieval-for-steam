@@ -1,5 +1,6 @@
 package ObjectsandTools;
 import java.util.ArrayList;
+import java.util.List;
 
 public class EnterSearchResult {
 	
@@ -8,32 +9,72 @@ public class EnterSearchResult {
 	public ArrayList<String> suggestionResult;
 	public ArrayList<String> allMatchResult;
 	
-	public EnterSearchResult(ArrayList<relativeName> nonInitialResult, ArrayList<relativeName> inputInitialResult, ArrayList<relativeName> inputSuggestionResult, ArrayList<relativeName> allmatchResult) {
+	public ArrayList<relativeName> originAllMatchResult;
+	public ArrayList<relativeName> originNmatchResult;
+	public ArrayList<relativeName> originSuggestResult;
+	public ArrayList<relativeName> originNinitalResult;
+
+	
+	public EnterSearchResult(ArrayList<relativeName> nonInitialResult, List<relativeName> nmatchInitial, List<relativeName> incorrectSpell, ArrayList<relativeName> allmatchResult) {
 		
 		this.nonInitialResult = new ArrayList<String>();
 		this.initialResult = new ArrayList<String>();
 		this.suggestionResult = new ArrayList<String>();
 		this.allMatchResult = new ArrayList<String>();
 
-		
-		for (relativeName game : inputInitialResult) {
+		this.originAllMatchResult = allmatchResult;
+		this.originNinitalResult = nonInitialResult;
+		this.originSuggestResult = new ArrayList<relativeName>();
+		this.originNmatchResult = new ArrayList<relativeName>();
+
+		for (relativeName game : nmatchInitial) {
 			this.initialResult.add(game.name);
 		}
-		for (relativeName game : inputSuggestionResult) {
+		for (relativeName game : incorrectSpell) {
 			this.suggestionResult.add(game.name);
 		}
 		for (relativeName game : allmatchResult) {
 			this.allMatchResult.add(game.name);
 		}
-		for (relativeName game : inputInitialResult) {
+		for (relativeName game : nonInitialResult) {
 			this.nonInitialResult.add(game.name);
 		}
+		
+		for (relativeName game : nmatchInitial) {
+			this.originNmatchResult.add(game);
+		}
+		for (relativeName game : incorrectSpell) {
+			this.originSuggestResult.add(game);
+		}
+		
 		
 		
 	}
 	
 	
+	public void setAllmatchResult(ArrayList<relativeName> input) {
+		this.allMatchResult = new ArrayList<String>();
+		for (relativeName game : input) {
+			this.allMatchResult.add(game.name);
+		}
+		
+	}
 	
+	public void setNmatchResult(ArrayList<relativeName> input) {
+		this.initialResult = new ArrayList<String>();
+		for (relativeName game : input) {
+			this.initialResult.add(game.name);
+		}
+		
+	}	
+	public void setSuggestResult(ArrayList<relativeName> input) {
+		this.suggestionResult = new ArrayList<String>();
+		for (relativeName game : input) {
+			this.suggestionResult.add(game.name);
+		}
+		
+	}
+
 	
 	
 	

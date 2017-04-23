@@ -6,6 +6,7 @@ import java.io.FileReader;
 //import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.List;
 
 import ObjectsandTools.EnterSearchResult;
 import ObjectsandTools.Path;
@@ -35,6 +36,7 @@ import ObjectsandTools.relativeName;
 public class searchQuery {
 	
 	private BufferedReader gamelistReader;
+	int x = 10;
 	
 //	constructor: open gamelist reader
 	public searchQuery(String path) throws IOException {
@@ -299,8 +301,28 @@ public class searchQuery {
 		incorrectSpellResult.sort(new ResultComparator());
 		allMatchResult.sort(new ResultComparator());
 		
+		List<relativeName> NmatchInitial = new ArrayList<relativeName>();
+		List<relativeName> incorrectSpell = new ArrayList<relativeName>();
+
+		if (NmatchInitialResult.size() < x) {
+			NmatchInitial = NmatchInitialResult;
+		}
+		else {
+			NmatchInitial = NmatchInitialResult.subList(0, x);
+		}
+		
+		if (incorrectSpellResult.size() < x) {
+			incorrectSpell = incorrectSpellResult;
+		}
+		else {
+			incorrectSpell = incorrectSpellResult.subList(0, x);
+		}
+		
+		
+		
+		
 //		记录结果到结果object
-		EnterSearchResult result = new EnterSearchResult(nonInitialResult, NmatchInitialResult, incorrectSpellResult, allMatchResult);
+		EnterSearchResult result = new EnterSearchResult(nonInitialResult, NmatchInitial, incorrectSpell, allMatchResult);
 
 //		此处为测试
 //		result.print();
@@ -316,11 +338,12 @@ public class searchQuery {
 //	如果user没有选择tag，则返回所有
 //	如果user选择了tag，但是游戏没有tag，优先返回allmatch
 	boolean ifTagMatch(ArrayList<String> tags, String gametags, String inputpublisher, String inputreleasedate, String publisher, String releasedate) {
-
-		if (!publisher.equals(inputpublisher)) {
+		
+		
+		if (!inputpublisher.equals("unknown") && publisher.equals(inputpublisher)) {
 			return false;
 		}
-		if (inputreleasedate != null && !releasedate.equals(inputreleasedate)) {
+		if ((inputreleasedate != null && !inputreleasedate.equals("")) && !releasedate.equals(inputreleasedate)) {
 			return false;
 		}
 		

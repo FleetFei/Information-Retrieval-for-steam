@@ -25,9 +25,9 @@ public class QueryRetrievalModel {
 	private DirectoryReader ireader;
 	private IndexSearcher indexSearcher;
 
-	public QueryRetrievalModel(MyIndexReader ixreader) {
+	public QueryRetrievalModel(MyIndexReader ixreader,String indexpath) {
 		try {
-			directory = FSDirectory.open(Paths.get(Path.IndexTextDir));
+			directory = FSDirectory.open(Paths.get(indexpath));
 			ireader = DirectoryReader.open(directory);
 			indexSearcher = new IndexSearcher(ireader);
 		} catch (Exception e) {
