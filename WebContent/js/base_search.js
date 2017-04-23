@@ -33,7 +33,7 @@ function KeywordSearch() {
 	var name = $('#User_Sch_input').val();
 	var tag =[];
 	var publisher =$("input[name='pub']:checked").val();
-	var releasingdate=$("#releasingYear").val();
+	var releasingYear=$("#releasingYear").val();
 	$("input[type=checkbox]:checked").each(function() {
 		//由于复选框一般选中的是多个,所以可以循环输出 
 		alert("you choose : "+$(this).val());
@@ -45,7 +45,7 @@ function KeywordSearch() {
          dataType:'json',
          traditional :true,  
          url:"http://localhost:8080/SteamGame/KeyWordSearch",  
-         data:{'Name':name,'Tag':tag,'Publisher':publisher,'ReleasingDate':releasingdate},  
+         data:{'Name':name,'Tag':tag,'Publisher':publisher,'releasingYear':releasingYear},  
          success:function(data){  
 //       	alert("success---data-->"+JSON.stringify(data));
 			alert("success---back>");
@@ -61,7 +61,7 @@ function NameSearch() {
 	var name = $('#User_Sch_input').val();
 	var tag =[];
 	var publisher =$("input[name='pub']:checked").val();
-	var releasingdate=$("#releasingYear").val();
+	var releasingYear=$("#releasingYear").val();
 	$("input[type=checkbox]:checked").each(function() {
 		//由于复选框一般选中的是多个,所以可以循环输出 
 		alert("you choose : "+$(this).val());
@@ -73,7 +73,7 @@ function NameSearch() {
          dataType:'json',
          traditional :true,  
          url:"http://localhost:8080/SteamGame/NameSearch",  
-         data:{'Name':name,'Tag':tag,'Publisher':publisher,'ReleasingDate':releasingdate},  
+         data:{'Name':name,'Tag':tag,'Publisher':publisher,'releasingYear':releasingYear},  
          success:function(data){  
 //       	alert("success---data-->"+JSON.stringify(data));
 			alert("success---back>");
