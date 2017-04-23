@@ -13,6 +13,7 @@
 
 		<!-- Bootstrap Core CSS -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
+		 <link href="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 		<script src="http://cdn.static.runoob.com/libs/jquery/2.1.1/jquery.min.js"></script>
 		<script src="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
@@ -112,99 +113,92 @@
 			</div>
 
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-4">
 					<div class="list-group">
-						<a class="dropdown-toggle" id="genre" onclick="$('#genreDiv').toggle(300)" > genre</a>
-						<ul id="genreDiv" class="list" style="display: none;">
-							<li class="item" style="display:inline-block; margin-left:0px;">
+						<!--<button class="dropdown-toggle" id="genre" onclick="$('#genreDiv').toggle(300)" > genre</button>-->
+						<button type="button" class="btn btn-primary" id="genre" data-toggle="collapse" data-target="#genreDiv" > genre</button>
+						
+						<ul id="genreDiv" class="list collapse" >
+							<li class="item" >
 								<label class="checkbox"> <input type="checkbox"  id="action" value="acton"></label> action
 							</li>
-							<li class="item " style="display:inline-block; margin-left:30px;">
+							<li class="item ">
 								<label class="checkbox"> <input type="checkbox"  id="Strategy" value="Strategy"></label> Strategy
 							</li>
-							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+							<li class="item item-checkbox" >
 								<label class="checkbox"> <input type="checkbox"  id="Racing" value="Racing"></label> Racing
 							</li>
-							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+							<li class="item item-checkbox">
 								<label class="checkbox"> <input type="checkbox"  id="RPG" value="RPG"></label> RPG
 							</li>
-							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+							<li class="item item-checkbox" >
 								<label class="checkbox"> <input type="checkbox"  id="Education" value="Education"></label> Education
 							</li>
-							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+							<li class="item item-checkbox" >
 								<label class="checkbox"> <input type="checkbox"  id="Sports" value="Sports"></label> Sports
 							</li>
-							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+							<li class="item item-checkbox">
 								<label class="checkbox"> <input type="checkbox"  id="Short" value="Short"></label> Short
 							</li>
-							<li class="item item-checkbox" style="display:inline-block; margin-left:30px;">
+							<li class="item item-checkbox" >
 								<label class="checkbox"> <input type="checkbox"  id="Adventure" value="Adventure"></label> Adventure
 							</li>
-						</ul>
+						</ul>					
 					</div>
-
+				</div>
+				
+				<div class="col-md-4" >
 					<div class="list-group">
-						<a class="dropdown-toggle" id="genre" onclick="$('#genreDiv2').toggle(300)"> other</a>
-						<ul id="genreDiv2" class="list" style="display: none;">
-							<li class="item item-checkbox" style="display:inline-block; margin-left:0px;">
+						<button class="btn btn-primary" data-toggle="collapse" data-target="#genreDiv2" id="genre" > other</button>
+						<ul class="collapse" id="genreDiv2" class="list">
+							<li class="item item-checkbox" >
 								<label class="checkbox"> <input type="checkbox"  id="Early Access" value="Early Access"></label> Early Access
 							</li>
-							<li class="item item-checkbox" style="display:inline-block; margin-left:40px;">
+							<li class="item item-checkbox" >
 								<label class="checkbox"> <input type="checkbox"  id="Free to play" value="Free to play"></label> Free to play
 							</li>
-							<li class="item item-checkbox" style="display:inline-block; margin-left:40px;">
+							<li class="item item-checkbox">
 								<label class="checkbox"> <input type="checkbox"  id="Violent" value="Violent"></label> Violent
 							</li>
-							<li class="item item-checkbox" style="display:inline-block; margin-left:40px;">
+							<li class="item item-checkbox">
 								<label class="checkbox"> <input type="checkbox"  id="Sexual Content" value="Sexual Content"></label> Sexual Content
 							</li>
-							<li class="item item-checkbox" style="display:inline-block; margin-left:40px;">
+							<li class="item item-checkbox">
 								<label class="checkbox"> <input type="checkbox"  id="Casual" value="Casual"></label> Casual
 							</li>
 						</ul>
 					</div>
-					
+				</div>	
 					<!--
                     		publisher
                     -->
-					<div>
-						<a class="dropdown-toggle" id="publisher"> publisher</a>
-					</div>
-					<div>
-						<label class="checkbox-inline">
+                
+                <div class="col-md-4 dropdown">
+                    <button type="button" class="btn btn-primary dropdown-toggle"  data-toggle="dropdown">
+                    		<span class="caret">publisher</span>
+                    </button>
+					<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">	
 							<input type="radio" name="pub" id="Valve" value="Valve" > Valve
-						</label>
-						<label class="checkbox-inline">
 							<input type="radio" name="pub" id="Dovetail"  value="Dovetail"> Dovetail
-						</label>
-						<label class="checkbox-inline">
 							<input type="radio" name="pub" id="SEGA"  value="SEGA"> SEGA
-						</label>
-						<label class="checkbox-inline">
+				
 							<input type="radio" name="pub" id="Paradox"  value="Paradox"> Paradox
-						</label>
-						<label class="checkbox-inline">
+						
 							<input type="radio" name="pub" id="Degica"  value="Degica"> Degica
-						</label>
-						<label class="checkbox-inline">
+						
 							<input type="radio" name="pub" id="Ubisoft"  value="Ubisoft"> Ubisoft
-						</label>
-						<label class="checkbox-inline">
+						
 							<input type="radio" name="pub" id="Lionsgate"  value="Lionsgate"> Lionsgate
-						</label>
-						<label class="checkbox-inline">
+						
 							<input type="radio" name="pub" id="Devolver"  value="Devolver"> Devolver
-						</label>
-						<label class="checkbox-inline">
 							<input type="radio" name="pub" id="Telltale"  value="DevolverTelltale"> DevolverTelltale		
-						</label>
-						<label class="checkbox-inline">
-							<input type="radio" name="pub" id="other"  value="other" checked> other		
-						</label>
-					</div>
-
+							<input type="radio" name="pub" id="other"  value="other" checked> other
+					</ul>							
 				</div>
+				
 			</div>
+			
+			
 			<!--
 				releasing year
 			-->

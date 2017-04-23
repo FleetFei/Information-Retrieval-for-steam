@@ -11,9 +11,11 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import ObjectsandTools.KeywordsResult;
 import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
 import net.sf.json.JSONException;
+import service.searchKeywords;
 import service.searchQuery;
 
 /**
@@ -106,6 +108,26 @@ public class NameSearch extends HttpServlet {
 			EnterArray2.add(son2);
 		}
 		
+		//3.推荐
+		String indexpath = this.getServletContext().getRealPath("/WEB-INF/classes/LuceneProcess");
+		JSONArray RecommendArray = new JSONArray();
+		try {
+			KeywordsResult  recArray=new searchKeywords(path).search(indexpath, "", tag, publisher, releasing);
+			ArrayList<String> tmp = recArray.Result;
+			
+			JSONObject son3 = new JSONObject();
+			for(int i=0; i<tmp.size(); i++){			
+				son3.put("Rid", i+1);
+				son3.put("Rname", tmp.get(i));
+				RecommendArray.add(son3);
+			}
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+		
 		/*
 		 * Recommend by tag
 		 * input: 路径indexpath(String),keyword(String), tag(ArrayList<String>), Publisher(String) , ReleaseDate(String)(年份表示)
@@ -119,15 +141,12 @@ public class NameSearch extends HttpServlet {
 //			EnterArray2.add(son3);
 //		}
 		
-		
-		
-		
 		//创建JsonObject
 		JSONObject root = new JSONObject();
 		root.put("TypingData", Typingarray);
 		root.put("EnterData1", EnterArray1);
 		root.put("EnterData2", EnterArray2);
-		
+		root.put("RecommendData", RecommendArray);
 		//设置response
 		response.setCharacterEncoding("utf-8");
 		response.setContentType("application/json;charset=utf-8");
@@ -136,6 +155,7 @@ public class NameSearch extends HttpServlet {
 		System.out.println("TypingData:"+Typingarray);
 		System.out.println("EnterData1:"+EnterArray1);
 		System.out.println("EnterData2:"+EnterArray2);
+		System.out.println("RecommendData:"+RecommendArray);
 		System.out.println("后端产给前端－－>传回的结果"+root);
 		//传输json
 		PrintWriter out = response.getWriter();
