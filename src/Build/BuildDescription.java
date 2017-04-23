@@ -27,7 +27,7 @@ public class BuildDescription {
 	}
 	
 //	open all the descritions files and read them
-	public void buildResult() throws IOException {
+	public void buildResult(String stopwordPath) throws IOException {
 		for (File file : des_set.listFiles()) {
 			
 //			firstly record doc names
@@ -45,7 +45,7 @@ public class BuildDescription {
 				while ((line = br.readLine()) != null) {
 					linecount ++;
 					if(linecount >= 2) {
-						fr.append(process(line.trim()) + " ");
+						fr.append(process(stopwordPath, line.trim()) + " ");
 					}
 				}
 				br.close();	
@@ -61,10 +61,10 @@ public class BuildDescription {
 //	2. tokenize
 //	3. stem
 //	4. remove stop word
-	String process(String line) throws IOException {
+	String process(String stopwordPath, String line) throws IOException {
 		
 		WordNormalizer wn = new WordNormalizer();
-		stopwordRemover swr = new stopwordRemover();
+		stopwordRemover swr = new stopwordRemover(stopwordPath);
 		
 		String[] tokenList = line.split("[ .,!?]");
 		StringBuilder result = new StringBuilder();

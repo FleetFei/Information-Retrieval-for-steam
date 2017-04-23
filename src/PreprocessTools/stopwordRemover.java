@@ -15,13 +15,13 @@ public class stopwordRemover {
 	private static HashSet<String> words = new HashSet <String> ();
 	
 	
-	public stopwordRemover( ) throws IOException {
+	public stopwordRemover(String stopwordPath ) throws IOException {
 		// load and store the stop words from specific location
 
 		
 		
 		String line = "";
-		File f = new File(Path.StopwordDir);
+		File f = new File(stopwordPath);
 		BufferedReader reader = new BufferedReader(new FileReader(f));
 		while ((line = reader.readLine()) != null) {
 			words.add(line);

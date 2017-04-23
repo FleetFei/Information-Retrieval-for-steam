@@ -40,7 +40,7 @@ public class searchKeywords {
 	}
 	
 	
-	public KeywordsResult search(String indexpath, String keywords, ArrayList<String> taglist, String publisher, String releasedate) throws Exception {
+	public KeywordsResult search(String stopwordPath, String indexpath, String keywords, ArrayList<String> taglist, String publisher, String releasedate) throws Exception {
 		ArrayList<relativeName> result = new ArrayList<relativeName>();
 		
 		
@@ -137,7 +137,7 @@ public class searchKeywords {
 
 			
 //			first process keywords
-			String processedQuery = process(keywords);
+			String processedQuery = process(stopwordPath, keywords);
 			
 			HashSet<String> appIds = new HashSet<String>();
 			MyIndexReader ixreader = new MyIndexReader(indexpath);
@@ -239,10 +239,10 @@ public class searchKeywords {
 //		}
 //	}
 //	
-	String process(String line) throws IOException {
+	String process(String stopwordPath, String line) throws IOException {
 		
 		WordNormalizer wn = new WordNormalizer();
-		stopwordRemover swr = new stopwordRemover();
+		stopwordRemover swr = new stopwordRemover(stopwordPath);
 		String[] tokenList = line.split("[ .,!?]");
 		StringBuilder result = new StringBuilder();
 		for (String token : tokenList) {
