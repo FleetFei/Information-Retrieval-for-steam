@@ -4,7 +4,7 @@ window.onload = function() {
 		var a = $("<li class='item' >"+
 					"<label class='checkbox'>"+
 					"<input type='checkbox' id="+ tag1List[i]+ " value="+ tag1List[i]+">"+
-					"</label>"+ tag1List[i]+"</li>");
+					"</label> "+ tag1List[i]+"</li>");
 		$("#genreDiv").append(a);
 	}
 	var tag2List = ["Early Access","Free to play","Violent","Sexual Content","Casual"];
@@ -15,10 +15,10 @@ window.onload = function() {
 					"</label>"+ tag2List[i]+"</li>");
 		$("#genreDiv2").append(a);
 	}
-	var publisherList=["dovetail","devolver","degica","lionsgate","telltale","ubisoft","sega","paradox","valve","others","unknown"];
+	var publisherList=["dovetail","devolver","degica","lionsgate","telltale","ubisoft","sega","paradox","valve","others"];
 	for(i in publisherList){
 		var a = $("<li class='list-group-item'>"+
-							"<input type='radio' id="+publisherList[i]+ " value="+publisherList[i]+ ">"+ publisherList[i]+
+							"<input type='radio' name='pub' id="+publisherList[i]+ " value="+publisherList[i]+ ">"+ publisherList[i]+
 				  "</li>");
 		$("#publisherDiv").append(a);
 	}
