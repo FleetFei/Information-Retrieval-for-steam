@@ -17,11 +17,6 @@ window.onload = function() {
 	}
 	var publisherList=["dovetail","devolver","degica","lionsgate","telltale","ubisoft","sega","paradox","valve","others"];
 	
-//	$("input[type=checkbox]:checked").each(function() {
-//		//由于复选框一般选中的是多个,所以可以循环输出 
-//		alert("you choose : "+$(this).val());
-//		tag.push($(this).val());
-//	}); 
 };
 
 
