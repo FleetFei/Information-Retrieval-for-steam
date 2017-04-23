@@ -15,8 +15,13 @@ window.onload = function() {
 					"</label>"+ tag2List[i]+"</li>");
 		$("#genreDiv2").append(a);
 	}
-	var publisherList=["dovetail","devolver","degica","lionsgate","telltale","ubisoft","sega","paradox","valve","others"];
-	
+	var publisherList=["dovetail","devolver","degica","lionsgate","telltale","ubisoft","sega","paradox","valve","others","unknown"];
+	for(i in publisherList){
+		var a = $("<li class='list-group-item'>"+
+							"<input type='radio' id="+publisherList[i]+ " value="+publisherList[i]+ ">"+ publisherList[i]+
+				  "</li>");
+		$("#publisherDiv").append(a);
+	}
 };
 
 
@@ -30,6 +35,7 @@ function KeywordSearch() {
 	var tag =[];
 	var publisher =$("input[name='pub']:checked").val();
 	var releasingYear=$("#releasingYear").val();
+	var sort = $("#bysort").val();
 	$("input[type=checkbox]:checked").each(function() {
 		//由于复选框一般选中的是多个,所以可以循环输出 
 		alert("you choose : "+$(this).val());
@@ -41,7 +47,7 @@ function KeywordSearch() {
          dataType:'json',
          traditional :true,  
          url:"http://localhost:8080/SteamGame/KeyWordSearch",  
-         data:{'keyword':keyword,'Tag':tag,'Publisher':publisher,'releasingYear':releasingYear},  
+         data:{'keyword':keyword,'Tag':tag,'Publisher':publisher,'releasingYear':releasingYear,"sort":sort},  
          success:function(data){  
 //       	alert("success---data-->"+JSON.stringify(data));
 			alert("success---back>");
@@ -58,6 +64,7 @@ function NameSearch() {
 	var tag =[];
 	var publisher =$("input[name='pub']:checked").val();
 	var releasingYear=$("#releasingYear").val();
+	var sort = $("#bysort").val();
 	$("input[type=checkbox]:checked").each(function() {
 		//由于复选框一般选中的是多个,所以可以循环输出 
 		alert("you choose : "+$(this).val());
@@ -69,7 +76,7 @@ function NameSearch() {
          dataType:'json',
          traditional :true,  
          url:"http://localhost:8080/SteamGame/NameSearch",  
-         data:{'Name':name,'Tag':tag,'Publisher':publisher,'releasingYear':releasingYear},  
+         data:{'Name':name,'Tag':tag,'Publisher':publisher,'releasingYear':releasingYear,'sort':sort},  
          success:function(data){  
 //       	alert("success---data-->"+JSON.stringify(data));
 			alert("success---back>");
@@ -101,7 +108,7 @@ function SearchDisplay(response) {
 		var rate = enterResult1[i].rate;
 		var a = $("<a href='#' class='list-group-item' id=namesearch" + id + ">"
 		+"<h4 class='list-group-item-heading'>"+name+"</h4>"
-		+"<p class='list-group-item-text'></p>"+
+		+"<p class='list-group-item-text'>"+ descript +"</p>"+
 		+"</a>");
 		$("#EnterResult1").append(a);
 	}
