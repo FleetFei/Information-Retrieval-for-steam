@@ -1,12 +1,22 @@
 window.onload = function() {
-	var publisherList = ["action","Strategy","Racing","RPG","Education","Sports","Short","Adventure"];
-	for(i in publisherList){
+	var tag1List = ["action","Strategy","Racing","RPG","Education","Sports","Short","Adventure"];
+	for(i in tag1List){
 		var a = $("<li class='item' >"+
 					"<label class='checkbox'>"+
-					"<input type='checkbox'  id="+ publisherList[i]+ "value='acton'>"+
-					"</label>"+ publisherList[i]+"</li>");
+					"<input type='checkbox' id="+ tag1List[i]+ "value="+ tag1List[i]+">"+
+					"</label>"+ tag1List[i]+"</li>");
 		$("#genreDiv").append(a);
 	}
+	var tag2List = ["Early Access","Free to play","Violent","Sexual Content","Casual"];
+	for(i in tag2List){
+		var a = $("<li class='item' >"+
+					"<label class='checkbox'>"+
+					"<input type='checkbox' id="+ tag2List[i]+ "value="+ tag2List[i]+">"+
+					"</label>"+ tag2List[i]+"</li>");
+		$("#genreDiv2").append(a);
+	}
+	var publisherList=["dovetail","devolver","degica","lionsgate","telltale","ubisoft","sega","paradox","valve","others"];
+	
 	$("input[type=checkbox]:checked").each(function() {
 		//由于复选框一般选中的是多个,所以可以循环输出 
 		alert("you choose : "+$(this).val());
