@@ -25,7 +25,8 @@ function KeywordSearch() {
 	 * 搜索内容：name, tag, publisher, releasingdate, sort
 	 */
 	alert("高级搜索启动");
-	var name = $('#keyword').val();
+	var keyword = $('#keyword').val();
+	alert("keyword＝＝＝"+keyword);
 	var tag =[];
 	var publisher =$("input[name='pub']:checked").val();
 	var releasingYear=$("#releasingYear").val();
@@ -40,7 +41,7 @@ function KeywordSearch() {
          dataType:'json',
          traditional :true,  
          url:"http://localhost:8080/SteamGame/KeyWordSearch",  
-         data:{'Name':name,'Tag':tag,'Publisher':publisher,'releasingYear':releasingYear},  
+         data:{'keyword':keyword,'Tag':tag,'Publisher':publisher,'releasingYear':releasingYear},  
          success:function(data){  
 //       	alert("success---data-->"+JSON.stringify(data));
 			alert("success---back>");
