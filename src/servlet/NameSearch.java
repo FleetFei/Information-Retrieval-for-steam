@@ -110,9 +110,11 @@ public class NameSearch extends HttpServlet {
 		
 		//3.推荐
 		String indexpath = this.getServletContext().getRealPath("/WEB-INF/classes/LuceneProcess");
+		String pathStopword = this.getServletContext().getRealPath("/WEB-INF/classes/stopword.txt");
+		
 		JSONArray RecommendArray = new JSONArray();
 		try {
-			KeywordsResult  recArray=new searchKeywords(path).search(indexpath, "", tag, publisher, releasing);
+			KeywordsResult  recArray=new searchKeywords(path).search(pathStopword,indexpath,null, tag, publisher, releasing);
 			ArrayList<String> tmp = recArray.Result;
 			
 			JSONObject son3 = new JSONObject();

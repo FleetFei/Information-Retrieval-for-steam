@@ -62,12 +62,12 @@ public class KeyWordSearch extends HttpServlet {
 		//确认路径
 		String path = this.getServletContext().getRealPath("/WEB-INF/classes/SearchGameList.txt");
 		String indexpath = this.getServletContext().getRealPath("/WEB-INF/classes/LuceneProcess");
-	
+		String pathStopword = this.getServletContext().getRealPath("/WEB-INF/classes/stopword.txt");
 		
 		//Typing内容
 		ArrayList<String> keywordResult = new ArrayList<>();
 		try {
-			keywordResult = new searchKeywords(path).search(indexpath,keyword,tag,publisher,releasing).Result;
+			keywordResult = new searchKeywords(path).search(pathStopword,indexpath,keyword,tag,publisher,releasing).Result;
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
