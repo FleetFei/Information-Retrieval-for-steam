@@ -90,7 +90,7 @@
 				<div class="col-md-4"></div>
 				<div class="col-md-4">
 					<div class="input-group">
-						<input type="text" class="form-control" id='keyword'  value="keyword of game" onfocus="this.value=''" >
+						<input type="text" class="form-control" id='keyword'  value="" onfocus="this.value=''" >
 						<span class="input-group-btn">
                                 <button class="btn btn-info btn-search" onclick="KeywordSearch()" style="background-color: #C9302C;"> Keyword search</button>
                         </span>
@@ -117,6 +117,7 @@
 			<div class="row">
 				<ul class="list-inline">
 					<li>
+						<div class="list-group">
 							<!--<button class="dropdown-toggle" id="genre" onclick="$('#genreDiv').toggle(300)" > genre</button>-->
 							<button type="button" class="btn btn-primary" id="genre" data-toggle="collapse" data-target="#genreDiv" > genre</button>
 							
@@ -125,6 +126,7 @@
 									<label class="checkbox"> <input type="checkbox"  id="Strategy" value="Strategy"></label> Strategy
 								</li>-->
 							</ul>					
+						</div>
 					</li>
 					
 					<li >
