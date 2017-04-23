@@ -1,9 +1,12 @@
 window.onload = function() {
-	var a = $("<a href='#' class='list-group-item' id=namesearch" + id + ">"
-		+"<h4 class='list-group-item-heading'>"+name+"</h4>"
-		+"<p class='list-group-item-text'></p>"+
-		+"</a>");
-	$("#genreDiv").append(a);
+	var publisherList = ["action","Strategy","Racing","RPG","Education","Sports","Short","Adventure"];
+	for(i in publisherList){
+		var a = $("<li class='item' >"+
+					"<label class='checkbox'>"+
+					"<input type='checkbox'  id="+ publisherList[i]+ "value='acton'>"+
+					"</label>"+ publisherList[i]+"</li>");
+		$("#genreDiv").append(a);
+	}
 	$("input[type=checkbox]:checked").each(function() {
 		//由于复选框一般选中的是多个,所以可以循环输出 
 		alert("you choose : "+$(this).val());
