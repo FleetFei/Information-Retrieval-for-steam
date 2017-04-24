@@ -31,9 +31,7 @@ function KeywordSearch() {
 	/*
 	 * 搜索内容：name, tag, publisher, releasingdate, sort
 	 */
-	alert("高级搜索启动");
 	var keyword = $('#keyword').val();
-	alert("keyword＝＝＝"+keyword);
 	var tag =[];
 	var publisher =$("input[name='pub']:checked").val();
 	var releasingYear=$("#releasingYear").val();
@@ -43,7 +41,6 @@ function KeywordSearch() {
 		alert("you choose : "+$(this).val());
 		tag.push($(this).val());
 	}); 
-	alert("启动ajax");
 	 $.ajax({  
          type:'post',  
          dataType:'json',
@@ -51,8 +48,6 @@ function KeywordSearch() {
          url:"http://localhost:8080/SteamGame/KeyWordSearch",  
          data:{'keyword':keyword,'Tag':tag,'Publisher':publisher,'releasingYear':releasingYear,"sort":sort},  
          success:function(data){  
-//       	alert("success---data-->"+JSON.stringify(data));
-			alert("success---back>");
        	 	SearchDisplay(data);
          }  
      });  
@@ -72,7 +67,6 @@ function NameSearch() {
 		alert("you choose : "+$(this).val());
 		tag.push($(this).val());
 	}); 
-	alert("启动ajax");
 	 $.ajax({  
          type:'post',  
          dataType:'json',
@@ -80,8 +74,6 @@ function NameSearch() {
          url:"http://localhost:8080/SteamGame/NameSearch",  
          data:{'Name':name,'Tag':tag,'Publisher':publisher,'releasingYear':releasingYear,'sort':sort},  
          success:function(data){  
-//       	alert("success---data-->"+JSON.stringify(data));
-			alert("success---back>");
        	 	SearchDisplay(data);
          }  
      });  
@@ -101,7 +93,7 @@ function SearchDisplay(response) {
 	var typingResult = myobj.TypingData;
 	var enterResult1 = myobj.EnterData1;
 	var enterResult2 = myobj.EnterData2;
-	var RecommendGame = myobj.RecommendGame;
+	var RecommendGame = myobj.RecommendData;
 	//enterResult1
 	for(var i in enterResult1) {
 		var name = enterResult1[i].Rname;
@@ -109,9 +101,15 @@ function SearchDisplay(response) {
 		var descript =  enterResult1[i].Description;
 		var genre = enterResult1[i].Genre;
 		var rate = enterResult1[i].rate;
+		
+		var b="123";
+		for(i in genre){
+			b = b + "<li class='list-group-item'>"+genre[i]+"</li>"; 
+		}
 		var a = $("<a href='#' class='list-group-item' id=namesearch" + id + ">"
-		+"<h4 class='list-group-item-heading'>"+name+"</h4>"
-		+"<p class='list-group-item-text'>"+ descript +"</p>"+
+		+"<h4 class='list-group-item-heading text-primary'>"+name+"</h4>"
+		+"<p class='list-group-item-text text-success'>"+ descript +"</p>"
+		+"<ul class='list-group'>"+b+"</ul>"
 		+"</a>");
 		$("#EnterResult1").append(a);
 	}
@@ -122,9 +120,15 @@ function SearchDisplay(response) {
 		var descript =  enterResult2[i].Description;
 		var genre = enterResult2[i].Genre;
 		var rate = enterResult2[i].rate;
+		
+		var b="123";
+		for(i in genre){
+			b = b + "<li class='list-group-item'>"+genre[i]+"</li>"; 
+		}
 		var a = $("<a href='#' class='list-group-item' id=namesearch" + id + ">"
-		+"<h4 class='list-group-item-heading'>"+name+"</h4>"
-		+"<p class='list-group-item-text'></p>"+
+		+"<h4 class='list-group-item-heading text-primary'>"+name+"</h4>"
+		+"<p class='list-group-item-text  text-success'>"+ descript +"</p>"
+		+"<ul class='list-group'>"+b+"</ul>"
 		+"</a>");
 		$("#EnterResult2").append(a);
 	}
@@ -135,9 +139,15 @@ function SearchDisplay(response) {
 		var descript =  enterResult2[i].Description;
 		var genre = enterResult2[i].Genre;
 		var rate = enterResult2[i].rate;
+		
+		var b="123";
+		for(i in genre){
+			b = b + "<li class='list-group-item'>"+genre[i]+"</li>"; 
+		}
 		var a = $("<a href='#' class='list-group-item' id=namesearch" + id + ">"
-		+"<h4 class='list-group-item-heading'>"+name+"</h4>"
-		+"<p class='list-group-item-text'></p>"+
+		+"<h4 class='list-group-item-heading text-primary'>"+name+"</h4>"
+		+"<p class='list-group-item-text  text-success'>"+ descript +"</p>"
+		+"<ul class='list-group'>"+b+"</ul>"
 		+"</a>");
 		$("#RecommendGame").append(a);
 	}

@@ -37,7 +37,7 @@ public class TestInter extends HttpServlet {
 		response.setContentType("text/html");
 		response.setCharacterEncoding("GBK");
 		//前端你输入的测试搜索
-		String inputSearch = request.getHeader("MyHeader");
+		String inputSearch = request.getParameter("Name");
 		//你需要改路径
 		String path = this.getServletContext().getRealPath("/WEB-INF/classes/SearchGameList.txt");
 		ArrayList<String> test = new ArrayList<String>();
