@@ -35,7 +35,7 @@ function KeywordSearch() {
 	var tag =[];
 	var publisher =$("input[name='pub']:checked").val();
 	var releasingYear=$("#releasingYear").val();
-	var sort = $("#bysort").val();
+	var sort = $("input[name='pub2']:checked").val();
 	$("input[type=checkbox]:checked").each(function() {
 		//由于复选框一般选中的是多个,所以可以循环输出 
 		alert("you choose : "+$(this).val());
@@ -61,7 +61,7 @@ function NameSearch() {
 	var tag =[];
 	var publisher =$("input[name='pub']:checked").val();
 	var releasingYear=$("#releasingYear").val();
-	var sort = $("#bysort").val();
+	var sort = $("input[name='pub2']:checked").val();
 	$("input[type=checkbox]:checked").each(function() {
 		//由于复选框一般选中的是多个,所以可以循环输出 
 		alert("you choose : "+$(this).val());
