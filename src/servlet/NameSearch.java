@@ -19,6 +19,7 @@ import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
 import net.sf.json.JSONException;
 import service.SortResults;
+import service.findResultDetails;
 import service.searchKeywords;
 import service.searchQuery;
 
@@ -53,6 +54,7 @@ public class NameSearch extends HttpServlet {
 		ArrayList<String> tag = new ArrayList<>();
 		
 		SortResults sr = new SortResults();
+		findResultDetails frd = new findResultDetails();
 		//判断用户是否选择tag
 		if(genre!=null){
 			for(int i=0;i<genre.length;i++){
@@ -94,8 +96,7 @@ public class NameSearch extends HttpServlet {
 		ArrayList<String> queryEntering1 = enterresult.allMatchResult;
 		ArrayList<String> queryEntering2 = enterresult.initialResult;
 	
-		
-		//3.推荐
+		String despath = this.getServletContext().getRealPath("/WEB-INF/classes/descriptionTrec.trectext");
 		String indexpath = this.getServletContext().getRealPath("/WEB-INF/classes/LuceneProcess");
 		String pathStopword = this.getServletContext().getRealPath("/WEB-INF/classes/stopword.txt");
 		
@@ -103,9 +104,9 @@ public class NameSearch extends HttpServlet {
 		try {
 			KeywordsResult  recArray=new searchKeywords(path).search(pathStopword,indexpath,null, tag, publisher, releasing);
 			ArrayList<String> tmp = recArray.Result;
+			ArrayList<relativeName> result3 = recArray.originResult;
 			
 			if (!sort.equals("bydefault")) {
-				ArrayList<relativeName> type = typingresult.originResult;
 				
 				ArrayList<relativeName> enterallmatch = enterresult.originAllMatchResult;
 				ArrayList<relativeName> enterNmatch = enterresult.originNmatchResult;
@@ -113,31 +114,35 @@ public class NameSearch extends HttpServlet {
 				ArrayList<relativeName> recommend = recArray.originResult;
 
 				if (sort.equals("byrating")) {
+					System.out.println("!!!!!!!!!!!!");
 
-					queryTyping = new TypingResult(sr.sortByRating(type)).initialResult;
 					enterresult.setAllmatchResult(sr.sortByRating(enterallmatch));
 					enterresult.setNmatchResult(sr.sortByRating(enterNmatch));
 					enterresult.setSuggestResult(sr.sortByRating(enterSuggest));
-					tmp = new KeywordsResult(sr.sortByRating(recommend)).Result;
+					recArray.setOriginResult((sr.sortByRating(recommend)));
 				}
 				else {
-					queryTyping = new TypingResult(sr.sortByReleasedate(type)).initialResult;
 					enterresult.setAllmatchResult(sr.sortByReleasedate(enterallmatch));
 					enterresult.setNmatchResult(sr.sortByReleasedate(enterNmatch));
 					enterresult.setSuggestResult(sr.sortByReleasedate(enterSuggest));
-					tmp = new KeywordsResult(sr.sortByReleasedate(recommend)).Result;
+					recArray.setOriginResult((sr.sortByReleasedate(recommend)));
 					
 				}
 				
 				queryEntering1 = enterresult.allMatchResult;
 				queryEntering2 = enterresult.initialResult;
+				result3 = recArray.originResult;
+
 			}
 			
 			
 			JSONObject son3 = new JSONObject();
 			for(int i=0; i<tmp.size(); i++){			
 				son3.put("Rid", i+1);
-				son3.put("Rname", tmp.get(i));
+				son3.put("Rname", result3.get(i).name);
+				son3.put("Description", frd.getDescription(despath, result3.get(i)));
+				son3.put("Genre", result3.get(i).tags);
+				son3.put("rate", result3.get(i).rating);
 				RecommendArray.add(son3);
 			}
 		} catch (Exception e) {
@@ -160,6 +165,9 @@ public class NameSearch extends HttpServlet {
 		for(int i=0; i<queryEntering1.size(); i++){			
 			son1.put("Rid", i+1);
 			son1.put("Rname", queryEntering1.get(i));
+//			son1.put("Description", description);
+//			son1.put("Genre", tags);
+//			son1.put("rate", rate);
 			EnterArray1.add(son1);
 		}
 		//2.只符合query
@@ -168,6 +176,9 @@ public class NameSearch extends HttpServlet {
 		for(int i=0; i<queryEntering2.size(); i++){			
 			son2.put("Rid", i+1);
 			son2.put("Rname", queryEntering2.get(i));
+//			son2.put("Description", description);
+//			son2.put("Genre", tags);
+//			son2.put("rate", rate);
 			EnterArray2.add(son2);
 		}
 

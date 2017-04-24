@@ -23,6 +23,10 @@ public class KeywordsResult {
 		
 	}
 	
+	public void setOriginResult(ArrayList<relativeName> result) {
+		this.originResult = result;
+	}
+	
 	public void print() {
 		System.out.println("Results only contain Initial words: ");
 		for (String st1 : Result) {
