@@ -11,7 +11,7 @@ window.onload = function() {
 	for(i in tag2List){
 		var a = $("<li class='item' >"+
 					"<label class='checkbox'>"+
-					"<input type='checkbox' id="+ tag2List[i]+ "value="+ tag2List[i]+">"+
+					"<input type='checkbox' id=' "+ tag2List[i]+ " ' value=' "+ tag2List[i]+" '>"+
 					"</label>"+ tag2List[i]+"</li>");
 		$("#genreDiv2").append(a);
 	}
@@ -38,7 +38,7 @@ function KeywordSearch() {
 	var sort = $("input[name='pub2']:checked").val();
 	$("input[type=checkbox]:checked").each(function() {
 		//由于复选框一般选中的是多个,所以可以循环输出 
-		alert("you choose : "+$(this).val());
+//		alert("you choose : "+$(this).val());
 		tag.push($(this).val());
 	}); 
 	 $.ajax({  
@@ -67,7 +67,7 @@ function NameSearch() {
 	var sort = $("input[name='pub2']:checked").val();
 	$("input[type=checkbox]:checked").each(function() {
 		//由于复选框一般选中的是多个,所以可以循环输出 
-		alert("you choose : "+$(this).val());
+//		alert("you choose : "+$(this).val());
 		tag.push($(this).val());
 	}); 
 	 $.ajax({  
