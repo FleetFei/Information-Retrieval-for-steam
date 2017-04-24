@@ -34,6 +34,7 @@ public class searchKeywords {
 	
 	BufferedReader gamelistReader;
 	int x = 10;
+	int y = 2;
 	
 //	Constructor: open reader to read SearchGameList
 	public searchKeywords(String path) throws FileNotFoundException {
@@ -59,8 +60,11 @@ public class searchKeywords {
 		
 		
 //		keywords can be empty
-		if (keywords == null) {
+		if (keywords == null || keywords.equals("")) {
 			
+			if (taglist == null && publisher.equals("unknown") && (releasedate.equals("") || releasedate == null)) {
+				return null;
+			}
 			
 			String line = "";
 			String tempappid = "";
@@ -69,6 +73,7 @@ public class searchKeywords {
 			String temppublisher = "";
 			String tempreleasedate = "";
 			int temprating;
+			int infocount = 0;
 			
 			boolean ifContains = false;
 			
@@ -82,14 +87,23 @@ public class searchKeywords {
 					if (line.contains("\t\t\t\t\"original name\":")) {
 						tempname = line.trim().substring(16);
 					}
-					else if (taglist != null && line.contains("\t\t\t\t\"tag\":")) {
-						
+					else if (line.contains("\t\t\t\t\"tag\":")) {
 						int length = line.trim().length();
 						temptag = line.trim().substring(7, length - 1);
+						
+						if(!temptag.equals("none")) {
+							infocount ++;
+						}
+						
+						
+						
 						if (taglist != null) {
+							
+							ifContains = false;
+
 							for (String st : taglist) {
-								if (!temptag.contains(st)) {
-									ifContains = false;
+								if (temptag.contains(st.toLowerCase())) {
+									ifContains = true;
 								}
 							}
 						}
@@ -101,11 +115,17 @@ public class searchKeywords {
 						if (!publisher.equals("unknown") && !temppublisher.equals(publisher)) {
 							ifContains = false;
 						}
+						
 					}
 					else if (line.contains("\t\t\t\t\"release date\":")) {
 						
 						int length = line.trim().length();
 						tempreleasedate = line.trim().substring(16, length - 1);
+						
+						if(!tempreleasedate.equals("0")) {
+							infocount ++;
+						}
+						
 						
 						if (releasedate != null && !releasedate.equals("")) {
 							if (!tempreleasedate.equals(releasedate)) {
@@ -121,8 +141,13 @@ public class searchKeywords {
 						}
 						else {
 							temprating = Integer.parseInt(score);
+							infocount ++;
+
 						}
-						result.add(new relativeName(tempappid, 0, tempname, temprating, tempreleasedate, temptag));
+						if (infocount >= 2) {
+							result.add(new relativeName(tempappid, 0, tempname, temprating, tempreleasedate, temptag));
+						}
+						infocount = 0;
 						ifContains = false;
 					}
 				}
@@ -154,10 +179,11 @@ public class searchKeywords {
 			// Initialize the MyRetrievalModel
 			QueryRetrievalModel model = new QueryRetrievalModel(ixreader, indexpath);
 //			use Lucene to read index and get topN results for keywords
-			List<Document> relativeDocs = model.retrieveQuery(processedQuery, 50);
+			List<Document> relativeDocs = model.retrieveQuery(processedQuery, 100);
 //			put results into appIds
 			if (relativeDocs != null) {
 				for (Document doc : relativeDocs) {
+					System.out.println(doc.docno() + " " + doc.score());
 					appIds.add(doc.docno());
 				}
 			}
@@ -170,6 +196,7 @@ public class searchKeywords {
 			String temppublisher = "";
 			String tempreleasedate = "";
 			int temprating;
+			int infocount = 0;
 //			go through each line of gamelist to get information
 			while ((line = gamelistReader.readLine()) != null) {
 				if (line.contains("\t\t\t\t\"appid\":")) {
@@ -182,14 +209,18 @@ public class searchKeywords {
 				else if (ifContains) {
 //					accoring to users' options to achieve results
 					if (line.contains("\t\t\t\t\"original name\":")) {
+						
 						tempname = line.trim().substring(16);
 					}
 					else if (line.contains("\t\t\t\t\"tag\":")) {
-						
+
 						int length = line.trim().length();
 						temptag = line.trim().substring(7, length - 1);
-						
+						if(!temptag.equals("none")) {
+							infocount ++;
+						}
 						if (taglist != null) {
+							ifContains = false;
 							for (String st : taglist) {
 								if (temptag.contains(st.toLowerCase())) {
 									ifContains = true;
@@ -198,6 +229,7 @@ public class searchKeywords {
 						}
 					}
 					else if (line.contains("\t\t\t\t\"publisher\":")) {
+
 						
 						int length = line.trim().length();
 						temppublisher = line.trim().substring(13, length - 1);
@@ -208,10 +240,13 @@ public class searchKeywords {
 						}
 					}
 					else if (line.contains("\t\t\t\t\"release date\":")) {
+
 						
 						int length = line.trim().length();
 						tempreleasedate = line.trim().substring(16, length - 1);
-						
+						if(!tempreleasedate.equals("0")) {
+							infocount ++;
+						}
 						if (!releasedate.equals("") && releasedate != null) {
 							if (!tempreleasedate.equals(releasedate)) {
 								ifContains = false;
@@ -226,9 +261,14 @@ public class searchKeywords {
 							temprating = 0;
 						}
 						else {
+							infocount++;
 							temprating = Integer.parseInt(score);
 						}
-						result.add(new relativeName(tempappid, 0, tempname, temprating, tempreleasedate, temptag));
+
+						if (infocount >= y) {
+							result.add(new relativeName(tempappid, 0, tempname, temprating, tempreleasedate, temptag));
+						}
+						infocount = 0;
 						ifContains = false;
 					}
 				}

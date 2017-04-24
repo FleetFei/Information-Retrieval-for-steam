@@ -23,7 +23,7 @@ public class findResultDetails {
 		
 		String line = "";
 		while ((line = br.readLine()) != null ) {
-			if(line.contains(game.appid)) {
+			if(line.equals(game.appid)) {
 				ifContains = true;
 			}
 			else if (ifContains) {

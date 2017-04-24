@@ -57,6 +57,7 @@ public class KeyWordSearch extends HttpServlet {
 			}
 		}
 		else{
+			tag = null;
 			System.out.println("用户选择的genre:"+genre);
 		}
 
@@ -118,7 +119,7 @@ public class KeyWordSearch extends HttpServlet {
 		
 		//创建JsonObject
 		JSONObject root = new JSONObject();
-		root.put("keywordResult", Typingarray);
+		root.put("EnterData1", Typingarray);
 
 		//设置response
 		response.setCharacterEncoding("utf-8");

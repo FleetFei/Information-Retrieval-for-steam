@@ -37,6 +37,7 @@ public class searchQuery {
 	
 	private BufferedReader gamelistReader;
 	int x = 100;
+	int y = 0;
 	
 //	constructor: open gamelist reader
 	public searchQuery(String path) throws IOException {
@@ -131,7 +132,7 @@ public class searchQuery {
 		boolean ifContains = false;
 		boolean ifaddResult3 = false;
 		int queryLocation = -1;
-		
+		int infocount = 0;
 		
 //		返回的四种结果
 //		优先级：1
@@ -214,17 +215,24 @@ public class searchQuery {
 				if (line.contains("\t\t\t\t\"tag\":")) {
 					int length = line.trim().length();
 					temptag = line.trim().substring(7, length - 1);
+					if(!temptag.equals("none")) {
+						infocount ++;
+					}
 				}
 //				记录下发行日期 release date
 				else if (line.contains("\t\t\t\t\"release date\":")) {
 					int length = line.trim().length();
 					tempreleasedate = line.trim().substring(16, length - 1);
-					
+
+					if(!tempreleasedate.equals("0")) {
+						infocount ++;
+					}
 				}
 //				记录下出版商 publisher
 				else if (line.contains("\t\t\t\t\"publisher\":")) {
 					int length = line.trim().length();
 					temppublisher = line.trim().substring(13, length - 1);
+
 				}
 //				记录下rating分数
 				else if (line.contains("\t\t\t\t\"rating\":")) {
@@ -235,17 +243,34 @@ public class searchQuery {
 					}
 					else {
 						ratingscore = Integer.parseInt(score);
+						infocount ++;
 					}
 //					此处是加入的拼写错误的结果并加入rating
 					if (ifaddResult3) {
-						incorrectSpellResult.add(new relativeName(tempappid, scoreToResult3, templine,ratingscore, tempreleasedate, temptag));
-						ifaddResult3 = false;
-						ifContains = false;
-						continue;
+						if (infocount >= 2) {
+							System.out.println(templine + "count:" + infocount);
+							incorrectSpellResult.add(new relativeName(tempappid, scoreToResult3, templine,ratingscore, tempreleasedate, temptag));
+							ifaddResult3 = false;
+							ifContains = false;
+							infocount = 0;
+							continue;
+						}
+						else {
+							infocount = 0;
+							ifaddResult3 = false;
+							ifContains = false;
+							continue;
+						}
 					}
 				}
 //				检查是否含有首字母，与searchTyping同理
 				else if (line.contains("\t\t\t\t\"loca\":")) {
+					System.out.println(templine + "count:" + infocount);
+					if (infocount < y) {
+						ifContains = false;
+						infocount = 0;
+						continue;
+					}
 					String initiallocation = line.trim().substring(7);
 					if(initiallocation.charAt(queryLocation) == '$')
 					{
@@ -294,6 +319,7 @@ public class searchQuery {
 					else {
 						nonInitialResult.add(new relativeName(tempappid, 0, templine, ratingscore, tempreleasedate, temptag));
 					}
+					infocount = 0;
 					ifContains = false;
 				}
 			}
@@ -344,7 +370,7 @@ public class searchQuery {
 	boolean ifTagMatch(ArrayList<String> tags, String gametags, String inputpublisher, String inputreleasedate, String publisher, String releasedate) {
 
 		releasedate = releasedate.toLowerCase();
-		
+		boolean test = false;
 		if (!inputpublisher.equals("unknown")  && publisher.equals(inputpublisher)) {
 			return true;
 		}
@@ -361,8 +387,12 @@ public class searchQuery {
 		for (String st : tags) {
 			System.out.println(st);
 			if (gametags.contains(st.toLowerCase())) {
+				test = true;
 				return true;
 			}
+		}
+		if (!test) {
+			return false;
 		}
 		return true;
 	}
