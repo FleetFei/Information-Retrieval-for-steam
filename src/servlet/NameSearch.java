@@ -77,6 +77,7 @@ public class NameSearch extends HttpServlet {
 		 */
 		
 		//Typing内容
+		System.out.println("1");
 		TypingResult typingresult = new searchQuery(path).searchTyping(inputSearch);
 		ArrayList<String> queryTyping= typingresult.initialResult;
 
@@ -92,6 +93,7 @@ public class NameSearch extends HttpServlet {
 			noninitialResult: 首字母出错，后面都对
 			suggestionResult: 有小错误，eg：拼写错误，会修正
 		 */
+		System.out.println("2");
 		EnterSearchResult enterresult = new searchQuery(path).searchEntering(inputSearch,tag, publisher,releasing);
 		ArrayList<relativeName> queryEntering1 = enterresult.originAllMatchResult;
 		ArrayList<relativeName> queryEntering2 = enterresult.originNmatchResult;
@@ -106,6 +108,7 @@ public class NameSearch extends HttpServlet {
 		
 		JSONArray RecommendArray = new JSONArray();
 		try {
+			System.out.println("3");
 			KeywordsResult  recArray=new searchKeywords(path).search(pathStopword,indexpath,null, tag, publisher, releasing);
 			ArrayList<relativeName> result3 = recArray.originResult;
 			

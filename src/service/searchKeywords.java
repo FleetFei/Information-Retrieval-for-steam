@@ -61,6 +61,7 @@ public class searchKeywords {
 //		keywords can be empty
 		if (keywords == null) {
 			
+			
 			String line = "";
 			String tempappid = "";
 			String tempname = "";

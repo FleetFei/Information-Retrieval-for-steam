@@ -185,24 +185,26 @@ public class searchQuery {
 				}
 //				如果不包括，测试是否是拼写错误
 				else {
-					int containsCount = 0;
-					int nocontainsCount = 0;
-					
-					for (String st : division) {
-						if (line.contains(st)) {
-							containsCount ++;
+					if (query.length() > 5) {
+						int containsCount = 0;
+						int nocontainsCount = 0;
+						
+						for (String st : division) {
+							if (line.contains(st)) {
+								containsCount ++;
+							}
+							else {
+								nocontainsCount ++;
+							}
 						}
-						else {
-							nocontainsCount ++;
-						}
+	//					如果超过半数的division中的组合都出现在游戏名中，则视作可返回
+						if (containsCount >= nocontainsCount) {
+							scoreToResult3 = containsCount - nocontainsCount;
+							ifContains = true;
+							ifaddResult3 = true;
+							continue;
+						}		
 					}
-//					如果超过半数的division中的组合都出现在游戏名中，则视作可返回
-					if (containsCount >= nocontainsCount) {
-						scoreToResult3 = containsCount - nocontainsCount;
-						ifContains = true;
-						ifaddResult3 = true;
-						continue;
-					}					
 				}	
 			}
 //			如果之前认定已经包含query，进一步处理以判断加入到哪个结果，并同时读取rating信息
@@ -235,12 +237,10 @@ public class searchQuery {
 					}
 //					此处是加入的拼写错误的结果并加入rating
 					if (ifaddResult3) {
-						if(query.length() > 5) {
-							incorrectSpellResult.add(new relativeName(tempappid, scoreToResult3, templine,ratingscore, tempreleasedate, temptag));
-							ifaddResult3 = false;
-							ifContains = false;
-							continue;
-						}
+						incorrectSpellResult.add(new relativeName(tempappid, scoreToResult3, templine,ratingscore, tempreleasedate, temptag));
+						ifaddResult3 = false;
+						ifContains = false;
+						continue;
 					}
 				}
 //				检查是否含有首字母，与searchTyping同理
