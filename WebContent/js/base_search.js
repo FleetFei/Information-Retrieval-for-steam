@@ -87,6 +87,7 @@ function SearchDisplay(response) {
 	$("#EnterResult1").empty();
 	$("#EnterResult2").empty();
 	$("#RecommendGame").empty();
+	$("#EnterResult3").empty();
 	var myobj = response;
 //	alert("test"+JSON.stringify(response));
 	
@@ -94,6 +95,7 @@ function SearchDisplay(response) {
 	var enterResult1 = myobj.EnterData1;
 	var enterResult2 = myobj.EnterData2;
 	var RecommendGame = myobj.RecommendData;
+	var enterResult3 = myobj.EnterData3;
 	//enterResult1
 	for(var i in enterResult1) {
 		var name = enterResult1[i].Rname;
@@ -136,6 +138,30 @@ function SearchDisplay(response) {
 		+"</a>");
 		$("#EnterResult2").append(a);
 	}
+	
+	//enterResult3
+	for(var i in RecommendGame) {
+		var name = RecommendGame[i].Rname;
+		var id = RecommendGame[i].Rid;
+		var descript =  RecommendGame[i].Description;
+		var genre = RecommendGame[i].Genre;
+		var rate = RecommendGame[i].rate;
+		var year = RecommendGame[i].year;
+//		var b="";
+//		for(i in genre){
+//			b = b + "<li class='list-group-item'>"+genre[i]+"</li>"; 
+//		}
+		var a = $("<a href='#' class='list-group-item' id=namesearch" + id + ">"
+		+"<h4 class='list-group-item-heading text-primary'>"+name+"</h4>"
+		+"<h4 class='text-primary'>"+rate+"</h4>"
+		+"<h4 class='text-danger'>"+year+"</h4>"
+		+"<p class='list-group-item-text  text-success'>"+ descript +"</p>"
+		+"<ul class='list-group text-warning'>"+genre+"</ul>"
+		+"</a>");
+		$("#enterResult3").append(a);
+	}
+	
+	
 	//Recommend Game
 	for(var i in RecommendGame) {
 		var name = RecommendGame[i].Rname;
