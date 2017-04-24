@@ -90,7 +90,6 @@ function SearchDisplay(response) {
 	$("#EnterResult3").empty();
 	var myobj = response;
 //	alert("test"+JSON.stringify(response));
-	
 	var typingResult = myobj.TypingData;
 	var enterResult1 = myobj.EnterData1;
 	var enterResult2 = myobj.EnterData2;

@@ -17,7 +17,7 @@ function gIdlist(){
 	    var rawarray = data.toString().split("\n");
 		var raw_url = "http://store.steampowered.com/api/appdetails/?appids=";
 		var array=[];
-		for(var i=25000, j=1; i<rawarray.length; i++,j++){
+		for(var i=1, j=1; i<rawarray.length; i++,j++){
 			array[j]=rawarray[i];
 		}
 		
