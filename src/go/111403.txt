@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 111403,
+		"newsitems": [
+			{
+				"gid": "775975267430937234",
+				"title": "New Free DLC - Bunch of Heroes: Holiday Pack",
+				"url": "http://store.steampowered.com/news/7042/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/app/111403/\">Holiday Pack</a>, all new content for <a href=\"http://store.steampowered.com/app/111400/\">Bunch of Heroes</a>, is now available for free on Steam! These holidays the zombies and aliens of Bunch of Heroes have been naughty, and Santa has a very special present for them: HOT LEAD. <a href=\"http://store.steampowered.com/app/111403/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1324321620,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

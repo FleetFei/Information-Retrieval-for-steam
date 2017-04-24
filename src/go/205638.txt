@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 205638,
+		"newsitems": [
+			{
+				"gid": "1479715745755827401",
+				"title": "New DLC Available - Tropico 4: Voodoo DLC",
+				"url": "http://store.steampowered.com/news/11151/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/205638/'>Tropico 4: Voodoo DLC</a> is Now Available on Steam! Poor healthcare is responsible for the death of the last remaining voodoo priest on Tropico. A new threat rises when the evil sorceress Vanya arrives from Soviet Russia to curse El Presidente and his regime. Study the mystical ways of voodoo and use t...",
+				"feedlabel": "Product Release",
+				"date": 1374771600,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

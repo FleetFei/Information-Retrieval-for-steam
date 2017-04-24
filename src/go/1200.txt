@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 1200,
+		"newsitems": [
+			{
+				"gid": "252586225969436273",
+				"title": "Rising Storm 2: Vietnam - Media Recap  Information",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/252586225969436273",
+				"is_external_url": true,
+				"author": "oscar.nein",
+				"contents": "Rising Storm 2: Vietnam - Media Recap & Information Greetings Red Orchestra & Darkest Hour fans! In case you've missed it, there is a sequel to Rising Storm coming and we want to make sure you all are aware. Rising Storm 2 takes place in Vietnam during the 1960's. Please add RS2: Vietnam to your wis...",
+				"feedlabel": "Community Announcements",
+				"date": 1471445265,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "341512658324201730",
+				"title": "Darkest Hour 6.0 Update",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/341512658324201730",
+				"is_external_url": true,
+				"author": "[TW]Yoshiro",
+				"contents": "http://www.darkesthourgame.com/ https://www.youtube.com/watch?v=ojdq1M8WFfE Four years. It has been nearly four years since Darkest Hour has recieved an official update. Today, that changes. Darklight Games is extremely proud to finally announce the release of Darkest Hour 6.0! I would like to perso...",
+				"feedlabel": "Community Announcements",
+				"date": 1453156497,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1027114673692258196",
+				"title": "Rising Storm and Red Orchestra 2 75% off on Steam",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1027114673692258196",
+				"is_external_url": true,
+				"author": "[TW]Yoshiro",
+				"contents": "You can find Rising Storm (http://store.steampowered.com/app/234510/?snr=1_7_15__13), Red Orchestra 2 and the Red Orchestra Franchise pack 75% off on Steam right now. With transports rolling in, and new battlefields to fight on heading towards the game, now is a great time to head to the front! If y...",
+				"feedlabel": "Community Announcements",
+				"date": 1385244002,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 59
+	}
+}

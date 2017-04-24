@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 204080,
+		"newsitems": [
+			{
+				"gid": "920163238473050801",
+				"title": "New Weeklong Deals, Monday March 3rd",
+				"url": "http://store.steampowered.com/news/12551/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Check back for new deals every Monday at 10AM Pacific. <a href=\"http://store.steampowered.com/app/249650/\"> </a> <a href=\"http://store.steampowered.com/app/23120/\"> </a> <a href=\"http://store.steampowered.com/app/256070/\"> </a> <a href=\"http://store.steampowered.com/app/9420/\"> </a> <a href=\"http://store.steampowered.com/app/260190/\"> </a> <a href=\"http://store.steampowered.com/app/47400/\"> </a> <a href=\"http://store.steampowered.com/app/255320/\"> </a> <a href=\"http://store.steampowered.com/app/46410/\"> </a> <a href=\"http://store.steampowered.com/app/46400/\"> </a> <a href=\"http://store.steampowered.com/app/218090/\"> </a> <a href=\"http://store.steampowered.com/app/46830/\"> </a> <a href=\"http://store.steampowered.com/app/6250/\"> </a> <a href=\"http://store.steampowered.com/app/236490/\"> </a> <a href=\"http://store.steampowered.com/app/10680/\"> </a> <a href=\"http://store.steampowered.com/app/4720/\"> </a> <a href=\"http://store.steampowered.com/app/251430/\"> </a> <a href=\"http://store.steampowered.com/app/227200/\"> </a> <a href=\"http://store.steampowered.com/app/263340/\"> </a> <a href=\"http://store.steampowered.com/app/1670/\"> </a> <a href=\"http://store.steampowered.com/app/6250/\"> </a> <a href=\"http://store.steampowered.com/app/11230/\"> </a> <a href=\"http://store.steampowered.com/app/12390/\"> </a> <a href=\"http://store.steampowered.com/app/17430/\"> </a> <a href=\"http://store.steampowered.com/app/22200/\"> </a> <a href=\"http://store.steampowered.com/app/38440/\"> </a> <a href=\"http://store.steampowered.com/app/33540/\"> </a> <a href=\"http://store.steampowered.com/app/33550/\"> </a> <a href=\"http://store.steampowered.com/app/27900/\"> </a> <a href=\"http://store.steampowered.com/app/24840/\"> </a> <a href=\"http://store.steampowered.com/app/24870/\"> </a> <a href=\"http://store.steampowered.com/app/46400/\"> </a> <a href=\"http://store.steampowered.com/app/10680/\"> </a> <a href=\"http://store.steampowered.com/app/24960/\"> </a> <a href=\"http://store.steampowered.com/app/46410/\"> </a> <a href=\"http://store.steampowered.com/app/27920/\"> </a> <a href=\"http://store.steampowered.com/app/40420/\"> </a> <a href=\"http://store.steampowered.com/app/42960/\"> </a> <a href=\"http://store.steampowered.com/app/61600/\"> </a> <a href=\"http://store.steampowered.com/app/47880/\"> </a> <a href=\"http://store.steampowered.com/app/47870/\"> </a> <a href=\"http://store.steampowered.com/app/47920/\"> </a> <a href=\"http://store.steampowered.com/app/92000/\"> </a> <a href=\"http://store.steampowered.com/app/19680/\"> </a> <a href=\"http://store.steampowered.com/app/22230/\"> </a> <a href=\"http://store.steampowered.com/app/47790/\"> </a> <a href=\"http://store.steampowered.com/app/47400/\"> </a> <a href=\"http://store.steampowered.com/app/218090/\"> </a> <a href=\"http://store.steampowered.com/app/209190/\"> </a> <a href=\"http://store.steampowered.com/app/227280/\"> </a> <a href=\"http://store.steampowered.com/app/204080/\"> </a> <a href=\"http://store.steampowered.com/app/233510/\"> </a> <a href=\"http://store.steampowered.com/app/233530/\"> </a> <a href=\"http://store.steampowered.com/app/234370/\"> </a> <a href=\"http://store.steampowered.com/app/215690/\"> </a> <a href=\"http://store.steampowered.com/app/238890/\"> </a> <a href=\"http://store.steampowered.com/app/248510/\"> </a> <a href=\"http://store.steampowered.com/app/249930/\"> </a> <a href=\"http://store.steampowered.com/app/234000/\"> </a> <a href=\"http://store.steampowered.com/app/257120/\"> </a> <a href=\"http://store.steampowered.com/app/257990/\"> </a> <a href=\"http://store.steampowered.com/app/259340/\"> </a> <a href=\"http://store.steampowered.com/app/259600/\"> </a> <a href=\"http://store.steampowered.com/app/259680/\"> </a> <a href=\"http://store.steampowered.com/app/260930/\"> </a> <a href=\"http://store.steampowered.com/app/257830/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1393870920,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1027114673786987753",
+				"title": "Brazilian Bundle: Super BR Jam",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1027114673786987753",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "There was a time when I spent most of my day posting about bundles, to the extent that I didn&#8217;t actually play any new games at all. I&#8217;d just list the contents of whatever bundle landed in my inbox, embed a video and check that the &#8216;pay what you want&#8217; offer actually let people...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1385409649,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1461706326399440633",
+				"title": "A Good Day To Try: Showdown Effect Free Weekend",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1461706326399440633",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "Have you ever wanted to dive out of a window to avoid an explosion, while throwing a sword at a ninja? I tried it once but landed badly and ended up with a nasty crick in my neck. It&#8217;s the kind of antic that might look amazing when performed by a sinewy star of the silver screen, but my body j...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1379700007,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 13
+	}
+}

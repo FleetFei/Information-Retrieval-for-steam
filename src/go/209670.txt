@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 209670,
+		"newsitems": [
+			{
+				"gid": "91593954420783543",
+				"title": "Cortex Command Build 32, the Performance Update is HERE",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/91593954420783543",
+				"is_external_url": true,
+				"author": "data010",
+				"contents": "https://s3.amazonaws.com/DRLMainStatic/images/ccgifs/b32comp.gif Your wait is over: both for this fresh build of your old faithful game, and also for the next frames in the heat of the fiercest battle! Don't wait to get a copy for yourself or a friend, since the massive 85% OFF sale will only last f...",
+				"feedlabel": "Community Announcements",
+				"date": 1483113277,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "91593954412948834",
+				"title": "CC Build 32 COMING THIS WEEKEND - and only $2.99 NOW",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/91593954412948834",
+				"is_external_url": true,
+				"author": "data010",
+				"contents": "https://s3.amazonaws.com/DRLMainStatic/images/ccgifs/b32blastinsm.gif Once again, just as you thought we'd given up on Cortex Command, Evgeniy “Weegee” Vigovskiy, Jesús “GranPC” Higueras Pica, and Chris \"Montdidier\" Kruger bring you a juicy update for the holidays! This time it's mostly focused arou...",
+				"feedlabel": "Community Announcements",
+				"date": 1482925946,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "517126407353183103",
+				"title": "Cortex Command Build 31 released: NO MORE OBJECT LIMITS",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/517126407353183103",
+				"is_external_url": true,
+				"author": "gran.pc+cc",
+				"contents": "Evgeniy “Weegee” Vigovskiy Stefan “Abdul” Winberg Ken “CaveCricket48″ Vu Do & Jesús “GranPC” Higueras Pica bring you a MASSIVE update (on Steam right now, Humble shortly): Major features:THE MOID (OBJECT COUNT) LIMIT IS GONE*!!! (*Not truly gone, but hardly reachable)Randomized maps: create a map on...",
+				"feedlabel": "Community Announcements",
+				"date": 1427572312,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 9
+	}
+}

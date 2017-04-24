@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 210490,
+		"newsitems": [
+			{
+				"gid": "1515720987412812585",
+				"title": "Daily Deal - Fray, 50% off!",
+				"url": "http://store.steampowered.com/news/9340/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 50% off the <a href=\"http://store.steampowered.com/app/210490/\">Fray</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/210490/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1352743200,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1389607120624503800",
+				"title": "Now Available - Fray, 20% off!",
+				"url": "http://store.steampowered.com/news/8221/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/210490/\">Fray</a> is now available on Steam and 20% off until June 26th at 10am Pacific time! Fray is a fully simultaneous, turn-based multiplayer strategy game. Set in a dystopian future in the year 2098 where human interaction is confined to virtual reality modules, three mega-corporations vie for control of E...",
+				"feedlabel": "Product Release",
+				"date": 1340133360,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

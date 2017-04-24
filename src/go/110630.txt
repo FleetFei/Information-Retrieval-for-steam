@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 110630,
+		"newsitems": [
+			{
+				"gid": "1569747879169670351",
+				"title": "Daily Deal - Mutant Storm: Reloaded, 50% off!",
+				"url": "http://store.steampowered.com/news/7940/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 50% off <a href=\"http://store.steampowered.com/app/110630/\">Mutant Storm: Reloaded</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are. <a href=\"http://store.steampowered.com/app/110630/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1336755900,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515700144922864810",
+				"title": "Now Available - Mutant Storm: Reloaded, 20% off!",
+				"url": "http://store.steampowered.com/news/7588/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/110630/\">Mutant Storm: Reloaded</a> is now available on Steam and is 20% off*! Mutant Storm progresses over 89 levels of twin-stick shooter mayhem! As you get deeper, you are ever more overcrowded with nasty beasties. This carnival of frenetic fun is showcased in a cutting edge graphics extravaganza. *Offer expi...",
+				"feedlabel": "Product Release",
+				"date": 1332370800,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

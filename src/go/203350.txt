@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 203350,
+		"newsitems": [
+			{
+				"gid": "521623309613253129",
+				"title": "Ice and Fire DLC updated to version 1.3",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/521623309613253129",
+				"is_external_url": true,
+				"author": "Sneaksie(RUS)",
+				"contents": "1. Poison effect canceling for lizards is shown in the battle log correctly now. 2. Two stacks of troops under Invisible Link effect will no longer damage each other continuously until it wears off (now the second stack will get damaged once). 3. Necro-Lyakush in Marshan Swamp now sells Worms.* 4. O...",
+				"feedlabel": "Community Announcements",
+				"date": 1421080372,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "3206872999395132126",
+				"title": "Ice and Fire DLC - Major Update",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/3206872999395132126",
+				"is_external_url": true,
+				"author": "Sneaksie(RUS)",
+				"contents": "By the way, the Early Access of the upcoming King's Bounty: Dark Side is live! Ice and Fire DLC changes and improvements 1. Zero damage error (and possible crash) caused by using Chain of Chance item and receiving a critical damage has been fixed. 2. Prices of many items were increased. 3. AI contro...",
+				"feedlabel": "Community Announcements",
+				"date": 1400603303,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "920166226912118619",
+				"title": "Ice and Fire DLC updated",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/920166226912118619",
+				"is_external_url": true,
+				"author": "Sneaksie(RUS)",
+				"contents": "1. Enemy units receive experience when a battle starts. Amount of experience depends on game difficulty level, location difficulty and enemy hero. 2. Blizzard spell damage reduced. 3. Blizzard and Invisibility spells cost more mana. 4. Enemy Orcs receive Adrenalin based on location and enemy hero (i...",
+				"feedlabel": "Community Announcements",
+				"date": 1396542092,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 14
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 205632,
+		"newsitems": [
+			{
+				"gid": "1514593284398361110",
+				"title": "New DLC Available - Tropico 4: Pirate Heaven DLC",
+				"url": "http://store.steampowered.com/news/9168/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/205632/\">Tropico 4: Pirate Heaven DLC</a>, a new expansion for <a href=\"http://store.steampowered.com/app/57690/\">Tropico 4</a>, is now available on Steam! Turn your island into a pirate haven, the Tortuga of modern times! Abducting ships for ransom, pillaging and plundering is a surefire way to worsen your relations with the foreign powers, so you will have to take...",
+				"feedlabel": "Product Release",
+				"date": 1351012140,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

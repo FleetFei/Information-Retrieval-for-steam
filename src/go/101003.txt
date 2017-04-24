@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 101003,
+		"newsitems": [
+			{
+				"gid": "919034715848909304",
+				"title": "Xbox Games with Gold giving Dead Island and Toy Soldiers: Cold War in February",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/919034715848909304",
+				"is_external_url": true,
+				"author": "Alice O'Connor",
+				"contents": "Microsoft has revealed the pair of games coming free to Xbox Live Gold members in February, namely action-tower defense <a href=\"http://www.shacknews.com/game/toy-soldiers-cold-war\">Toy Soldiers: Cold War</a> and Techland's FPS action-RPG <a href=\"http://www.shacknews.com/game/dead-island\">Dead Island</a>. They're a fair enough pair of games, but, well, February's <a href=\"https://www.shacknews.com/article/82889/playstation-plus-february-2014-ps4-ps3-vita\">PlayStation Plus lineup</a> includes <a href=\"http://www.shacknews.com/game/metro-last-light\">Metro: Last Light</a>, <a href=\"http://www.shacknews.com/game/payday-2\">Pay...</a>",
+				"feedlabel": "Shacknews",
+				"date": 1391162400,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

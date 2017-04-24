@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 10440,
+		"newsitems": [
+			{
+				"gid": "1461666363706125818",
+				"title": "Why Didn't Anyone Tell Me His Dark Materials Was Amazing?",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1461666363706125818",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Well, I mean, okay, other than the billion people who have told me <em>His Dark Materials</em> is amazing. This is mostly on me&mdash;I'd heard that Philip Pullman's fantasy trilogy was good, and had been meaning to read it for a long time. Plus, pretty much the entire world has already gone and said that th...",
+				"feedlabel": "Kotaku",
+				"date": 1341527400,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

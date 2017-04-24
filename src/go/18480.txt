@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 18480,
+		"newsitems": [
+			{
+				"gid": "1136251492221013123",
+				"title": "Daily Deal - Mata Hari 50% off!",
+				"url": "http://store.steampowered.com/news/6011/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 50% off <a href=\"http://store.steampowered.com/app/18480/\">Mata Hari</a> Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/18480/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1313082120,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

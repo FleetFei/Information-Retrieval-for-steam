@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 102500,
+		"newsitems": [
+			{
+				"gid": "75836429548995638",
+				"title": "Daily Deal - Kingdoms of Amalur: Reckoning , 75% Off",
+				"url": "http://store.steampowered.com/news/27638/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/102500/'>Kingdoms of Amalur: Reckoning&trade;</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Monday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/102500/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1487440800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "250335145794824163",
+				"title": "Daily Deal - Kingdoms of Amalur: Reckoning , 75% Off",
+				"url": "http://store.steampowered.com/news/23802/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/102500/'>Kingdoms of Amalur: Reckoning&trade;</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Wednesday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/102500/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1472490000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "521612247055754382",
+				"title": "Weekend Deal - Kingdoms of Amalur: Reckoning , 75% Off",
+				"url": "http://store.steampowered.com/news/14356/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 75% on <a href='http://store.steampowered.com/app/102500'>Kingdoms of Amalur: Reckoning&trade;</a> as part of this week's Weekend Deal*! The minds of New York Times bestselling author R.A. Salvatore, Spawn creator Todd McFarlane, and Elder Scrolls IV: Oblivion lead designer Ken Rolston have combined to create Kingdoms of Amalur: Reckoning, a new ro...",
+				"feedlabel": "Announcement",
+				"date": 1410454800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

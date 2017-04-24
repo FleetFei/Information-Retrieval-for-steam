@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 201330,
+		"newsitems": [
+			{
+				"gid": "1497714199092227065",
+				"title": "The Trippiest Video Game Levels",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1497714199092227065",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Surreal stages, events, or gameplay that somehow just don't fit have always been present, and even expected. Their crazy graphics, weird aesthetics and ideas make sure that we have absolutely no idea what's going on. But they have their charm, they are funny, or they're simply part of the experience...",
+				"feedlabel": "Kotaku",
+				"date": 1360006200,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1496587030424785851",
+				"title": "These Deal Breakers Make Me Give Up On A Video Game Within The First Hour",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1496587030424785851",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/18bpq4yagfpg0png/original.png\"> </a> When it comes to deciding what game gets my attention and why, I am absolutely ruthless. I don't care how much better it's going to get, I don't care that it's actually an amazing game and I just have to give it a chance. No. If you mess up in the first hour of a game, I'm done. I call these misst...",
+				"feedlabel": "Kotaku",
+				"date": 1358361000,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1496586490485093718",
+				"title": "How HEALTH Made That Amazing Max Payne 3 Soundtrack",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1496586490485093718",
+				"is_external_url": true,
+				"author": "",
+				"contents": "The band HEALTH's killer <em>Max Payne 3</em> soundtrack was <a href=\"http://kotaku.com/5968289/the-best-video-game-music-of-2012\">easily one of the best of last year</a>, and a chunk of the reason <em>Max Payne 3</em> was among my personal <a href=\"http://kotaku.com/5972962/kirks-top-10-games-of-2012\">top games of 2012</a>. This video from The Creators Project shows the band talking about the process of scoring the game, focusing on the stadium level (ma...",
+				"feedlabel": "Kotaku",
+				"date": 1357848000,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 55
+	}
+}

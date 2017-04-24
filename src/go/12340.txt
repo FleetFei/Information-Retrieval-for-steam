@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 12340,
+		"newsitems": [
+			{
+				"gid": "251457560641642672",
+				"title": "Trading Cards Released",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/251457560641642672",
+				"is_external_url": true,
+				"author": "mhoss",
+				"contents": "Greetings Pirates! We recently noticed that Jack Keane was still missing some trading cards. And guess what? We've added them. And to celebrate this, a 60% discount is given for a while! Best wishes, Deck13",
+				"feedlabel": "Community Announcements",
+				"date": 1469085360,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "424811489605364887",
+				"title": "Summertime = Jack Keane time?",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/424811489605364887",
+				"is_external_url": true,
+				"author": "msuess",
+				"contents": "What's better than enjoying a warm summer day with Jack Keane? Have you been enjoying the game lately? Let us know!",
+				"feedlabel": "Community Announcements",
+				"date": 1435929253,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "919034716034034040",
+				"title": "New Weeklong Deals, Monday February 3rd",
+				"url": "http://store.steampowered.com/news/12329/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Deals run until Monday, February 10th at 10AM PST. <a href=\"http://store.steampowered.com/app/247370/\"> </a> <a href=\"http://store.steampowered.com/sub/8676/\"> </a> <a href=\"http://store.steampowered.com/app/12340/\"> </a> <a href=\"http://store.steampowered.com/app/12450/\"> </a> <a href=\"http://store.steampowered.com/app/251310/\"> </a> <a href=\"http://store.steampowered.com/app/231310/\"> </a> <a href=\"http://store.steampowered.com/app/248730/\"> </a> <a href=\"http://store.steampowered.com/app/40400/\"> </a> <a href=\"http://store.steampowered.com/app/19200/\"> </a> <a href=\"http://store.steampowered.com/app/227580/\"> </a> <a href=\"http://store.steampowered.com/app/233700/\"> </a> <a href=\"http://store.steampowered.com/app/253130/\"> </a> <a href=\"http://store.steampowered.com/app/55140/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1391453100,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

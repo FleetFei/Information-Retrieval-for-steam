@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 200190,
+		"newsitems": [
+			{
+				"gid": "1218451139451469175",
+				"title": "Hip, Hop And Jump: Sideway New York Demo",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1218451139451469175",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "I don&#8217;t know how one would &#8216;hip&#8217; but I&#8217;ve made it into a verb and there&#8217;s nothing that can be done about that now. <a href=\"http://www.playbrains.com/sideway/\">Sideway New York</a> is a platforming game with an urban aesthetic, by which I don&#8217;t just mean that it&#8217;s set in a city, I mean that it contains hip...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1321543783,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1207191734319397556",
+				"title": "New Release - Sideway™ New York",
+				"url": "http://store.steampowered.com/news/6774/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/200190/\">Sideway&trade; New York</a> is Now Available on Steam and is 15% off until November 22nd 10AM PST. Battle your way through a twisted graffiti world where your prowess in puzzle solving makes the difference between life and death! Jump into one of the most unique and visually compelling 3D game worlds ev...",
+				"feedlabel": "Product Release",
+				"date": 1321380000,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

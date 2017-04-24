@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 12500,
+		"newsitems": [
+			{
+				"gid": "1425624704990283110",
+				"title": "The Dorkly Weekly: The Geekiest Role-Playing Game of Them All",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1425624704990283110",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://cache.gawkerassets.com/assets/images/9/2012/02/f117b9370d452ffa0bb01faea8bcc105.jpg\"> </a>The might warriors circle each other warily, keen eyes searching for the slightest chink in their foe's armor. The tightness of an overtaxed muscle. The telltale twitching of an over-eager sword arm. An over-reliance on purple gems. We've a great fondness for the work of video game humor site <a href=\"http://www.dorkly.com\"><em>Dorkl...</em></a>",
+				"feedlabel": "Kotaku",
+				"date": 1329150000,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1146387386735344755",
+				"title": "Daily Deal - PuzzleQuest: Challenge of the Warlords 66% off!",
+				"url": "http://store.steampowered.com/news/6244/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% off <a href=\"http://store.steampowered.com/app/12500/\">PuzzleQuest: Challenge of the Warlords</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/12500/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1315760520,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1177899545983095793",
+				"title": "Battle Slots Is Puzzle Quest For The Gambling Man",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1177899545983095793",
+				"is_external_url": true,
+				"author": "",
+				"contents": "In just about every Target or Walmart store there's a section of the PC gaming section dedicated to casual gambling games; poker, roulette wheels, and slot machines. Normally you'd pass these by without blinking. Battle Slots gives you a reason to stop and stare. <a href=\"http://www.phantomefx.com/company/about-us\">Phantom EFX</a> is a name often spied in...",
+				"feedlabel": "Kotaku",
+				"date": 1303228800,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

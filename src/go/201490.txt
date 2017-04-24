@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 201490,
+		"newsitems": [
+			{
+				"gid": "1462817320200291438",
+				"title": "New Weeklong Deals are Now Available!",
+				"url": "http://store.steampowered.com/news/10404/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on this week's Week Long Deals on Steam, available now until April 22nd at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/901735/\"> </a> <a href=\"http://store.steampowered.com/app/46420/\"> </a> <a href=\"http://store.steampowered.com/app/100410/\"> </a> <a href=\"http://store.steampowered.com/app/201490/\"> </a> <a href=\"http://store.steampowered.com/app/34920/\"> </a> <a href=\"http://store.steampowered.com/app/211970/\"> </a> <a href=\"http://store.steampowered.com/app/98600/\"> </a> <a href=\"http://store.steampowered.com/app/65530/\"> </a> <a href=\"http://store.steampowered.com/app/34900/\"> </a> <a href=\"http://store.steampowered.com/app/218700/\"> </a> <a href=\"http://store.steampowered.com/app/40400/\"> </a> <a href=\"http://store.steampowered.com/app/40420/\"> </a> <a href=\"http://store.steampowered.com/app/209330/\"> </a> <a href=\"http://store.steampowered.com/app/234370/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1366045560,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1387355123815366005",
+				"title": "New DLC Available - Airline Tycoon 2 Falcon Airlines",
+				"url": "http://store.steampowered.com/news/8190/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/206882/\">Falcon Airlines</a>, new content for Airline Tycoon 2, is Now Available on Steam. He&#146;s back! Siggi Sorglos, synonymous with German diligence, punctuality and cuckoo clocks, returns to the airline business with this DLC for Airline Tycoon 2. Play the entire campaign form the main game plus two brand...",
+				"feedlabel": "Product Release",
+				"date": 1339616760,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1389605077269703998",
+				"title": "Airline Tycoon 2 Update Released",
+				"url": "http://store.steampowered.com/news/8068/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Bugfixes: - The laptop in the avatars office is now only useable for share transactions. Statistics can be reviewed via the \"statistics\"-button. - The laptop is deactivated during the first six missions of the game. - Notifications have been added in case of the player trying to reach restricted are...",
+				"feedlabel": "Product Update",
+				"date": 1337969580,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

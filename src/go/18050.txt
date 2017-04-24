@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 18050,
+		"newsitems": [
+			{
+				"gid": "1190271131691778647",
+				"title": "Pre-Purchase Now - Deathspank: Thongs of Virtue",
+				"url": "http://store.steampowered.com/news/4691/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The second installment of Deathspank is now available for pre-purchase on Steam. <a href=\"http://store.steampowered.com/app/18050/\">Deathspank: Thongs of Virtue</a> will release on PC (Nov 30th), and Mac (Dec 14th)! Join DeathSpank in the hunt for the Thongs of Virtue! Fight through war-torn battlefields, tame the High Plains and sail the savage seas. <a href=\"http://store.steampowered.com/app/18050/\"> ...</a>",
+				"feedlabel": "Announcement",
+				"date": 1290548100,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

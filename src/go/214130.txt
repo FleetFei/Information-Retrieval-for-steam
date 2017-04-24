@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 214130,
+		"newsitems": [
+			{
+				"gid": "341513287004756855",
+				"title": "The Flare Path: Whatever Happened To",
+				"url": "http://store.steampowered.com/news/externalpost/rps/341513287004756855",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Tim Stone)",
+				"contents": "Remember that flight sim that was going to do for the WW2 Regia Aeronautica what IL-2 Sturmovik did for the Voyenno Vozdushnye Sily? Recall that imminent Napoleonic roguelike the one that was going to let you desert, rustle chickens, and scavenge on corpse-littered battlefields? The Dorset outfit th...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1453467637,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "409053962650977008",
+				"title": "aerofly FS Update to Version 1.2.0.9",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/409053962650977008",
+				"is_external_url": true,
+				"author": "ipacs aerofly",
+				"contents": "Dear aerofly FS Users, we have published a new version to Steam. This updates fixes some issues with Windows 10. If you have questions regarding aerofly FS, please contact us at our Aerofly Support page at: aerofly FS Support ",
+				"feedlabel": "Community Announcements",
+				"date": 1440678823,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "423687491917475371",
+				"title": "aerofly FS Update to Version 1.2.0.7",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/423687491917475371",
+				"is_external_url": true,
+				"author": "ipacs aerofly",
+				"contents": "Dear aerofly FS Users, we have published a new version to Steam. This updates fixes some smaller bugs we have encountered. We also added the Zürich airport with a lot more details, like buildings, terminals and other airplanes. We also fixed an issue with our activation system. You now no longer nee...",
+				"feedlabel": "Community Announcements",
+				"date": 1438003091,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 12
+	}
+}

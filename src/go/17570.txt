@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 17570,
+		"newsitems": [
+			{
+				"gid": "75840229405807514",
+				"title": "PVKII BETA TESTER APPLICATIONS OPEN",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75840229405807514",
+				"is_external_url": true,
+				"author": "Colonel",
+				"contents": "http://www.octosharkstudios.com/pvkii/images/news/looking_for_devs.jpg Notice: Applications for the Beta Testing team are now open until further notice. Your application will always be under consideration for when a spot opens up. However, this does not guarantee you will be selected to join the tea...",
+				"feedlabel": "Community Announcements",
+				"date": 1491587389,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 17570
+			},
+			{
+				"gid": "75840229390949393",
+				"title": "WINTER RECAP  3.6 UPDATE ON THE HORIZON",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75840229390949393",
+				"is_external_url": true,
+				"author": "Colonel",
+				"contents": "http://i.imgur.com/kieDQYj.png 10 YEARS OF PVKII On January 1st of this year, PVKII turned 10 years old! The giveaway contest is over but you can still celebrate with us by posting in this thread. Congratulations to LittleBirdy, winner of the 10 Years of PVKII $50 Steambucks giveaway! More exciting ...",
+				"feedlabel": "Community Announcements",
+				"date": 1491232143,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 17570
+			},
+			{
+				"gid": "75840229383831032",
+				"title": "PVKII's Exciting New Direction!*",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75840229383831032",
+				"is_external_url": true,
+				"author": "Colonel",
+				"contents": "https://i.imgur.com/OrPq2uU.png Well, there hasn’t been much PVKII news... until today. We have still been hard at work trying to bring you a game we have enjoyed developing. I know you’re probably expecting a ton of new media but I have none to offer. Over the course of the past month or two the te...",
+				"feedlabel": "Community Announcements",
+				"date": 1491061939,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 17570
+			}
+		]
+		,
+		"count": 135
+	}
+}

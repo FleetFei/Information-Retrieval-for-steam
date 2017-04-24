@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 212673,
+		"newsitems": [
+			{
+				"gid": "1498842001595702689",
+				"title": "New DLC Available - Tom Clancy's Ghost Recon Future Soldier: Khyber Strike",
+				"url": "http://store.steampowered.com/news/9992/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href='http://store.steampowered.com/app/227130/'>Khyber Strike</a> DLC, all new content for <a href='http://store.steampowered.com/app/212630/'>Tom Clancy's Ghost Recon Future Soldier&reg;</a> is Now Available on Steam! This new content includes 3 new multiplayer maps, 1 new multiplayer game mode, 1 Guerrilla Mode map and Level cap increase of +10. <a href=\"http://store.steampowered.com/app/212630/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1361901600,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

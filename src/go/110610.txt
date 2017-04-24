@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 110610,
+		"newsitems": [
+			{
+				"gid": "1515700145162118303",
+				"title": "Time Paradox: Indie Royale Launches April Fools Bundle",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1515700145162118303",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Nathan Grayson)",
+				"contents": "I&#8217;m pretty sure the fumes emanating from <a href=\"http://www.indieroyale.com/\">Indie Royale</a>&#8216;s perpetually whirring bundle factory have finally gone to the shadowy conglomerate&#8217;s head. April Fools, after all, was days ago. Or perhaps&#8230; no. Perhaps the joke&#8217;s on us. Maybe Indie Royale spent the entire year sec...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1333573239,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1207191734319388257",
+				"title": "Daily Deal - Alien Zombie Megadeath 50% off!",
+				"url": "http://store.steampowered.com/news/6771/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 50% off <a href=\"http://store.steampowered.com/app/110610/\">Alien Zombie Megadeath</a> Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/110610/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1321380000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1136257433235648318",
+				"title": "New Release: Alien Zombie Megadeath",
+				"url": "http://store.steampowered.com/news/6545/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/110610/\">Alien Zombie Megadeath</a> is Now Available on Steam and 25% off until October 25th 10AM PST. Alien Zombie Megadeath is a gloriously intense platform shoot-em-up! You are the lone Spaceman, doing boring space work on a random space platform in deep space when suddenly a huge, relentless, alien force att...",
+				"feedlabel": "Product Release",
+				"date": 1318956840,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

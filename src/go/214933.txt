@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 214933,
+		"newsitems": [
+			{
+				"gid": "920165049518761052",
+				"title": "Weekend Deal - BioShock Infinite, 75% Off!",
+				"url": "http://store.steampowered.com/news/12681/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 75% on <a href='http://store.steampowered.com/app/8870/'>BioShock Infinite</a> as part of this week's Weekend Deal*! Last chance to buy the <a href='http://store.steampowered.com/app/214933'>Bioshock Infinite Season Pass</a> and get exclusive <a href='http://store.steampowered.com/app/440/'>TF2</a> Items! Indebted to the wrong people, with his life on the line, veteran of the U.S. Cavalry and now hired gun, Booker DeWitt has only one opportunity to wipe...",
+				"feedlabel": "Product Release",
+				"date": 1395334800,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1498842001409936590",
+				"title": "New DLC Available - BioShock Infinite - Season Pass",
+				"url": "http://store.steampowered.com/news/9999/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href='http://store.steampowered.com/app/214933/'>BioShock Infinite - Season Pass</a> is Now Available on Steam! More Stories, More Weapons, More Characters. Extend the narrative and adventure with the BioShock Infinite Season Pass. Get three add-ons for the price of two, plus an instant bonus on Day 1 with The Early Bird Special Pack, only availab...",
+				"feedlabel": "Product Release",
+				"date": 1361464800,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

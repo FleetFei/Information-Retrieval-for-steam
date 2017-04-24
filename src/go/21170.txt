@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 21170,
+		"newsitems": [
+			{
+				"gid": "1478591738299119814",
+				"title": "Community Challenges – 8/10/2012",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299119814",
+				"is_external_url": true,
+				"author": "Andy",
+				"contents": "This week’s Community Challenges have arrived! And you know what? We realized that you, and these Community Challenges, have something in common. You’re both <i>awesome</i>. Additionally, like last week, many thanks to you for <a href=\"http://www.gothamcityimpostors.com/forums/showthread.php/18937-Submit-an-In-Game-Challenge-Idea!\">submitting</a> all of your ideas for in-game challenges! This week, <a href=\"http://www.gothamcityimpostors.com/forums/showthread.php/18937-Submit-an-In-Game-Challenge-Idea!?p=189700#post189700\">Batduder</a> will ha...",
+				"feedlabel": "Community Announcements",
+				"date": 1344626399,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738299119635",
+				"title": "Community’s Choice - Challenge Extravaganza!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299119635",
+				"is_external_url": true,
+				"author": "Andy",
+				"contents": "It wasn’t all that long ago that we <a href=\"http://www.gothamcityimpostors.com/forums/showthread.php/18937-Submit-an-In-Game-Challenge-Idea!\">reached out to you</a>, and asked what Community Challenges you wanted to see in <i>Gotham City Impostors</i>. And, as it turns out, you’re filled to the brim with great ideas! So, after taking a chance to curate the thread a little bit, we took three glaring examples of awe...",
+				"feedlabel": "Community Announcements",
+				"date": 1344014183,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738299102079",
+				"title": "Community Challenges – 7/27/2012",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299102079",
+				"is_external_url": true,
+				"author": "Andy",
+				"contents": "It’s warm out, and you can bet that we’ve taken note of it. And sure, while Gotham is a pretty nice place to be during the summer, it’s also a hot one! So, with this week’s Community Challenges we’re doing everything in our power to get you off that pavement, while not missing any opportunities to m...",
+				"feedlabel": "Community Announcements",
+				"date": 1343424652,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 42
+	}
+}

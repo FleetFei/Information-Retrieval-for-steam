@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 111400,
+		"newsitems": [
+			{
+				"gid": "1172353020071944086",
+				"title": "Serious Sam Double D XXL blasts onto PC",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1172353020071944086",
+				"is_external_url": true,
+				"author": "Ozzie Mejia",
+				"contents": "When Shacknews spoke to Mommy's Best Games <a href=\"http://www.shacknews.com/article/77668/serious-sam-double-d-xxl-has-high-chance-of-pc\">earlier this year</a> about <a href=\"http://www.shacknews.com/game/serious-sam-double-d\">Serious Sam Double D XXL</a>, the developer stated that there was a good chance the game would eventually find its way from Xbox Live Arcade to PC. That time has arrived, as XXL has been added to the core Double D PC version as a free ti...",
+				"feedlabel": "Shacknews",
+				"date": 1382449500,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515716545241022413",
+				"title": "Weeklong Sale - Bunch of Heroes - 75% off!",
+				"url": "http://store.steampowered.com/news/8914/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "From now until September 28th at 10AM Pacific Time, save 75% off <a href=\"http://store.steampowered.com/app/111400/\">Bunch of Heroes</a> on Steam! Bunch of Heroes features stylized artwork, funky rock and roll music, cutting edge technology, great humor and cooperative gameplay to inspire zombie killers and E.T. haters alike all over the globe! Become a ...",
+				"feedlabel": "Product Release",
+				"date": 1348247100,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1568621883782411480",
+				"title": "Daily Deal - Bunch of Heroes, 50% off!",
+				"url": "http://store.steampowered.com/news/7936/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 50% off <a href=\"http://store.steampowered.com/app/111400/\">Bunch of Heroes</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are. <a href=\"http://store.steampowered.com/app/111400/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1336669500,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 18
+	}
+}

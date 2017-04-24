@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 208280,
+		"newsitems": [
+			{
+				"gid": "1515716545218135602",
+				"title": "Now Available - Train Simulator 2013",
+				"url": "http://store.steampowered.com/news/8908/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/24010/\">Train Simulator 2013</a> is Now Available on Steam! The best just got even better! RailSimulator.com pushes the boundaries of simulation once again with Train Simulator 2013, the latest addition to the multi-award winning series. Feel the power as you drive some of the world&#146;s mightiest machines on...",
+				"feedlabel": "Product Release",
+				"date": 1348167900,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

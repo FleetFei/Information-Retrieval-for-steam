@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 207490,
+		"newsitems": [
+			{
+				"gid": "243580289138366545",
+				"title": "The Crew Isn t Free Yet So Grab Rayman Origins Now",
+				"url": "http://store.steampowered.com/news/externalpost/rps/243580289138366545",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "Ubisoft have announced that the next game they will give away as part of <a href=\"https://www.rockpapershotgun.com/2016/06/16/prince-of-persia-the-sands-of-time-free/\">their 30th birthday celebrations</a> is <a href=\"https://www.rockpapershotgun.com/2014/12/02/the-crew-release-impressions/\">mediocre racing game The Crew</a>, so consider this a warning that you&#8217;ve only got another few days to grab the wonderful, lovely, delightful platformer <a href=\"https://www.rockpapershotgun.com/tag/rayman-origins/\">Rayman Origins</a> for free. &#8230; ",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1473326627,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "252584970553098807",
+				"title": "Rayman Origins is the next free \"Ubi 30\" game",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/252584970553098807",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Back in June, Ubisoft announced that it would give away a <a href=\"http://www.pcgamer.com/ubi-30-gifts-a-free-ubisoft-game-each-month-starting-today/\">free game every month</a> for the rest of the year as part of its celebration of 30 years in the business. First up was Prince of Persia: The Sands of Time, and then in July we got the stealth classic <a href=\"http://www.pcgamer.com/get-the-original-splinter-cell-free-as-part-of-ubisofts-anniversary-celebrations/\">Splinter Cell</a>. For August, Ubi is taking thin...",
+				"feedlabel": "PC Gamer",
+				"date": 1470866495,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "517128939713262134",
+				"title": "Are boss fights antiquated?",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/517128939713262134",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<em>In&nbsp;</em><a href=\"http://www.pcgamer.com/face-off/\">Face Off</a><em>, PC Gamer writers go head to head over an issue affecting PC gaming. Today, Tom and Wes argue about boss fights, which have been around nearly as long as video games themselves, and whether they re an outdated concept.</em> Face off <strong>Wes Fenlon, Hardware editor </strong>Wes wants modern boss fight...",
+				"feedlabel": "PC Gamer",
+				"date": 1429981200,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 13
+	}
+}

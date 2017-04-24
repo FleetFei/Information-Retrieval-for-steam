@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 207080,
+		"newsitems": [
+			{
+				"gid": "3189986872479796039",
+				"title": "Indie Game: The Movie Steam Bundle 75%off (Movie, DLC + Games)",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/3189986872479796039",
+				"is_external_url": true,
+				"author": "Indie Game: The Movie",
+				"contents": "The Indie Game: The Movie Steam Bundle is currently on $9.99! The Bundle includes... Indie Game: The Movie Indie Game: The Movie Special Edition DLC Super Meat Boy FEZ Braid Click here to check out the bundle It's part of the Two Year Anniversary of the film happening over at IndieGameTheMovie.com A...",
+				"feedlabel": "Community Announcements",
+				"date": 1402599661,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "3189986872473895825",
+				"title": "Weekend Deal - Indie Game: The Movie, 75% Off",
+				"url": "http://store.steampowered.com/news/13633/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 75% on the <a href='http://store.steampowered.com/sub/45657/'>Indie Game: The Movie Bundle</a> as part of this week's Weekend Deal*! To Celebrate the 2 year Anniversary of <a href=\"http://store.steampowered.com/app/207080/\">Indie Game The Movie</a> we are offering 75% off the <a href='http://store.steampowered.com/sub/45657/'>Indie Game: The Movie Bundle</a>. This bundle includes <a href='http://store.steampowered.com/sub/29300/'>Indie Game: The Movie Special Edition</a>, <a href=\"http://store.steampowered.com/app/224760/\">FEZ</a>, <a href=\"http://store.steampowered.com/app/40800/\">Super Meat Boy</a>, and <a href=\"http://store.steampowered.com/app/26800/\">Braid</a>. *Offer ...",
+				"feedlabel": "Announcement",
+				"date": 1402592400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "3188860880575654976",
+				"title": "LIVE STREAMING EVENT WITH TEAM MEAT THIS FRIDAY",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/3188860880575654976",
+				"is_external_url": true,
+				"author": "Indie Game: The Movie",
+				"contents": "IGTM turns two this week! ...yikes! That happened quickly. We have some fun birthday stuff happening. Including a live event on Twitch, This Friday! We'll be streaming the movie with live commentary/AMA from Edmund & Tommy of Super Meat Boy and hosted by Northernlion. Should be a lot of fun. Read ab...",
+				"feedlabel": "Community Announcements",
+				"date": 1402514922,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 18
+	}
+}

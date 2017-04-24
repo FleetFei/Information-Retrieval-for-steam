@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 211160,
+		"newsitems": [
+			{
+				"gid": "521613514278179108",
+				"title": "Total War Weekend - 75% off!",
+				"url": "http://store.steampowered.com/news/14504/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 75% on <a href='http://store.steampowered.com/sale/tw_weekend_2014'>Total War Titles</a> as part of this week's Weekend Deal*! Plus, play Total War: Rome II for FREE until Sunday at 1pm Pacific. If you already have Steam installed, <a href='steam://run/214950'>click here</a> to install or play. If you don't have Steam, you can download it <a href='http://store.steampowered.com/about/'>here</a>. *Offer ends Monday at 10AM Pacific Time. No di...",
+				"feedlabel": "Announcement",
+				"date": 1411664700,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1459453260487252038",
+				"title": "Daily Deal - Viking: Battle for Asgard, 75% Off",
+				"url": "http://store.steampowered.com/news/11427/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/211160/'>Viking: Battle for Asgard</a>!* A fierce struggle is taking place within Asgard, the realm of the Norse Gods. The battle has escalated, spilling over to the mortal world of Midgard and now a Champion must be found, a Warrior than can sway this war that threatens the fate of Asg...",
+				"feedlabel": "Announcement",
+				"date": 1378832400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1459441364927862580",
+				"title": "Daily Deal - Viking: Battle for Asgard, 75% Off",
+				"url": "http://store.steampowered.com/news/10493/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/211160/'>Viking: Battle for Asgard</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/211160/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1367254800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

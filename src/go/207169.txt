@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 207169,
+		"newsitems": [
+			{
+				"gid": "1531474070459237739",
+				"title": "New DLC Available - Stellar Impact: Science Vessel",
+				"url": "http://store.steampowered.com/news/8487/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/app/207169/\">Science Vessel DLC</a>, new content for <a href=\"http://store.steampowered.com/app/207150/\">Stellar Impact</a>, is now available on Steam and 20% off until Thursday, August 2nd at 10AM PDT! It may be soldiers that fight the battles, but its technology that wins the war and the Science Vessel will give you that tech advantage on the battlefield. Using a v...",
+				"feedlabel": "Product Release",
+				"date": 1343322060,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

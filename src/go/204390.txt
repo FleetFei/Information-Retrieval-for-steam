@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 204390,
+		"newsitems": [
+			{
+				"gid": "1389607509643795040",
+				"title": "Daily Deal - Pineapple Smash Crew, 50% off!",
+				"url": "http://store.steampowered.com/news/8220/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 50% off <a href=\"http://store.steampowered.com/app/204390/\">Pineapple Smash Crew</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/204390/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1340211900,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1513452059983364464",
+				"title": "Pineapple Smash Crew Update Released",
+				"url": "http://store.steampowered.com/news/7898/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "- Radiation timer removed from Easy mode <a href=\"http://store.steampowered.com/app/204390/\"> </a> ",
+				"feedlabel": "Product Update",
+				"date": 1336141440,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515700145199479075",
+				"title": "Pineapple Smash Crew Update Released",
+				"url": "http://store.steampowered.com/news/7709/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "- Added Difficulty Modes: - Easy: classic mode - Merc: Limited recruits, radiation leak timer, level failed if mercs die - Pro Merc: No spare recruits, radiation leak timer, game over if mercs die - Headgear customisation system - Hall of fame to record victorious and fallen mercs <a href=\"http://store.steampowered.com/app/204390/\"> </a> ",
+				"feedlabel": "Product Update",
+				"date": 1333750020,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

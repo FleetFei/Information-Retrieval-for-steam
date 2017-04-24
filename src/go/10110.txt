@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 10110,
+		"newsitems": [
+			{
+				"gid": "250335145799120652",
+				"title": "Accessing Legacy Versions",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/250335145799120652",
+				"is_external_url": true,
+				"author": "pc_dsc",
+				"contents": "This version of the Space Quest Collection has been optimized to support additional Operating Systems. Existing game installations will not be modified but shortcuts will default to the 2016 Collection. The other version can be accessed by right-clicking the game in your Steam Library and selecting ...",
+				"feedlabel": "Community Announcements",
+				"date": 1472592836,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1389606336010010717",
+				"title": "Two Guys SpaceVenture hits Kickstarter goal",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1389606336010010717",
+				"is_external_url": true,
+				"author": "Steve Watts",
+				"contents": "The Kickstarter for \"Two Guys SpaceVenture,\" a new title from <a href=\"http://www.shacknews.com/game/space-quest-collection\">Space Quest</a> creators Mark Crowe and Scott Murphy, has passed its goal of $500,000 today. Described as a \"sci-fi comedy adventure game,\" it plans to pack puzzles alongside pop culture satire. The <a href=\"http://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que\" target=\"_blank\">Kickstarter</a> ended at $539,767 spread among ...",
+				"feedlabel": "Shacknews",
+				"date": 1339506900,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1388479713317709889",
+				"title": "Daily Deal - Space Quest Collection, 75% off!",
+				"url": "http://store.steampowered.com/news/8099/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% off <a href=\"http://store.steampowered.com/app/10110/\">Space Quest Collection</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/10110/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1338397500,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 208610,
+		"newsitems": [
+			{
+				"gid": "75838332269038758",
+				"title": "Who likes being able to beat the game? (^.^)'",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75838332269038758",
+				"is_external_url": true,
+				"author": "Mike Z",
+				"contents": "FIXES - Marie takes the correct amount of damage again. (Since her Undizzy maximum was zero, she was counted as always being affected by the new max-Undizzy damage reduction from her opponent.) Please test Marie 300% and other aspects of Marie, oh ye who are already proficient at fighting her. This ...",
+				"feedlabel": "Community Announcements",
+				"date": 1489361713,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 208610
+			},
+			{
+				"gid": "75837698142838790",
+				"title": "::releases buttons after holding them for four years:: FINAL!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75837698142838790",
+				"is_external_url": true,
+				"author": "Mike Z",
+				"contents": "Or, if you played KOF XIII, DAAAW! The PS3/4/Vita builds have been created and will be entering submission soon. Work on X360 lobbies (hey, remember that promise?) proceeds apace, we recently tested joining a lobby with 4 XBoxen. The end is in sight. Several last bugfixes are included here, but this...",
+				"feedlabel": "Community Announcements",
+				"date": 1488584713,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 208610
+			},
+			{
+				"gid": "75837698133444786",
+				"title": "It's another round of bugfixes, because I can.",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75837698133444786",
+				"is_external_url": true,
+				"author": "Mike Z",
+				"contents": "Still waiting for progress on the console versions because of contract delays, yay. So here's bugfixes! We're done with all these Undizzy experiments! The results are final. If you have enjoyed the game I've designed thus far, please trust that this is a good decision for the future of that same gam...",
+				"feedlabel": "Community Announcements",
+				"date": 1488360112,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 208610
+			}
+		]
+		,
+		"count": 288
+	}
+}

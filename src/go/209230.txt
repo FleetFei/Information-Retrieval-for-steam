@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 209230,
+		"newsitems": [
+			{
+				"gid": "1513451426152172628",
+				"title": "Sherlock Holmes And The Case Of Dementia",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1513451426152172628",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (John Walker)",
+				"contents": "",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1335463238,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514576755668802430",
+				"title": "New Release - Sherlock Holmes and The Hound of The Baskervilles",
+				"url": "http://store.steampowered.com/news/7808/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/209230/\">Sherlock Holmes and The Hound of The Baskervilles</a> is Now Available on Steam! Help Sherlock Holmes, the famed detective, investigate the legend of a supernatural hound on the fog-shrouded moorland in England of the 19th century. Immerse yourself into the dangerous world of diabolical curse and discov...",
+				"feedlabel": "Product Release",
+				"date": 1335220500,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

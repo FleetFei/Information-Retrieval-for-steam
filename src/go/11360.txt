@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 11360,
+		"newsitems": [
+			{
+				"gid": "1496599168250768377",
+				"title": "New Week Long Deals Available on Steam!",
+				"url": "http://store.steampowered.com/news/10759/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on new Week Long Deals on Steam, available now until May 27th at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/217690/\"> </a> <a href=\"http://store.steampowered.com/app/11360/\"> </a> <a href=\"http://store.steampowered.com/app/222660/\"> </a> <a href=\"http://store.steampowered.com/app/212110/\"> </a> <a href=\"http://store.steampowered.com/app/220090/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1370278800,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

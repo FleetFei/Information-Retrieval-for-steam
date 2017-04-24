@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 209426,
+		"newsitems": [
+			{
+				"gid": "1515717154678144951",
+				"title": "Now Available - Dungeonbowl - Dwarf Kit",
+				"url": "http://store.steampowered.com/news/8955/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The new <a href=\"http://store.steampowered.com/app/209426/\">Dwarf Kit</a> for <a href=\"http://store.steampowered.com/app/209390/\">Dungeonbowl</a> includes new ways to customise your stadiums with some ice, pipes, mines, rails and bar accessories and is Now Available on Steam! Play the fantasy American Football inspired team sport from Blood Bowl, now in challenging dungeons! The new dungeon setting includes e...",
+				"feedlabel": "Product Release",
+				"date": 1348873200,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

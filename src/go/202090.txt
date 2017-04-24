@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 202090,
+		"newsitems": [
+			{
+				"gid": "255953140171866930",
+				"title": "Important Update Regarding Magicka: Wizard Wars",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/255953140171866930",
+				"is_external_url": true,
+				"author": "[Pdx] Escher",
+				"contents": "It’s with regret that we have to announce that we will be closing down our servers for Magicka: Wizard Wars as of July 21st 2016. When the decision came to halt development on the game we left the servers open so that our small but passionate player base could still continue to enjoy the game as it ...",
+				"feedlabel": "Community Announcements",
+				"date": 1461244673,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "377538367950650602",
+				"title": "Magicka 2 Receives Deadly Furious Ice in New \"Ice, Death, and Fury\" DLC",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/377538367950650602",
+				"is_external_url": true,
+				"author": "[Pdx] Escher",
+				"contents": "http://i.imgur.com/l3t3Qlr.jpg STOCKHOLM — Dec. 15, 2015 — Paradox Interactive, a publisher of games for chill people, today released “Ice, Death, and Fury” for Magicka 2, a new DLC set which adds all new ways to play with your combustible companions. The DLC, which contains ice, death, and fury in ...",
+				"feedlabel": "Community Announcements",
+				"date": 1450188415,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "405677787263243145",
+				"title": "FREE \"Spell Again...Again!\" Update for Magicka 2 (and some snazzy new DLC)",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/405677787263243145",
+				"is_external_url": true,
+				"author": "[Pdx] Escher",
+				"contents": "http://i.imgur.com/S5s3kmi.jpg Hi Wizards! Exciting news to share today! Today we introduce a huge re-vamp (totally no reference to Vlad there) of our spell system as well as release some exciting new DLC! First of all watch the below video and then read on for the full breakdown of what you can exp...",
+				"feedlabel": "Community Announcements",
+				"date": 1442334012,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 119
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 16810,
+		"newsitems": [
+			{
+				"gid": "255955041673057574",
+				"title": "Take One More Turn in Civilization VI",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/255955041673057574",
+				"is_external_url": true,
+				"author": "Hinkle2K",
+				"contents": "We’re excited to celebrate the 25th anniversary of the Civilization franchise by announcing Sid Meier’s Civilization VI, the next entry in the award-winning turn-based strategy franchise. Be sure to follow the Steam Community group here and add the game to your Steam wishlist! http://store.steampowe...",
+				"feedlabel": "Community Announcements",
+				"date": 1462979065,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "522744579271372426",
+				"title": "Colonization is currently not working in OSX 10.10 [Resolved]",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/522744579271372426",
+				"is_external_url": true,
+				"author": "Aspyr-Blair",
+				"contents": "As many of you have noted here, Civ IV base game and Colonization are currently not working in 10.10 due to a python library issue. After a week of review, this bug is legitimate and we are now officially pulling support for Yosemite until we have a fix for the problem. Please accept our apology for...",
+				"feedlabel": "Community Announcements",
+				"date": 1416515610,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "919042233309377881",
+				"title": "Life After GameSpy: Civ 3, Civ 4 And Borderlands Go Steam",
+				"url": "http://store.steampowered.com/news/externalpost/rps/919042233309377881",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "You might well cheer the <a href=\"http://www.rockpapershotgun.com/2014/04/04/gamespy-multiplayer-closure-battlefield/\">demise</a> of GameSpy Technologies, but <a href=\"http://www.rockpapershotgun.com/2014/04/08/gamespy-shutdown-list-borderlands-halo-battlefield/\">an awful lot</a> of games will lose official online multiplayer support when the service shuts down on May 31. Publishers scour the battlefield running triage measuring pulses peeling eyelids shining lights flexing smashed bones jabbing finger...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1398265241,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

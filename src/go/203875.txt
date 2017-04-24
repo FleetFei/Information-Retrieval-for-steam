@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 203875,
+		"newsitems": [
+			{
+				"gid": "1461665741273593922",
+				"title": "New DLC Available - Microsoft Flight: Alaskan Wilderness",
+				"url": "http://store.steampowered.com/news/8316/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/203875/\">Alaskan Wilderness</a>, the first expansion for <a href=\"http://store.steampowered.com/app/203850/\">Microsoft Flight</a> is Now Available on Steam. Continue the Microsoft Flight experience in the Alaskan Wilderness Pack, with over 586,000 square miles of aviation playground to test your piloting skills against the brutal weather and majestic terrain of Alask...",
+				"feedlabel": "Product Release",
+				"date": 1341252000,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

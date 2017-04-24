@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 18120,
+		"newsitems": [
+			{
+				"gid": "1514587717690935037",
+				"title": "Daily Deal - Unstoppable Gorg, 75% off!",
+				"url": "http://store.steampowered.com/news/8670/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% off the <a href=\"http://store.steampowered.com/app/18120/\">Unstoppable Gorg</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/18120/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1345222800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514576755576156345",
+				"title": "Spring Fling: Indie Royale Births A New Bundle",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1514576755576156345",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Nathan Grayson)",
+				"contents": "<a href=\"http://www.rockpapershotgun.com/2012/04/18/spring-fling-indie-royale-births-a-new-bundle/indieroyalespring/\" rel=\"attachment wp-att-104417\"> </a>",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1334787617,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1443641916878021850",
+				"title": "Daily Deal - Unstoppable Gorg, 50% off!",
+				"url": "http://store.steampowered.com/news/7516/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% off <a href=\"http://store.steampowered.com/app/18120/\">Unstoppable Gorg</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/18120/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1331831400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

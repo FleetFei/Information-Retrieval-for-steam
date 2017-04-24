@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 213194,
+		"newsitems": [
+			{
+				"gid": "1389607509751616173",
+				"title": "New Free to Play on Steam - Dungeons and Dragons Online",
+				"url": "http://store.steampowered.com/news/8271/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/206480/\">Dungeons and Dragons Online&reg;</a> is Now Available and Free to Play on Steam! Enter a world of danger and adventure with Dungeons & Dragons Online&reg;, the free, award-winning, massively-multiplayer online game based on the beloved RPG that started it all. <a href=\"http://store.steampowered.com/app/206480/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1340667720,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

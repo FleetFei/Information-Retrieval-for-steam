@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 214700,
+		"newsitems": [
+			{
+				"gid": "251457560632321843",
+				"title": "Quadrilateral Cowboy release date",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/251457560632321843",
+				"is_external_url": true,
+				"author": "BlendoGames",
+				"contents": "I'm very excited to announce Quadrilateral Cowboy will be released on July 25, 2016 at 10AM PST. Quadrilateral Cowboy is a first-person cyberpunk heist adventure from Blendo Games, developer of titles such as Thirty Flights of Loving and Atom Zombie Smasher. The initial launch will be for Windows, w...",
+				"feedlabel": "Community Announcements",
+				"date": 1468862500,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "371903707743083673",
+				"title": "Have You Played Thirty Flights Of Loving?",
+				"url": "http://store.steampowered.com/news/externalpost/rps/371903707743083673",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "<em><a href=\"http://www.rockpapershotgun.com/tag/have-you-played/\">Have You Played?</a> is an endless stream of game recommendations. One a day, every day of the year, perhaps for all time.</em> Too many games are so terrified of me not understanding everything that they spew nonsense at me about their world, their characters, their story, and their magic/technology/I don&#...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1445349618,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "919035892204847311",
+				"title": "Valentine's Day Daily Deal, up to 85% off select games",
+				"url": "http://store.steampowered.com/news/12413/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save up to 85% on <a href='http://store.steampowered.com/sale/Valentines'>select games</a>! Offer ends Sunday at 10AM Pacific Time. <a href=\"http://store.steampowered.com/app/209370/\"> </a> <a href=\"http://store.steampowered.com/app/232430/\"> </a> <a href=\"http://store.steampowered.com/app/251990/\"> </a> <a href=\"http://store.steampowered.com/app/247870/\"> </a> <a href=\"http://store.steampowered.com/app/245150/\"> </a> <a href=\"http://store.steampowered.com/app/238930/\"> </a> <a href=\"http://store.steampowered.com/app/214700/\"> </a> <a href=\"http://store.steampowered.com/app/203810/\"> </a> <a href=\"http://store.steampowered.com/app/108710/\"> </a> <a href=\"http://store.steampowered.com/sale/Valentines\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1392400800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 15
+	}
+}

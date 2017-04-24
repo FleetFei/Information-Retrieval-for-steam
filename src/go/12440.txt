@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 12440,
+		"newsitems": [
+			{
+				"gid": "1478590476210400250",
+				"title": "New Week Long Deals Available on Steam!",
+				"url": "http://store.steampowered.com/news/11223/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on new Week Long Deals on Steam, available now until August 12th at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/209630/\"> </a> <a href=\"http://store.steampowered.com/app/40100/\"> </a> <a href=\"http://store.steampowered.com/app/91900/\"> </a> <a href=\"http://store.steampowered.com/app/12340/\"> </a> <a href=\"http://store.steampowered.com/app/12440/\"> </a> <a href=\"http://store.steampowered.com/app/12450/\"> </a> <a href=\"http://store.steampowered.com/app/61100/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1375722000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1497726886964314530",
+				"title": "New Week Long Deals Available on Steam!",
+				"url": "http://store.steampowered.com/news/10922/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on new Week Long Deals on Steam, available now until July 1st at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/46510/\"> </a> <a href=\"http://store.steampowered.com/app/210170/\"> </a> <a href=\"http://store.steampowered.com/app/12440/\"> </a> <a href=\"http://store.steampowered.com/app/12450/\"> </a> <a href=\"http://store.steampowered.com/app/12340/\"> </a> <a href=\"http://store.steampowered.com/app/47000/\"> </a> <a href=\"http://store.steampowered.com/app/22600/\"> </a> <a href=\"http://store.steampowered.com/app/58400/\"> </a> <a href=\"http://store.steampowered.com/app/218410/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1372094520,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1462820057808407717",
+				"title": "New Week Long Deals Available on Steam!",
+				"url": "http://store.steampowered.com/news/10545/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on new Week Long Deals on Steam, available now until May 6th at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/46410/\"> </a> <a href=\"http://store.steampowered.com/app/12440/\"> </a> <a href=\"http://store.steampowered.com/app/12450/\"> </a> <a href=\"http://store.steampowered.com/app/12340/\"> </a> <a href=\"http://store.steampowered.com/app/24670/\"> </a> <a href=\"http://store.steampowered.com/app/204240/\"> </a> <a href=\"http://store.steampowered.com/app/90400/\"> </a> <a href=\"http://store.steampowered.com/app/217860/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1367859600,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

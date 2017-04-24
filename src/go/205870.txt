@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 205870,
+		"newsitems": [
+			{
+				"gid": "84840457395164833",
+				"title": "News in the key of D minor: Auditorium Duet cancelled",
+				"url": "http://store.steampowered.com/news/externalpost/rps/84840457395164833",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "<a href=\"https://www.rockpapershotgun.com/tag/auditorium-duet/\">Auditorium Duet</a> , the Kickstarted sequel to pleasing musical puzzler Auditorium, is cancelled. Developers Cipher Prime say that, despite their best efforts and putting earnings from other projects into it, they simply didn&#8217;t have enough money to finish Auditorium Duet. That&#8217;s a shame. I ...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1484218302,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738299084170",
+				"title": "Auditorium is 50% OFF through July 23rd",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299084170",
+				"is_external_url": true,
+				"author": "Cipher Prime Studios",
+				"contents": "It's true! As part of the Steam Summer Sale, all of <a href=\"http://store.steampowered.com/search/?developer=Cipher%20Prime%20Studios\">Cipher Prime's games on Steam</a> are on sale at half-price! This includes <a href=\"http://store.steampowered.com/app/205870/\"><i>Auditorium</i></a>, <a href=\"http://store.steampowered.com/app/61310/\"><i>Fractal: Make Blooms Not War</i></a>, <a href=\"http://store.steampowered.com/app/209790/\"><i>Splice</i></a>, the <a href=\"http://cipherprime.bandcamp.com/album/flight-of-angels-splice-ost\"><i>Flight of Angels</i></a> OST album in the <a href=\"http://store.steampowered.com/app/209801/\"><i>Splice</i> Soundtrack DLC</a>, and the <a href=\"http://store.steampowered.com/sub/14996/\"><i>Splice</i> Soundtrack Edition</a> bundle. For the next 13 hours, y...",
+				"feedlabel": "Community Announcements",
+				"date": 1342282101,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1389607120597913039",
+				"title": "Auditorium Dev’s Splice Is Really Quite Nice",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1389607120597913039",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Nathan Grayson)",
+				"contents": "I just got done playing an all-too-brief demo of <a href=\"http://www.rockpapershotgun.com/tag/Auditorium/\">Auditorium</a> developer Cipher Prime&#8217;s new sounds-and-shapes-a-majig <a href=\"http://store.steampowered.com/app/209790/\">Splice</a>, and I&#8217;m feeling quite charmed &#8211; somewhat like a snake in a pot who&#8217;s trying to decide if he should buy a videogame or not. And, much like the proverbial ...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1340017201,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 11
+	}
+}

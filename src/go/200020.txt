@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 200020,
+		"newsitems": [
+			{
+				"gid": "920164870783833498",
+				"title": "80% Discount: bitComposer is celebrating its 5th anniversary!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/920164870783833498",
+				"is_external_url": true,
+				"author": "AndersCM",
+				"contents": "bitComposer is turning 5 and you can join the celebration! Save an exceptional 80% on Global Ops: Commando Libya over the next 3 days and join the quest for the recovery of an atom bomb! Check out the bitComposer anniversary sale for more deals on a great selection of titles! http://store.steampower...",
+				"feedlabel": "Community Announcements",
+				"date": 1395219455,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1226330460351268608",
+				"title": "Now Available - Global Ops: Commando Libya, 15% off!",
+				"url": "http://store.steampowered.com/news/6617/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/200020/\">Global Ops: Commando Libya</a> is now available on Steam and is 15% off until November 2nd at 10AM Pacific Time! In this third-person action shooter, track down a notorious Russian mafia boss intent on causing mass destruction. The destiny of the world is in your hands! <a href=\"http://store.steampowered.com/app/200020/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1319663880,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

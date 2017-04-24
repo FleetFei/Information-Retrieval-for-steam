@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 12100,
+		"newsitems": [
+			{
+				"gid": "518257376265911252",
+				"title": "Grand Theft Auto BBC Drama Hit With Take Two Lawsuit",
+				"url": "http://store.steampowered.com/news/externalpost/rps/518257376265911252",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "Our Graham was the one to <a href=\"http://www.rockpapershotgun.com/2015/03/13/bbc-drama-about-the-making-of-gta/\">post about</a> the BBC making a &#8220;factual drama&#8221; about the Grand Theft Auto series and Jack Thompson&#8217;s crusade against video games, perhaps because I could only frame my response as a series of contorted facial expressions. But no, really, they are doing it, an...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1432220427,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "564391378853820004",
+				"title": "Liberty City Nights: A NFS Underground-y GTA 3 Mod",
+				"url": "http://store.steampowered.com/news/externalpost/rps/564391378853820004",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "Races have consistently been my least favourite activity and mission style in Grand Theft Auto games, but here I am downloading <a href=\"http://www.rockstargames.com/grandtheftauto3/\">Grand Theft Auto III</a> so I can play a mod dedicated to the blighters. Liberty City Nights&#8217; creator amibitiously describes it as &#8220;the best racing mod GTA III ever...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1405954800,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1462819626635318509",
+				"title": "Grand Theft Auto DNA, part 2: the art of sandbox gaming",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1462819626635318509",
+				"is_external_url": true,
+				"author": "David Craddock",
+				"contents": "<i><b>Editor's Note:</b> In <a href=\"http://www.shacknews.com/article/78972/grand-theft-auto-dna\">part 1</a> of Grand Theft Auto DNA, we explored how vehicles and driving physics evolved over the GTA series. Today, we discuss the role of sandbox environments like Liberty City and San Andreas.</i> Playing a Grand Theft Auto game is a lot like observing an ant farm. The AI-controlled cit...",
+				"feedlabel": "Shacknews",
+				"date": 1367485200,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 32
+	}
+}

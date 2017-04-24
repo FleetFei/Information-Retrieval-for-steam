@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 201804,
+		"newsitems": [
+			{
+				"gid": "1514588200577606939",
+				"title": "New DLC Available - Orcs Must Die! 2 - Fire and Water Booster Pack",
+				"url": "http://store.steampowered.com/news/8756/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/app/201804/\">Fire and Water Booster Pack</a>, all new content for <a href=\"http://store.steampowered.com/app/201790/\">Orcs Must Die! 2</a>, is now available on Steam! Leap back into the action and battle fearsome new enemies with this booster pack for Orcs Must Die! 2. This pack adds in three new levels, three new traps, and two new Elemental enemies to the mix. <a href=\"http://store.steampowered.com/app/201804/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1346279160,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 111010,
+		"newsitems": [
+			{
+				"gid": "1140759513268766875",
+				"title": "Now Available - The Clockwork Man: The Hidden World",
+				"url": "http://store.steampowered.com/news/6374/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/111010/\">The Clockwork Man: The Hidden World</a> is Now Available and 10% off until September 30th 10AM PST. Gear up for a fantastic journey in The Clockwork Man: The Hidden World, a unique Hidden Object Adventure game! Join Miranda and her best friend, Sprocket, in an amazing tale through a parallel Victorian u...",
+				"feedlabel": "Product Release",
+				"date": 1317154800,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

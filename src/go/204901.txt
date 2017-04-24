@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 204901,
+		"newsitems": [
+			{
+				"gid": "1514588200549084222",
+				"title": "New DLC Available - Quantum Conundrum: IKE-aramba!",
+				"url": "http://store.steampowered.com/news/8742/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/204901/\">The Desmond Debacle</a>, all new DLC for <a href=\"http://store.steampowered.com/app/200010/\">Quantum Conundrum</a>, is now available on Steam! Just when you thought you were done with rescue duty, it&#146;s up to you to save Ike! In this all-new adventure, rescue Ike and leap seemingly endless chasms as you travel through an all-new wing of Quadwrangle Manor...",
+				"feedlabel": "Product Release",
+				"date": 1346174040,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

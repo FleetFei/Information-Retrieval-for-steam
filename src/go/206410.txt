@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 206410,
+		"newsitems": [
+			{
+				"gid": "521613086901261910",
+				"title": "Special sale on Crazy Machines Elements!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/521613086901261910",
+				"is_external_url": true,
+				"author": "ImALittleBear",
+				"contents": "Dear Fans, We are honored to be part of Steam's week long sale! Until September 29th you can buy this game for only $4.99 If you have not played this game before , now is a great time to do so! ",
+				"feedlabel": "Community Announcements",
+				"date": 1411415203,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1515700144951290215",
+				"title": "New DLC Available - Crazy Machines Elements: Gadget Fun and Tricky Riddles",
+				"url": "http://store.steampowered.com/news/7610/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Crazy Machines Elements - <a href=\"http://store.steampowered.com/app/206415/\">Collision Course & Mental Activity</a> DLC is now available on Steam! Now that you&#146;ve wet your feet with Elements, it&#146;s time to dig in and put your mind to work on even more brain sizzling fun. Indulge your curiosity and open up the Gadget Fun Pack to find a selection...",
+				"feedlabel": "Product Release",
+				"date": 1332523260,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515700144951290223",
+				"title": "New DLC Available - Crazy Machines Elements: Collision Course and Mental Activity",
+				"url": "http://store.steampowered.com/news/7609/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Crazy Machines Elements - <a href=\"http://store.steampowered.com/app/55382/\">Collision Course & Mental Activity</a> DLC is now available on Steam! Set your sights on higher grounds and venture where only the brainiest and bravest puzzle beasts will go! Solve each and every wallop-wack&#146;n level in the Collision Course puzzle pack as you take on chall...",
+				"feedlabel": "Product Release",
+				"date": 1332522420,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

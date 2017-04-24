@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 108231,
+		"newsitems": [
+			{
+				"gid": "1389605077250976921",
+				"title": "Now Available - Ticket to Ride",
+				"url": "http://store.steampowered.com/news/8057/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/108200/\">Ticket to Ride</a> is Now Available on Steam! Purchase this week and receive the Europe DLC for free, offer ends Thursday, May 31 10AM PDT. The best Online adaptation yet of Days of Wonder's best-selling train game, Ticket to Ride takes less than one minute to learn but a lifetime to master. Play Solo o...",
+				"feedlabel": "Product Release",
+				"date": 1337881440,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

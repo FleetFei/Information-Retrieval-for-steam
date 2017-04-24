@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 209710,
+		"newsitems": [
+			{
+				"gid": "1515720987302597714",
+				"title": "Just Updated - War of the Immortals, Starter Packs at 66% off!",
+				"url": "http://store.steampowered.com/news/9321/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "War of the Immortals has just been updated with the all new expansion, Titan's Fury. To celebrate, <a href=\"http://store.steampowered.com/dlc/209710/\">all War of the Immortals packs</a> are now 66% off*! A new and more volatile threat has come to light as the Goddesses of Fate search for answers. The threat of extinction is now a possibility as the seal ...",
+				"feedlabel": "Product Release",
+				"date": 1352406780,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514588903114976365",
+				"title": "New Free to Play - War of the Immortals",
+				"url": "http://store.steampowered.com/news/8759/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/209710/\">War of the Immortals</a> is now available on Steam and is Free to Play! War of the Immortals boasts battles of epic scale and engrossing PvP with territory and resource control. The legions of Ragnarok have returned to Atlantis. In the aftermath of a great battle, with doom still hanging over the once s...",
+				"feedlabel": "Product Release",
+				"date": 1346365500,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

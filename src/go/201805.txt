@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 201805,
+		"newsitems": [
+			{
+				"gid": "1515717154623801990",
+				"title": "New DLC Available - Orcs Must Die! 2 - Family Ties Booster Pack",
+				"url": "http://store.steampowered.com/news/8948/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/app/201805/\">Family Ties Booster Pack</a>, all new content for <a href=\"http://store.steampowered.com/app/201790/\">Orcs Must Die! 2</a>, is now available on Steam! To celebrate the release, all Orcs Must Die! 2 DLC is 20% off! Offer good through Sunday, September 30th. New to Orcs Must Die! 2? Save big on the all new <a href=\"http://store.steampowered.com/sub/16923/\">Complete Pack!</a> Ever wonder where all the orc women...",
+				"feedlabel": "Product Release",
+				"date": 1348682520,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 208600,
+		"newsitems": [
+			{
+				"gid": "127619582133119491",
+				"title": "VR Build Updated - Bug Fixes",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/127619582133119491",
+				"is_external_url": true,
+				"author": "sh0v0r",
+				"contents": "- Fixed Mars Map Null Ref - Fixed Incorrect Action Item Purchase Prices - Smoothed Velocity Vector Motion - Fixed Mars drag (lack of) - Corrected LOPTW value for LVL2 on Mars ",
+				"feedlabel": "Community Announcements",
+				"date": 1479730718,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "127619582126271226",
+				"title": "HTC Vive Support Now Available!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/127619582126271226",
+				"is_external_url": true,
+				"author": "sh0v0r",
+				"contents": "Opt into the new 'vr_beta' to play! Right Click The Game in your library and goto Properties->Betas Tab Select the beta and wait for it to donwnload. Have fun!",
+				"feedlabel": "Community Announcements",
+				"date": 1479566967,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "251457560636969585",
+				"title": "Update on Vive Support",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/251457560636969585",
+				"is_external_url": true,
+				"author": "sh0v0r",
+				"contents": "I installed the latest Unity 5.4 Beta last night which is now RC1, everything seems to be working OK. I need to re bake all the scenes and then I should be able to make a new build that has native OpenVR included. I had a look at integrating the Lab Renderer but I couldn't get it to work properly an...",
+				"feedlabel": "Community Announcements",
+				"date": 1468973626,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 65
+	}
+}

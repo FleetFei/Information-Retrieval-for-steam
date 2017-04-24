@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 116120,
+		"newsitems": [
+			{
+				"gid": "1227455739151074632",
+				"title": "Teenage Qix: Lightfish",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1227455739151074632",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Jim Rossignol)",
+				"contents": "Actually it&#8217;s more like 30-something <a href=\"http://en.wikipedia.org/wiki/Qix\">Qix</a>, since the first appearance of this game type was in 1981. Anyway, there&#8217;s a demo of Lightfish, which is like Qix with Flow&#8217;s visuals, <a href=\"http://store.steampowered.com/app/116120/\">over on Steam</a>. It throws in some novel gameplay variants, of course, but the heart of it is dividing up th...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1319190620,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1227455739148381443",
+				"title": "Now Available - Lightfish",
+				"url": "http://store.steampowered.com/news/6570/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/116120/\">Lightfish</a> is Now Available and 10% off until October 26th 10AM PST. LightFish is a highly addictive arcade game, where the user controls a small fish who lives in the abyssal deeps of the ocean... surrounded by deadly creatures. His objective is to destroy all the monsters who inhabit those dangerou...",
+				"feedlabel": "Product Release",
+				"date": 1319147340,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

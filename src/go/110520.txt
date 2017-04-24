@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 110520,
+		"newsitems": [
+			{
+				"gid": "1226331098144645806",
+				"title": "Data Jammers: Fast Forward Updated",
+				"url": "http://store.steampowered.com/news/6689/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Change list: - fixed broken high score list in the demo version - it was still sometimes trying to load a steamworks leaderboard - fixed long joystick/controller names crashing the configuration screen - turned down the music volume in the pause screen <a href=\"http://store.steampowered.com/app/110500/\"> </a> ",
+				"feedlabel": "Product Update",
+				"date": 1320332700,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

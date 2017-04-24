@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 204880,
+		"newsitems": [
+			{
+				"gid": "75840229397800377",
+				"title": "Sins of a Solar Empire: Rebellion overhauls engine",
+				"url": "http://store.steampowered.com/news/externalpost/rps/75840229397800377",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "Stardock and Ironclad Games have launched a surprise update for <a href=\"https://www.rockpapershotgun.com/tag/sins-of-a-solar-empire-rebellion/\">Sins of a Solar Empire: Rebellion</a> , their sparefaring RTS from 2012. The update brings engine improvements to let the game use more memory so it can crash less, it reduces stuttering in large battles, fixes AI bugs, supports modern high...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1491395643,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 204880
+			},
+			{
+				"gid": "75840229394895659",
+				"title": "v1.9 Update marks 5 Year Anniversary for Sins of a Solar Empire: Rebellion!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75840229394895659",
+				"is_external_url": true,
+				"author": "Yarlen",
+				"contents": "http://cdn.edgecast.steamstatic.com/steamcommunity/public/images/clans/3625261/b414e912f6addc3de67d1a892065469378c601eb.png v1.9 Modernization Update Improves Sins of a Solar Empire: Rebellion for Current PCs Get Sins of a Solar Empire: Rebellion on Steam for 75% off!* Sins: Rebellion celebrates its...",
+				"feedlabel": "Community Announcements",
+				"date": 1491326495,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 204880
+			},
+			{
+				"gid": "75840229394869252",
+				"title": "Midweek Madness - Sins of a Solar Empire : Rebellion, 75% Off",
+				"url": "http://store.steampowered.com/news/28407/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 75% on <a href='http://store.steampowered.com/app/204880/'>Sins of a Solar Empire &reg;: Rebellion</a> during this week's Midweek Madness*! Command a space-faring empire in Sins of a Solar Empire: Rebellion, the new stand-alone expansion that combines 4X depth with real-time strategy gameplay. *Offer ends Friday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/204880/\"> </a>",
+				"feedlabel": "Product Release",
+				"date": 1491325800,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 204880
+			}
+		]
+		,
+		"count": 61
+	}
+}

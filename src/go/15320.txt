@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 15320,
+		"newsitems": [
+			{
+				"gid": "519372501715552158",
+				"title": "IL-2 Sturmovik 1946 Updated",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/519372501715552158",
+				"is_external_url": true,
+				"author": "Sneaksie(RUS)",
+				"contents": "IL-2 Sturmovik 1946, the complete collection of many addons released for the legendary sim, has been updated. Russian-speaking players can now play the game in its original language while everybody would benefit from Steam Cloud addition (profile data such as player controls and campaign progress ar...",
+				"feedlabel": "Community Announcements",
+				"date": 1422297062,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1136248947971720008",
+				"title": "Daily Deal - IL-2 Sturmovik: 1946 50% off",
+				"url": "http://store.steampowered.com/news/5825/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 50% off <a href=\"ttp://store.steampowered.com/app/15320/\">IL-2 Sturmovik: 1946</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/15320/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1310576520,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

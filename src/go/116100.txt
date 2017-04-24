@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 116100,
+		"newsitems": [
+			{
+				"gid": "567767801760682080",
+				"title": "Super Toy Cars v1.0.5a",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/567767801760682080",
+				"is_external_url": true,
+				"author": "Barkley",
+				"contents": "Hi, It's been a while since last update, so I think it's about time we added something here :o) So we've implemented quite a few fixes and minor features that have been requested both in the forums and by people either personally, through mail or in youtube videos. Here is a list of the features: - ...",
+				"feedlabel": "Community Announcements",
+				"date": 1404558717,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "3188859613298453878",
+				"title": "Mac Version now available",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/3188859613298453878",
+				"is_external_url": true,
+				"author": "Barkley",
+				"contents": "Mac version is now available! It's still work in progress, so please be patient with regards to bugs you may find. Anyway, please report them all so we can fix them ASAP. Thanks!",
+				"feedlabel": "Community Announcements",
+				"date": 1401275513,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "3206872999227553046",
+				"title": "Windows Release Candidate 1.0.0a",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/3206872999227553046",
+				"is_external_url": true,
+				"author": "Barkley",
+				"contents": "So I think we've reached a point where we can call this version 1.0. It doesn't have everything we would like it to have, but it has everything we think it needs. That doesn't mean we don't want you to give us your feedback or give us suggestions, quite the opposite. Please, keep them coming we'll d...",
+				"feedlabel": "Community Announcements",
+				"date": 1400330882,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 7
+	}
+}

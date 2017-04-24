@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 211520,
+		"newsitems": [
+			{
+				"gid": "1533727235249710764",
+				"title": "New DLC Available - Max Payne 3 Local Justice Pack",
+				"url": "http://store.steampowered.com/news/8562/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/sale/maxpayne3\">Max Payne 3: Local Justice Pack</a> is Now Available on Steam along with six more pieces of new DLC. For a limited time only, you can purchase the Local Justice Pack for 25% off. New Max Payne DLC includes: <a href=\"http://store.steampowered.com/app/211520/\">Local Justice Pack</a> <a href=\"http://store.steampowered.com/app/204111/\">Silent Killer DLC</a> <a href=\"http://store.steampowered.com/app/204109/\">Cemetery Map DLC</a> <a href=\"http://store.steampowered.com/app/204108/\">Special Edition Pack DLC</a> <a href=\"http://store.steampowered.com/app/204110/\">Deadly Force DLC</a> <a href=\"http://store.steampowered.com/app/204107/\">P...</a>",
+				"feedlabel": "Product Release",
+				"date": 1344531900,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

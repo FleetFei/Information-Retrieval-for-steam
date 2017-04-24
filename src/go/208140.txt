@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 208140,
+		"newsitems": [
+			{
+				"gid": "83715191662931460",
+				"title": "Weekend Deal - Endless Franchise Complete Packs, 85% Off",
+				"url": "http://store.steampowered.com/news/26941/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 85% on <a href='http://store.steampowered.com//sub/149432'>Endless Franchise Complete Packs</a> as part of this week's Weekend Deal*! *Offer ends Monday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/208140/\"> </a> <a href=\"http://store.steampowered.com/app/249050/\"> </a> <a href=\"http://store.steampowered.com/app/289130/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1484849040,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "243580289139362598",
+				"title": "Interview: Endless Space 2 s Devs On Why They Traded Independence For Sega",
+				"url": "http://store.steampowered.com/news/externalpost/rps/243580289139362598",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Fraser Brown)",
+				"contents": "Amplitude Studios has grown significantly since the Parisian developer, as a small team that you could count on one hand, first conceived Endless Space. Now they work out of two floors in a high-rise near the centre of the metropolis and are busy working on their fourth game, <a href=\"https://www.rockpapershotgun.com/tag/endless-space-2/\">Endless Space 2</a>. Recent...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1473350431,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "243580289138757600",
+				"title": "Endless Space 2 Hands On: Buying Planets As The Mafia-Like Lumeris",
+				"url": "http://store.steampowered.com/news/externalpost/rps/243580289138757600",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Fraser Brown)",
+				"contents": "<a href=\"https://www.rockpapershotgun.com/tag/endless-space-2/\">Endless Space 2</a> is the sequel to French studio Amplitude s cosmic 4X game, though it feels just as much a follow-up to their exceptional fantasy strategy affair, Endless Legend. Comfortably sitting next to all the numbers, resources and planetary management are lively stories, epic quests, and fasci...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1473336036,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 97
+	}
+}

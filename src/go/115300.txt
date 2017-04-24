@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 115300,
+		"newsitems": [
+			{
+				"gid": "243581623180254175",
+				"title": "ASPYR 20th Anniversary Weekend, up to 75% Off",
+				"url": "http://store.steampowered.com/news/24225/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on select titles during the <a href='http://store.steampowered.com/sale/aspyr/'>ASPYR 20th Anniversary Weekend</a>*! Titles Include: <a href=\"http://store.steampowered.com/app/49520/\">Borderlands 2</a> <a href=\"http://store.steampowered.com/app/65980/\">Civilization Beyond Earth</a> <a href=\"http://store.steampowered.com/app/115300/\">Modern Warfare 3</a> <a href=\"http://store.steampowered.com/app/244160/\">Homeworld Remastered Collection</a> <a href=\"http://store.steampowered.com/app/8870/\">Bioshock Infinite</a> <a href=\"http://store.steampowered.com/app/208580/\">STAR WARS Knights of the Old Republic II - The Sith Lords</a> <a href=\"http://store.steampowered.com/app/391720/\">Layers of Fear</a> <a href=\"http://store.steampowered.com/app/24780/\">SimCity 4 Deluxe Edition</a> And...",
+				"feedlabel": "Product Release",
+				"date": 1473959400,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "371903707729626621",
+				"title": "The biggest leaks in PC gaming",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/371903707729626621",
+				"is_external_url": true,
+				"author": "",
+				"contents": "",
+				"feedlabel": "PC Gamer",
+				"date": 1445029205,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "423688185533539181",
+				"title": "The Call of Duty series ranked",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/423688185533539181",
+				"is_external_url": true,
+				"author": "",
+				"contents": "",
+				"feedlabel": "PC Gamer",
+				"date": 1438208701,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 118
+	}
+}

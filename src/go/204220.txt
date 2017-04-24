@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 204220,
+		"newsitems": [
+			{
+				"gid": "1459441364930192254",
+				"title": "New Week Long Deals Available on Steam!",
+				"url": "http://store.steampowered.com/news/10498/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 80% on new Week Long Deals on Steam, available now until May 6th at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/47000/\"> </a> <a href=\"http://store.steampowered.com/app/72000/\"> </a> <a href=\"http://store.steampowered.com/app/204220/\"> </a> <a href=\"http://store.steampowered.com/app/227800/\"> </a> <a href=\"http://store.steampowered.com/app/45000/\"> </a> <a href=\"http://store.steampowered.com/app/16730/\"> </a> <a href=\"http://store.steampowered.com/app/11370/\"> </a> <a href=\"http://store.steampowered.com/app/12460/\"> </a> <a href=\"http://store.steampowered.com/app/23700/\"> </a> <a href=\"http://store.steampowered.com/app/209190/\"> </a> <a href=\"http://store.steampowered.com/app/200900/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1367259060,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515720987282293789",
+				"title": "Now Available on Mac - Snapshot, 50% off!",
+				"url": "http://store.steampowered.com/news/9314/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/204220/\">Snapshot</a> is Now Available on Mac and is 50% off*! Snapshot is the tale of a lone robot lost in an abandoned world. Armed with only his trusty camera, Pic sets forth on his great adventure. A camera might not seem like enough for a puzzle platforming adventure, but this camera is different from most:...",
+				"feedlabel": "Announcement",
+				"date": 1352331060,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515715275345462104",
+				"title": "Wot I Think: Snapshot",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1515715275345462104",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alec Meer)",
+				"contents": "<em>Photography-based puzzle-platformer <a href=\"http://www.retroaffect.com/games/1/Snapshot/\">Snapshot</a> is the latest from <a href=\"http://www.rockpapershotgun.com/2010/08/09/rebellion-lies-depict1/\">depict1</a> dev Retro Affect (one half of which is Kyle Pulver, he of Offspring Fling fame). Long-anticipated, it finally gave itself to the world last week. Here&#8217;s what I made of it. </em> Lovely, lovely, lovely, lovely, lovely, lovely, l...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1346875220,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

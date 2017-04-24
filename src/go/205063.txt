@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 205063,
+		"newsitems": [
+			{
+				"gid": "1515717154778939305",
+				"title": "Now Available - BIT.TRIP CORE",
+				"url": "http://store.steampowered.com/news/8991/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/205060/\">BIT.TRIP CORE</a> is now available on Steam! BIT.TRIP CORE takes the player into unfamiliar territory as they use NES-style controls to blast their way through the barrage of Beats in this rhythm-music adventure. Plus, check out the <a href=\"http://store.steampowered.com/app/205063/\">Soundtrack </a>featuring thumpin' chiptune-inspired tracks that will get yo...",
+				"feedlabel": "Product Release",
+				"date": 1349207100,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

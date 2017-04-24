@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 10680,
+		"newsitems": [
+			{
+				"gid": "920163238473050801",
+				"title": "New Weeklong Deals, Monday March 3rd",
+				"url": "http://store.steampowered.com/news/12551/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Check back for new deals every Monday at 10AM Pacific. <a href=\"http://store.steampowered.com/app/249650/\"> </a> <a href=\"http://store.steampowered.com/app/23120/\"> </a> <a href=\"http://store.steampowered.com/app/256070/\"> </a> <a href=\"http://store.steampowered.com/app/9420/\"> </a> <a href=\"http://store.steampowered.com/app/260190/\"> </a> <a href=\"http://store.steampowered.com/app/47400/\"> </a> <a href=\"http://store.steampowered.com/app/255320/\"> </a> <a href=\"http://store.steampowered.com/app/46410/\"> </a> <a href=\"http://store.steampowered.com/app/46400/\"> </a> <a href=\"http://store.steampowered.com/app/218090/\"> </a> <a href=\"http://store.steampowered.com/app/46830/\"> </a> <a href=\"http://store.steampowered.com/app/6250/\"> </a> <a href=\"http://store.steampowered.com/app/236490/\"> </a> <a href=\"http://store.steampowered.com/app/10680/\"> </a> <a href=\"http://store.steampowered.com/app/4720/\"> </a> <a href=\"http://store.steampowered.com/app/251430/\"> </a> <a href=\"http://store.steampowered.com/app/227200/\"> </a> <a href=\"http://store.steampowered.com/app/263340/\"> </a> <a href=\"http://store.steampowered.com/app/1670/\"> </a> <a href=\"http://store.steampowered.com/app/6250/\"> </a> <a href=\"http://store.steampowered.com/app/11230/\"> </a> <a href=\"http://store.steampowered.com/app/12390/\"> </a> <a href=\"http://store.steampowered.com/app/17430/\"> </a> <a href=\"http://store.steampowered.com/app/22200/\"> </a> <a href=\"http://store.steampowered.com/app/38440/\"> </a> <a href=\"http://store.steampowered.com/app/33540/\"> </a> <a href=\"http://store.steampowered.com/app/33550/\"> </a> <a href=\"http://store.steampowered.com/app/27900/\"> </a> <a href=\"http://store.steampowered.com/app/24840/\"> </a> <a href=\"http://store.steampowered.com/app/24870/\"> </a> <a href=\"http://store.steampowered.com/app/46400/\"> </a> <a href=\"http://store.steampowered.com/app/10680/\"> </a> <a href=\"http://store.steampowered.com/app/24960/\"> </a> <a href=\"http://store.steampowered.com/app/46410/\"> </a> <a href=\"http://store.steampowered.com/app/27920/\"> </a> <a href=\"http://store.steampowered.com/app/40420/\"> </a> <a href=\"http://store.steampowered.com/app/42960/\"> </a> <a href=\"http://store.steampowered.com/app/61600/\"> </a> <a href=\"http://store.steampowered.com/app/47880/\"> </a> <a href=\"http://store.steampowered.com/app/47870/\"> </a> <a href=\"http://store.steampowered.com/app/47920/\"> </a> <a href=\"http://store.steampowered.com/app/92000/\"> </a> <a href=\"http://store.steampowered.com/app/19680/\"> </a> <a href=\"http://store.steampowered.com/app/22230/\"> </a> <a href=\"http://store.steampowered.com/app/47790/\"> </a> <a href=\"http://store.steampowered.com/app/47400/\"> </a> <a href=\"http://store.steampowered.com/app/218090/\"> </a> <a href=\"http://store.steampowered.com/app/209190/\"> </a> <a href=\"http://store.steampowered.com/app/227280/\"> </a> <a href=\"http://store.steampowered.com/app/204080/\"> </a> <a href=\"http://store.steampowered.com/app/233510/\"> </a> <a href=\"http://store.steampowered.com/app/233530/\"> </a> <a href=\"http://store.steampowered.com/app/234370/\"> </a> <a href=\"http://store.steampowered.com/app/215690/\"> </a> <a href=\"http://store.steampowered.com/app/238890/\"> </a> <a href=\"http://store.steampowered.com/app/248510/\"> </a> <a href=\"http://store.steampowered.com/app/249930/\"> </a> <a href=\"http://store.steampowered.com/app/234000/\"> </a> <a href=\"http://store.steampowered.com/app/257120/\"> </a> <a href=\"http://store.steampowered.com/app/257990/\"> </a> <a href=\"http://store.steampowered.com/app/259340/\"> </a> <a href=\"http://store.steampowered.com/app/259600/\"> </a> <a href=\"http://store.steampowered.com/app/259680/\"> </a> <a href=\"http://store.steampowered.com/app/260930/\"> </a> <a href=\"http://store.steampowered.com/app/257830/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1393870920,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "920161157683792288",
+				"title": "New Weeklong Deals, Monday March 3rd",
+				"url": "http://store.steampowered.com/news/12379/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Check back for new deals every Monday at 10AM Pacific. <a href=\"http://store.steampowered.com/app/249650/\"> </a> <a href=\"http://store.steampowered.com/app/23120/\"> </a> <a href=\"http://store.steampowered.com/app/256070/\"> </a> <a href=\"http://store.steampowered.com/app/9350/\"> </a> <a href=\"http://store.steampowered.com/app/260190/\"> </a> <a href=\"http://store.steampowered.com/app/47400/\"> </a> <a href=\"http://store.steampowered.com/app/255320/\"> </a> <a href=\"http://store.steampowered.com/app/257830/\"> </a> <a href=\"http://store.steampowered.com/app/46410/\"> </a> <a href=\"http://store.steampowered.com/app/46400/\"> </a> <a href=\"http://store.steampowered.com/app/218090/\"> </a> <a href=\"http://store.steampowered.com/app/46700/\"> </a> <a href=\"http://store.steampowered.com/app/6250/\"> </a> <a href=\"http://store.steampowered.com/app/236490/\"> </a> <a href=\"http://store.steampowered.com/app/10680/\"> </a> <a href=\"http://store.steampowered.com/app/4720/\"> </a> <a href=\"http://store.steampowered.com/app/251430/\"> </a> <a href=\"http://store.steampowered.com/app/227200/\"> </a> <a href=\"http://store.steampowered.com/app/263340/\"> </a> <a href=\"http://store.steampowered.com/app/46760/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1392068400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515720987307010831",
+				"title": "Aliens vs. Marines mod recasts AVP into Crysis 2",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/1515720987307010831",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2012/11/09/aliens-vs-marines-mod-crysis-2/\" rel=\"bookmark\" title=\"Permanent Link to Aliens vs. Marines mod recasts AVP into Crysis 2\"> </a> If a sound epitomized Rebellion's 1999 FPS classic Aliens vs. Predator, it's the terror-inducing ping of a motion tracker. Eyeballing your demise creeping closer upon a sensor screen occurred most often during the Marine campaign, and the same weighty pressure of panic from being hunted by somethi...",
+				"feedlabel": "PC Gamer",
+				"date": 1352420792,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 24
+	}
+}

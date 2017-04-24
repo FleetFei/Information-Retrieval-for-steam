@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 12520,
+		"newsitems": [
+			{
+				"gid": "919035892218952601",
+				"title": "Test",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/919035892218952601",
+				"is_external_url": true,
+				"author": "TomB",
+				"contents": "Test",
+				"feedlabel": "Community Announcements",
+				"date": 1392417080,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1172272050089909882",
+				"title": "Daily Deal - 18 Wheels of Steel: American Long Haul 66% off!",
+				"url": "http://store.steampowered.com/news/5493/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% off <a href=\"http://store.steampowered.com/app/12520/\">18 Wheels of Steel: American Long Haul</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/12520/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1305738000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

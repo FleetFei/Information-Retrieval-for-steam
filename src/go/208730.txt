@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 208730,
+		"newsitems": [
+			{
+				"gid": "241332296593782030",
+				"title": "Joffrey Meets The Reaper: CK II Game Of Thrones Mod Update",
+				"url": "http://store.steampowered.com/news/externalpost/rps/241332296593782030",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "It&#8217;s always a happy day when an update for a much-loved mod appears. The Game of Thrones total conversion for <a href=\"https://www.rockpapershotgun.com/tag/Crusader-Kings-II/\">Crusader Kings II</a> is such a blindingly obvious combination of worlds and mechanics that it simply had to exist. That the team working on it continue to do such a good job is fantastic....",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1476349680,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "243580289118880248",
+				"title": "Walking Dead Season 3 Shuffling Onto PC In November",
+				"url": "http://store.steampowered.com/news/externalpost/rps/243580289118880248",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Brendan Caldwell)",
+				"contents": "The third season of guts &#8216;n&#8217; conversation adventure game, <a href=\"https://www.rockpapershotgun.com/tag/the-walking-dead/\">The Walking Dead</a> , will be coming out this November, Telltale has <a href=\"https://telltale.com/news/2016/09/-the-walking-dead-the-telltale-series---a-new-frontier-premieres-this-november/\">telltold</a> the people of PAX. As we heard at E3, Clementine is <a href=\"https://www.rockpapershotgun.com/2016/06/13/walking-dead-season-3-gets-new-trailer-character/\">making a return</a> older, wiser and probably much more killy. She&#8217;ll have another playable character...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1472858220,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "250335145791061990",
+				"title": "Game of Thrones Composer Twangs On Gears Of War 4",
+				"url": "http://store.steampowered.com/news/externalpost/rps/250335145791061990",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Jessica Famularo)",
+				"contents": "I know what you all might be asking. &#8220;Game of Thrones in <em>my</em> Gears of War?&#8221; Well, it&#8217;s more likely than you think. Game of Thrones composer Ramin Djawadi has joined up with The Coalition to create the score for <a href=\"https://www.rockpapershotgun.com/tag/gears-of-war-4/\">Gears of War 4</a> . &#8220;I certainly wanted to stay in the direction fans...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1472400037,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 13
+	}
+}

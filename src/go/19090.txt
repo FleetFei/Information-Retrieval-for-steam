@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 19090,
+		"newsitems": [
+			{
+				"gid": "527101503315377342",
+				"title": "Yard Sale Hidden Treasures: Sunnyville Released",
+				"url": "http://store.steampowered.com/news/3952/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Welcome to the town of Sunnyville! Search local yard sales on your mission to find hidden treasures and objects. Use your fantastic finds to decorate your dream home in a competition to win the illustrious &#147;Superstar Homes Magazine Contest!&#148; Beat the clock or play at your own pace, searchi...",
+				"feedlabel": "Product Release",
+				"date": 1276538460,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

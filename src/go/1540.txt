@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 1540,
+		"newsitems": [
+			{
+				"gid": "1208318572970873207",
+				"title": "The Humble Introversion Bundle launches",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1208318572970873207",
+				"is_external_url": true,
+				"author": "Alice O'Connor",
+				"contents": "The Humble Bundles keep on rolling, with a new 'pay what you want' indie mega-bargain arriving mere weeks after <a href=\"http://www.shacknews.com/article/71032/humble-voxatron-debut-bundle-expands-again\">the last one</a> wrapped up. The new Humble Introversion Bundle packs four games from English indie Introversion: hacking sim <a href=\"http://www.shacknews.com/game/uplink-hacker-elite\">Uplink</a>, RTS <a href=\"http://www.shacknews.com/game/darwinia\">Darwinia</a>, its multiplayer sequel <a href=\"http://www.shacknews.com/game/multiwinia\">Multiwinia</a>, and Cold ...",
+				"feedlabel": "Shacknews",
+				"date": 1321974000,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

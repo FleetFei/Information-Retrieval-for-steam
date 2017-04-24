@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 206718,
+		"newsitems": [
+			{
+				"gid": "1497714199110761719",
+				"title": "New DLC Available - Cities in Motion: Design Quirks",
+				"url": "http://store.steampowered.com/news/9873/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/206718/'>Design Quirks</a>, all new content for <a href='http://store.steampowered.com/app/73010/'>Cities in Motion</a> is Now Available on Steam! One of each of vehicle type, but with a twist! Instead of a helicopter take a pleasant ride in a hot air balloon, or perhaps a tram that's been built like a boat to sail the city streets. These five innovative vehicles wi...",
+				"feedlabel": "Product Release",
+				"date": 1360087500,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

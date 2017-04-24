@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 206710,
+		"newsitems": [
+			{
+				"gid": "1443640567808484482",
+				"title": "New DLC Available - Cities in Motion: Design Dreams",
+				"url": "http://store.steampowered.com/news/7441/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/206710/\">Design Dreams</a>, new content for <a href=\"http://store.steampowered.com/app/73010/\">Cities in Motion</a>, is now available on Steam for both Mac and PC! This expansion brings you five all new vehicles to add to your cities! New vehicles include an all new Tram, Helicopter, Bus, and two new Metros! <a href=\"http://store.steampowered.com/app/206710/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1330558680,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 10510,
+		"newsitems": [
+			{
+				"gid": "1515700145279855505",
+				"title": "App of the Day: INC",
+				"url": "http://store.steampowered.com/news/externalpost/eurogamer/1515700145279855505",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Orange Pixel is one of those small but surprisingly prolific design teams working across both iOS and Android platforms. It turns out simple arcade games for the most part, but while its stuff tends not to be particularly interested in shattering boundaries and reinventing genres, most of it boasts ...",
+				"feedlabel": "Eurogamer",
+				"date": 1334145660,
+				"feedname": "eurogamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1443640567907013365",
+				"title": "No more Sega-published Marvel games",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1443640567907013365",
+				"is_external_url": true,
+				"author": "Jeff Mattas",
+				"contents": "Sega won't be publishing any more video games featuring characters from the Marvel Comics stable any time soon, if ever again. Marvel's vice president of games production, TQ Jefferson, while light on specifics, confirmed the news in a recent interview. \"There are no current plans for additional Mar...",
+				"feedlabel": "Shacknews",
+				"date": 1331031600,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1443640567900437017",
+				"title": "No plans for more Sega-published Marvel video games",
+				"url": "http://store.steampowered.com/news/externalpost/eurogamer/1443640567900437017",
+				"is_external_url": true,
+				"author": "",
+				"contents": "There won't be any more Sega-published Marvel games. That's according to TQ Jefferson, vice president of games production for Marvel. Sega has published five games based off of Marvel movies in recent years: Iron Man, The Incredible Hulk, Iron Man 2, Captain America: Super Soldier and Thor: God of T...",
+				"feedlabel": "Eurogamer",
+				"date": 1331027760,
+				"feedname": "eurogamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 204180,
+		"newsitems": [
+			{
+				"gid": "243580289118781636",
+				"title": "Check out Crown Champion!!!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/243580289118781636",
+				"is_external_url": true,
+				"author": "EpicQuest Games",
+				"contents": "http://store.steampowered.com/app/354400/",
+				"feedlabel": "Community Announcements",
+				"date": 1472858621,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "243580289118780750",
+				"title": "Check out Tadpole Treble!!!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/243580289118780750",
+				"is_external_url": true,
+				"author": "EpicQuest Games",
+				"contents": "http://store.steampowered.com/app/354400/",
+				"feedlabel": "Community Announcements",
+				"date": 1472858600,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "252586225973495707",
+				"title": "Check out Crown Champion!!!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/252586225973495707",
+				"is_external_url": true,
+				"author": "EpicQuest Games",
+				"contents": "http://steamcommunity.com/sharedfiles/filedetails/?id=614602587&result=1",
+				"feedlabel": "Community Announcements",
+				"date": 1471542325,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 38
+	}
+}

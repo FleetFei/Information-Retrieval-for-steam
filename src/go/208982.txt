@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 208982,
+		"newsitems": [
+			{
+				"gid": "1513465018284863221",
+				"title": "DJMAX Technika Tune's Limited Edition is Extremely Limited and Ridiculously Fantastic",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1513465018284863221",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Korea's finest export comes to the PlayStation Vita on October 26, but waiting until then to buy would be ill-advised. The spectacular $100 limited edition goes up for preorder on Monday, September 24, and if you want <em>DJMAX Technika Tune</em>, you want this. With it's lovely musical mix and often insane ...",
+				"feedlabel": "Kotaku",
+				"date": 1348256700,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1389604433817297403",
+				"title": "There's (Probably Not) a Full-Sized Chainsaw Wielding Cheerleader Robot in the Lollipop Chainsaw Special Edition",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1389604433817297403",
+				"is_external_url": true,
+				"author": "",
+				"contents": "In fact, said special edition doesn't actually exist, but if it did the ESRB rating would be through the roof. Blood, gore, adult situations and nudity, all before the game even makes it into your console. Completely fictional, of course. If the world could create robots that lifelike we'd be extinc...",
+				"feedlabel": "Kotaku",
+				"date": 1337329800,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1513452060080917062",
+				"title": "The Record of Agarest War 2 Limited Edition Comes With an Inflatable Doll. And a Hand Towel",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1513452060080917062",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/17m3hfy2044tkjpg/original.jpg\"> </a>The series I'm convinced people only buy for its <a href=\"http://kotaku.com/5457448/record-of-agarest-wars-really-naughty-limited-edition-lives-up-to-its-name?tag=recordofagarestwar\">bizarre limited edition contents</a> returns to North America on June 26, bringing with it more justification for my theory. Pixelated to protect her anime-innocence, the inflatable Felenne doll packed inside every copy of the <em>Record of Agarest War 2</em> lim...",
+				"feedlabel": "Kotaku",
+				"date": 1336555800,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

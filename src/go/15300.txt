@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 15300,
+		"newsitems": [
+			{
+				"gid": "250335145784479813",
+				"title": "Ghost Recon Phantoms is closing its doors",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/250335145784479813",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/ghost-recon-online-gets-renamed-hits-steam-in-april/\">Ghost Recon Phantoms</a>, the free-to-play online shooter that debuted in 2012 as <a href=\"http://www.pcgamer.com/ghost-recon-online/\">Ghost Recon Online</a>, is closing for good on December 1. The decision was made following a slow but steady decline in users over the past couple of years that left its average concurrent player count for the last 30 days at ...",
+				"feedlabel": "PC Gamer",
+				"date": 1472242629,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "295354567849231236",
+				"title": "EA withdraws \"Ghost\" trademark filing",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/295354567849231236",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Electronic Arts has given up on its attempt to trademark the word ghost, which caused something of an uproar when it <a href=\"http://www.pcgamer.com/electronic-arts-files-for-ghost-trademark-but-ubisoft-says-no/\">came to light in January</a>. EA wanted to trademark the word for its Ghost Games studio, the maker of the new <a href=\"http://www.pcgamer.com/need-for-speed/\">Need for Speed</a> game, while Ubisoft, publisher of the <a href=\"http://www.pcgamer.com/ghost-recon-wildlands/\">Ghost Recon</a> games, not ...",
+				"feedlabel": "PC Gamer",
+				"date": 1456777363,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "341514010393133847",
+				"title": "Electronic Arts files for \"Ghost\" trademark, but Ubisoft says no",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/341514010393133847",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Ubisoft and Electronic Arts appear to be caught up in a low-level but interesting beef over a trademark filing for the word ghost. Back in March 2015, EA <a href=\"http://tsdr.uspto.gov/#caseNumber=86568852&amp;caseType=SERIAL_NO&amp;searchType=statusSearch\">applied</a> to trademark the term for its <a href=\"http://ghostgames.com/\">Ghost Games</a> studio, currently working on <a href=\"http://www.pcgamer.com/need-for-speed/\">Need for Speed</a>, relating to entertainment services, namely, providi...",
+				"feedlabel": "PC Gamer",
+				"date": 1454355989,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 29
+	}
+}

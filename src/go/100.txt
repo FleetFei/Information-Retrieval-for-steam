@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 100,
+		"newsitems": [
+			{
+				"gid": "3171973016858175738",
+				"title": "Counter-Strike turns 15: A collection of glitches, fails, and mods",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/3171973016858175738",
+				"is_external_url": true,
+				"author": "Ozzie Mejia",
+				"contents": "We've previously taken in <a href=\"http://www.shacknews.com/article/85082/counter-strike-turns-15-a-chatty-retrospective\">Chatty's perspective</a> on <a href=\"https://www.shacknews.com/game/counter-strike\">Counter-Strike</a>'s milestone 15th anniversary. But some of our posters opted to remember Valve's shooter by sharing some memorable videos. Some of them show off some classic glitches, memorable rage moments, and classic mods. There are also a few other...",
+				"feedlabel": "Shacknews",
+				"date": 1403611200,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "3171973016785870535",
+				"title": "Counter-Strike turns 15: A Chatty retrospective",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/3171973016785870535",
+				"is_external_url": true,
+				"author": "Ozzie Mejia",
+				"contents": "It started as a simple mod to a classic first-person PC shooter. Taking Valve's original Half-Life, a pair of programmers tinkered with the game's script and worked to turn it into a team-based multiplayer romp. The result was a mod called <a href=\"https://www.shacknews.com/game/counter-strike\">Counter-Strike</a>, which turned 15 on June 19 of this year. Sin...",
+				"feedlabel": "Shacknews",
+				"date": 1403521200,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1459453260456269965",
+				"title": "Counter-Strike: Condition Zero Deleted Scenes Beta update released",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1459453260456269965",
+				"is_external_url": true,
+				"author": "alfred",
+				"contents": "We have released a Beta update for Counter-Strike: Condition Zero Deleted Scenes. Changes in this update are: Fixed failing to load the 2nd level of The Alamo ",
+				"feedlabel": "Community Announcements",
+				"date": 1378767171,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 9
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 18520,
+		"newsitems": [
+			{
+				"gid": "527101503328719902",
+				"title": "Defense Grid: Resurgence Map Pack 3 released",
+				"url": "http://store.steampowered.com/news/3957/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's <strong><a href=http://store.steampowered.com/app/18520/>Map Pack 3</a></strong> release includes two more challenging environments - <i>Urban Planning</i> and <i>Tactical Diversion</i>. It&#146;s the third of four great map packs in the Resurgence series. <i>Urban Planning</i> is a dense environment with restrictive build spaces, forcing difficult decisions against continuously a...",
+				"feedlabel": "Product Release",
+				"date": 1276723680,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

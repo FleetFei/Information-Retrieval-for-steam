@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 15560,
+		"newsitems": [
+			{
+				"gid": "260454846505424774",
+				"title": "Daily Deal - AaAaAA!!! - titles, 80% Off",
+				"url": "http://store.steampowered.com/news/21156/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 80% on <a href='http://store.steampowered.com/app/15520/'>AaAaAA!!! - A Reckless Disregard for Gravity</a> & <a href='http://store.steampowered.com/app/15560/'>AaAaAA!!! - For the Awesome</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Monday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/15520/\"> </a> <a href=\"http://store.steampowered.com/app/15560/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1460048700,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "521614150822039193",
+				"title": "New update for Awesome - VR goodies!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/521614150822039193",
+				"is_external_url": true,
+				"author": "Owlchemy Labs",
+				"contents": "New Oct 6th Aaaaa! for the Awesome update addresses a number of VR issues and adds new VR features: - Now with Mac VR support! - Now with VR ‘mirror mode’ support (press M while in Direct VR Mode to toggle showing the game on your monitor) - Now with better Xbox controller support and menu flow - Fi...",
+				"feedlabel": "Community Announcements",
+				"date": 1412613055,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "3188860337904686150",
+				"title": "Daily Deal - AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome, 75% Off",
+				"url": "http://store.steampowered.com/news/13556/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/15560/'>AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Monday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/15560/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1402160400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 10
+	}
+}

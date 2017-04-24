@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 212110,
+		"newsitems": [
+			{
+				"gid": "522745760243577366",
+				"title": "Japanese version update",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/522745760243577366",
+				"is_external_url": true,
+				"author": "Turtle Cream",
+				"contents": "GomBangWa Japanese players. You can play Sugar Cube in Japanese now! Please change the language in LANGUAGE tap of properties menu. - Changed windowed mode as a default. - Added Japanese build. - Fixed minor bugs. ",
+				"feedlabel": "Community Announcements",
+				"date": 1418124569,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "521614150666812827",
+				"title": "Pre-owned coupon: 61% off for 6180 the moon",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/521614150666812827",
+				"is_external_url": true,
+				"author": "Turtle Cream",
+				"contents": "Hi all! Recently we've released our 2nd commercial game 6180 the moon on Steam. And we've prepared a distribute discount coupon for Sugar Cube: BF customers! If you have Sugar Cube: Bittersweet Factory, maybe you've already got 61% off coupon for 6180 the moon. Check your inventory and get our new g...",
+				"feedlabel": "Community Announcements",
+				"date": 1412409955,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "3206872999376392094",
+				"title": "To celebrate greenlit, Sugar Cube: BF is 61% off!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/3206872999376392094",
+				"is_external_url": true,
+				"author": "Sun",
+				"contents": "Yeah, I know that '61' is a weird number for sale. Our 2nd commercial game '6180 the moon' has been greenlit in last week. To celebrate, Sugar Cube: Bittersweet Factory is 61% off now for a week!",
+				"feedlabel": "Community Announcements",
+				"date": 1400568801,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

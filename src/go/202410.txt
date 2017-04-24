@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 202410,
+		"newsitems": [
+			{
+				"gid": "1425624174748191874",
+				"title": "Now Available - Scoregasm",
+				"url": "http://store.steampowered.com/news/7304/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/202410/\">Scoregasm</a> is Now Available on Steam and 10% off until Wednesday February 15th at 10AM PST. Scoregasm is an incredible, variety rich shooter with a non-linear, branching paths style galaxy to explore. It's pretty, accessible, fun and really rather good! Blast your way through the galaxy's many varied...",
+				"feedlabel": "Product Release",
+				"date": 1328729400,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

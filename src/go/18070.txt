@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 18070,
+		"newsitems": [
+			{
+				"gid": "1423373914966173444",
+				"title": "Daily Deal - The Baconing, 75% off!",
+				"url": "http://store.steampowered.com/news/7400/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% off <a href=\"http://store.steampowered.com/app/18070/\">The Baconing</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/18070/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1330107000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1137383100630231657",
+				"title": "Extra Rations: The Baconing DLC And Sale",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1137383100630231657",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "<a href=\"http://www.thebaconing.com/\">The Baconing</a> was a load of old nonsense, which suits me just fine. I like nonsense. The first time I realised words were among my favourite things I was but a young pup reading a giant Edward Lear tome and being struck about the face by seemingly infinite invention. But Edward Lear never included an...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1318420536,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1137382465879208169",
+				"title": "New Release - The Baconing DLC: Roesha 50% off",
+				"url": "http://store.steampowered.com/news/6473/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/18080/\">Roesha</a>, new dowloadable content for <a href=\"http://store.steampowered.com/app/18070/\">The Baconing</a> is now available on Steam and is 50% off until October 18th at 10AM Pacific Time ! A 70's era inspired police woman with a nasty attitude and an over-sized pistol. Roesha gets results! When her gun is simply not enough she calls on her electric disco ...",
+				"feedlabel": "Product Release",
+				"date": 1318352760,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 6
+	}
+}

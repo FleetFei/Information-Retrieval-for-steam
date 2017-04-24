@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 203730,
+		"newsitems": [
+			{
+				"gid": "243582192039711913",
+				"title": "4 years since the release of Q.U.B.E",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/243582192039711913",
+				"is_external_url": true,
+				"author": "..",
+				"contents": "So it has been 4 years since the first Q.U.B.E. game was released and 2 years since The Director's Cut version. Our lips are sealed but there may be something in the works! Keep an eye on the official Q.U.B.E. website and Twitter/Facebook page for more details! Official Website: Qube-game.com Twitte...",
+				"feedlabel": "Community Announcements",
+				"date": 1474894457,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "567768347685873365",
+				"title": "This Monday: London Indie Launch Party-o-rama",
+				"url": "http://store.steampowered.com/news/externalpost/rps/567768347685873365",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1405155607,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1462819626640679379",
+				"title": "Prepare The Acronyminator: Q.U.B.E. Is Getting DLC",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1462819626640679379",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Craig Pearson)",
+				"contents": "",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1367521247,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 10
+	}
+}

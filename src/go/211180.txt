@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 211180,
+		"newsitems": [
+			{
+				"gid": "249201544504235850",
+				"title": "The Solus Project - Full game released!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/249201544504235850",
+				"is_external_url": true,
+				"author": "sjoerd",
+				"contents": "After Unmechanical a few years back we started working on the massive singleplayer adventure game The Solus Project. http://thesolusproject.com/news/fullgameoutnow.jpg The entire 12+ hour adventure is now out! After 3 short months in Early Access the entire game is now released. All content, final a...",
+				"feedlabel": "Community Announcements",
+				"date": 1465324022,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "295354025625366563",
+				"title": "The Solus Project part 1 released!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/295354025625366563",
+				"is_external_url": true,
+				"author": "sjoerd",
+				"contents": "Our new game \"The Solus Project, the spirital successor to our first game The Ball, has just launched in Early Access. Part 1 is available now, and will be following by frequent large updates over the coming weeks! Come join the Steam Group! http://thesolusproject.com/news/rel1steam.jpg http://theso...",
+				"feedlabel": "Community Announcements",
+				"date": 1455834848,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "341513287004605656",
+				"title": "No Man s Survival: The Solus Project s Looking Good",
+				"url": "http://store.steampowered.com/news/externalpost/rps/341513287004605656",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alec Meer)",
+				"contents": "It&#8217;s probably not fair to either game to invoke <a href=\"http://https://www.rockpapershotgun.com/tag/No-Mans-Sky/\">No Man&#8217;s Sky</a> when talking about upcoming sci-fi survival offering <a href=\"https://www.rockpapershotgun.com/tag/The-Solus-Project/\">The Solus Project</a> , but both the reddish-pink colour palette and the heavy use of tricorders (let&#8217;s not kid ourselves, eh?) does put me in mind of Hello Games&#8217; ne...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1453463928,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 10
+	}
+}

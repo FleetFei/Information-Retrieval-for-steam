@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 108200,
+		"newsitems": [
+			{
+				"gid": "249202181075479686",
+				"title": "Ticket to Ride version 2.2.2 has just been released",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/249202181075479686",
+				"is_external_url": true,
+				"author": "EricB@DoW",
+				"contents": "Here is the change log: - There was a serious bug in the rank computation. It’s fixed and from now on players who left get a rank score penalty - It’s now possible to find offline DoW players - In 1912, Paris-Angora is worth 17 points, not 13 - 1912 Big Cities was missing its bonus for the longest p...",
+				"feedlabel": "Community Announcements",
+				"date": 1465821940,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "255956312816266615",
+				"title": "Ticket to Ride 2.2.0 is now available!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/255956312816266615",
+				"is_external_url": true,
+				"author": "a.david",
+				"contents": "What's new in version 2.2.0: - New content: Europa 1912 Destinations! Discover 3 variants of the Europe map: Europe Expanded, Mega Europe and Big Cities of Europe. - Various bug fixes and improvements.",
+				"feedlabel": "Community Announcements",
+				"date": 1464683486,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "255953140178571689",
+				"title": "Ticket to Ride version 2.1.0 is now availble !",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/255953140178571689",
+				"is_external_url": true,
+				"author": "EricB@DoW",
+				"contents": "What's new in 2.1.0: • New content: the Nordic Countries DLC is now available. And it’s a vertical map. More maps to come in 2016! • New Achievements are available: be the first one to accomplish them! • Bug fix: Achievements are now saved properly. • Various other bug fixes and user interface enhan...",
+				"feedlabel": "Community Announcements",
+				"date": 1461404983,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 16
+	}
+}

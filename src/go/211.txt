@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 211,
+		"newsitems": [
+			{
+				"gid": "521614150529383705",
+				"title": "Source SDK 2013 has been updated.",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/521614150529383705",
+				"is_external_url": true,
+				"author": "EricS",
+				"contents": "An update has been published for all users. This brings the multiplayer base in-sync with TF2 as of September 30th. General: Client/server memory improvements Fixed a client crash when switching between windowed-mode and fullscreen for Mac OS X and Linux clients Added experimental cpu_frequency_moni...",
+				"feedlabel": "Community Announcements",
+				"date": 1412213196,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "3188858978144209999",
+				"title": "Source SDK 2013 has been updated.",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/3188858978144209999",
+				"is_external_url": true,
+				"author": "Programmer Joe",
+				"contents": "The previous beta update has been published for all users. NOTICE: This update includes a mod compatibility breaking change for multiplayer mods. See this discussion thread for details. General: Upgraded Steamworks SDK to v1.29 Fixed mod compatibility problem with Multiplayer Base that was introduce...",
+				"feedlabel": "Community Announcements",
+				"date": 1401228025,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "920170104228008684",
+				"title": "Source SDK 2013 \"Upcoming\" beta has been updated",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/920170104228008684",
+				"is_external_url": true,
+				"author": "Programmer Joe",
+				"contents": "NOTICE: This beta update includes a mod compatibility breaking change for multiplayer mods. See this discussion thread for details. General: Upgraded Steamworks SDK to v1.29 Fixed mod compatibility problem with Multiplayer Base that was introduced in September. In Hammer, while using the Vertex Tool...",
+				"feedlabel": "Community Announcements",
+				"date": 1400198123,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 7
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 211521,
+		"newsitems": [
+			{
+				"gid": "1514593982765787405",
+				"title": "New DLC Available - Max Payne 3: Hostage Negotiation Pack",
+				"url": "http://store.steampowered.com/news/9237/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/211521\">Max Payne 3: Hostage Negotiation Pack</a>, new DLC for <a href=\"http://store.steampowered.com/app/204100/\">Max Payne 3</a>, is now available on Steam! The Hostage Negotiation Pack brings four new multiplayer maps, several new items, weapons, Filhos De Ogum avatar faction, and more to Max Payne 3 multiplayer! <a href=\"http://store.steampowered.com/app/211521/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1351618920,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

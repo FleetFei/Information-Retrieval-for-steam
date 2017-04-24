@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 202521,
+		"newsitems": [
+			{
+				"gid": "1226330460362886225",
+				"title": "Now Available - Dungeon Defenders Halloween Packs",
+				"url": "http://store.steampowered.com/news/6648/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The Dungeon Defenders Halloween <a href=\"http://store.steampowered.com/app/202520/\">Character</a> and <a href=\"http://store.steampowered.com/app/202521/\">Mission</a> Packs are now available on Steam for FREE ! <a href=\"http://store.steampowered.com/app/202520/\"> </a> <a href=\"http://store.steampowered.com/app/202521/\"> </a> ",
+				"feedlabel": "Product Update",
+				"date": 1319846160,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

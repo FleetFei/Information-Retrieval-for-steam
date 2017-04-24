@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 205630,
+		"newsitems": [
+			{
+				"gid": "1515700145053678729",
+				"title": "New DLC Available - Tropico 4: Modern Times",
+				"url": "http://store.steampowered.com/news/7667/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/205630/\">Tropico 4: Modern Times</a> is Now Available on Steam and includes new buildings, edicts and an entirely new single player campaign for <a href=\"http://store.steampowered.com/app/57690/\">Tropico 4</a>. The times are changing and the island nation of Tropico is evolving. The Internet, a New World Order, terrorists, global financial markets and space explorat...",
+				"feedlabel": "Product Release",
+				"date": 1333042500,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 15080,
+		"newsitems": [
+			{
+				"gid": "1137382465853634483",
+				"title": "Ubisoft announces Rabbids TV show",
+				"url": "http://store.steampowered.com/news/externalpost/eurogamer/1137382465853634483",
+				"is_external_url": true,
+				"author": "",
+				"contents": "An animated Rabbids TV series is coming to Nickelodeon in 2013, Ubisoft has announced. The publisher's shrill party game critters will star in 26 half hour episodes on the well-known kids' channel or, if you live in France, 78 seven minute shorts via France Television. The series is being produced b...",
+				"feedlabel": "Eurogamer",
+				"date": 1317938340,
+				"feedname": "eurogamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

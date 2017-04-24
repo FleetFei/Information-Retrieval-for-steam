@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 109410,
+		"newsitems": [
+			{
+				"gid": "1478591738299562759",
+				"title": "Security: Please Change Your Password",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299562759",
+				"is_external_url": true,
+				"author": "Brawl Busters",
+				"contents": "Yo Busters, We have been alerted of a possible security breach which may have affected your account. In order to ensure your account is secure, we highly recommend that you change your password now. Your account security is of the utmost importance to us, and we have taken necessary measures to prev...",
+				"feedlabel": "Community Announcements",
+				"date": 1374613946,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738299510072",
+				"title": "Caption Contest",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299510072",
+				"is_external_url": true,
+				"author": "Brawl Busters",
+				"contents": "Hey Busters! Want to <b> WIN 3,000 BP</b> ? Come join us on Facebook for our CAPTION CONTEST! All you need to do is go to the Brawl Busters Facebook Page and comment on the Caption Contest image and write a caption! The BEST caption <b> WINS 3,000 BP</b> ! Don't forget to add your Brawl Busters in-game name to yo...",
+				"feedlabel": "Community Announcements",
+				"date": 1373405707,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738299384879",
+				"title": "Rally 4 Exp: 400% EXP on May 11th, 2PM - 3PM",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299384879",
+				"is_external_url": true,
+				"author": "Brawl Busters",
+				"contents": "Calling ALL Busters! This <b>EXCITING</b> and <b>GREAT</b> opportunity is upon us! For one hour only, we need every Brawl Busters to rush to the Mega City and help us <b>Rally for EXP</b>! For <b>ONE HOUR </b> Busters will receive <b>400% EXP</b> ! So make sure you don’t miss this AWESOME opportunity and log on to Brawl Busters from ...",
+				"feedlabel": "Community Announcements",
+				"date": 1368205810,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 95
+	}
+}

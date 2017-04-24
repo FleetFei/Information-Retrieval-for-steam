@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 208690,
+		"newsitems": [
+			{
+				"gid": "1479695212955335722",
+				"title": "New DLC Available - Borderlands 2: Creature Slaughterdome and Collector's Edition Pack",
+				"url": "http://store.steampowered.com/news/9564/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/208690/'>Borderlands 2: Creature Slaughterdome</a>, and <a href='http://store.steampowered.com/app/213780/'>Borderlands 2: Collector's Edition Pack</a>, all new content for <a href='http://store.steampowered.com/app/49520/'>Borderlands 2</a> is Now Available on Steam! - <a href='http://store.steampowered.com/app/208690/'>Borderlands 2: Creature Slaughterdome</a> - Enter the Creature Slaughter Dome and face off against the toughest monsters in all of Pandora. Your efforts will...",
+				"feedlabel": "Product Release",
+				"date": 1355247600,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

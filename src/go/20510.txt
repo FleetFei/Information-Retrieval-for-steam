@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 20510,
+		"newsitems": [
+			{
+				"gid": "517127039043590704",
+				"title": "Own S.T.A.L.K.E.R.? Get It Free And DRM-Free From GOG",
+				"url": "http://store.steampowered.com/news/externalpost/rps/517127039043590704",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Emily Gera)",
+				"contents": "The one certainty with news items about <a href=\"http://www.rockpapershotgun.com/tag/stalker/\">S.T.A.L.K.E.R.</a> is there&#8217;s at least a 70 percent chance they&#8217;ve been planted by Jim. Thanks Jim! GOG.com continues to blow the horn in support of DRM-free everything with a new game reclaiming service, which you can check it out for yourself in <a href=\"http://www.gog.com/news/breclaim_your_gamesb_drmfree\">this...</a>",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1428246016,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "517122602979117048",
+				"title": "Don t Just Stand There, Etc: The STALKER Bundle",
+				"url": "http://store.steampowered.com/news/externalpost/rps/517122602979117048",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alec Meer)",
+				"contents": "Discounts on the STALKER trilogy (which seems like the wrong way to categorise the series somehow, but never mind) tend to wheel around pretty often, but this is particularly good deal for the whole set. There a certain games which are buried deep in RPS&#8217; DNA, and the semi-open world, post apo...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1423821634,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "3188859613527832910",
+				"title": "Stalker series saved from GameSpy oblivion via new patch",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/3188859613527832910",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2014/06/01/stalker-series-saved-from-gamespy-oblivion-via-new-patch/\" rel=\"bookmark\" title=\"Permanent Link to Stalker series saved from GameSpy oblivion via new patch\"> </a> Like a lot of you (I'm guessing), I've never even tried the multiplayer modes in the terrific Stalker series, but it's good to know that I'll be able to if I ever get the itch. GSC Gameworld's post-apocalyptic horror shooter games are the latest to be rescued from GameSpy oblivion, via automagical...",
+				"feedlabel": "PC Gamer",
+				"date": 1401624044,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 16
+	}
+}

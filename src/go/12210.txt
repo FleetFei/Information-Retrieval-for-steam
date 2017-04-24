@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 12210,
+		"newsitems": [
+			{
+				"gid": "84840457414569981",
+				"title": "Super Mario Odyssey s PC port is grittier than expected",
+				"url": "http://store.steampowered.com/news/externalpost/rps/84840457414569981",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "Nintendo&#8217;s new console, the Swapsie, isn&#8217;t even out but word has already leaked of a PC port for flagship game Super Mario Odyssey. A new cut of Odyssey&#8217;s trailer shows the PC version, which naturally boasts higher-fidelity graphics and &#8212; goodness me! &#8212; Nintendo have em...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1484682191,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "84840457396789285",
+				"title": "Decoding: open world games and killing by default",
+				"url": "http://store.steampowered.com/news/externalpost/rps/84840457396789285",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "<em>Decoding is a regular column about the games we love, and the tricks and traditions that make them tick.</em> Oh shit, I pressed the wrong button and killed that guy. It happens to the best of us. You could play <a href=\"https://www.rockpapershotgun.com/tag/Watch-Dogs-2/\">Watch Dogs 2</a> for days without firing a gun, or causing a fatal traffic accident, or beating s...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1484256855,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "84839823700035275",
+				"title": "Grand Theft Auto 5 mod adding GTA 4 s Liberty City",
+				"url": "http://store.steampowered.com/news/externalpost/rps/84839823700035275",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "A new <a href=\"https://www.rockpapershotgun.com/tag/grand-theft-auto-v/\">Grand Theft Auto 5</a> mod will add the whole flipping city from GTA 4, the developers of GTA modding tool OpenIV have announced. Liberty City will be added to GTA 5&#8217;s world, rather than replacing it, appearing just across the sea. Crumbs! Given Rockstar are seemingly more interested in expa...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1483719925,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 84
+	}
+}

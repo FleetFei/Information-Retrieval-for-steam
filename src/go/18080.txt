@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 18080,
+		"newsitems": [
+			{
+				"gid": "1137382465879208169",
+				"title": "New Release - The Baconing DLC: Roesha 50% off",
+				"url": "http://store.steampowered.com/news/6473/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/18080/\">Roesha</a>, new dowloadable content for <a href=\"http://store.steampowered.com/app/18070/\">The Baconing</a> is now available on Steam and is 50% off until October 18th at 10AM Pacific Time ! A 70's era inspired police woman with a nasty attitude and an over-sized pistol. Roesha gets results! When her gun is simply not enough she calls on her electric disco ...",
+				"feedlabel": "Product Release",
+				"date": 1318352760,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 202750,
+		"newsitems": [
+			{
+				"gid": "517128413780816761",
+				"title": "Wakey Wakey: Old Alan Wake 2 Prototype Revealed",
+				"url": "http://store.steampowered.com/news/externalpost/rps/517128413780816761",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "Remedy followed up their spooky-ooky shooter <a href=\"http://www.rockpapershotgun.com/2012/02/17/wot-i-think-alan-wake-pc/\">Alan Wake</a> with the shorter, shootier semi-sequel <a href=\"http://www.rockpapershotgun.com/2012/05/29/wot-i-think-alan-wakes-american-nightmare/\">Alan Wake&#8217;s American Nightmare</a> in 2012. Might a proper sequel, <a href=\"http://www.rockpapershotgun.com/2012/06/04/alan-wake-2-in-a-town-called-ordinary/\">we wondered</a>, follow next? Well, no. However, Remedy had started prototyping an Alan Wake 2 soon after finishing the first game, and whipp...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1429621259,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1462821444643833677",
+				"title": "Wake Sale: Alan Wake Now Humbled And Bundled",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1462821444643833677",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Craig Pearson)",
+				"contents": "Do you have between one and infinity dollars? Are you waiting for <a href=\"http://www.alanwake.com/\">Alan Wake</a> to be &#8216;bundled&#8217; up with the expansion and extra materials, where the costs are distributed between the developers and charity? Those are some very specific conditions you have there. Gaming welcomes you, but if t...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1369306856,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514593982738453221",
+				"title": "STEAM HALLOWEEN SALE ON NOW",
+				"url": "http://store.steampowered.com/news/9225/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Freaks of the night, rejoice! Steam has unleashed monster savings on ghoulish (and not so creepy) titles. From now until about the time all the pumpkins are smashed*, over 80 titles (including The Walking Dead, Bioshock, Left 4 Dead, and many more) are available at prices so low, it&#146;s scary. Fo...",
+				"feedlabel": "Announcement",
+				"date": 1351530300,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 12
+	}
+}

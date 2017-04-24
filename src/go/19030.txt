@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 19030,
+		"newsitems": [
+			{
+				"gid": "528224961106790432",
+				"title": "Rocket Knight Micro-Review: High As A Kite",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/528224961106790432",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://cache.gawkerassets.com/assets/images/9/2010/05/10.130.8.217-image99.jpg\"> </a>For a game that had <em>awesome</em> as one of its defining traits, Konami's Rocket Knight Adventures isn't exactly one of the Genesis' most well-remembered games. Shame. Maybe you'll remember this modern-day successor in its stead. Rocket Knight, a game that serves as more of a spiritual remake than a true...",
+				"feedlabel": "Kotaku",
+				"date": 1274274000,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "522593734637791511",
+				"title": "Rocket Knight Screenshots Accompany Pricing",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/522593734637791511",
+				"is_external_url": true,
+				"author": "Brian Leahy",
+				"contents": "Konami's Rocket Knight reboot will be released on May 12 for the Xbox 360 and PC via Steam. On May 18, it will launch for the PlayStation 3. The title will cost $14.99 on the PC & PS3 and 1200 MS Points on the Xbox 360. New screenshots have been sent along to commemorate the announcement: <a href=\"/screenshots.x?gallery=14599&game_id=8106&id=156273\"> </a><a href=\"/screenshots.x?gallery=14599&game_id=8106&id=156274\"> </a><em> Screens...</em>",
+				"feedlabel": "Shacknews",
+				"date": 1273015200,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "524845354857703329",
+				"title": "Rocket Knight Reboot Gets Release Dates",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/524845354857703329",
+				"is_external_url": true,
+				"author": "Brian Leahy",
+				"contents": "Through its Facebook fan page (via <a href=\"http://www.joystiq.com/2010/04/27/rocket-knight-touches-down-may-12-on-xbla-and-steam-may-18-on-p/\">Joystiq</a>), Konami has announced the US release dates for the impending downloadable sequel to its classic game Rocket Knight. <a href=\"/screenshots.x?gallery=14378&game_id=8106&id=154182\"> </a><a href=\"/screenshots.x?gallery=14378&game_id=8106&id=154188\"> </a> The Xbox Live Arcade and PC versions will be available on May 12 with the PlayStation Network version following on May 18, in accordance ...",
+				"feedlabel": "Shacknews",
+				"date": 1272423600,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

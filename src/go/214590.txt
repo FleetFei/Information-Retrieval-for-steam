@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 214590,
+		"newsitems": [
+			{
+				"gid": "295352659734600750",
+				"title": "Auto-patch Issue Fixed (Really!) + General Update",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/295352659734600750",
+				"is_external_url": true,
+				"author": "Nyu Media",
+				"contents": "Apologies to everyone for the broken fix in the last update. The auto-patch issue is resolved with today's update and we've taken the opportunity to bring the build up to date with the optimization and stability improvements made to the Japanese version. Have a great weekend! ",
+				"feedlabel": "Community Announcements",
+				"date": 1454684098,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "341512023091460785",
+				"title": "Update: Auto-patch Issue Resolved",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/341512023091460785",
+				"is_external_url": true,
+				"author": "Nyu Media",
+				"contents": "Apologies to all for the wait. This morning we patched Fairy Bloom Freesia to resolve an issue related to a redundant auto-update feature.",
+				"feedlabel": "Community Announcements",
+				"date": 1452546947,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "423688416252936711",
+				"title": "60% OFF Fairy Bloom Freesia during Japanese Indie Games Festival",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/423688416252936711",
+				"is_external_url": true,
+				"author": "jay_rab",
+				"contents": "Hey Freesias! Fairy Bloom Freesia is going on sale till the 18th in celebration of the Japanese Indie Games Festival for 60% off so if you havent had a chance to pick it up you can now: http://store.steampowered.com/app/214590/ As well as these other great doujins: The Sacred Tears TRUE 50% Eryi's A...",
+				"feedlabel": "Community Announcements",
+				"date": 1439260401,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

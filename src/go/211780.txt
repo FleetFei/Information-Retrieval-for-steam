@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 211780,
+		"newsitems": [
+			{
+				"gid": "1389605244656430457",
+				"title": "Now Available - Conflict: Desert Storm, 25% off!",
+				"url": "http://store.steampowered.com/news/8084/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/211780/\">Conflict: Desert Storm</a> is now available on Steam and is 25% off until June 4th at 10AM Pacific Time! Take charge of the most feared special operations forces in the world: the elite British SAS or the US Delta Force squads. You're the best trained, best equipped and best organised. The area that has...",
+				"feedlabel": "Product Release",
+				"date": 1338224820,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

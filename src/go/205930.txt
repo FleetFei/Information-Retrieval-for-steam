@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 205930,
+		"newsitems": [
+			{
+				"gid": "409054598178310880",
+				"title": "Have You Played Hitman: Sniper Challenge?",
+				"url": "http://store.steampowered.com/news/externalpost/rps/409054598178310880",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "<em><a href=\"http://www.rockpapershotgun.com/tag/have-you-played/\">Have You Played?</a> is an endless stream of game recommendations. One a day, every day of the year, perhaps for all time.</em> If you, like me, bought <a href=\"http://www.rockpapershotgun.com/tag/hitman-absolution/\">Hitman: Absolution</a> for a couple of quid on sale because you were curious, you too might have missed the second game it comes with. All Hitman games are puzzl...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1441636251,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515715911417087151",
+				"title": "Pre-Purchase Now - Hitman: Absolution",
+				"url": "http://store.steampowered.com/news/8861/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Pre-Purchase <a href=\"http://store.steampowered.com/app/203140/\">Hitman: Absolution</a> now on Steam, receive 10% off, and gain instant access to the <a href=\"http://store.steampowered.com/app/205930/\">Sniper Challenge</a> campaign right now! Hitman: Absolution follows the Original Assassin undertaking his most personal contract to date. Betrayed by the Agency and hunted by the police, Agent 47 finds himself ...",
+				"feedlabel": "Announcement",
+				"date": 1347639300,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515715547276382284",
+				"title": "Hitman Sniper Challenge Update Released",
+				"url": "http://store.steampowered.com/news/8822/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "We are happy to present a new update to the Hitman: Sniper Challenge. The primary change in this update fixes a problem found on some machines where they could not connect to the Sniper Challenge leaderboard servers. This update also addresses a problem accidentally introduced by the previous update...",
+				"feedlabel": "Product Update",
+				"date": 1347293400,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

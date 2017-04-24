@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 105800,
+		"newsitems": [
+			{
+				"gid": "1515717154636285203",
+				"title": "The PixelJunk Folks Are Definitely Interested in the Glorious PC Master Race",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1515717154636285203",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/180dvergb2xejjpg/original.jpg\"> </a>If you say \"Q-Games\", the first things that come to mind are probably Nintendo and Sony. (Oh, and there's that other Japan-based developer with a similar name.) But you think consoles. You don't think computers. Consoles. That could change. \"We want to be recognized as independent and as a develope...",
+				"feedlabel": "Kotaku",
+				"date": 1348720200,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514576755593998733",
+				"title": "PixelJunk Eden Update Released",
+				"url": "http://store.steampowered.com/news/7788/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The following changes have been made - Additional languages now supported. As well as English, French, Italian, Spanish and Japanese, with this update you can now also choose to play Eden in German, Dutch, Portuguese, Russian and Polish! Use the Language tab (right click PixelJunk Eden and select Pr...",
+				"feedlabel": "Product Update",
+				"date": 1334881260,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1443640567896477762",
+				"title": "PixelJunk Eden Update Released",
+				"url": "http://store.steampowered.com/news/7470/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "*** Major New Feature *** - As promised a special new 'Legacy Mode' gives you the option to play with a gamepad if you still prefer the feel of the original PS3 Eden Also in this release:- - if you play Eden on more than one PC then each one will now store its own preferred display resolution rather...",
+				"feedlabel": "Product Update",
+				"date": 1330996920,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

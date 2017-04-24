@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 13510,
+		"newsitems": [
+			{
+				"gid": "1443640567887307150",
+				"title": "GRAW lead turns to Kickstarter to fund hardcore tactical shooter",
+				"url": "http://store.steampowered.com/news/externalpost/eurogamer/1443640567887307150",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Ghost Recon Advanced Warfighter and Halo: Reach lead designer Christian Allen has taken to Kickstarter to fund his resurrection of old-school, hardcore tactical shooters. He's after $200,000, and he's got until 1st April to make it. So far he's had 151 backers who've pledged a combined $7448. \"For y...",
+				"feedlabel": "Eurogamer",
+				"date": 1330949880,
+				"feedname": "eurogamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1180148268940598447",
+				"title": "Ghost Recon/Ass Creed films coming?",
+				"url": "http://store.steampowered.com/news/externalpost/eurogamer/1180148268940598447",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Ubisoft is considering film versions of its Ghost Recon and Assassin's Creed franchises, so suggests a new customer survey from the French publisher. The questionnaire, which was flagged up by <a href=\"http://www.evilavatar.com/forums/showthread.php?t=138780\" target=\"_blank\">Evil Avatar</a>, asks those surveyed what factors would convince them to see movies based on the aforementioned...",
+				"feedlabel": "Eurogamer",
+				"date": 1300295520,
+				"feedname": "eurogamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1190278809440801395",
+				"title": "Tom Clancy sale assaults Xbox Live",
+				"url": "http://store.steampowered.com/news/externalpost/eurogamer/1190278809440801395",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Next week sees a host of Tom Clancy-related titles attempt to sneak up on Xbox Live users and pry open their wallets, armed only with a set of price discounts. From 21st to 27th February you'll be able to take advantage of the following offers, as detailed on <a href=\"http://majornelson.com/archive/2011/02/17/coming-soon-to-the-xbox-live-marketplace-feb-16.aspx\" target=\"_blank\">Major Nelson's blog</a>: * Tom Clancy's Ghos...",
+				"feedlabel": "Eurogamer",
+				"date": 1297982580,
+				"feedname": "eurogamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

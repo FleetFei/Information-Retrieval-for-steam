@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 15522,
+		"newsitems": [
+			{
+				"gid": "1136249593766116369",
+				"title": "Now Available - Summer Camp Sale Prize DLC's",
+				"url": "http://store.steampowered.com/news/5907/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Steam Summer Camp prize DLC's are now available for purchase on Steam! Check out new content for <a href=\"http://store.steampowered.com/app/92803/\">SpaceChem</a>, <a href=\"http://store.steampowered.com/app/92302/\">A.R.E.S.</a>, <a href=\"http://store.steampowered.com/app/31420/\">Zombie Driver</a>, <a href=\"http://store.steampowered.com/app/63802/\">Delve Deeper</a>, and <a href=\"http://store.steampowered.com/app/15522/\">AAaaaAA!!!</a> <a href=\"http://store.steampowered.com/app/92803/\"> </a><a href=\"http://store.steampowered.com/app/92302/\"> </a> <a href=\"http://store.steampowered.com/app/31420/\"> </a><a href=\"http://store.steampowered.com/app/63802/\"> </a> <a href=\"http://store.steampowered.com/app/15522/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1311373920,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 10560,
+		"newsitems": [
+			{
+				"gid": "1478591738297805347",
+				"title": "Win an FM09 Limited Edition Intel® Centrino®2 technology laptop with the FMClub!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738297805347",
+				"is_external_url": true,
+				"author": "turnerj",
+				"contents": "The FMClub, much like Marouane Fellaini's hair, just seems to get bigger and better. Last month we gave away a pair of Nike Total 90 boots, fully customised in FM09 black and orange with 'FM' stitched into the heel. Well, somehow, this months prize is even better! We are delighted to announce that w...",
+				"feedlabel": "Community Announcements",
+				"date": 1236779021,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591723589504317",
+				"title": "WSM09 Editor Patch",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591723589504317",
+				"is_external_url": true,
+				"author": "turnerj",
+				"contents": "There is now a patch available for the WSM09 editor on the PC. You can download the patch from here: http://www.footballmanager.com/index.php?p=patch",
+				"feedlabel": "Community Announcements",
+				"date": 1228734888,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591723589504243",
+				"title": "WSM09 patch",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591723589504243",
+				"is_external_url": true,
+				"author": "turnerj",
+				"contents": "The WSM09 patch is available for both PC and Mac. The patches can be downloaded from the Football Manager 2009 website here: http://www.footballmanager.com/index.php?p=patch",
+				"feedlabel": "Community Announcements",
+				"date": 1228154172,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 213210,
+		"newsitems": [
+			{
+				"gid": "1514595968615563947",
+				"title": "New DLC Availble - Borderlands 2: Mr. Torgue’s Campaign of Carnage",
+				"url": "http://store.steampowered.com/news/9422/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/213210/'>Borderlands 2: Mr. Torgue&#146;s Campaign of Carnage</a>, all new content for <a href='http://store.steampowered.com/app/49520/'>Borderlands 2</a> is Now Available on Steam Enter &#147;Mr. Torgue&#146;s Campaign of Carnage&#148; and see if you have what it takes to become champion of this brand new storyline in Borderlands 2. Fight for the Big Loot against ...",
+				"feedlabel": "Product Release",
+				"date": 1353440400,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 201070,
+		"newsitems": [
+			{
+				"gid": "75835160687126839",
+				"title": "Free To Play",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75835160687126839",
+				"is_external_url": true,
+				"author": "Nosaj",
+				"contents": "Since the end of the world never came...Revelations will be moving to Free to Play! Enjoy!",
+				"feedlabel": "Community Announcements",
+				"date": 1485980758,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "919035892280511655",
+				"title": "Reduced Price",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/919035892280511655",
+				"is_external_url": true,
+				"author": "Nosaj",
+				"contents": "Due to the requests and the apocalypse no-show, we have dropped the regular price significantly. Happy Gaming and Enjoy!",
+				"feedlabel": "Community Announcements",
+				"date": 1392501284,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738299245872",
+				"title": "Revelations Update 13.1 Live",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299245872",
+				"is_external_url": true,
+				"author": "JasonWeeks",
+				"contents": "-Fixed Ragdoll collision -Fixed Secondary Fire Animations not playing -Fixed Battlegrounds Minion Selection and Command bugs -Fixed Battlegrounds cursor bugs -Fixed Player Collision while knocked down -Fixed Team Demon Hud not Showing -Fixed Bots not ducking arrows first level -Decreased difficulty ...",
+				"feedlabel": "Community Announcements",
+				"date": 1358462263,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 24
+	}
+}

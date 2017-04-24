@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 11260,
+		"newsitems": [
+			{
+				"gid": "517128939722816241",
+				"title": "Steam Trading Cards are available now! Special Outstanding discount 90%!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/517128939722816241",
+				"is_external_url": true,
+				"author": "Mr. Horrible Gelatinous Blob",
+				"contents": "http://images.gameru.net/image/direct/b358306d31.jpg We are glad to announce that Steam Trading Cards added! And we give you an Outstanding discount 90%! You can unlock 6 trading cards, 3 epic wartime backgrounds, 1 badge and 5 aircraft emoticons. Take them all!",
+				"feedlabel": "Community Announcements",
+				"date": 1430209975,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "920163238287597681",
+				"title": "Multiple languages added",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/920163238287597681",
+				"is_external_url": true,
+				"author": "BukaDev",
+				"contents": "Fix notes 28.02.2014 — Languages added: Russian French",
+				"feedlabel": "Community Announcements",
+				"date": 1393583791,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

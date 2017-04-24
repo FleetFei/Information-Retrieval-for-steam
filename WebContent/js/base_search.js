@@ -49,6 +49,9 @@ function KeywordSearch() {
          data:{'keyword':keyword,'Tag':tag,'Publisher':publisher,'releasingYear':releasingYear,"sort":sort},  
          success:function(data){  
        	 	SearchDisplay(data);
+       	 	$("#EnterResult2panel").attr("style","display: none;");
+       	 	$("#EnterResult3panel").attr("style","display: none;");
+       	 	$("#Recommendpanel").attr("style","display: none;");
          }  
      });  
 }
@@ -95,6 +98,7 @@ function SearchDisplay(response) {
 	var enterResult2 = myobj.EnterData2;
 	var RecommendGame = myobj.RecommendData;
 	var enterResult3 = myobj.EnterData3;
+	
 	//enterResult1
 	for(var i in enterResult1) {
 		var name = enterResult1[i].Rname;

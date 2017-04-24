@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 203871,
+		"newsitems": [
+			{
+				"gid": "1498851600788066011",
+				"title": "Daily Deal - Microsoft Flight, 50% Off",
+				"url": "http://store.steampowered.com/news/10792/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 50% on <a href=\"http://store.steampowered.com/app/203850\">Microsoft Flight</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! *Offer ends Monday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/203850\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1370538000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

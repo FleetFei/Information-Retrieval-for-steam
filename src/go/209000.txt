@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 209000,
+		"newsitems": [
+			{
+				"gid": "524998829162735882",
+				"title": "The Steam Holiday Sale Day 2!",
+				"url": "http://store.steampowered.com/news/15326/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href='http://store.steampowered.com/'>Steam Holiday Sale </a> continues! For the next fifteen days, take advantage of huge saving throughout our store on thousands of games. Check back often to take advantage of new deals every 12 hours. Vote in the Community&#146;s Choice to help decide what games get an even deeper discount! In additi...",
+				"feedlabel": "Announcement",
+				"date": 1419012300,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "522745036016657186",
+				"title": "The Steam Exploration Sale Day 3!",
+				"url": "http://store.steampowered.com/news/15095/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "For the next six days, take advantage of huge savings throughout the Steam store on thousands of titles. Plus, discover new and recommended games on your personalized Exploration Sale page <a href=\"store.steampowered.com/explore/recommend/\">here</a>. Check back each day for new Daily Deals. Today&#146;s Featured Deals Include: * <a href=\"http://store.steampowered.com/app/4000/\">Garry's Mod</a> - 75% off; * ...",
+				"feedlabel": "Announcement",
+				"date": 1417197600,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "919041785924454191",
+				"title": "New Patch Released",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/919041785924454191",
+				"is_external_url": true,
+				"author": "ewbie",
+				"contents": "• Fix - Deathstroke’s Quick Fire Neural Pellets & Quick Fire Proximity Bomb are not working with mouse/keyboard • Cold, Cold Heart - DLC Support ",
+				"feedlabel": "Community Announcements",
+				"date": 1398107535,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 15
+	}
+}

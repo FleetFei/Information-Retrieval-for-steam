@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 204300,
+		"newsitems": [
+			{
+				"gid": "1858141774304088241",
+				"title": "Level editor contest winners!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1858141774304088241",
+				"is_external_url": true,
+				"author": "Rylynn",
+				"contents": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3948077/d8a6a01dd16f213a37660fc993e8719f1724601e.png The level editor contest ran for almost a month and the winners were announced on the last Streamisho! There were 28 entries to the contest and only one could win the grand prize...",
+				"feedlabel": "Community Announcements",
+				"date": 1492702050,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 204300
+			},
+			{
+				"gid": "75842128755440769",
+				"title": "Awesomenauts 4.0 - New Scoreboard and status dock!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75842128755440769",
+				"is_external_url": true,
+				"author": "Mitaki",
+				"contents": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3948077/ef392d05a20a808890ac118e6bc50b7710954e1d.jpgAwesomenauts 4.0 is just a week away! Tune in to the Streamisho on April 26th for the full reveal! For now, on top of all the stuff we've teased over the last week, we revealed a ...",
+				"feedlabel": "Community Announcements",
+				"date": 1492620661,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 204300
+			},
+			{
+				"gid": "75841595755176387",
+				"title": "Awesomenauts 4.0 - Meet a new friend!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75841595755176387",
+				"is_external_url": true,
+				"author": "Mitaki",
+				"contents": "https://www.youtube.com/watch?v=Uv8Gkc3OvBw Awesomenauts 4.0 is launching on April 26th, and we've got lots of new stuff lined up for you to get excited about. For now, it's time to meet a new friend!",
+				"feedlabel": "Community Announcements",
+				"date": 1492271232,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 204300
+			}
+		]
+		,
+		"count": 275
+	}
+}

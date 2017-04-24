@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 21400,
+		"newsitems": [
+			{
+				"gid": "1478591738297843798",
+				"title": "New Version 1.20 (with 1024x768)",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738297843798",
+				"is_external_url": true,
+				"author": "Fury161",
+				"contents": "We’ve released version 1.20 of Project Afermath today. It fixes a few bugs but more importantly introduces support for 1024×768 resolution. We've had quite a few requests for that res, so we hope it will bring PA to a few more peeps.",
+				"feedlabel": "Community Announcements",
+				"date": 1242926289,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738297805438",
+				"title": "follow Colonel Jack Morgan...",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738297805438",
+				"is_external_url": true,
+				"author": "Fury161",
+				"contents": "<a href=\"http://blog.gamesfaction.com/wp-content/uploads/2009/03/jack_facebook.jpg\"> </a> <strong>Colonel Jack has crash landed on earth!</strong> Whilst awaiting a rescue ship he decides to take a look around and chart his adventures on Facebook and Twitter! <em>\"While I'm here I thought I might as well see if the population are up to joining the glorious Morphid Army\"</em> Add Jack as a <a href=\"http://www.facebook.com/people/ColonelJack-Morgan/1167685184\">Facebook</a> friend or fol...",
+				"feedlabel": "Community Announcements",
+				"date": 1237834910,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738297805368",
+				"title": "Price Drop!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738297805368",
+				"is_external_url": true,
+				"author": "Fury161",
+				"contents": "We've reduced the price of Project Aftermath to a jaw dropping $9.99 With the recent update we think PA is now a very attractive purchase :)",
+				"feedlabel": "Community Announcements",
+				"date": 1236968514,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 9
+	}
+}

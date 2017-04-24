@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 215080,
+		"newsitems": [
+			{
+				"gid": "75839063733856795",
+				"title": "Update 1.52: Zinit is Ours!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75839063733856795",
+				"is_external_url": true,
+				"author": "[Flatops] Community Manager",
+				"contents": "Starting Tuesday, March 21st, Update 1.52 will take us to the assault on Mount Zinit! http://staticns.ankama.com/ankama/cms/images/273/2017/03/20/663169.jpg Some players took advantage of the Beta to explore and test content from the new update ahead of time. Everyone else will have to wait ‘til nex...",
+				"feedlabel": "Community Announcements",
+				"date": 1490064313,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 215080
+			},
+			{
+				"gid": "75836429557556953",
+				"title": "Steam's celebrating our 5th birthday!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75836429557556953",
+				"is_external_url": true,
+				"author": "[Flatops] Community Manager",
+				"contents": "All WAKFU Steam packs at 50% off? Of course! It's another gift from us to celebrate WAKFU's birthday! When your MMO turns five, that's something to be celebrated in the World of Twelve... and beyond! And the party's on until March 5th! http://staticns.ankama.com/upload/backoffice/direct/2017-02-20/4...",
+				"feedlabel": "Community Announcements",
+				"date": 1487645626,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "75835160693820663",
+				"title": "1.51 Serial Crafters: now online!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75835160693820663",
+				"is_external_url": true,
+				"author": "[Flatops] Community Manager",
+				"contents": "This new update has been revealed bit by bit on the forums and through an entire Devblog. It's time to go over what awaits you before you throw yourself into non-stop crafting, whether it's with your fellow Guild members or with complete strangers! http://staticns.ankama.com/upload/backoffice/direct...",
+				"feedlabel": "Community Announcements",
+				"date": 1486140805,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 98
+	}
+}

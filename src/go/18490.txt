@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 18490,
+		"newsitems": [
+			{
+				"gid": "424811334072000944",
+				"title": "Silence: Cinematic Trailer",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/424811334072000944",
+				"is_external_url": true,
+				"author": "Daedalic_Stormskull",
+				"contents": "Hi folks We are proud to present our new cinematic trailer for The Whispered World 2 - Silence. Take a look: http://www.gametrailers.com/videos/c63ztu/silence--the-whispered-world-ii-cinematic-trailer After losing his little sister Renie in the hazardous real world, Noah now hopes to find her again ...",
+				"feedlabel": "Community Announcements",
+				"date": 1435601053,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "920169016822536470",
+				"title": "Now Available on Steam - The Whispered World Special Edition, 20% off!",
+				"url": "http://store.steampowered.com/news/13255/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/268540/'>The Whispered World Special Edition</a> is Now Available on Steam and is 20% off!* When the fate of a world hangs in the balance, an unusual hero arises! The visually impressive adventure-epic The Whispered World is now available as a Special Edition for the first time. Let the Whispered World enchant y...",
+				"feedlabel": "Product Release",
+				"date": 1399401300,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "920166227240724411",
+				"title": "Weekend Deal - Daedalic Titles 50-90% Off!",
+				"url": "http://store.steampowered.com/news/12908/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 50-90% on all <a href='http://store.steampowered.com/sale/daedalic'>Daedalic Entertainment Titles</a> as part of this week's Weekend Deal*! <a href=\"http://store.steampowered.com/sub/41712/\">Daedalic Super Bundle</a> - 77% Off <a href=\"http://store.steampowered.com/app/249650/\">Blackguards</a> - 50% <a href=\"http://store.steampowered.com/app/214340/\">Deponia</a> - 90% <a href=\"http://store.steampowered.com/app/220740/\">Chaos on Deponia</a> - 66% <a href=\"http://store.steampowered.com/app/241910/\">Goodbye Deponia</a> - 50% Off <a href=\"http://store.steampowered.com/app/203830/\">The Dark Eye: Chains of Satinav</a> - 75% <a href=\"http://store.steampowered.com/app/18490/\">The Whispered World</a> - 80% <a href=\"http://store.steampowered.com/app/255280/\">1954 Alcatraz</a> - 50% Off <a href=\"http://store.steampowered.com/app/105000/\">A New Beginn...</a>",
+				"feedlabel": "Announcement",
+				"date": 1397149200,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 10
+	}
+}

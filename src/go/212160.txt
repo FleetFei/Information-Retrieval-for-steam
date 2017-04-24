@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 212160,
+		"newsitems": [
+			{
+				"gid": "75841595752199732",
+				"title": "[COMPLETED] Scheduled Maintenance - APR. 19, 2017",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75841595752199732",
+				"is_external_url": true,
+				"author": "Saygo",
+				"contents": "Maintenance on Vindictus is now complete. More info here: https://support.nexon.net/hc/en-us/articles/115001370723-Scheduled-Maintenance-on-April-19th On Wednesday, April 19th, all services for Vindictus will perform a scheduled maintenance in order to enable everyone around the globe to better enjo...",
+				"feedlabel": "Community Announcements",
+				"date": 1492639521,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 212160
+			},
+			{
+				"gid": "75837063472080113",
+				"title": "Forum Maintenance",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75837063472080113",
+				"is_external_url": true,
+				"author": "Saygo",
+				"contents": "Vindictus Forums will be going down for a short maintenance. We will update you when the forums are back online. Thank you for your patience",
+				"feedlabel": "Community Announcements",
+				"date": 1487874104,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "91591419806671529",
+				"title": "Enter the Abyssal Arena",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/91591419806671529",
+				"is_external_url": true,
+				"author": "Saygo",
+				"contents": "http://i.imgur.com/5vcJHfb.jpg Welcome to the Abyssal Arena update! The new battlefield might be the biggest features present, but with two new abilities to learn, new expansions on the Item Composition system, numerous new events and sales and dozens of other changes before you, there's plenty here...",
+				"feedlabel": "Community Announcements",
+				"date": 1479933649,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 24
+	}
+}

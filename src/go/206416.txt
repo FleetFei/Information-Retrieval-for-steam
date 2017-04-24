@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 206416,
+		"newsitems": [
+			{
+				"gid": "1515700144951290223",
+				"title": "New DLC Available - Crazy Machines Elements: Collision Course and Mental Activity",
+				"url": "http://store.steampowered.com/news/7609/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Crazy Machines Elements - <a href=\"http://store.steampowered.com/app/55382/\">Collision Course & Mental Activity</a> DLC is now available on Steam! Set your sights on higher grounds and venture where only the brainiest and bravest puzzle beasts will go! Solve each and every wallop-wack&#146;n level in the Collision Course puzzle pack as you take on chall...",
+				"feedlabel": "Product Release",
+				"date": 1332522420,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 15100,
+		"newsitems": [
+			{
+				"gid": "75839596806878935",
+				"title": "Ubisoft wants to make Assassin's Creed into a television series for some reason",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/75839596806878935",
+				"is_external_url": true,
+				"author": "",
+				"contents": "The Michael Fassbender-starring Assassin&apos;s Creed film that came out last year was, in <a href=\"http://www.pcgamer.com/assassins-creed-movie-review/\">our estimation</a>, &quot;a joyless retread of old ideas.&quot; Not terrible, exactly; just &quot;a bargain bin collection of lights and noise and punching&quot; that ultimately &#xA0;&quot;does nothing to change ...",
+				"feedlabel": "PC Gamer",
+				"date": 1490222828,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 15100
+			},
+			{
+				"gid": "84839823693328284",
+				"title": "Everything (we think) we know about the next Assassin s Creed",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/84839823693328284",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Since Altair&#x2019;s debut in 2007, we&#x2019;ve stabbed men with hidden illuminati blades during the Third Crusade, the Renaissance, the Colonial era, the French Revolution, and even off the back of horse buggies in the Victorian Era. We&#x2019;ve been chased over rooftops, eavesdropped from bench...",
+				"feedlabel": "PC Gamer",
+				"date": 1483559443,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "91593954436404156",
+				"title": "Assassin's Creed has its own, limited Humble Bundle",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/91593954436404156",
+				"is_external_url": true,
+				"author": "",
+				"contents": "If you&apos;re one of those people constantly anxious about your &quot;backlog&quot;, then I would heartily recommend not partaking in this newest Humble Bundle offer. You see, it&apos;s all about <a href=\"http://www.pcgamer.com/assassins-creed/\">Assassin&apos;s Creed</a> games, and they&apos;re notoriously long and full of things to collect. If you re...",
+				"feedlabel": "PC Gamer",
+				"date": 1483486677,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 396
+	}
+}

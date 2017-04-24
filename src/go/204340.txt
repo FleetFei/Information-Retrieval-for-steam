@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 204340,
+		"newsitems": [
+			{
+				"gid": "243580289112534104",
+				"title": "New Serious Sam 2 Steam update 269486",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/243580289112534104",
+				"is_external_url": true,
+				"author": "Dk",
+				"contents": "New Serious Sam 2 Steam update 269486 General Fixes/Improvements Fixed issue with server port not getting set for dedicated servers. Fixed texture stretching for the Auto aim HUD element. Serious Sam 2 Fixes/Improvements Fixed the possibility of the game getting stuck when a player tries to pick an ...",
+				"feedlabel": "Community Announcements",
+				"date": 1472709248,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "341513287007069342",
+				"title": "Beta update 252822 promoted to main",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/341513287007069342",
+				"is_external_url": true,
+				"author": "Dk",
+				"contents": "New Serious Sam 2 Steam update 252822 The beta update 252822 has been promoted from public beta to main. General Fixes/Improvements Removed the ability to start a vote while another vote is in progress. Fixed voting for next map in Coop not working. Fixed original demos crashing when played. Removed...",
+				"feedlabel": "Community Announcements",
+				"date": 1453522993,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "419185796423172814",
+				"title": "Croteam games available at discounted prices – check it out!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/419185796423172814",
+				"is_external_url": true,
+				"author": "leamatea87",
+				"contents": "For all you Sam fans out there we have some great news: as a part of Devolver Digital Weekend Sale (August 13-17th) ALL Croteam's games are on sale NOW! This is the time to complete your Serious Sam collection and a chance to try something different and challenge your mind even more with critically ...",
+				"feedlabel": "Community Announcements",
+				"date": 1439488116,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 16
+	}
+}

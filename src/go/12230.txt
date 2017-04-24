@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 12230,
+		"newsitems": [
+			{
+				"gid": "258212550623787456",
+				"title": "The most ambitious PC games",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/258212550623787456",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Every game is ambitious. It s not easy to turn a beautiful idea into a finished, playable game as developers have said time and again, sometimes it feels almost impossible. As miraculous as finishing any game might be, not all games are created equal. Some stretch the boundaries of technology to the...",
+				"feedlabel": "PC Gamer",
+				"date": 1468457234,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "518256108451933128",
+				"title": "Reinstall: Grand Theft Auto III",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/518256108451933128",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Reinstall <a href=\"http://www.pcgamer.com/reinstall/\">Reinstall</a> invites you to join us in revisiting PC gaming days gone by. Today, Andy packs his bags for a holiday in&nbsp;old-Liberty City. The mean streets of Liberty City aren t quite as mean as I remember them. Where once I saw a brilliantly realised, detailed replica of New York City, I ...",
+				"feedlabel": "PC Gamer",
+				"date": 1431099000,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "517127039054796381",
+				"title": "Surviving Grand Theft Auto's pedestrian cheats",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/517127039054796381",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Why I Love In <a href=\"http://www.pcgamer.com/why-i-love/\">Why I Love</a>, PC Gamer writers pick an aspect of PC gaming that they love and write about why it's brilliant. Today, Phil explains the joy of GTA's riot mode cheats. People can be funny about cheats. Some take a hard line against them. They're only interested in the game as it was meant ...",
+				"feedlabel": "PC Gamer",
+				"date": 1428515341,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 7
+	}
+}

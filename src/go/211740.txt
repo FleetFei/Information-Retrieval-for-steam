@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 211740,
+		"newsitems": [
+			{
+				"gid": "91592690509787173",
+				"title": "The best stealth games on PC",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/91592690509787173",
+				"is_external_url": true,
+				"author": "",
+				"contents": "We&#x2019;ve been playing stealth games for decades now, infiltrating military bases undetected, choking henchmen from behind and packing ventilation shafts with their naked unconscious bodies. But making sneaking fun isn&#x2019;t easy. Full spatial awareness, how to communicate your visibility, and...",
+				"feedlabel": "PC Gamer",
+				"date": 1481670011,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "241332296594955950",
+				"title": "Thief's brilliant subtlety is still unmatched 18 years later",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/241332296594955950",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a target=\"_blank\"> </a> At the end of Thief: The Dark Project, one of its characters muses on the future. Beware the dawn of the Metal Age, he says, looking out over the steampunk city. That line was contributed by Terri Brosius, one of the game's writers and designers as well as the voice of Viktoria (she also provided ...",
+				"feedlabel": "PC Gamer",
+				"date": 1476377549,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "522744579463319871",
+				"title": "Of Crime And The City In Thief, Dickens And GTA",
+				"url": "http://store.steampowered.com/news/externalpost/rps/522744579463319871",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "<em>Every Sunday, we reach deep into Rock, Paper, Shotgun&#8217;s 141-year history to pull out one of the best moments <a href=\"http://www.rockpapershotgun.com/tag/from-the-archive/\">from the archive</a>. This week, Adam&#8217;s 2012 article singing the praises of videogame cities which are more than mere reconstruction, but are built from the bricks and mortar of ideas...</em>",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1416754838,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

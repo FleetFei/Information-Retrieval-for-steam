@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 201210,
+		"newsitems": [
+			{
+				"gid": "75837698154121889",
+				"title": "Pox Nora  Space Wars at PAX East",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75837698154121889",
+				"is_external_url": true,
+				"author": "Senshu",
+				"contents": "Greetings Everyone, We are happy to announce that both Pox Nora & Space Wars will be at PAX East! https://d2wyctv03a17c5.cloudfront.net/poxcards_logo2.png Pox Nora Pox Nora will be available to play at the Sony booth. This demo will show off even more of the game than what was at the PlayStation Exp...",
+				"feedlabel": "Community Announcements",
+				"date": 1488854503,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 201210
+			},
+			{
+				"gid": "75835955390022654",
+				"title": "Companionship Gala and February 9th Patch",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75835955390022654",
+				"is_external_url": true,
+				"author": "Senshu",
+				"contents": "Greetings Everyone, Development of the new Pox Nora game client is continuing to progress, but as that draws closer a preparatory patch is needed to make some back end changes to the game. This patch will also include some things that all of you will notice including some balance changes. Companions...",
+				"feedlabel": "Community Announcements",
+				"date": 1486682012,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "91593398099908548",
+				"title": "Pox Nora Winter 2016 Patch Notes",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/91593398099908548",
+				"is_external_url": true,
+				"author": "Senshu",
+				"contents": "Greetings Everyone, We want 2016 to end with a Bang, with a Massive Update and Awesome Deals! https://d2wyctv03a17c5.cloudfront.net/WinterSaleLarge2016.jpg We are happy to say the free Winter Holiday campaign featuring the lovable Krampus is once again available. Along with the Holiday Reskin, Holid...",
+				"feedlabel": "Community Announcements",
+				"date": 1481831597,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 54
+	}
+}

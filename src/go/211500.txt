@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 211500,
+		"newsitems": [
+			{
+				"gid": "1858141774304180682",
+				"title": "20-04-2017 RaceRoom has been updated",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1858141774304180682",
+				"is_external_url": true,
+				"author": "[Sector3] Sonat Ozturk",
+				"contents": "20-04-2017 Added McLaren 650S GT3 which is now available in the store. Game: Data displays: - Fixed wrong color of delta and laptime on some of the new data displays. - Fixed an issue where Low Fuel warning on data display screen wasn’t going away. - Fixed an issue on cars with new data displays whe...",
+				"feedlabel": "Community Announcements",
+				"date": 1492704260,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 211500
+			},
+			{
+				"gid": "75840229405163921",
+				"title": "08-04-2017 Raceroom has been updated (hotfix)",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75840229405163921",
+				"is_external_url": true,
+				"author": "[Sector3] Sonat Ozturk",
+				"contents": "Update --- 08-04-2017 RaceRoom has been updated (hotfix) - Fixed Replay playback menu being disabled. --- 07-04-2017 Hotfix - Fixed a memory leak on spectator mode that was causing a crash for the spectator.",
+				"feedlabel": "Community Announcements",
+				"date": 1491572004,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 211500
+			},
+			{
+				"gid": "75840229401617571",
+				"title": "06-04-2017 RaceRoom has been updated (Hotfix)",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75840229401617571",
+				"is_external_url": true,
+				"author": "[Sector3] Sonat Ozturk",
+				"contents": "06-04-2017 Hotfix Patch - Fixed issue where the 2 new released BMW M6 liveries (#19 and #20) were not visible in the menus. - Fixed issue where the game client was sending empty password to server regardless of what the player entered when joining a Multiplayer session on a password protected server...",
+				"feedlabel": "Community Announcements",
+				"date": 1491487214,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 211500
+			}
+		]
+		,
+		"count": 113
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 212172,
+		"newsitems": [
+			{
+				"gid": "1478591738543832682",
+				"title": "New DLC Available - Vindictus Melee Makeover",
+				"url": "http://store.steampowered.com/news/11297/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/212172'>Vindictus: Melee Makeover</a> is Now Available on Steam! This all-new package for Vindictus contains the following: <b>Permanent Hair Coupon, Permanent Inner Armor Coupon, Face Tattoo Coupon, Body Tattoo Coupon, 3 Clodagh's Dye Ampoules, and a Fixed Black Dye Ampoule.</b> <a href=\"http://store.steampowered.com/app/212172/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1376957280,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

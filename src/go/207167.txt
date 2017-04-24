@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 207167,
+		"newsitems": [
+			{
+				"gid": "1514576159312839277",
+				"title": "Now Available - Stellar Impact, 20% off!",
+				"url": "http://store.steampowered.com/news/7735/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/207150/\">Stellar Impact</a> is Now Available on Steam! In Stellar Impact you command a space battleship in intense tactical multi-player battles! You can choose between several ship classes--from the fast corvette to the heavy dreadnought. Make your own skills template according to your preferences: attack, defe...",
+				"feedlabel": "Product Release",
+				"date": 1334333460,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

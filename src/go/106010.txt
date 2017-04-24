@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 106010,
+		"newsitems": [
+			{
+				"gid": "1443640567820154629",
+				"title": "New Free to Play on Steam - Pandora Saga: Weapons of Balance",
+				"url": "http://store.steampowered.com/news/7447/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/106010/\">Pandora Saga: Weapons of Balance</a> is Now Available and Free to Play on Steam! Pandora Saga's engaging gameplay features mounted combat, an immersive story, and a rich community. Vivid graphics, uplifting music, and exciting adventures lead the player through a vast and challenging world. Main and sid...",
+				"feedlabel": "Product Release",
+				"date": 1330627560,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

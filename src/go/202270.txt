@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 202270,
+		"newsitems": [
+			{
+				"gid": "423688416229820601",
+				"title": "Daily Deal - Leviathan: Warships, 66% Off",
+				"url": "http://store.steampowered.com/news/17867/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% on <a href='http://store.steampowered.com/app/202270/'>Leviathan: Warships</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Thursday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/202270/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1438707600,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1461706326571924303",
+				"title": "New DLC Available - Leviathan Warships: Commonwealth Unit Pack",
+				"url": "http://store.steampowered.com/news/11507/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/245030/'>Commonwealth Unit Pack</a>, all new content for <a href='http://store.steampowered.com/app/202270/'>Leviathan: Warships</a> is Now Available on Steam! Explore new tactics with 3 brand new ships, The Bluebell, Heavy Scout, and Katakus, from the Commonwealth shipyards. <a href=\"http://store.steampowered.com/app/245030/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1380028200,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1496600434918104211",
+				"title": "Mingus Mingus Leviathan Warships Mingus Mingus",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1496600434918104211",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alec Meer)",
+				"contents": "The terrible tragedy of cheery naval combat knees-up Leviathan Warships was that it presented a wonderful scenario it failed to deliver on. That scenario was jazz and honeyed narration in a <a href=\"http://www.rockpapershotgun.com/2013/04/17/youre-the-boat-boss-leviathans-smooth-mooves/\">memetastic trailer</a>, only for such things to be entirely absent from the game proper. This terrible oversight h...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1371106806,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

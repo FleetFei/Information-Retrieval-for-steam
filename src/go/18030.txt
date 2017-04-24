@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 18030,
+		"newsitems": [
+			{
+				"gid": "1136252673392821841",
+				"title": "Penny Arcade Adventures: Episode 3 developed by Zeboyd Games",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1136252673392821841",
+				"is_external_url": true,
+				"author": "Andrew Yoon",
+				"contents": "Penny Arcade's <a href=\"http://www.shacknews.com/game/penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-ep-2\">On the Rainslick Precipice of Darkness</a> was meant to be a trilogy, but that plan was <a href=\"http://www.shacknews.com/article/63028/penny-arcade-adventures-series-cancelled\">cut short</a> when developer Hothead decided to move onto the DeathSpank franchise. Today, the Penny Arcade Adventures have been resurrected again, new developer in tow. Zeboyd Games, developer of <a href=\"http://www.shacknews.com/article/69062/cthulhu-saves-world-and-breath\">Cthulu S...</a>",
+				"feedlabel": "Shacknews",
+				"date": 1314377100,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

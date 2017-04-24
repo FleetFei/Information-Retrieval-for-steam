@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 20929,
+		"newsitems": [
+			{
+				"gid": "919035892212502731",
+				"title": "The Witcher series gets free Steam weekend",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/919035892212502731",
+				"is_external_url": true,
+				"author": "Andrew Yoon",
+				"contents": "If you've yet to experience CD Projekt RED's RPG series, you'll be able to jump in for free this weekend on Steam. Both <a href=\"http://store.steampowered.com/app/20900/\" target=\"blank\">The Witcher Enhanced Edition</a> and <a href=\"http://store.steampowered.com/app/20920/\" target=\"blank\">The Witcher 2: Assassins of Kings</a> will be free to play until Sunday, 1PM PT.",
+				"feedlabel": "Shacknews",
+				"date": 1392378300,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738385045622",
+				"title": "Weekend Confirmed 178 - Call of Duty: Ghosts, Payday 2",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1478591738385045622",
+				"is_external_url": true,
+				"author": "Ozzie Mejia",
+				"contents": "The summer's winding down, which means the world of games is about to heat up. Hosts Garnett Lee and Jeff Cannata welcome \"Indie\" Jeff Mattas to discuss Payday 2 and Brothers: A Tale of Two Sons before jumping into the announcement of GTA Online and discussing the current state of Valve. The second ...",
+				"feedlabel": "Shacknews",
+				"date": 1376650800,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1459442480482163425",
+				"title": "The Witcher 2 mod tools released",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1459442480482163425",
+				"is_external_url": true,
+				"author": "Alice O'Connor",
+				"contents": "We may have a long wait for <a href=\"http://www.shacknews.com/game/witcher-3-wild-hunt\">The Witcher 3: Wild Hunt</a> ahead of us, but at least we should get plenty to keep us busy until then. CD Projekt RED today launched <a href=\"http://www.shacknews.com/game/the-witcher-2-assassins-of-kings\">The Witcher 2</a>'s <a href=\"http://www.shacknews.com/article/76279/redkit-launches-in-2013-lets-you-mod-the-witcher-2\">promised</a> modding tool set, the REDkit, so hopefully all sorts of wonders and oddities are coming and heck, we can all make our...",
+				"feedlabel": "Shacknews",
+				"date": 1368424800,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 87
+	}
+}

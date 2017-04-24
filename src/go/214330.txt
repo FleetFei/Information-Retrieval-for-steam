@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 214330,
+		"newsitems": [
+			{
+				"gid": "1461694911470706006",
+				"title": "New DLC Available - Dollar Dash - More Ways to Win DLC",
+				"url": "http://store.steampowered.com/news/10652/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/214330/'>Dollar Dash - More Ways to Win DLC</a>, all new content for <a href='http://store.steampowered.com/app/214320/'>Dollar Dash</a> is Now Available on Steam! Now unlock a completely new game mode \"Topscorer\" with six maps and a mass of new exciting in-game shop content, such as a new victory dance, costumes and in-game icons! The challenge is set, as each playe...",
+				"feedlabel": "Product Release",
+				"date": 1369153320,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

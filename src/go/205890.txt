@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 205890,
+		"newsitems": [
+			{
+				"gid": "91593954392235344",
+				"title": "Steam Winter Sale",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/91593954392235344",
+				"is_external_url": true,
+				"author": "RedFox",
+				"contents": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/4461238/91c41112b82d05287915f4835fee8b24d43904db.png The Steam Winter Sale has started! For the duration of the Winter Sale there’s a huge 50% off Foundation, Epic, and Legendary Packs in the Steam store. Pick up one of the packs f...",
+				"feedlabel": "Community Announcements",
+				"date": 1482429911,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "91593325386096527",
+				"title": "Steam Workshop Support - Patch 1.5.3",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/91593325386096527",
+				"is_external_url": true,
+				"author": "Balance",
+				"contents": "Steam Workshop support! http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/4461238/469135f3403a12ce07c5cc546f2f4550c6fde2b8.jpg You can now design and create your very own Campaign missions! Jump in game to build your own adventures using assets from the game, then submit it to the...",
+				"feedlabel": "Community Announcements",
+				"date": 1481729785,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "127619582136526885",
+				"title": "PATCH NOTES - RELEASE 1.5.2",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/127619582136526885",
+				"is_external_url": true,
+				"author": "SallyTheButcher",
+				"contents": "Patch 1.5.2 arrives today - with 17 card balancing changes, plus some critical bug fixes to help improve game stability. If you want to find out what else is to come, head over to our Fall Development Update which includes our aspirations to integrate with Steam Workshop. Ramp and Rejuvenation Balan...",
+				"feedlabel": "Community Announcements",
+				"date": 1479812187,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 22
+	}
+}

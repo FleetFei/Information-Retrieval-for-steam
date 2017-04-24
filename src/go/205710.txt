@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 205710,
+		"newsitems": [
+			{
+				"gid": "1459455885556856232",
+				"title": "New DLC Available - EverQuest: Call of the Forsaken",
+				"url": "http://store.steampowered.com/news/11588/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/249760/'>EverQuest: Call of the Forsaken</a>, all new content for <a href='http://store.steampowered.com/app/205710/'>Everquest &reg; Free-To-Play. Your Way.&trade;</a> is Now Available on Steam! The 20th expansion brings all new Zones, Features and Raids, such as Bixie Warfront Zone, Mercenary AA's and Gear and Heroic Adventures are Now Available! <a href=\"http://store.steampowered.com/app/249760/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1381266720,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

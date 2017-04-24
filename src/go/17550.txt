@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 17550,
+		"newsitems": [
+			{
+				"gid": "1478591738298993654",
+				"title": "[Workaround] SteamUserID Ticket",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738298993654",
+				"is_external_url": true,
+				"author": "Sghirαtë",
+				"contents": "Good day pilots, lately Eternal Silence had major issues with steam, which also messed with our GameTimes - sadly the section causing problems is not accessible for mod coders (meaning it is hard/impossible to debug), but Kage found a fix inside the forums for the game \"The Ship\" (so apparently we w...",
+				"feedlabel": "Community Announcements",
+				"date": 1331166163,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738298847050",
+				"title": "Survey to help Eternal Silence!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738298847050",
+				"is_external_url": true,
+				"author": "johny",
+				"contents": "Good Day Pilots, we are currently working very hard to make some changes to Eternal Silence to make it more appealing to new players and bring back veterans. If you give us 5 minutes of your precious time, please take part in our little survey: http://www.eternal-silence.net/forums/index.php/topic,6...",
+				"feedlabel": "Community Announcements",
+				"date": 1311469077,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1138497588142331905",
+				"title": "Eternal Silence Updated",
+				"url": "http://store.steampowered.com/news/5637/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Added: * Ignition Point Entertainment Startup-Video Stealth mode (cut engine flight) ;* Subsystem display in space (Hardcore-Mode. Visible in Attack Phase) ;* Tooltips for Weapon Kits Time limit for Territory gamemode; Changed/fixed: * Railgun (removed crosshair and reduced accuracy in unzoomed mode...",
+				"feedlabel": "Product Update",
+				"date": 1307659200,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

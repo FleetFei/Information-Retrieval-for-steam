@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 108110,
+		"newsitems": [
+			{
+				"gid": "521613514549020616",
+				"title": "Twin Systems: Starpoint Gemini 2",
+				"url": "http://store.steampowered.com/news/externalpost/rps/521613514549020616",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "This is the year in which I finally fulfilled my childhood dream by becoming an interest following <a href=\"https://twitter.com/Astro_Alex\">a man who lives on a space station on Twitter</a>. You might think that would be enough hot space action to satisfy my stellar carvings but you&#8217;d be wrong. I&#8217;ve got a hankering for space dust t...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1412010059,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1459453260302809230",
+				"title": "Now Available - Starpoint Gemini 2 - Early Access",
+				"url": "http://store.steampowered.com/news/11411/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/236150/'>Starpoint Gemini 2</a> is Now Available in Early Access on Steam. Buy the Alpha version and get a free copy of Starpoint Gemini! Captain your own space ship and roam the galaxy in 3D in this tactical space simulator with tons of RPG depth ! Space has never looked so inviting - but images can betray... I...",
+				"feedlabel": "Announcement",
+				"date": 1378494960,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514591922253633236",
+				"title": "Daily Deal - Starpoint Gemini, 66% off!",
+				"url": "http://store.steampowered.com/news/8994/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% off <a href=\"http://store.steampowered.com/app/108110/\">Starpoint Gemini</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/108110/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1349283600,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 6
+	}
+}

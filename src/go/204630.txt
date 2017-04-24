@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 204630,
+		"newsitems": [
+			{
+				"gid": "91592053103093673",
+				"title": "New Shakedown: Hawaii Trailer",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/91592053103093673",
+				"is_external_url": true,
+				"author": "briprov",
+				"contents": "https://s3.amazonaws.com/vblanksite/rocketsign_web.jpg The follow up to Retro City Rampage, Shakedown: Hawaii has a new trailer! Check it out at https://www.youtube.com/watch?v=Wz8b9jhzGQw For more info on the game, jump to vblank.com/ShakedownHawaii. https://s3.amazonaws.com/vblanksite/ShakedownHaw...",
+				"feedlabel": "Community Announcements",
+				"date": 1480550961,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "272838467490214006",
+				"title": "What would you like to see in the next game? [SURVEY]",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/272838467490214006",
+				"is_external_url": true,
+				"author": "briprov",
+				"contents": "https://pbs.twimg.com/media/CeK8Wx_VIAAH_Ur.jpg:large What would you like to see in Retro City Rampage follow ups? Please let me know, here: https://docs.google.com/forms/d/1LqWJ0fnsXe-dMHAJJS9Y2d1KQhB05s6kWHqnV6Yn9Ao/viewform?c=0&w=1 Which weapons would you like to see in Shakedown Hawaii? What was...",
+				"feedlabel": "Community Announcements",
+				"date": 1458687123,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "377537016001917973",
+				"title": "Shakedown Hawaii, follow up to Retro City Rampage Announced!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/377537016001917973",
+				"is_external_url": true,
+				"author": "briprov",
+				"contents": "I'm excited to announce that fans of Retro City Rampage can finally look forward to a new installment in the Vblank open world universe! It's titled Shakedown Hawaii, and yup, it's coming to Steam! Check out the trailer and images below... https://youtu.be/YV0qd7jr6yw http://vblank.com/ShakedownHawa...",
+				"feedlabel": "Community Announcements",
+				"date": 1448478310,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 24
+	}
+}

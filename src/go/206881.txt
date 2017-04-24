@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 206881,
+		"newsitems": [
+			{
+				"gid": "1513451426155489941",
+				"title": "New DLC Available - Airline Tycoon 2 Honey Airlines",
+				"url": "http://store.steampowered.com/news/7843/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The Airline Tycoon 2 <a href=\"http://store.steampowered.com/app/206881/\">Honey Airlines</a> DLC is Now Available on Steam! Mamma Mia! Airline Tycoon 2 gains Italian flair with this DLC. Mario Zucchero is back in the airline business, and just like in the good old days, it&#146;s all about power, dough and amore. Play the entire previous campaign plus two...",
+				"feedlabel": "Product Release",
+				"date": 1335475680,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

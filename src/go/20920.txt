@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 20920,
+		"newsitems": [
+			{
+				"gid": "518256742343923044",
+				"title": "Now Available on Steam - The Witcher 3: Wild Hunt",
+				"url": "http://store.steampowered.com/news/16854/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/292030/'>The Witcher&reg; 3: Wild Hunt</a> is Now Available on Steam! The Witcher is a story-driven, next-generation open world role-playing game, set in a visually stunning fantasy universe, full of meaningful choices and impactful consequences. In The Witcher, you play as Geralt of Rivia, a monster hunter task...",
+				"feedlabel": "Product Release",
+				"date": 1431992520,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "521616049227963091",
+				"title": "The Witcher 3 s Intro Cutscene Has All The Special Effects",
+				"url": "http://store.steampowered.com/news/externalpost/rps/521616049227963091",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alec Meer)",
+				"contents": "What is a roleplaying game without an extravagant pre-rendered introductory cutscene these days, eh? One I can start playing that much quicker, that&#8217;s what. But The Witcher 3: Wild Hunt means to take its place in the RPG premiership, and it&#8217;s got the CGI to prove it. Killings! Fire! Vast...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1414164616,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "552007738723761177",
+				"title": "The best RPGs of all time",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/552007738723761177",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/gallery/the-best-rpgs-of-all-time/\" rel=\"bookmark\" title=\"Permanent Link to The best RPGs of all time\"> </a> ",
+				"feedlabel": "PC Gamer",
+				"date": 1406741428,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 129
+	}
+}

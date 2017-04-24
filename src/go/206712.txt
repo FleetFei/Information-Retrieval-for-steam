@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 206712,
+		"newsitems": [
+			{
+				"gid": "1514576159295557470",
+				"title": "New DLC Available - Cities in Motion: ULM",
+				"url": "http://store.steampowered.com/news/7727/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/206712\">Cities in Motion: ULM</a> is now available on Steam for both Mac and PC! Ulm is a quaint, idyllic German city best known as the birthplace of physicist Albert Einstein. Despite its&#146; small size, Ulm requires the updated and encompassing transportation network its&#146; citizens deserve. In this cond...",
+				"feedlabel": "Product Release",
+				"date": 1334249160,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

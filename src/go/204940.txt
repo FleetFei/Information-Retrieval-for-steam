@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 204940,
+		"newsitems": [
+			{
+				"gid": "919039334540384963",
+				"title": "Crusader Kings II: Rajas of India interview: new religions, tiger hunting, and war elephants",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/919039334540384963",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2014/03/24/crusader-kings-ii-rajas-of-india-interview-new-religions-tiger-hunting-and-war-elephants/\" rel=\"bookmark\" title=\"Permanent Link to Crusader Kings II: Rajas of India interview: new religions, tiger hunting, and war elephants\"> </a> Crusader Kings II: Rajas of India releases this Tuesday, expanding the map of Paradox's medieval strategy sandbox to central Asia and the Indian subcontinent. Not one to venture into strange, new lands unprepared, I met with CK2 lead designer Henrik F hraeus to learn everything there was to know a...",
+				"feedlabel": "PC Gamer",
+				"date": 1395689460,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1389605077250701882",
+				"title": "Crusader Kings II is Now Available on Mac!",
+				"url": "http://store.steampowered.com/news/8056/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/203770/\">Crusader Kings II</a> is now available on on Mac! Buy it once. Play it on both Mac & PC! Crusader Kings II explores one of the defining periods in world history in an experience crafted by the masters of Grand Strategy. Medieval Europe is brought to life in this epic game of knights, schemes, and throne...",
+				"feedlabel": "Product Release",
+				"date": 1337880540,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1425624705001838642",
+				"title": "Now Available - Crusader Kings II",
+				"url": "http://store.steampowered.com/news/7340/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/203770/\">Crusader Kings II</a> is now available on Steam! Crusader Kings II explores one of the defining periods in world history in an experience crafted by the masters of Grand Strategy. Medieval Europe is brought to life in this epic game of knights, schemes, and thrones... Additionally, you can now purchase ...",
+				"feedlabel": "Product Release",
+				"date": 1329244260,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

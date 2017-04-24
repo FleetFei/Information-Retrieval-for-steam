@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 12180,
+		"newsitems": [
+			{
+				"gid": "518255472515348364",
+				"title": "GTA 2 recreated in real life thanks to drone technology",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/518255472515348364",
+				"is_external_url": true,
+				"author": "",
+				"contents": "If you've ever questioned the value of hobby drones, the above video perfectly demonstrates why they need to exist. As spotted by&nbsp;<a href=\"http://www.kotaku.com.au/2015/05/gta-recreated-perfectly-in-real-life/\">Kotaku</a>, a bunch of&nbsp;<a href=\"https://www.youtube.com/channel/UCKVpHlW2OdhcwxiYMULRqLA\">clever folk</a> have recreated GTA 2 using a drone, several cars and lots of red jumpers. If you've ever controlled a drone for five minutes with...",
+				"feedlabel": "PC Gamer",
+				"date": 1430708400,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "515999235582653674",
+				"title": "BBC announces TV drama about the making of GTA",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/515999235582653674",
+				"is_external_url": true,
+				"author": "",
+				"contents": "A drama \"based on Grand Theft Auto\" is being made for British TV by the BBC. It's part of the BBC's \"Make It Digital\" campaign, which hopes to \"get the nation truly excited about digital creativity\". It's being co-developed by games and technology&nbsp;journalist&nbsp;Guy Cocker, who confirms on&nbs...",
+				"feedlabel": "PC Gamer",
+				"date": 1426165176,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1459441364995486780",
+				"title": "Grand Theft Auto 1 and 2 coming to PlayStation Network",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1459441364995486780",
+				"is_external_url": true,
+				"author": "Steve Watts",
+				"contents": "Rockstar has been releasing its entire Grand Theft Auto library slowly but surely on PlayStation Network. But now that the two \"<a href=\"http://www.shacknews.com/article/78489/grand-theft-auto-city-stories-games-on-psn-next-week\">Stories</a>\" games have hit, it's running low on the modern-era games. What to do? Why, release the classic overhead ones, of course. A pair of <a href=\"http://www.esrb.org/ratings/search.jsp\" target=\"_blank\">ESRB listings</a> (via <a href=\"http://www.neogaf.com/forum/showthread.php?t=551744\" target=\"_blank\">NeoGAF</a>) have ...",
+				"feedlabel": "Shacknews",
+				"date": 1367404200,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 10
+	}
+}

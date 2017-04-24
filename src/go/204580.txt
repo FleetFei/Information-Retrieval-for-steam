@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 204580,
+		"newsitems": [
+			{
+				"gid": "521614893462401243",
+				"title": "[STEAM FOCUS WEEKEND 09-13 OCT]",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/521614893462401243",
+				"is_external_url": true,
+				"author": "Neitsabes",
+				"contents": "Rotastic is currently 75% off! Collect items, escape deadly traps, send your opponents flying to their doom, smash bricks, execute aerial acrobatics, burst chickens to dust and feathers, or top the fastest speedruns! Also available, exceptional discounts on the entire Focus catalog including fresh r...",
+				"feedlabel": "Community Announcements",
+				"date": 1412875796,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1515718446142962986",
+				"title": "Now Available - Rotastic, 25% off!",
+				"url": "http://store.steampowered.com/news/9058/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/204580/\">Rotastic</a> is now available on Steam and as part of the <a href=\"http://store.steampowered.com/sale/focusweekend2012/\">Focus Weekend Deal</a> is 25% off until October 15th at 10 AM Pacific Time. Rotastic is an addictive 2D arcade game, offering accessible, innovative and original gameplay, and a huge dose of fun without taking itself too seriously. Behind very simple...",
+				"feedlabel": "Product Release",
+				"date": 1349974800,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

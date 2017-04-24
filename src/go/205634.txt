@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 205634,
+		"newsitems": [
+			{
+				"gid": "1477443562987536888",
+				"title": "New DLC Available - Tropico 4: Vigilante DLC",
+				"url": "http://store.steampowered.com/news/9613/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/205634/'>Tropico 4: Vigilante DLC</a>, all new content for <a href='http://store.steampowered.com/app/57690/'>Tropico 4: Steam Special Edition</a> is Now Available on Steam! People on the island know him as El Presidente, their absolute ruler. Little they suspect that he is also the Masked Avenger, the mysterious dashing rogue that wages war against crime, rebels an...",
+				"feedlabel": "Product Release",
+				"date": 1355848380,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

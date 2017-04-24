@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 214830,
+		"newsitems": [
+			{
+				"gid": "544128976829461371",
+				"title": "Get this game free.",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/544128976829461371",
+				"is_external_url": true,
+				"author": "Lonesteban",
+				"contents": "You can get this game free by buying the sequel!! http://store.steampowered.com/app/240970/ Buy HMH2 and you will receive: A free copy of the first game: Half-Minute Hero: Super Mega Neo Climax Ultimate Boy! The complete soundtrack for Half-Minute Hero: The Second Coming! You will not receive extra ...",
+				"feedlabel": "Community Announcements",
+				"date": 1409640214,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "552009641975041981",
+				"title": "HMH 2 on sale! LATE ACCESS!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/552009641975041981",
+				"is_external_url": true,
+				"author": "Lonesteban",
+				"contents": "From August 25th until August 31st, purchase the Half Minute Hero Bundle at 33% off and receive: A free copy of the first game: Half-Minute Hero: Super Mega Neo Climax Ultimate Boy! The complete soundtrack for Half-Minute Hero: The Second Coming! A loyalty discount of 50% on Skullgirls until Septemb...",
+				"feedlabel": "Community Announcements",
+				"date": 1409040786,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "920166226906718984",
+				"title": "Half Minute Hero 2 Counting Down To Launch",
+				"url": "http://store.steampowered.com/news/externalpost/rps/920166226906718984",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "21 seconds may be sufficient time <a href=\"https://www.youtube.com/watch?v=g7VhofoV3qs\">to flow</a>, but to save the world you really should schedule in 30. And then another 30. And then oh! hurry! another 30, if you make it in time. That&#8217;s the big idea of <a href=\"http://store.steampowered.com/app/240970/\">Half Minute Hero: The Second Coming</a>, which doles out bursts of action as your hero runs around ...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1396533642,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 14
+	}
+}

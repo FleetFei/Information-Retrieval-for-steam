@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 204140,
+		"newsitems": [
+			{
+				"gid": "1461666363781639402",
+				"title": "Daily Deal - All Zombies Must Die, 66% off!",
+				"url": "http://store.steampowered.com/news/8360/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% off <a href=\"http://store.steampowered.com/app/204140/\">All Zombies Must Die</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/204140/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1341853500,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514576755589088746",
+				"title": "Now Available - All Zombies Must Die! - Scorepocalypse",
+				"url": "http://store.steampowered.com/news/7781/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/209360/\">All Zombies Must Die! - Scorepocalypse</a> is Now Available on Steam and 20% off*! Step into the sturdy boots of McJagger and take on an army of the undead! In the standalone spin-off to All Zombies Must Die!, the only thing that really matters is your score. Build your multiplier and rack up as many ki...",
+				"feedlabel": "Product Release",
+				"date": 1334859840,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1443641195670227276",
+				"title": "Now Available - All Zombies Must Die!, 20% Off",
+				"url": "http://store.steampowered.com/news/7508/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/204140/\">All Zombies Must Die!</a> is Now Available on Steam and 20% off.* Reload your shotgun, sharpen your sword and rev that chainsaw; Deadhill town is teeming with zombies, and it&#146;s your job to put &#145;em down! The fate of humanity rests in the hands of four unlikely heroes: Jack, the gamer; Rachel, t...",
+				"feedlabel": "Product Release",
+				"date": 1331572200,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 207380,
+		"newsitems": [
+			{
+				"gid": "423688416252871016",
+				"title": "60% OFF eXceed 2nd - Vampire REX during Japanese Indie Games Festival",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/423688416252871016",
+				"is_external_url": true,
+				"author": "jay_rab",
+				"contents": "Hey eXceeders! Now until the 18th eXceed 2nd - Vampire REX will be on sale for 60% off for the Japanese Indie Games Festival you can pick up this title here: http://store.steampowered.com/app/207380/ As well as other Exceed like games: KAMUI 50% SATAZIUS 66% ETHER VAPOR Remaster 60% eXceed - Gun Bul...",
+				"feedlabel": "Community Announcements",
+				"date": 1439258831,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

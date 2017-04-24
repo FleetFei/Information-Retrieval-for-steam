@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 214910,
+		"newsitems": [
+			{
+				"gid": "920164870783953514",
+				"title": "75% Discount: bitComposer is celebrating its 5th anniversary!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/920164870783953514",
+				"is_external_url": true,
+				"author": "AndersCM",
+				"contents": "bitComposer turns 5 and celebrates with a huge discount on the Air Conflicts series. If you haven’t played AC: Secret Wars or AC: Vietnam, this is your chance. Save 75% on the entire series and join the fight! Check out the bitComposer anniversary sale for more deals on a great selection of titles! ...",
+				"feedlabel": "Community Announcements",
+				"date": 1395219721,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1462832954618373000",
+				"title": "Now Available - Air Conflicts: Vietnam",
+				"url": "http://store.steampowered.com/news/11552/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/233210/'>Air Conflicts: Vietnam</a> is Now Available on Steam! The Vietnam War, one of the most explosive and violent wars of all time. You are Joe Thompson, an intrepid and patriotic pilot fighting to uphold the values of his country. This war will be the ultimate test for Joe and will irrevocably change his re...",
+				"feedlabel": "Product Release",
+				"date": 1380702000,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1459453913547782493",
+				"title": "Pre-Purchase Now - Air Conflicts: Vietnam, 10% off!",
+				"url": "http://store.steampowered.com/news/11464/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/233210/'>Air Conflicts: Vietnam</a> is Now Available for Pre-Purchase on Steam and is 10% off until launch day! Additionally, all pre-purchasers will receive a free copy of Air Conflicts: Secret Wars to play immediately! The Vietnam War, one of the most explosive and violent wars of all time. You are Joe Thompso...",
+				"feedlabel": "Announcement",
+				"date": 1379424960,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 6
+	}
+}

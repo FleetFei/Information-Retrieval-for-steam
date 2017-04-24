@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 1002,
+		"newsitems": [
+			{
+				"gid": "1515715911374835556",
+				"title": "Daily Deal - Rag Doll Kung Fu, 75% off!",
+				"url": "http://store.steampowered.com/news/8840/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "To help celebrate Steam's 9th birthday, today's deal is the first third party game that was released on the platform. Save 75% off of the wildly entertaining<a href=\"http://store.steampowered.com/app/1002/\">Rag Doll Kung Fu</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications whereve...",
+				"feedlabel": "Announcement",
+				"date": 1347469200,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 212010,
+		"newsitems": [
+			{
+				"gid": "920164870783810606",
+				"title": "75% Discount: bitComposer is celebrating its 5th anniversary!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/920164870783810606",
+				"is_external_url": true,
+				"author": "AndersCM",
+				"contents": "Join the celebration around bitComposer’s 5th anniversary and get your hands on Galaxy on Fire 2. Only for the next 3 days we are offering a 75% discount on a fantastic trip across the galaxy. Check out the bitComposer anniversary sale for more deals on a great selection of titles! http://store.stea...",
+				"feedlabel": "Community Announcements",
+				"date": 1395219373,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1495465667716102241",
+				"title": "Daily Deal - Galaxy on Fire 2™ Full HD, 66% Off",
+				"url": "http://store.steampowered.com/news/10101/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% on <a href='http://store.steampowered.com/app/212010/'>Galaxy on Fire 2&trade; Full HD</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/212010/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1363021200,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515715911454315338",
+				"title": "Galaxy on Fire 2 Full HD Product Update",
+				"url": "http://store.steampowered.com/news/8871/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "ENGLISH Patchnotes - Galaxy on Fire 2 Full HD PC - Bugfix: Fixed a bug where ship did keep firing after mouse button has been released - Changed Joystick mapping: Improved default mapping of analog axes for joysticks - Fight Control Systems: Improved detection of flight control systems and similar i...",
+				"feedlabel": "Product Update",
+				"date": 1347745920,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

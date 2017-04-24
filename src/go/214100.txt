@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 214100,
+		"newsitems": [
+			{
+				"gid": "1477443562891122500",
+				"title": "Daily Deal - Rigonauts, 66% off!",
+				"url": "http://store.steampowered.com/news/9598/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% off <a href=\"http://store.steampowered.com/app/214100/\">Rigonauts</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are <a href=\"http://store.steampowered.com/app/214100/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1355594400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515715911499741851",
+				"title": "Rigonauts Updated",
+				"url": "http://store.steampowered.com/news/8873/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "* 7 new achievements added. Earned achievements will automatically be rewarded when game is run. * Fixed tier values for level 3-9. * Outputs .mdmp error file to steamapps\\common\\rigonauts\\; * Fixed several rare crashes. * Music has been remastered. * Fixed readability of game credits. ",
+				"feedlabel": "Product Update",
+				"date": 1347901920,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1533727235242389483",
+				"title": "Wot I Think: Rigonauts",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1533727235242389483",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Jim Rossignol)",
+				"contents": "<em><a href=\"http://engient.com/rigonauts/\">Rigonauts</a> is a game of 2D building and playful physics. In it you construct a rig, adorn it with weapons, and then let it lurch into battle against rickety enemy constructs. But is this experience worth a few quid? And why can&#8217;t I stop playing it? Here&#8217;s Wot I Think.</em> <a href=\"http://www.rockpapershotgun.com/2012/08/09/wot-i-think-rigonauts/#more-119194\" class=\"more-link\">(more&#8230;)</a> ",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1344520800,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

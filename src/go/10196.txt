@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 10196,
+		"newsitems": [
+			{
+				"gid": "1514593284396312927",
+				"title": "Modern Warfare 2 Favela map returns",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1514593284396312927",
+				"is_external_url": true,
+				"author": "Steve Watts",
+				"contents": "The controversial \"Favela\" map has been reinstated in <a href=\"http://www.shacknews.com/game/call-of-duty-2011-title-tba/\">Call of Duty: Modern Warfare 2</a>, after being pulled temporarily due to <a href=\"http://www.shacknews.com/article/76098/call-of-duty-modern-warfare-2-map-favela-pulled-following\">complaints</a> of religious insensitivity. A small update will let the map show up on playlists again, with the offending portions now removed. The patch is only 17 MB, reports <a href=\"http://mp1st.com/2012/10/22/favela-returns-to-call-of-duty-modern-warfare-2-on-the-ps3-new-mw3-247-playlists-inbound/\">MP1...</a>",
+				"feedlabel": "Shacknews",
+				"date": 1350980100,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515717886870256993",
+				"title": "Call of Duty: Modern Warfare 2 map 'Favela' pulled following religious complaints",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1515717886870256993",
+				"is_external_url": true,
+				"author": "Alice O'Connor",
+				"contents": "Activision has temporarily pulled the <a href=\"http://www.shacknews.com/game/call-of-duty-2011-title-tba/\">Call of Duty: Modern Warfare 2</a> multiplayer level 'Favela' from the map rotation following complaints that a quote attributed to the Muslim Prophet Muhammad was written on a texture used in a bathroom. As you may imagine, some took issue with hanging holy words a...",
+				"feedlabel": "Shacknews",
+				"date": 1349678700,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1388479713339575377",
+				"title": "Activision settles Call of Duty suit",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1388479713339575377",
+				"is_external_url": true,
+				"author": "John Keefer",
+				"contents": "After a <a href=\"http://www.shacknews.com/article/74036/settlement-possible-in-call-of-duty-trial\">recessed hearing yesterday</a> that allowed the parties to try to resolve their differences, a settlement has been reached in the case involving Activision, Infinity Ward co-founders Jason West and Vincent Zampella, and 40 ex-Call of Duty developers from Infinity Ward. The settlement details are...",
+				"feedlabel": "Shacknews",
+				"date": 1338473700,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 20
+	}
+}

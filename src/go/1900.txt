@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 1900,
+		"newsitems": [
+			{
+				"gid": "295353300254287481",
+				"title": "Available for Linux  Steam OS now!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/295353300254287481",
+				"is_external_url": true,
+				"author": "Raidor [dph]",
+				"contents": "We made a Linux port and released it. The port is done with Wine and is tested for latest Steam OS and Ubuntu.",
+				"feedlabel": "Community Announcements",
+				"date": 1455650315,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "371902438123538988",
+				"title": "Mac OSX Version available!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/371902438123538988",
+				"is_external_url": true,
+				"author": "Raidor [dph]",
+				"contents": "we just released a Wine port for Mac OSX.",
+				"feedlabel": "Community Announcements",
+				"date": 1443700390,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "526125368949582043",
+				"title": "Trading Cards Released",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/526125368949582043",
+				"is_external_url": true,
+				"author": "Raidor [dph]",
+				"contents": "A set of 15 Trading Cards, 5 Profile Backgrounds and 6 Emoticons is available now.",
+				"feedlabel": "Community Announcements",
+				"date": 1420551960,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

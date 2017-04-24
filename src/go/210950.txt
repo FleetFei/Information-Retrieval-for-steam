@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 210950,
+		"newsitems": [
+			{
+				"gid": "1387355123812398589",
+				"title": "Now Available - Rune Classic, 20% off!",
+				"url": "http://store.steampowered.com/news/8183/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/210950/\">Rune Classic</a> is Now Available on Steam and 20% off until 10AM PST Wednesday, June 20th. This release contains the original Rune content, plus the multiplayer expansion pack Halls of Valhalla. Experience an exciting single player storyline where you thwart Loki and his minions from bringing Ragnarok ...",
+				"feedlabel": "Product Release",
+				"date": 1339606800,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 1710,
+		"newsitems": [
+			{
+				"gid": "1192527567542788044",
+				"title": "Arx Fatalis Source Code Released",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1192527567542788044",
+				"is_external_url": true,
+				"author": "Alice O'Connor",
+				"contents": "<a href=\"/screenshots.x?gallery=16716&game_id=780&id=172747\"> </a> Over eight years after launching, Arkane Studios' RPG <a href=\"http://www.shacknews.com/reviews/game.x/780\">Arx Fatalis</a>, has received a new patch and, more excitingly, had its source code released. Patch 1.21 improves compatibility with modern systems, which means that if you fancy poking around under the hood of Arx Fatalis, you can safely do so--wi...",
+				"feedlabel": "Shacknews",
+				"date": 1295044800,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

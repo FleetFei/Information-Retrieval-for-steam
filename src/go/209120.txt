@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 209120,
+		"newsitems": [
+			{
+				"gid": "920161157722537924",
+				"title": "Midweek Madness - Capcom DLC Sale",
+				"url": "http://store.steampowered.com/news/12384/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on select Capcom DLC during this week's Midweek Madness!* <a href=\"http://store.steampowered.com/sale/CapcomDLC\">Click here to see all the deals.</a> Featuring additional game modes, costumes, weapons, and more from: <a href=\"http://store.steampowered.com/app/221040/\"> </a> <a href=\"http://store.steampowered.com/app/226720/\"> </a> <a href=\"http://store.steampowered.com/app/220440/\"> </a> <a href=\"http://store.steampowered.com/app/209120/\"> </a> <a href=\"http://store.steampowered.com/app/222480/\"> </a> <a href=\"http://store.steampowered.com/app/45760/\"> </a> <a href=\"http://store.steampowered.com/app/228300/\"> </a> *Offer ends Friday at 10AM Pacific Time <a href=\"http://store.steampowered.com/sale/CapcomDLC\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1392141720,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1010228077060529948",
+				"title": "Capcom 30th Anniversary Character Encyclopedia available now!!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1010228077060529948",
+				"is_external_url": true,
+				"author": "CapcomUnity",
+				"contents": "<a href=\"/gregaman/go/gallery/item/146582385\"> </a> If you're a Capcom super-fan, be sure to check out the <em><strong>Capcom 30th Anniversary Character Encyclopedia,&nbsp;</strong></em><strong></strong>available now on <strong><a href=\"http://amzn.to/1gZxaHu\">Amazon</a>&nbsp;</strong>for less than nine bucks!&nbsp; The book celebrates Capcom's thirty-year legacy of brilliant character design with more than 200 pages of lush art, character fac...",
+				"feedlabel": "Community Announcements",
+				"date": 1386806761,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1462832954400954504",
+				"title": "Weekend sale and trading cards!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1462832954400954504",
+				"is_external_url": true,
+				"author": "CapcomUnity",
+				"contents": "<a href=\"/combofiend/go/gallery/item/143787133\"> </a> Hear ye, hear ye! Did you know SFxT is on sale for $10.20 (66% off the normal price of $29.99) or the complete pack for 20.39 (66% off the complete pack price of $59.99) until September 30th at 10am PST? In addition to receiving all 55 characters and all Street Fighter and Tekken characters swap c...",
+				"feedlabel": "Community Announcements",
+				"date": 1380304455,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 22
+	}
+}

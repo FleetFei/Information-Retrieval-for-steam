@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 11200,
+		"newsitems": [
+			{
+				"gid": "75839596827586138",
+				"title": "Has-Been Heroes Now Available on Steam!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75839596827586138",
+				"is_external_url": true,
+				"author": "MarjutFB",
+				"contents": "http://i.imgur.com/dlpjLQH.jpg We are happy to announce that our new game Has-Been Heroes is now available. You can check out the new release trailer from below. https://www.youtube.com/watch?v=cNdQLneWp5M Has-Been Heroes is a roguelike game developed by Frozenbyte in partnership with GameTrust, and...",
+				"feedlabel": "Community Announcements",
+				"date": 1490718310,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 11200
+			},
+			{
+				"gid": "84840457398083629",
+				"title": "New Roguelike Strategy Game from Frozenbyte - Has-Been Heroes Announced!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/84840457398083629",
+				"is_external_url": true,
+				"author": "RiikkaFB",
+				"contents": "http://i.imgur.com/wph0KTz.jpg We're excited to announce Has-Been Heroes, a blend of strategy and action with a roguelike twist coming in March 2017. Check out the trailer below! https://youtu.be/XPBqgDFgMEU Embark on an epic journey with the Has-Been Heroes, a group of legendary champions once cele...",
+				"feedlabel": "Community Announcements",
+				"date": 1484288120,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "252585986933065714",
+				"title": "Nine Parchments - Co-op Magic Mayhem from Frozenbyte Announced!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/252585986933065714",
+				"is_external_url": true,
+				"author": "MarjutFB",
+				"contents": "http://i.imgur.com/EYtsCMQ.jpg We are happy to announce our new game Nine Parchments, coming in 2017! It's a co-operative blast'em up game of magic mayhem that takes our studio back to colorful fantasy! You can check the chaotic co-op game play from the announcement trailer below. Also feel free to ...",
+				"feedlabel": "Community Announcements",
+				"date": 1471271276,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 11
+	}
+}

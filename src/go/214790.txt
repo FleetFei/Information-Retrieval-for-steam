@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 214790,
+		"newsitems": [
+			{
+				"gid": "1515715911508661796",
+				"title": "The Basement Collection Updated",
+				"url": "http://store.steampowered.com/news/8882/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "-Time Fcuk ch2 Ending Fixed -Meat Boy Q&A added -Chest Bonus content added -Triachnid achievement fixed -Meat boy achievements can be unlocked again after the first time (in case it misses them) -Collection unlocks save locally -Warning message when meatboy/tri achievements break (unfixable flash pl...",
+				"feedlabel": "Product Update",
+				"date": 1347931800,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514588903132557181",
+				"title": "Now Available - The Basement Collection",
+				"url": "http://store.steampowered.com/news/8771/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/214790/\">The Basement Collection</a>, a collection of 9 award winning indie games from the creator of <strong>Super Meat Boy</strong> and <strong>The Binding of Isaac</strong>, is now available on Steam! The Basement Collection includes: * Aether ( an exploration adventure game ); * Time Fcuk ( a dark puzzle game ); * Spewer ( a physics based pl...",
+				"feedlabel": "Product Release",
+				"date": 1346431740,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

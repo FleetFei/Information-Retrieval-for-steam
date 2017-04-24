@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 15230,
+		"newsitems": [
+			{
+				"gid": "566513076690654307",
+				"title": "Tom Clancy's H.A.W.X.® 2 now available for Pre-Purchase with Bonus Offer",
+				"url": "http://store.steampowered.com/news/4187/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Pre-purchase <a href=\"http://store.steampowered.com/app/48160/\">Tom Clancy's H.A.W.X.&reg; 2</a> before launch and receive a FREE copy of <a href=\"http://store.steampowered.com/app/15230/\">Blazing Angels&reg; 2</a>! <a href=\"http://store.steampowered.com/app/48160/\"> </a> <a href=\"http://store.steampowered.com/app/15230/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1281559860,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

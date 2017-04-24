@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 206500,
+		"newsitems": [
+			{
+				"gid": "252584317729220951",
+				"title": "Double XP Weekend!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/252584317729220951",
+				"is_external_url": true,
+				"author": "InsaneFirebat",
+				"contents": "Looking to level up your Warthog and equip that Advanced Minigun upgrade? Need a couple more levels to finally hit the next name color? Just a few more stats to max out on your pilot? ːairmechː We've got you covered all weekend with Double XP from all matches! ːmechyː",
+				"feedlabel": "Community Announcements",
+				"date": 1469884073,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "257086017102050530",
+				"title": "Follow-Up to the Warzone Update",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/257086017102050530",
+				"is_external_url": true,
+				"author": "InsaneFirebat",
+				"contents": "Greetings, pilots! WarZone 1.1 is here, and deadlier than ever! We've rounded off a few corners a sharpened a few others to bring you the best weekly war in the wasteland. -New 5 Star Map completion and Universal Difficulty: Keep a sharp eye on your current difficulty, or step it up a notch with the...",
+				"feedlabel": "Community Announcements",
+				"date": 1467997885,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "250329347097722710",
+				"title": "Update #230 - Warzone!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/250329347097722710",
+				"is_external_url": true,
+				"author": "InsaneFirebat",
+				"contents": "This is an important time of the year for Carbon. July 4th is not only Independence Day in the US, but also Carbon's 5th birthday! We've packed this update full of new content to celebrate. New bundles will also be on sale! Check out the contents of each one, as there are some previously unreleased ...",
+				"feedlabel": "Community Announcements",
+				"date": 1467474107,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 91
+	}
+}

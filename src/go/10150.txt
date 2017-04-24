@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 10150,
+		"newsitems": [
+			{
+				"gid": "920169016725368353",
+				"title": "Activision Publisher Weekend - Day 4",
+				"url": "http://store.steampowered.com/news/13142/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/sale/acti_pub4\">Activision Publisher Weekend</a> continues today with great deals on Activision titles! From now through Monday* pick up titles up to 75% off! Today's Daily Deal features the <a href=\"http://store.steampowered.com/app/115320/\">Prototype</a> franchise at 75% off! Additionally, play the <a href=\"http://store.steampowered.com/app/209160/\">Call of Duty: Ghosts</a> Multiplayer for Free throughout the weekend! *All...",
+				"feedlabel": "Announcement",
+				"date": 1399222800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1531474070584935274",
+				"title": "This Prototype Legend of Zelda Cartridge Can Be Yours for a Mere $150,000",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1531474070584935274",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/17uirvnujk36hjpg/original.jpg\"> </a>Why spend $15 on a box-less copy of <em>The Legend of Zelda</em> for the original Nintendo Entertainment system when you can spend $150,000 on a mustard yellow NES cartridge adorned with a faded label with the game's name typed on it? It's collectible craziness available right now on eBay. Now I can underst...",
+				"feedlabel": "Kotaku",
+				"date": 1343727000,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1461665741189050660",
+				"title": "Prototype Creators Shutting Down",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1461665741189050660",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/17r74d5w6rrxjjpg/original.jpg\"> </a>Radical Entertainment, the twenty-year-old game studio behind games like <em>Prototype</em> and <em>Scarface</em>, has shut its doors. Audio designer Rob Bridgett, formerly of the Vancouver-based studio, <a href=\"https://twitter.com/rbridgett/status/218417068201095169\">confirmed the news on Twitter today</a>. In addition to the <em>Prototype</em> series, Radical also worked on games like goofy...",
+				"feedlabel": "Kotaku",
+				"date": 1340896260,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 47
+	}
+}

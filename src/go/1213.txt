@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 1213,
+		"newsitems": [
+			{
+				"gid": "341510664148575098",
+				"title": "Red Orchestra's Darkest Hour mod gets another huge update",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/341510664148575098",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/red-orchestra-darkest-hour-mod-gets-new-maps-and-tanks-in-huge-5-0-update/\" target=\"_blank\">Four-and-a-half years ago</a>, we told you about a \"huge\" new update for&nbsp;<a href=\"http://store.steampowered.com/app/1280\" target=\"_blank\">Darkest Hour: Europe '44-'45</a>, the Western Front-set mod for the original Red Orchestra. Now, it's received <em>another</em> huge update, version 6.0.0 adding an entirely&nbsp;new spawning system, along with&nbsp;new maps, weapons and u...",
+				"feedlabel": "PC Gamer",
+				"date": 1451754000,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

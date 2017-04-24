@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 207221,
+		"newsitems": [
+			{
+				"gid": "1479695212954156689",
+				"title": "New DLC Available - Tony Hawk's Pro Skater HD - Revert Pack",
+				"url": "http://store.steampowered.com/news/9556/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/207221/'>Tony Hawk's Pro Skater HD - Revert Pack</a>, all new content for <a href='http://store.steampowered.com/app/207210/'>Tony Hawk&#146;s Pro Skater&reg; HD</a> is Now Available on Steam! Tony Hawk&#146;s Pro Skater 3 HD Revert Pack, the downloadable content for Tony Hawk&#146;s Pro Skater HD, expands on game&#146;s winning formula with the inclusion of three le...",
+				"feedlabel": "Product Release",
+				"date": 1355245140,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

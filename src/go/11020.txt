@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 11020,
+		"newsitems": [
+			{
+				"gid": "341510664158830305",
+				"title": "Watch 20,000 cars drive a single Trackmania course",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/341510664158830305",
+				"is_external_url": true,
+				"author": "",
+				"contents": "\"Don't be absurd,\" you say. \"Twenty thousand cars wouldn't fit on the start line\". You're right&mdash;they don't, and the result of layering replay upon replay is a mesmerising&nbsp;flow of steel and rubber that took 300 hours to render. Distinct cars blossom from the chromium mass, crashing back do...",
+				"feedlabel": "PC Gamer",
+				"date": 1451999326,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "567768347694151957",
+				"title": "Nadeo release time-limited TrackMania 2 and ShootMania demos",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/567768347694151957",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2014/07/12/nadeo-release-time-limited-trackmania-2-and-shootmania-demos/\" rel=\"bookmark\" title=\"Permanent Link to Nadeo release time-limited TrackMania 2 and ShootMania demos\"> </a> Nadeo's shooty ShootMania and drivey TrackMania 2 games have both been given sizeable new demos, with the intention of increasing the player count in both Mania titles. The demos are pretty generous, offering access to a good number of environments, modes, tracks and the full editing suite in both...",
+				"feedlabel": "PC Gamer",
+				"date": 1405166406,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1027113495099226226",
+				"title": "Trackmania releases three new demos to celebrate ten years of going really fast",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/1027113495099226226",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2013/11/09/trackmania-releases-three-new-demos-to-celebrate-ten-years-of-going-really-fast/\" rel=\"bookmark\" title=\"Permanent Link to Trackmania releases three new demos to celebrate ten years of going really fast\"> </a> How time flies when you’re in a race car flying through improbable loops and smashing into things. Speaking of which, Trackmania is turning ten years old next month. To celebrate, developer Nadeo is releasing free demos of Trackmania 2: Valley, Stadium and Canyon. If you’ve never tried the insanit...",
+				"feedlabel": "PC Gamer",
+				"date": 1383962101,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 20
+	}
+}

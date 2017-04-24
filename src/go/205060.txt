@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 205060,
+		"newsitems": [
+			{
+				"gid": "1478591738299156009",
+				"title": "Wondering where the Original Soundtrack ends up when you buy it as DLC?",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299156009",
+				"is_external_url": true,
+				"author": "CommanderVideo",
+				"contents": "Hey everyone, So, when you buy a soundtrack on Steam, it ends up in the install directory for the game, so here're the paths where it poops your files to: PC: program files (x86) > steam > steamapps > common > *game name* OSX: home > library > application support > steam > steamapps > common > *game...",
+				"feedlabel": "Community Announcements",
+				"date": 1349370233,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738299156008",
+				"title": "Holy frijoles! This Community Page is now live!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299156008",
+				"is_external_url": true,
+				"author": "CommanderVideo",
+				"contents": "If you have any cool CORE related stuff to post, why not do it herereererrereerrerrere!",
+				"feedlabel": "Community Announcements",
+				"date": 1349366630,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1515717154778939305",
+				"title": "Now Available - BIT.TRIP CORE",
+				"url": "http://store.steampowered.com/news/8991/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/205060/\">BIT.TRIP CORE</a> is now available on Steam! BIT.TRIP CORE takes the player into unfamiliar territory as they use NES-style controls to blast their way through the barrage of Beats in this rhythm-music adventure. Plus, check out the <a href=\"http://store.steampowered.com/app/205063/\">Soundtrack </a>featuring thumpin' chiptune-inspired tracks that will get yo...",
+				"feedlabel": "Product Release",
+				"date": 1349207100,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

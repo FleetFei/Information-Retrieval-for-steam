@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 203510,
+		"newsitems": [
+			{
+				"gid": "526125368687690885",
+				"title": "Weekend Deal - Carpe Fulgur Collection, 80% Off",
+				"url": "http://store.steampowered.com/news/15384/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 80% on <a href='http://store.steampowered.com/sub/15400/'>Carpe Fulgur Collection</a> as part of this week's Weekend Deal*! The individual games in the package <a href=\"http://store.steampowered.com/app/70400/\">Recettear</a>, <a href=\"http://store.steampowered.com/app/70420/\">Chantelise</a>, and <a href=\"http://store.steampowered.com/app/203510/\">Fortune Summoners</a> are on sale individually for 75% off. *Offer ends Monday at 10AM Pacific Time",
+				"feedlabel": "Announcement",
+				"date": 1420229400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1533724886140958889",
+				"title": "STEAM SUMMER SALE DAY SEVEN",
+				"url": "http://store.steampowered.com/news/8426/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/\">Steam Summer Sale</a> continues today with huge savings throughout the store! Today's Daily Deals Include: * <a href=\"http://store.steampowered.com/app/110800/\">L.A. Noire</a>; * <a href=\"http://store.steampowered.com/app/204880/\">Sins of a Solar Empire: Rebellion</a>; * <a href=\"http://store.steampowered.com/sub/14734/\">Thief Franchise</a>; * <a href=\"http://store.steampowered.com/sub/15374\">S.T.A.L.K.E.R. Franchise</a>; * <a href=\"http://store.steampowered.com/app/40800/\">Super Meat Boy</a>; * <a href=\"http://store.steampowered.com/app/201966/\">Age of Empires Online</a>; * <a href=\"http://store.steampowered.com/sub/15400/\">Carpe Fulgur Collection</a>; * <a href=\"http://store.steampowered.com/sub/11657/\">Total War Mega Pack</a>; * ...",
+				"feedlabel": "Announcement",
+				"date": 1342630800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1425624174750343808",
+				"title": "Wot I Think: Fortune Summoners",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1425624174750343808",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alec Meer)",
+				"contents": "<em>We tasked young master Caldwell with exploring the dungeons of <a href=\"http://www.carpefulgur.com/fs/\" target=\"_blank\">Fortune Summoners: Secret of the Elemental Stone</a>, the latest translated Japanese indie title from Recettear Anglifiers Carpe Fulgur. He returned with these words.</em> As the son of a shopkeeper in real life I know for a fact that helping out...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1328742893,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

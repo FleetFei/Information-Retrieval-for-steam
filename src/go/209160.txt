@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 209160,
+		"newsitems": [
+			{
+				"gid": "405678163078848378",
+				"title": "Weekend Deal - Call of Duty Franchise, up to 67% off!",
+				"url": "http://store.steampowered.com/news/18441/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 67% on <a href='http://store.steampowered.com/sale/cod/'>Call of Duty games</a> as part of this week's Weekend Deal*! Includes various discounts on Advanced Warfare, Ghosts, Black Ops II, and more! <a href=\"http://store.steampowered.com/sale/cod/\"> </a> <b> <a href=\"http://store.steampowered.com/sale/cod/\"> </a> <b> <a href=\"http://store.steampowered.com/sale/cod/\"> </a></b></b>",
+				"feedlabel": "Announcement",
+				"date": 1442509143,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "423688185533539181",
+				"title": "The Call of Duty series ranked",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/423688185533539181",
+				"is_external_url": true,
+				"author": "",
+				"contents": "",
+				"feedlabel": "PC Gamer",
+				"date": 1438208701,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "522745036093651018",
+				"title": "The Steam Exploration Sale Day 4!",
+				"url": "http://store.steampowered.com/news/15096/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "For the next six days, take advantage of huge savings throughout the Steam store on thousands of titles. Plus, discover new and recommended games on your personalized Exploration Sale page <a href=\"store.steampowered.com/explore/recommend/\">here</a>. Check back each day for new Daily Deals. Today&#146;s Featured Deals Include: * <a href=\"http://store.steampowered.com/app/22380/\">Fallout: New Vegas</a> - 75% ...",
+				"feedlabel": "Announcement",
+				"date": 1417284000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 44
+	}
+}

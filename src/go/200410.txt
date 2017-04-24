@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 200410,
+		"newsitems": [
+			{
+				"gid": "552008372840542242",
+				"title": "Exodus of SOL - 50% OFF for all owners of SOL: Exodus...",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/552008372840542242",
+				"is_external_url": true,
+				"author": "stocks109",
+				"contents": "The long-awaited date is here! For a limited time only Exodus of Sol Early Access is now 50% off for all owners of SOL: Exodus. Exodus of Sol is much more than just a remake of the original game; it's an entirely new experience! Everything within the game has been given a fresh coat of paint. We're ...",
+				"feedlabel": "Community Announcements",
+				"date": 1407360373,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "552007738816378824",
+				"title": "Reduxing On Early Access: Exodus Of Sol",
+				"url": "http://store.steampowered.com/news/externalpost/rps/552007738816378824",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Ben Barrett)",
+				"contents": "Exactly now may not be the best time for another space sim to go into early access. Elite <a href=\"http://www.rockpapershotgun.com/2014/07/31/elite-dangerous-standard-beta-price/\">entered Beta</a> this week and Star Citizen is still <a href=\"https://robertsspaceindustries.com/funding-goals\">consuming wallets</a> at an unimaginable pace. Between those and the swarms of smaller projects that have launched or started development in the past couple of years...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1406876417,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "919042306807883402",
+				"title": "SOL: Exodus update 1.17",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/919042306807883402",
+				"is_external_url": true,
+				"author": "Kelius",
+				"contents": "- Fixed a soft crash that could occur in Mission 7",
+				"feedlabel": "Community Announcements",
+				"date": 1398353478,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 18
+	}
+}

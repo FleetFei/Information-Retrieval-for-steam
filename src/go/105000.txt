@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 105000,
+		"newsitems": [
+			{
+				"gid": "522745760005380452",
+				"title": "Weekend Deal - Daedalic Titles up to 90% Off!",
+				"url": "http://store.steampowered.com/news/15142/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 90% on all <a href='http://store.steampowered.com/sale/daedalic2014'>Daedalic Entertainment Titles</a> as part of this week's Weekend Deal*! <a href=\"http://store.steampowered.com/sub/55062/\">Daedalic Armageddon Bundle</a> - 80% off <a href=\"http://store.steampowered.com/app/249650/\">Blackguards</a> - 75% off <a href=\"http://store.steampowered.com/app/281770/\">Blackguards: Untold Legends</a> - 33% off <a href=\"http://store.steampowered.com/app/292910/\">Deponia: The Complete Journey</a> - 60% off <a href=\"http://store.steampowered.com/app/281750/\">Munin</a> - 75% off <a href=\"http://store.steampowered.com/app/314810/\">Randal's Monday</a> - 20% off <a href=\"http://store.steampowered.com/app/260160/\">The Last Tinker&trade;: City of...</a>",
+				"feedlabel": "Announcement",
+				"date": 1417771080,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "920166227240724411",
+				"title": "Weekend Deal - Daedalic Titles 50-90% Off!",
+				"url": "http://store.steampowered.com/news/12908/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 50-90% on all <a href='http://store.steampowered.com/sale/daedalic'>Daedalic Entertainment Titles</a> as part of this week's Weekend Deal*! <a href=\"http://store.steampowered.com/sub/41712/\">Daedalic Super Bundle</a> - 77% Off <a href=\"http://store.steampowered.com/app/249650/\">Blackguards</a> - 50% <a href=\"http://store.steampowered.com/app/214340/\">Deponia</a> - 90% <a href=\"http://store.steampowered.com/app/220740/\">Chaos on Deponia</a> - 66% <a href=\"http://store.steampowered.com/app/241910/\">Goodbye Deponia</a> - 50% Off <a href=\"http://store.steampowered.com/app/203830/\">The Dark Eye: Chains of Satinav</a> - 75% <a href=\"http://store.steampowered.com/app/18490/\">The Whispered World</a> - 80% <a href=\"http://store.steampowered.com/app/255280/\">1954 Alcatraz</a> - 50% Off <a href=\"http://store.steampowered.com/app/105000/\">A New Beginn...</a>",
+				"feedlabel": "Announcement",
+				"date": 1397149200,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1027114127637334074",
+				"title": "If you have technical issues",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1027114127637334074",
+				"is_external_url": true,
+				"author": "Io",
+				"contents": "Please note that we cannot offer official technical support on this board, except for posting the latest patch notes. But your games and my computer don’t work as a team! Where can I get help? We do offer technical support. Just not in forums. Please contact our colleagues from the support via mail ...",
+				"feedlabel": "Community Announcements",
+				"date": 1384437347,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

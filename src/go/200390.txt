@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 200390,
+		"newsitems": [
+			{
+				"gid": "1496599168308975680",
+				"title": "Humble Bundle 8 Gets Four Games Bigger",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1496599168308975680",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (John Walker)",
+				"contents": "The eighth Humble Bundle boasts an extraordinary line-up of recent indie royalty. Proteus, Thomas Was Alone, Hotline Miami, Capsized, Awesomenauts, Dear Esther and Little Inferno, plus their soundtracks. It seemed like the best one yet. So naturally they&#8217;ve added another four games. <a href=\"http://www.rockpapershotgun.com/2013/06/05/humble-bundle-8-gets-four-games-bigger/#more-155545\" class=\"more-link\">(more&#823...</a>",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1370422812,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1496599168315217279",
+				"title": "Humble Bundle 8 Gets Four Games Bigger",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1496599168315217279",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (John Walker)",
+				"contents": "The eighth Humble Bundle boasts an extraordinary line-up of recent indie royalty. Proteus, Thomas Was Alone, Hotline Miami, Capsized, Awesomenauts, Dear Esther and Little Inferno, plus their soundtracks. It seemed like the best one yet. So naturally they&#8217;ve added another four games. <a href=\"/2013/06/05/humble-bundle-8-gets-four-games-bigger/#more-155545\" class=\"more-link\">(more&#823...</a>",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1370422812,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515719004481445287",
+				"title": "Indie Royale Fall Bundle Is Quite Good",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1515719004481445287",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (John Walker)",
+				"contents": "While some of the Indie Royale Bundles haven&#8217;t been the strongest, the <a href=\"http://www.indieroyale.com/\">latest collection</a> in its almost-pay-what-you-want pile is pretty strong. Featuring one of last year&#8217;s best games, To The Moon, alongside Wadjet Eye&#8217;s most recent Blackwell game, Deception, is Oil Rush, Reprisal,...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1350403252,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 7
+	}
+}

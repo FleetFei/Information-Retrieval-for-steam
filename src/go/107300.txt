@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 107300,
+		"newsitems": [
+			{
+				"gid": "1389607509750217729",
+				"title": "Now Available - Penny Arcade's: On the Rain Slick Precipice of Darkness 3",
+				"url": "http://store.steampowered.com/news/8268/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/213030/\">Penny Arcade's: On the Rain Slick Precipice of Darkness 3</a> is Now Available on Steam. Receive gift-able copies of Zeboyd's titles <a href=\"http://store.steampowered.com/app/107310/\">Cthulhu Saves the World</a> and <a href=\"http://store.steampowered.com/app/107300/\">Breath of Death VII</a> if you purchase before Monday, July 2nd 10 AM PDT. The Startling Developments Detective Agency springs into action as On th...",
+				"feedlabel": "Product Release",
+				"date": 1340660640,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1136249593765749073",
+				"title": "PCG US Podcast #281: Indie Invasion",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/1136249593765749073",
+				"is_external_url": true,
+				"author": "",
+				"contents": "This week, Lucas takes the helm of the PCG Podcasting Pinnace with crew-mates Chris, Tyler, Evan, and Josh, as they discuss a week's worth of tantalizing news stories. You'll find out which indie games we're lovin' right now, what constitutes a worthwhile Collector's Edition, the verdict in co-op ve...",
+				"feedlabel": "PC Gamer",
+				"date": 1311368460,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1136249593752921532",
+				"title": "Cthulhu Saves The World PC sales smash Xbox Live",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/1136249593752921532",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2011/07/20/cthulhu-saves-the-world-pc-sales-smash-xbox-live/\" rel=\"bookmark\" title=\"Permanent Link to Cthulhu Saves The World PC sales smash Xbox Live\"> </a> Here's some heartening news for a Wednesday afternoon. Developers Zeboyd recently decided to launch their comedy fantasy RPGs on PC after a long time spent trying to sell on Xbox Live Arcade. Now RPS have news that Cthulhu Saves the World and the superbly named Breath of Death VII have made more i...",
+				"feedlabel": "PC Gamer",
+				"date": 1311174388,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

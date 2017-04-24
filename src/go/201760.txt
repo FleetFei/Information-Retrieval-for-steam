@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 201760,
+		"newsitems": [
+			{
+				"gid": "524998195207655715",
+				"title": "Huge Tracts Of Land: Cities XXL",
+				"url": "http://store.steampowered.com/news/externalpost/rps/524998195207655715",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "As an admirer of cities, I enjoy wandering around a city looking for its history in little tells, in the curve of streets, in clashes of architecture, in demographics, transportation, building sites and boarded-up shops, guessing at its planning and improvisations. I like building my own cities in g...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1418371209,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1533724886057562410",
+				"title": "STEAM SUMMER SALE DAY FOUR",
+				"url": "http://store.steampowered.com/news/8411/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/\">Steam Summer Sale</a> continues today with huge savings throughout the store! Today's Daily Deals Include: * <a href=\"http://store.steampowered.com/app/55230/\">Saints Row: The Third</a>; * <a href=\"http://store.steampowered.com/app/67370/\">The Darkness II</a>; * <a href=\"http://store.steampowered.com/app/207610/\">The Walking Dead</a>; * <a href=\"http://store.steampowered.com/sub/283/\">The Hitman series</a>; * <a href=\"http://store.steampowered.com/sub/14259/\">The Mount & Blade series</a>; * <a href=\"http://store.steampowered.com/app/41070/\">Serious Sam 3: BFE</a>; * <a href=\"http://store.steampowered.com/app/201760/\">Cities XL 2012</a>; * <a href=\"http://store.steampowered.com/app/35720/\">Trine 2</a>; * <a href=\"http://store.steampowered.com/sub/15383/\">Indie Bundle IV</a> - featuring...",
+				"feedlabel": "Announcement",
+				"date": 1342371900,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1387355123830877765",
+				"title": "Weekend Deal - Cities XL 2012 75% off!",
+				"url": "http://store.steampowered.com/news/8196/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "This weekend only, save 75% off <a href=\"http://store.steampowered.com/app/201760/\">Cities XL 2012</a> on Steam during this week's Weekend Deal*! Cities XL 2012 is the new version of the famous City Builder, which allows you to build, develop and connect together cities of all sizes and types on Cities XL planet. To build your cities, the version 2012 no...",
+				"feedlabel": "Announcement",
+				"date": 1339692660,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 7
+	}
+}

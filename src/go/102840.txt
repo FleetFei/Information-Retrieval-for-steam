@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 102840,
+		"newsitems": [
+			{
+				"gid": "1498842001386430694",
+				"title": "Now Available on Mac and Linux - Shank 2, 50%",
+				"url": "http://store.steampowered.com/news/9994/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/102840/\">Shank 2</a> is now available on Mac and Linux ans is now 50% off*! With those closest to him under attack, Shank is once again forced on the offensive. Now he must put his trusty arsenal of handguns, shotguns, automatic weapons, chainsaws, machetes, grenades, plus all-new weaponry and moves to use in or...",
+				"feedlabel": "Announcement",
+				"date": 1361396160,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1425624174749096617",
+				"title": "Shank 2's Launch Trailer Paints the Walls Red",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1425624174749096617",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://cache.gawkerassets.com/assets/images/9/2012/02/aeb88f7c567121a3f0bc40d8eeaa5a4b.jpg\"></a> This launch trailer for <em>Shank 2</em> is a spectacle of gore and cartoony style. One of the sequel's additions to the original downloadable game is Survival Mode, which you can get your bloodthirsty eyeballs on <a href=\"http://kotaku.com/5881786/get-to-know-the-bloody-basics-of-shank-2s-co+op-survival-mode?tag=shank\">right here</a>. Both there and in the game's <a href=\"http://kotaku.com/5849570/who-needs-co+op-heres-the-first-few-minutes-of-shank-2s-single+player?tag=shank\">single-player</a>, rest assured that yes, you will feel l...",
+				"feedlabel": "Kotaku",
+				"date": 1328716800,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1425624174748021149",
+				"title": "Shank 2, Gotham City Impostors, Catherine New This Week on the PlayStation Store",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1425624174748021149",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://cache.gawkerassets.com/assets/images/9/2012/02/44ca84b9ad55c7ed02e88c51d5fca607.jpg\"> </a>This week, there's a good amount of solid stuff new at the PlayStation store; it ain't the horn of plenty that we've seen in the past, but it's certainly better than the cursed wasteland that was <em>last</em> week's PlayStation Store update. We've got <em>Shank 2</em>, which is new this week, as well as <em>Gotham City...</em>",
+				"feedlabel": "Kotaku",
+				"date": 1328711400,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

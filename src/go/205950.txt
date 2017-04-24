@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 205950,
+		"newsitems": [
+			{
+				"gid": "295353933865715217",
+				"title": "Game-o! Jet Set Radio, Golden Axe Free On Steam",
+				"url": "http://store.steampowered.com/news/externalpost/rps/295353933865715217",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "This Future Is Disappointing, Part #89: look at <a href=\"https://www.rockpapershotgun.com/tag/jet-set-radio/\">Jet Set Radio</a> then look outside your window. Are a colourful cast of rollerbladers grinding down rails wound around your home and spraying neat tags? Of course not. But hey, at least all and sundry can now have a bash at JSR for free, as Sega have made...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1455701607,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "295353300254595592",
+				"title": "Jet Set Radio and Golden Axe are free on Steam",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/295353300254595592",
+				"is_external_url": true,
+				"author": "",
+				"contents": "The first round of prizes in the <a href=\"http://www.makewarnotlove.com/results.php\">Make War Not Love</a> three-way throwdown between <a href=\"http://www.pcgamer.com/company-of-heroes-2/\">Company of Heroes 2</a>, <a href=\"http://www.pcgamer.com/total-war-attila-2/\">Total War: Attila</a>, and <a href=\"http://www.pcgamer.com/warhammer-40000-dawn-of-war-ii/\">Warhammer 40,000: Dawn of War 2</a> has been handed out, and that means free games for everyone. The first prize bundle includes <a href=\"http://store.steampowered.com/app/205950\">Jet Set Radio</a> and <a href=\"http://store.steampowered.com/app/34276\">Golden Axe</a>, plus <a href=\"http://store.steampowered.com/app/205230\">Hell Yeah! Wrath ...</a>",
+				"feedlabel": "PC Gamer",
+				"date": 1455657544,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "424811489602703729",
+				"title": "Jet Set Radio HD 5K gallery",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/424811489602703729",
+				"is_external_url": true,
+				"author": "",
+				"contents": "",
+				"feedlabel": "PC Gamer",
+				"date": 1435865400,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 7
+	}
+}

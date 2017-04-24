@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 202860,
+		"newsitems": [
+			{
+				"gid": "524998195229732360",
+				"title": "Spanish and Italian languages available for Real Warfare 2: Northern Crusades",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/524998195229732360",
+				"is_external_url": true,
+				"author": "Sneaksie(RUS)",
+				"contents": "Play in Spanish or Italian in addition to English and Russian.",
+				"feedlabel": "Community Announcements",
+				"date": 1418403576,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1459455885553102355",
+				"title": "Weeklong Deals, October 7",
+				"url": "http://store.steampowered.com/news/11586/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 33%-80% on new Weeklong Deals on Steam, available now until October 14 at 10AM PST. <a href=\"http://store.steampowered.com/app/214360/\"> </a> <a href=\"http://store.steampowered.com/app/46560/\"> </a> <a href=\"http://store.steampowered.com/app/218660/\"> </a> <a href=\"http://store.steampowered.com/app/49300/\"> </a> <a href=\"http://store.steampowered.com/app/234390/\"> </a> <a href=\"http://store.steampowered.com/app/55140/\"> </a> <a href=\"http://store.steampowered.com/app/243120/\"> </a> <a href=\"http://store.steampowered.com/app/200530/\"> </a> <a href=\"http://store.steampowered.com/app/47000/\"> </a> <a href=\"http://store.steampowered.com/app/200170/\"> </a> <a href=\"http://store.steampowered.com/app/70200/\"> </a> <a href=\"http://store.steampowered.com/app/231910/\"> </a> <a href=\"http://store.steampowered.com/app/202860/\"> </a> <a href=\"http://store.steampowered.com/app/7860/\"> </a> <a href=\"http://store.steampowered.com/app/6220/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1381259460,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "775973688891737831",
+				"title": "Real Warfare 2: Northern Crusades Updated",
+				"url": "http://store.steampowered.com/news/6918/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Real Warfare 2: Northern Crusades Update 2.2.5 Available Fixed: - Crashes during sieges - Crashes while generating certain castle layouts - A rare error when mission stayed incomplete when all of its tasks were completed - A rare error when an army was considered to be located in another region, whi...",
+				"feedlabel": "Product Update",
+				"date": 1322858880,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

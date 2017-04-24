@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 205590,
+		"newsitems": [
+			{
+				"gid": "1514588903230913452",
+				"title": "Legends of Pegasus Update released",
+				"url": "http://store.steampowered.com/news/8785/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Version 1.0.0.4237 Ship editor - You can now hide/show your layouts in the layout browser through the toggle button next to the delete button. Hidden layouts are not visible in the planet management tab but can normally edited in the ship editor. - Weapon category is split into a Light-, Medium- and...",
+				"feedlabel": "Product Update",
+				"date": 1346780580,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514588903114638073",
+				"title": "Legends of Pegasus Update released",
+				"url": "http://store.steampowered.com/news/8769/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Changelog version 1.0.0.4154 Ship editor - Fixed a bug that changed your currently built ships into another layout if you deleted the corresponding layout during build. - Xor space stations should now work correctly - Added a name suffix to different structures to reflect the actual structure level ...",
+				"feedlabel": "Product Update",
+				"date": 1346364240,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514588200523953083",
+				"title": "Legends of Pegasus Update released",
+				"url": "http://store.steampowered.com/news/8732/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Version 1.0.0.4115 AI - The complete planet management of the AI was renewed. AI should now build up effective planets and manage them correctly. - Some methods for building more and better ships were included (the main AI update for ships and battles will be part of another patch) Campaign - Human ...",
+				"feedlabel": "Product Update",
+				"date": 1346082060,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 10
+	}
+}

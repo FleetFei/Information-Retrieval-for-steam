@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 20550,
+		"newsitems": [
+			{
+				"gid": "1515715547298981082",
+				"title": "Midweek Madness - Red Faction Franchise 75% off!",
+				"url": "http://store.steampowered.com/news/8825/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 75% on the <a href=\"http://store.steampowered.com/sub/15630/\">Red Faction Franchise</a> during this week's Midweek Madness*! Wreak havoc across the vast, open-world environment of Mars in the the critically acclaimed, best-selling <i>Red Faction Franchise</i>. Rebel against the Ultor Corporation, replace the dictator Sopot to restore peace, battle for lib...",
+				"feedlabel": "Announcement",
+				"date": 1347383100,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1138502107016753913",
+				"title": "THQ abandons Red Faction franchise",
+				"url": "http://store.steampowered.com/news/externalpost/eurogamer/1138502107016753913",
+				"is_external_url": true,
+				"author": "",
+				"contents": "THQ has pulled the plug on its Red Faction franchise following poor sales of RF: Armageddon. Speaking at an investor call today, CEO Brian Farrell confirmed that \"we do not intend to carry forward with that franchise in any meaningful way.\" He added that the development team at Volition has been mov...",
+				"feedlabel": "Eurogamer",
+				"date": 1311808260,
+				"feedname": "eurogamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

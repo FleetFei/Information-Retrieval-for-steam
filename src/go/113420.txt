@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 113420,
+		"newsitems": [
+			{
+				"gid": "423688416237796843",
+				"title": "Brief Network Maintenance 3:00 PM PDT",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/423688416237796843",
+				"is_external_url": true,
+				"author": "Tiggs",
+				"contents": "We'll be performing network maintenance that will involve rebooting some equipment. The reboot will be fairly quick and will impact Jericho and Fallen Earth. This will start at 3:00 PM PDT Today. ",
+				"feedlabel": "Community Announcements",
+				"date": 1438898391,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "522745036251280779",
+				"title": "Marketplace purchases during rollback  server downtime gifts.",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/522745036251280779",
+				"is_external_url": true,
+				"author": "Tiggs",
+				"contents": "This past week Fallen Earth has had some issues that affected server stability which ultimately resulted in additional downtime. These issues have been fixed and the team is actively monitoring the servers to make sure no additional problems arise. The Fallen Earth team apologizes for the inconvenie...",
+				"feedlabel": "Community Announcements",
+				"date": 1417484164,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "522745035907475676",
+				"title": "Fallen Earth is back in service",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/522745035907475676",
+				"is_external_url": true,
+				"author": "Tiggs",
+				"contents": "After many long hours, monster drinks, coffee IV's and pizza, we are happy to say that Fallen Earth is now back in service with the new rollback state. Thank you all again for your patience and understanding. Happy Thanksgiving to those that celebrate.",
+				"feedlabel": "Community Announcements",
+				"date": 1417045147,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 20
+	}
+}

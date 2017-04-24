@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 208110,
+		"newsitems": [
+			{
+				"gid": "1443641916894629044",
+				"title": "New Release: Myst V",
+				"url": "http://store.steampowered.com/news/7548/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/208110/\">Myst V</a> is Now Available on Steam and 10% off until Friday 10AM PST. The Grand Finale of the greatest adventure! Decide the fate of a civilization in this triumphant final chapter to the Myst saga. Embark on an epic journey into the heart of a shattered empire as the only explorer who can still save ...",
+				"feedlabel": "Product Release",
+				"date": 1331917080,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

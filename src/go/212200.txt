@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 212200,
+		"newsitems": [
+			{
+				"gid": "75841595752206838",
+				"title": "[COMPLETED] Scheduled Maintenance - APR. 19, 2017",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75841595752206838",
+				"is_external_url": true,
+				"author": "Saygo",
+				"contents": "Maintenance is now completed in Mabinogi. Enjoy your day in Erinn https://support.nexon.net/hc/en-us/articles/115001370723-Scheduled-Maintenance-on-April-19th http://nxcache.nexon.net/spotlight/26/00HIC-902a4875-0fa6-4a98-a660-255d82d28aac.jpg On Wednesday, April 19, all services for Mabinogi will p...",
+				"feedlabel": "Community Announcements",
+				"date": 1492639652,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 212200
+			},
+			{
+				"gid": "75835160690763269",
+				"title": "Winter Gear Shuffle Cards",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75835160690763269",
+				"is_external_url": true,
+				"author": "Sabina",
+				"contents": "http://nxcache.nexon.net/spotlight/26/00J2x-5054880c-bc28-4c3e-b8c8-ee67c49b19eb.jpg Winter's in full swing, and it's more than time for some outfits made for the frosty weather. The Winter Gear Shuffle Cards features seven classic frosty outfits for the long nights ahead, plus the return of the Chr...",
+				"feedlabel": "Community Announcements",
+				"date": 1486067703,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "75835160690761809",
+				"title": "Naco Commerce Event",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75835160690761809",
+				"is_external_url": true,
+				"author": "Sabina",
+				"contents": "http://nxcache.nexon.net/spotlight/26/00J2z-fad4719f-8100-407f-8b75-1f1f207b70ce.jpg Varmints are back on the highways of Erinn and it's time to protect the caravans and keep trade alive! The Naco Commerce Event is here, and you'll be tangling with the rowdiest roughnecks in the wilderness as they t...",
+				"feedlabel": "Community Announcements",
+				"date": 1486067668,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 72
+	}
+}

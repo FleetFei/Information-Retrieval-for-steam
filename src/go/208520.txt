@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 208520,
+		"newsitems": [
+			{
+				"gid": "3171973016840923616",
+				"title": "GOG ‘Adrenaline Rush’ event now live, promises free games",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/3171973016840923616",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2014/06/24/gog-adrenaline-rush-event-now-live-promises-free-games/\" rel=\"bookmark\" title=\"Permanent Link to GOG &#8216;Adrenaline Rush&#8217; event now live, promises free games\"> </a> Nice try, Steam. You may have a bewildering selection of cheap games and a bizarre (and seemingly rigged) competitive point gathering system, but you aren't giving away free games. GOG are. For instance, get to their front page before 11:59 am EDT, and you can secure Omerta: City of Gangsters for ...",
+				"feedlabel": "PC Gamer",
+				"date": 1403618856,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1010228711665175598",
+				"title": "The Steam Holiday Sale Day 2!",
+				"url": "http://store.steampowered.com/news/12144/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <b><a href='http://store.steampowered.com/'>Steam Holiday Sale</a></b> continues today with huge savings throughout the store! Check back often to take advantage of our eight-hour <b>Flash Sales</b>. You can even help select what goes on sale with our <b>Community's Choice Voting Sales</b>. In addition to Flash and Vote sales, more than a hundred games and app...",
+				"feedlabel": "Announcement",
+				"date": 1387563000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1010228077038385935",
+				"title": "Update 1.07 Released - Changelog",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1010228077038385935",
+				"is_external_url": true,
+				"author": "Capitan Maximum",
+				"contents": "An update to Omerta - City of Gangsters has been released with the following changes and bugfixes: - Fixed original campaign mission issues - Improved savegame compatibility - New hideout upgrades now available - Limited MP username to 20 characters - Fixed gangster pushback after explosion in comba...",
+				"feedlabel": "Community Announcements",
+				"date": 1386774903,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 13
+	}
+}

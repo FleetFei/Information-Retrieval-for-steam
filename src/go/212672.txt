@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 212672,
+		"newsitems": [
+			{
+				"gid": "1496587030448043150",
+				"title": "New DLC Available - Tom Clancy's Ghost Recon Future Soldier - Raven Strike DLC",
+				"url": "http://store.steampowered.com/news/9724/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/212672/'>Tom Clancy's Ghost Recon Future Soldier - Raven Strike DLC</a>, all new content for <a href='http://store.steampowered.com/app/212630/'>Tom Clancy's Ghost Recon: Future Soldier&trade;</a> is Now Available on Steam! The <strong>Raven Strike DLC Pack</strong> is a throwback to traditional Ghost Recon gameplay. It features larger maps, complex missions and an increased level of...",
+				"feedlabel": "Product Release",
+				"date": 1358449200,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

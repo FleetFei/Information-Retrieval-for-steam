@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 207113,
+		"newsitems": [
+			{
+				"gid": "1389606335907393752",
+				"title": "New DLC Available - Ridge Racer 7 Machine  The Gallows",
+				"url": "http://store.steampowered.com/news/8149/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/207113/\">Ridge Racer&trade; 7 Machine & The Gallows</a> DLC is Now Available for Ridge Racer&trade; Unbounded! An extreme sports machine and a classic yellow hot rod pick up that stands out a mile in the heat of the race. <a href=\"http://store.steampowered.com/app/207113/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1339083600,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

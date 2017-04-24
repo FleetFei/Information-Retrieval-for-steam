@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 11610,
+		"newsitems": [
+			{
+				"gid": "1858141774306843263",
+				"title": "Golden Egg Coupon Sale Event!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1858141774306843263",
+				"is_external_url": true,
+				"author": "EYEDENTITY_Messenger",
+				"contents": "http://cdn.edgecast.steamstatic.com/steamcommunity/public/images/clans/4328878/b7991bdb004b0b6643aac04d3202ea56bfbcbea4.png Greetings. Golden Egg Coupon will be sold during the upcoming weekend. Please see details below. Event Details: - During the weekend (including Friday), we will send you 10 Gol...",
+				"feedlabel": "Community Announcements",
+				"date": 1492767923,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 11610
+			},
+			{
+				"gid": "75842128754061558",
+				"title": "The 1st Hall of Fame!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75842128754061558",
+				"is_external_url": true,
+				"author": "EYEDENTITY_Messenger",
+				"contents": "http://cdn.edgecast.steamstatic.com/steamcommunity/public/images/clans/4328878/8af44c35469b6a82aebbd6bed601ac2264d61c88.jpg",
+				"feedlabel": "Community Announcements",
+				"date": 1492587686,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 11610
+			},
+			{
+				"gid": "75842128754058943",
+				"title": "Redemption of Conversion",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75842128754058943",
+				"is_external_url": true,
+				"author": "EYEDENTITY_Messenger",
+				"contents": "From the day of last update, we know many of you already tried to acquire conversion costume and we know most of you are disappointed because of the failure. To be honest, we want to give you more chances to get Conversion Costume and we believe and hope this would be a good chance to redeem previou...",
+				"feedlabel": "Community Announcements",
+				"date": 1492587623,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 11610
+			}
+		]
+		,
+		"count": 97
+	}
+}

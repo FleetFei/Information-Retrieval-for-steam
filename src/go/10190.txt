@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 10190,
+		"newsitems": [
+			{
+				"gid": "920167588138345101",
+				"title": "Report lists Steam’s most popular (and most untouched) games",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/920167588138345101",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2014/04/17/steam-popular-unplayed/\" rel=\"bookmark\" title=\"Permanent Link to Report lists Steam&#8217;s most popular (and most untouched) games\"> </a> Have you played every single game in your Steam library? No? Neither have I and that accomplishment is apparently just a small sand grain in the over 288 million games in Steam collections that have never felt a press of the Play button. That's a surprising figure from a new report by Ars Technica...",
+				"feedlabel": "PC Gamer",
+				"date": 1397759714,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1459437403306667461",
+				"title": "Call of Duty “has almost ruined a generation of shooter players,” says Tripwire Interactive",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/1459437403306667461",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2013/03/13/call-of-duty-red-orchestra-2-interview/\" rel=\"bookmark\" title=\"Permanent Link to Call of Duty &#8220;has almost ruined a generation of shooter players,&#8221; says Tripwire Interactive\"> </a> Tripwire President John Gibson holds an M1 Garand inside the team's studio, one of the guns carried by the Americans in Rising Storm. Earlier this month I visited Killing Floor and Red Orchestra 2 creator Tripwire Interactive to play Rising Storm, the upcoming standalone expansion to RO2 (look for...",
+				"feedlabel": "PC Gamer",
+				"date": 1363202858,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1496591023640798197",
+				"title": "Let’s Reboot … Call of Duty",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/1496591023640798197",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2013/03/02/lets-reboot-call-of-duty/\" rel=\"bookmark\" title=\"Permanent Link to Let&#8217;s Reboot &#8230; Call of Duty\"> </a> The quiet rage of a man who can't remember which pocket his keys are in. Call of Duty - what a monster. With clockwork precision a new edition pops up every year and sells millions without fail. It's doing perfectly well, but in spite of an audacious shift to a far future setting in Black Ops 2, i...",
+				"feedlabel": "PC Gamer",
+				"date": 1362247228,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 163
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 203990,
+		"newsitems": [
+			{
+				"gid": "182787402037919611",
+				"title": "Please Vote for ZANGEKI WARP - Now On Steam Greenlight!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/182787402037919611",
+				"is_external_url": true,
+				"author": "Nyu Media",
+				"contents": "We are pleased to announce that ASTRO PORT’s latest & greatest shooting game - ZANGEKI WARP – is now up on Steam Greenlight! Check out game details below and please visit the Greenlight page and vote YES to help bring this awesome game to Steam!! http://steamcommunity.com/sharedfiles/filedetails/?id...",
+				"feedlabel": "Community Announcements",
+				"date": 1478121501,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "295352659749138819",
+				"title": "Please Vote 'YES' for ASTRO PORT's 'WOLFLAME' - Now on Steam Greenlight!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/295352659749138819",
+				"is_external_url": true,
+				"author": "Nyu Media",
+				"contents": "ASTRO PORT's take on classic arcade vertical shooters such as Raiden, Rapter, and Twin Cobra is now on Steam Greenlight, and needs YOUR vote to release on Steam! Greenlight approval permitting, we plan to release WOLFLAME in March 2016. As with all of our ASTRO PORT releases on Steam, we have Window...",
+				"feedlabel": "Community Announcements",
+				"date": 1455031714,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "341510664126144763",
+				"title": "*Now Live* Achievements, Online Leaderboards and Linux Version",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/341510664126144763",
+				"is_external_url": true,
+				"author": "jay_rab",
+				"contents": "You can now earn Achievements in SATAZIUS, there are 40 Achievements total and you can currently see all the achievements and their requirements here: http://steamcommunity.com/stats/Satazius/achievements Along with this update we have included online leaderboards for Easy, Normal, Hard, and Insane ...",
+				"feedlabel": "Community Announcements",
+				"date": 1451217865,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

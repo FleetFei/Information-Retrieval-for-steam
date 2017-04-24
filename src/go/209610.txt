@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 209610,
+		"newsitems": [
+			{
+				"gid": "552009088105285801",
+				"title": "Roller Coaster Rampage includes Steam Workshop",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/552009088105285801",
+				"is_external_url": true,
+				"author": "PanteraEnt",
+				"contents": "***** Now 50 percent off!! On sale for only $4.99 ***** http://panteragamestudio.com/RCRWorkshop.jpg Roller Coaster Rampage allows you to upload your coasters to Steam Workshop. Whether you set a new record for fastest time or highest score, or simply want to share your coaster masterpiece, you can ...",
+				"feedlabel": "Community Announcements",
+				"date": 1408379837,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1514593982711417127",
+				"title": "Daily Deal - Roller Coaster Rampage, 66% off!",
+				"url": "http://store.steampowered.com/news/9217/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% off <a href=\"http://store.steampowered.com/app/209610/\">Roller Coaster Rampage</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/209610/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1351443600,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1461665741212550046",
+				"title": "Roller Coaster Rampage Update",
+				"url": "http://store.steampowered.com/news/8306/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "A new patch for Roller Coaster Rampage is available for download. This build includes 3D Stereo support, new options, and fixes. We are happy to announce Roller Coaster Rampage received a 2x platinum grade for its 3D Vision Stereo support and a Gold grade for side by side stereo support, for use wit...",
+				"feedlabel": "Product Update",
+				"date": 1341005640,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

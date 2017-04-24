@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 203766,
+		"newsitems": [
+			{
+				"gid": "1388479713355333732",
+				"title": "Now Available - Binary Domain Dan Marshall Pack  Multiplayer Map Pack",
+				"url": "http://store.steampowered.com/news/8123/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/app/203765/\">Dan Marshall Pack</a> and <a href=\"http://store.steampowered.com/app/203766/\">Multiplayer Map Pack</a> are Now Available for<a href=\"http://store.steampowered.com/app/203750/\">Binary Domain</a> on Steam! The <a href=\"http://store.steampowered.com/app/203765/\">Dan Marshall Pack</a>includes a brand new weapon and skills for Sergeant Dan Marshall to enhance the single player experience making him more resilient, stronger and faster in combat action. The <a href=\"http://store.steampowered.com/app/203766/\">Multiplayer M...</a>",
+				"feedlabel": "Product Release",
+				"date": 1338570300,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

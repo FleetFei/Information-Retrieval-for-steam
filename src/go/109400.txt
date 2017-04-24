@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 109400,
+		"newsitems": [
+			{
+				"gid": "920167588136758460",
+				"title": "Egg-citing Easter Fun",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/920167588136758460",
+				"is_external_url": true,
+				"author": "MicroVolts Surge",
+				"contents": "We say \"<b> Egg-citing Easter Fun </b>\" ... You say \"<b> Happy Easter </b>\"! This is the <b> EGG-CITING EASTER FUN EVENT </b>! Starting <b> Friday </b>, <b> APRIL 18 </b> at <b> 12:00AM (EDT) </b> until <b> MONDAY </b>, <b> APRIL 21 </b> at <b> 11:59PM (EDT) </b>, type \"<b>Happy Easter</b>\" in-game right after our \"<b>Egg-citing Easter Fun</b>\" announcement to receive a <b> FRE...</b>",
+				"feedlabel": "Community Announcements",
+				"date": 1397757889,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "920167588135726333",
+				"title": "TRIPLE MP on Easter Weekend",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/920167588135726333",
+				"is_external_url": true,
+				"author": "MicroVolts Surge",
+				"contents": "MicroVolters, get some <b>BONUS MP</b> this <b> EASTER WEEKEND </b>! Starting <b> FRIDAY </b>, <b> APRIL 18 </b> at <b> 12:00AM (EDT) UNTIL MONDAY </b>, <b> APRIL 21 </b> at <b> 11:59PM (EDT) </b>, <b> GET TRIPLE MP </b> when you play <b>Team Death Match</b> or <b>Free For All</b> in MicroVolts! Earn some extra MP for the MP Capsule Machine! Find out more about this e...",
+				"feedlabel": "Community Announcements",
+				"date": 1397756498,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "920166227294546291",
+				"title": "50% OFF CAPSULE MACHINE (Spring Sale #2)",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/920166227294546291",
+				"is_external_url": true,
+				"author": "MicroVolts Surge",
+				"contents": "Just in time, MicroVolts is here with <b> SPRING SALE #2 </b> to help you make the most of your RT! <b> Starting now, April 11th </b>, until <b> April 13th at 11:59PM EDT </b> save RT and get <b> 50% OFF </b> on selected <b>Parts</b> and <b>Weapons</b> in the <b>Capsule Machine</b>! Don't miss out on this great Spring Sale! Head over to the capsul...",
+				"feedlabel": "Community Announcements",
+				"date": 1397248880,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 169
+	}
+}

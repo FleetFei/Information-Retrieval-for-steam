@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 210990,
+		"newsitems": [
+			{
+				"gid": "1389607509685384670",
+				"title": "New Release - Pro Cycling Manager 2012",
+				"url": "http://store.steampowered.com/news/8253/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/210990/\">Pro Cycling Manager 2012</a> is Now Available on Steam! Prepare to live an iconic 2012 season by taking the lead of one of the 81 teams of the professional circuit. Real-time races, sponsors, riders&#146; contracts, training and equipment… It&#146;s up to you to prove your worth as a manager, and lead y...",
+				"feedlabel": "Product Release",
+				"date": 1340390280,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

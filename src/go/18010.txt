@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 18010,
+		"newsitems": [
+			{
+				"gid": "523716718232862174",
+				"title": "Penny Arcade Adventures Series Cancelled",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/523716718232862174",
+				"is_external_url": true,
+				"author": "Chris Faylor",
+				"contents": "After two outings, the interactive adventures of Gabe and Tycho are no more, as Penny Arcade artist Mike \"Gabe\" Krahulik told <a href=\"http://www.joystiq.com/2010/03/26/penny-arcade-adventures-discontinued-there-wont-be-an-episode/\">Joystiq</a> \"there won't be an Episode 3.\" A four-episode series inspired by Krahulik and Jerry \"Tycho\" Holkins' game-centric webcomic, Penny Arcade Adventures: Episode 1 debuted...",
+				"feedlabel": "Shacknews",
+				"date": 1269896400,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

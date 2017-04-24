@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 200940,
+		"newsitems": [
+			{
+				"gid": "255953775615590481",
+				"title": "Sega Mega Drive  Genesis Classic titles Now with Steam Workshop, 66% off!",
+				"url": "http://store.steampowered.com/news/21604/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/sub/102625/'>Sega Mega Drive & Genesis Classic titles</a> have been updated today to include modding support with the Steam Workshop and many more features including: * local co-op for games that support it; * optional graphic enhancement filters; * the ability to save at any point in the gameplay; * full controller...",
+				"feedlabel": "Product Update",
+				"date": 1461884700,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "777103922030118185",
+				"title": "Want to Know What’s Going to Happen In Sonic 4, Episode 2? Then You Should Pick Up Archie Comics’ Sonic Super Special #3",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/777103922030118185",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://cache.gawkerassets.com/assets/images/9/2012/01/232da501c05c2a3eab3b4792e972ebf5.jpg\"> </a> Could it be possible that Sonic the Hedgehog&mdash;after years of underwhelming games&mdash;is enjoying a bit of a resurgence? Both the <a href=\"http://kotaku.com/5869879/sonic-cd-could-be-the-best-five-dollar-sonic-purchase-you-make-this-week\">re-release of <em>Sonic CD</em></a> and the debut of the all-new <a href=\"http://kotaku.com/5857024/sonic-generations-the-kotaku-review\"><em>Sonic Generations</em></a> have been reminding people how fun it is to play as Sega's mascot. But, as opposed to his ga...",
+				"feedlabel": "Kotaku",
+				"date": 1327071600,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "777103922023348576",
+				"title": "Weekend Deal - Select Sonic Titles 50% to 75% off!",
+				"url": "http://store.steampowered.com/news/7189/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "This weekend only, save 50% to 75% on select <a href=\"http://store.steampowered.com/sale/Sonic_Weekend/\">Sonic Titles</a>! Plus, two new Sonic titles, <a href=\"http://store.steampowered.com/app/202530/\">Sonic the Hedgehog 4 - EP I</a> and <a href=\"http://store.steampowered.com/app/200940/\">Sonic CD</a>, and the new <a href=\"http://store.steampowered.com/app/200590/\">Sonic Generations - Casino Night DLC</a>are Now Available on Steam! Also, when you buy Sonic CD, you'll receive the Metal Sonic Suit in <a href=\"http://store.steampowered.com/app/99900 /\">Spiral Knights</a>! Spiral Knig...",
+				"feedlabel": "Announcement",
+				"date": 1326996300,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

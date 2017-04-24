@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 206440,
+		"newsitems": [
+			{
+				"gid": "75840229423825601",
+				"title": "The surprising explosion of RPG Maker on Steam",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/75840229423825601",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Can a game engine as old as the Super Nintendo remain relevant in 2017? If we&apos;re talking about RPG Maker, the answer is a resounding yes. After two decades of relative obscurity, the game-making software has exploded in popularity in recent years, leading to gems like<a href=\"http://www.pcgamer.com/a-journey-to-the-moon-and-back/\"> To The Moon </a>,<a href=\"http://www.pcgamer.com/lisa-trailer-contains-post-apocalyptic-cycling-long-moustaches/\"> LISA </a>, and<a href=\"http://www.pcgamer.com/always-sometimes-monsters-review-2/\"> A...</a>",
+				"feedlabel": "PC Gamer",
+				"date": 1492018173,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 206440
+			},
+			{
+				"gid": "182787402034992160",
+				"title": "Finding Paradise now has a Steam page",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/182787402034992160",
+				"is_external_url": true,
+				"author": "Reives",
+				"contents": "http://store.steampowered.com/app/337340/ I've also started a Q&A thread on its community hub. c: We won't be doing any pre-orders for it as usual, but it could still be wishlisted to keep on record. Cheers & Happy 5-Year To the Moon anniversary! Kan",
+				"feedlabel": "Community Announcements",
+				"date": 1478051507,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "212060165310260240",
+				"title": "Daily Deal - To the Moon, 85% Off",
+				"url": "http://store.steampowered.com/news/25299/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 85% on <a href='http://store.steampowered.com/app/206440/'>To the Moon</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Thursday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/206440/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1478019600,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 15
+	}
+}

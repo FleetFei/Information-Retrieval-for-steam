@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 201877,
+		"newsitems": [
+			{
+				"gid": "774848423581590757",
+				"title": "New Release - Assassin's Creed Revelations - The Ancestors Character Pack",
+				"url": "http://store.steampowered.com/news/6985/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The new <a href=\"http://store.steampowered.com/app/201877/\">Assassin's Creed Revelations - The Ancestors Character Pack</a> is now available on Steam! The Ancestors Character Pack features four new multiplayer characters, including: the swashbuckling Privateer, the devious siren Corsair, the battle-tested Brigand, and the bloodthirsty Gladiator. Each cha...",
+				"feedlabel": "Product Release",
+				"date": 1323799320,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 10170,
+		"newsitems": [
+			{
+				"gid": "249202181074141322",
+				"title": "A new Wolfenstein was teased at Bethesda's BE3 show",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/249202181074141322",
+				"is_external_url": true,
+				"author": "",
+				"contents": "The one big Bethesda franchise that didn't get any love at its pre-E3 conference is <a href=\"http://www.pcgamer.com/wolfenstein-the-new-order/\">Wolfenstein</a>. Or did it? Why, yes. Yes, it did. The event kicked off with an old DOS-style screen, with a listing of directories like Keen, Wolf3D, New_Order, Old_Blood, Doom, and so forth basically a litany of id Sof...",
+				"feedlabel": "PC Gamer",
+				"date": 1465789524,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "341512023079983601",
+				"title": "The best FPS games of all time",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/341512023079983601",
+				"is_external_url": true,
+				"author": "",
+				"contents": "",
+				"feedlabel": "PC Gamer",
+				"date": 1452265200,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "423686857814571878",
+				"title": "Fail Forward: Wolfenstein: The New Order",
+				"url": "http://store.steampowered.com/news/externalpost/rps/423686857814571878",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Marsh Davies)",
+				"contents": "<a href=\"http://www.rockpapershotgun.com/tag/fail-forward/\">Fail Forward</a> is a series of videos all about the bits of games which don t quite work and why. In this episode, <a href=\"http://www.twitter.com/marshdavies\">Marsh Davies</a> discusses <a href=\"http://www.rockpapershotgun.com/tag/wolfenstein-the-new-order/\">Wolfenstein: The New Order</a> , its robot dogs and limpid eyes. &#8230; ",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1437156005,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 25
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 200080,
+		"newsitems": [
+			{
+				"gid": "1145261770010094413",
+				"title": "Now Available - Nancy Drew: Shadow at the Water's Edge",
+				"url": "http://store.steampowered.com/news/6283/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/200080/\">Nancy Drew&reg;: Shadow at the Water's Edge</a> is now available on Steam and is 10% off! Uncover mystery and solve puzzles as Nancy Drew heads to Japan. It&#146;ll be up to you, as Nancy Drew, to uncover the secret that lies beneath the surface, before a ghost can take its revenge! Discount ends Septem...",
+				"feedlabel": "Product Release",
+				"date": 1316121900,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

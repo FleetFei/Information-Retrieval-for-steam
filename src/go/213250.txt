@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 213250,
+		"newsitems": [
+			{
+				"gid": "1496586490651080384",
+				"title": "New DLC Available - Borderlands 2: Sir Hammerlock’s Big Game Hunt",
+				"url": "http://store.steampowered.com/news/9746/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/213250/'>Borderlands 2: Sir Hammerlock&#146;s Big Game Hunt</a>, all new content for <a href='http://store.steampowered.com/app/49520/'>Borderlands 2</a> is Now Available on Steam In Sir Hammerlock&#146;s Big Game Hunt, players will enter an uncharted territory deep in the swamps of Pandora where a massive Hyperion ship has crashed. The wreckage is rumored to have s...",
+				"feedlabel": "Product Release",
+				"date": 1358274120,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1479695995286748156",
+				"title": "5 Things You Should Know About The Borderlands 2 DLC That Came Out Today",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1479695995286748156",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/188wj67zu9qcrjpg/original.jpg\"> </a> We're up to our third campaign add-on for September's wonderfully colorful and gun-filled <em>Borderlands 2</em>. Like the previous two DLCs that focused on one personality&mdash;Captain Scarlett followed by Mr. Torgue&mdash;<em>Sir Hammerlock's Big Game Hunt</em> leads you into various dangers thanks to one well-a...",
+				"feedlabel": "Kotaku",
+				"date": 1355990400,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

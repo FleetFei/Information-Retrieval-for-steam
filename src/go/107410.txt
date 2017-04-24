@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 107410,
+		"newsitems": [
+			{
+				"gid": "1858141774304346121",
+				"title": "Weekend Deal - Arma series, up to 80% Off!",
+				"url": "http://store.steampowered.com/news/28975/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 80% on the <a href='http://store.steampowered.com/sale/arma/'>Arma series</a> as part of this week's Weekend Deal*! *Offer ends Monday at 10AM Pacific Time <a href=\"http://store.steampowered.com/sale/arma/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1492708200,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 33900
+			},
+			{
+				"gid": "75842128755563030",
+				"title": "SITREP #00191",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75842128755563030",
+				"is_external_url": true,
+				"author": "Iceman",
+				"contents": "FROM: High Command TO: Arma 3 Users INFO: Jets DLC Details, Mod Activities PRECEDENCE: Flash SITUATION After a short Easter break, the Arma 3 development team is working together with BRAVO ZERO ONE Studios to apply the finishing touches to the Jets DLC. Internally, we have entered a Data Lock perio...",
+				"feedlabel": "Community Announcements",
+				"date": 1492623584,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 107410
+			},
+			{
+				"gid": "75841595754857413",
+				"title": "OPREP - Jets DLC",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75841595754857413",
+				"is_external_url": true,
+				"author": "Nelios",
+				"contents": "UNIT: Joshua Carpenter, External Developer, BRAVO ZERO ONE Studios TO: Arma 3 Dev-Branch Users OPSUM: Partnering up to bring you the best DLC jet! http://cdn.edgecast.steamstatic.com/steamcommunity/public/images/clans/2799889/bbc77188485bfec40a31234bc6394dace831bae1.jpg EVALUATION: Hello, my name is...",
+				"feedlabel": "Community Announcements",
+				"date": 1492263605,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 107410
+			}
+		]
+		,
+		"count": 575
+	}
+}

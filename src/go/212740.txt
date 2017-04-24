@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 212740,
+		"newsitems": [
+			{
+				"gid": "1858141774304243035",
+				"title": "Preview - Patch 55: Velika’s Secrets",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1858141774304243035",
+				"is_external_url": true,
+				"author": "Nyoka|CM",
+				"contents": "https://gf2.geo.gfsrv.net/cdn1a/f367905d5b2f4f62011a6779213509.jpg The fiend succeeded! Lakan has invaded Velika and holds the fate of the world in his rapacious hands. Stop him in his tracks and free the thriving city from his evil grasp! From early May you can prove your courage against this wicke...",
+				"feedlabel": "Community Announcements",
+				"date": 1492705751,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 212740
+			},
+			{
+				"gid": "75840229422752336",
+				"title": "Event: Champion Challenges",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75840229422752336",
+				"is_external_url": true,
+				"author": "Iaito|CM",
+				"contents": "https://gf3.geo.gfsrv.net/cdnbe/b6ac2b30435594e3de54bb5aea254e.jpg Have you been honing your skills with your new Valkyrie? Do you tend to leave bosses in ribbons and battlegrounds in ruins? Excellent! Then you’re ready for the new Champion Challenges! Over the Easter weekend, you can prove your bra...",
+				"feedlabel": "Community Announcements",
+				"date": 1491992542,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 212740
+			},
+			{
+				"gid": "75840229401007198",
+				"title": "Event: Easter Eggstravaganza",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75840229401007198",
+				"is_external_url": true,
+				"author": "Iaito|CM",
+				"contents": "https://gf1.geo.gfsrv.net/cdn98/5d0d214ccd4e59377a79fd1b9fdc5c.jpg What's that rustling in the bushes? Why it's the Easter bunny with Easter eggs for every adventurer in his bag. Open the eggs and with a bit of luck you might find a Liberation Scroll or up to 1000 Masterwork Alkahest! Event Overview...",
+				"feedlabel": "Community Announcements",
+				"date": 1491472621,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 212740
+			}
+		]
+		,
+		"count": 38
+	}
+}

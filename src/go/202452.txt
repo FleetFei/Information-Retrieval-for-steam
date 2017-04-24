@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 202452,
+		"newsitems": [
+			{
+				"gid": "775975267432251877",
+				"title": "New Release - Crazy Machines 2: Happy New Year DLC",
+				"url": "http://store.steampowered.com/news/7052/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/202452/\">Crazy Machines 2: Happy New Year DLC</a> is now available on Steam and 50% off through the Holiday Sale. Crank up the fun, break out the Champagne and fire off your corks to usher in the New Year! Celebrate with explosive new elements and daring experiments. Use disco balls to deflect laser beams, ignit...",
+				"feedlabel": "Product Release",
+				"date": 1324341600,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 206177,
+		"newsitems": [
+			{
+				"gid": "1514593982765985272",
+				"title": "Now Available - Avenged Sevenfold Songs for Rocksmith",
+				"url": "http://store.steampowered.com/news/9236/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Three new songs are Now Available for <a href=\"http://store.steampowered.com/app/205190/\">Rocksmith</a>! Play \"Beast and the Harlot\", \"Afterlife\", and \"Nightmare\" by <a href=\"http://store.steampowered.com/app/206177/\">Avenged Sevenfold</a> on any electric guitar. Each song includes a new authentic tone accessible in AMP mode. <a href=\"http://store.steampowered.com/app/205190/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1351618920,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

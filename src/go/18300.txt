@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 18300,
+		"newsitems": [
+			{
+				"gid": "410179229584356129",
+				"title": "From the makers of Spectraball comes: Bob Was Hungry",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/410179229584356129",
+				"is_external_url": true,
+				"author": "Swake",
+				"contents": "Hello everyone! We here at Shorebound Studios are seriously proud to announce our latest title Bob Was Hungry. You can check out the trailer below! https://www.youtube.com/watch?v=s3gMm9Qm7n0 The game is available at a discounted price of $9.99 until September 2nd! It will then rise to $14.99. You c...",
+				"feedlabel": "Community Announcements",
+				"date": 1440362613,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1461706326539923170",
+				"title": "Spectraball Update Released",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1461706326539923170",
+				"is_external_url": true,
+				"author": "rlabrecque",
+				"contents": "Release Notes for 9/23/2013 Enhancements: Decreased the amount of time it takes for speed & jump boosts to respawn Added Audio Volume Options The game now defaults to the desktop resolution Bug Fixes: Fixed elevators not completely resetting when returning to a checkpoint Fixed overlapping names in ...",
+				"feedlabel": "Community Announcements",
+				"date": 1379957540,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1461706326582795702",
+				"title": "New Week Long Deals Available On Steam!",
+				"url": "http://store.steampowered.com/news/11501/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on new Week Long Deals on Steam, available now until September 30th at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/237590/\"> </a> <a href=\"http://store.steampowered.com/app/46510/\"> </a> <a href=\"http://store.steampowered.com/app/230820/\"> </a> <a href=\"http://store.steampowered.com/app/238481/\"> </a> <a href=\"http://store.steampowered.com/app/18300/\"> </a> <a href=\"http://store.steampowered.com/app/25900/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1379955540,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 6
+	}
+}

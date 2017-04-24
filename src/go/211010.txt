@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 211010,
+		"newsitems": [
+			{
+				"gid": "1389604433820710527",
+				"title": "Now Available - Alien Shooter 2: Conscription, 20% off!",
+				"url": "http://store.steampowered.com/news/8007/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/211010/\">Alien Shooter 2: Conscription</a> is Now Available on Steam and 20% off until 10AM PST Thursday, May 25th. Alien Shooter 2 - Conscription is the continuation of cult Alien Shooter 2, which is a unique blend of two game genres - Action and RPG. The Great War has begun! The world population capable of fun...",
+				"feedlabel": "Product Release",
+				"date": 1337360100,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

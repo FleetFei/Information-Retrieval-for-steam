@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 203770,
+		"newsitems": [
+			{
+				"gid": "1858141774317993952",
+				"title": "Patch 2.7.1 [checksum BPAH] Live Now!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1858141774317993952",
+				"is_external_url": true,
+				"author": "BjornB",
+				"contents": "Following an extensive period of public testing, patch 2.7.1 is now live for everyone! ######################################### ######################################### ################ 2.7.1.0 ################ ######################################### ######################################### ###...",
+				"feedlabel": "Community Announcements",
+				"date": 1493034582,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 203770
+			},
+			{
+				"gid": "75840229390991758",
+				"title": "2.7.1 Patch Notes",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75840229390991758",
+				"is_external_url": true,
+				"author": "BjornB",
+				"contents": "http://forumcontent.paradoxplaza.com/public/paradox/banners/ck2_devdiary.jpg Greetings! Today I'd like to share the full 2.7.1 patch notes with you. We've been hard at work fixing issues and implementing suggestions since the release of MnM, and we will hopefully be able to release this patch as an ...",
+				"feedlabel": "Community Announcements",
+				"date": 1491233156,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 203770
+			},
+			{
+				"gid": "75839596822958963",
+				"title": "For the Faith!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75839596822958963",
+				"is_external_url": true,
+				"author": "BjornB",
+				"contents": "http://forumcontent.paradoxplaza.com/public/paradox/banners/ck2_devdiary.jpg Greetings! Today I’d like to talk about the revamp of Secret Religious Cults that we’ve been working on for the past few weeks. At the launch of Monks and Mystics the system was entirely trait-based, i.e. if you were a Cath...",
+				"feedlabel": "Community Announcements",
+				"date": 1490607679,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 203770
+			}
+		]
+		,
+		"count": 298
+	}
+}

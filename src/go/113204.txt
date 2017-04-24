@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 113204,
+		"newsitems": [
+			{
+				"gid": "1389605244657237614",
+				"title": "New DLC Available - The Binding of Isaac Wrath of the Lamb",
+				"url": "http://store.steampowered.com/news/8085/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/113204/\">The Binding of Isaac Wrath of the Lamb</a> DLC is Now Available on Steam! The Binding of Isaac: Wrath of the Lamb is the expansion to The Binding of Isaac, a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that chan...",
+				"feedlabel": "Product Release",
+				"date": 1338227160,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

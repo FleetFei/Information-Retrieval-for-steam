@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 203877,
+		"newsitems": [
+			{
+				"gid": "1388479713318822222",
+				"title": "New DLC Available - Microsoft Flight: F4U Corsair",
+				"url": "http://store.steampowered.com/news/8101/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/203877/\">F4U Corsair </a>, new content for Microsoft Flight, is now available on Steam! Conquer the hoops courses in the F4U Corsair! With its large prop and inverted gull wings, the F4U was an iconic mainstay of Allied aviation during World War II. It was also featured in a late 1970's TV series based on Marine...",
+				"feedlabel": "Product Release",
+				"date": 1338400800,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 211600,
+		"newsitems": [
+			{
+				"gid": "241332296594955950",
+				"title": "Thief's brilliant subtlety is still unmatched 18 years later",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/241332296594955950",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a target=\"_blank\"> </a> At the end of Thief: The Dark Project, one of its characters muses on the future. Beware the dawn of the Metal Age, he says, looking out over the steampunk city. That line was contributed by Terri Brosius, one of the game's writers and designers as well as the voice of Viktoria (she also provided ...",
+				"feedlabel": "PC Gamer",
+				"date": 1476377549,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "519372501705198899",
+				"title": "S.EXE: Seven Stories About Love",
+				"url": "http://store.steampowered.com/news/externalpost/rps/519372501705198899",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Cara Ellison)",
+				"contents": "The first time I ever wrote anything about games, it was because I was still brokenhearted about a relationship that had dissolved years ago. PC Gamer edited the 4000 word essay into a <a href=\"http://www.pcgamer.com/old-friends-an-ode-to-defence-of-the-ancients/\">six pager about Dota in 2012</a> and it is still one of the best things I have ever written. But wherever I go, whateve...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1422046800,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "919042307068032415",
+				"title": "MC Hammer Watch: Beneath The City Is Turn-Based Thief",
+				"url": "http://store.steampowered.com/news/externalpost/rps/919042307068032415",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Nathan Grayson)",
+				"contents": "Well now, here is a brilliant little surprise. Who&#8217;d have thought the best game set in the <a href=\"http://www.thiefgame.com/agegate?locale=us\">Thief</a> universe this year would be an itsy bitsy isometric <a href=\"http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&amp;uid=2982\">Ludum Dare 29 entry</a>? Maybe that&#8217;s a bit of an overstatement, but <a href=\"http://deepnight.net/games/beneath-the-city/\">Beneath The City</a> really is a smart (though sadly brief) execution of a rea...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1398780003,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 10
+	}
+}

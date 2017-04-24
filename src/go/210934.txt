@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 210934,
+		"newsitems": [
+			{
+				"gid": "1514593284403960630",
+				"title": "Killing Floor Hillbilly Horror Event is Now Available!",
+				"url": "http://store.steampowered.com/news/9158/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Check out the new Map, Weapons, Achievements and Unlockable Character in the <a href=\"http://store.steampowered.com/app/1250/\">Killing Floor Hillbilly Horror Event</a> now through November 6th! Additionally, take 75% off Killing Floor and 50% off all DLC's for the duration of this event! Check out the new <a href=\"http://store.steampowered.com/app/210936/\">Chickenator Pack</a>, who is part dead policeman, p...",
+				"feedlabel": "Announcement",
+				"date": 1351028460,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 210170,
+		"newsitems": [
+			{
+				"gid": "243582192022438122",
+				"title": "Our upcoming game Future Unfolding is now on Greenlight",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/243582192022438122",
+				"is_external_url": true,
+				"author": "andreaszecher",
+				"contents": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3953228/d82c5d7dd5171daeafb18a72b2f17c7e1393ba91.png Just a quick announcement that our upcoming game is now up on Greenlight. Future Unfolding is an action adventure where you explore a dream-like, surreal world that is procedural...",
+				"feedlabel": "Community Announcements",
+				"date": 1474481434,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "522745035923720991",
+				"title": "Steam Trading Cards",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/522745035923720991",
+				"is_external_url": true,
+				"author": "andreaszecher",
+				"contents": "While we’re still busy working on our next game we had a lot of fun coming back to Spirits to create a set of six trading cards ːtradingcardː for you. Each card features a spirit in a different game action. Zoom in on a card to see the level we placed the spirit in. The set comes with three unlockab...",
+				"feedlabel": "Community Announcements",
+				"date": 1417073914,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1045127258965743045",
+				"title": "Weeklong Deals, November 4",
+				"url": "http://store.steampowered.com/news/11773/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Check out the new Weeklong Deals, running now until November 11 at discounts as low as 75% off! <a href=\"http://store.steampowered.com/app/204240/\"> </a> <a href=\"http://store.steampowered.com/app/201420/\"> </a> <a href=\"http://store.steampowered.com/app/231310/\"> </a> <a href=\"http://store.steampowered.com/app/18470/\"> </a> <a href=\"http://store.steampowered.com/app/241240/\"> </a> <a href=\"http://store.steampowered.com/app/12340/\"> </a> <a href=\"http://store.steampowered.com/app/204860/\"> </a> <a href=\"http://store.steampowered.com/app/209520/\"> </a> <a href=\"http://store.steampowered.com/app/12450/\"> </a> <a href=\"http://store.steampowered.com/app/217920/\"> </a> <a href=\"http://store.steampowered.com/app/231040/\"> </a> <a href=\"http://store.steampowered.com/app/227200/\"> </a> <a href=\"http://store.steampowered.com/app/210170/\"> </a> <a href=\"http://store.steampowered.com/app/41740/\"> </a> <a href=\"http://store.steampowered.com/app/32200/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1383588000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

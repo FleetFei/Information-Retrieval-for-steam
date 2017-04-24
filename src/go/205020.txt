@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 205020,
+		"newsitems": [
+			{
+				"gid": "522745759934451633",
+				"title": "Important Update",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/522745759934451633",
+				"is_external_url": true,
+				"author": "StateOfPlayGames",
+				"contents": "We've just issued an important patch which fixes an issue preventing some scenes from working properly. For those who've purchased, please make sure the game updates before you launch it next time, and if you have problems, restarting Steam should do the trick. New buyers will automatically have the...",
+				"feedlabel": "Community Announcements",
+				"date": 1417644023,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "522745759924100232",
+				"title": "Now Available on Steam - Lumino City",
+				"url": "http://store.steampowered.com/news/15125/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/205020/'>Lumino City</a> is Now Available on Steam! Sequel to the award-winning game Lume, Lumino City begins where that game left off. Begin by exploring the city, and using your ingenuity piece together all sorts of puzzling mechanisms to help the people who live in its unique world. Discover gardens in the sk...",
+				"feedlabel": "Product Release",
+				"date": 1417630800,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

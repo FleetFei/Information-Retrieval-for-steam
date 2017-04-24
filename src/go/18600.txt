@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 18600,
+		"newsitems": [
+			{
+				"gid": "1478591738297768101",
+				"title": "50% of proceeds from sales of Mayhem Intergalactic to be donated to Australian bushfire victims",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738297768101",
+				"is_external_url": true,
+				"author": "ChrisP",
+				"contents": "Many of you - especially those of you who, like myself, are from Australia - will have heard by now of the devastating bushfires which have been raging in the Australian states of Victoria (especially) and New South Wales since late last week. As of this writing, the fires in Victoria alone are know...",
+				"feedlabel": "Community Announcements",
+				"date": 1234322441,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738297768067",
+				"title": "Mayhem Intergalactic version 1.2.3 now available",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738297768067",
+				"is_external_url": true,
+				"author": "ChrisP",
+				"contents": "Version 1.2.3 introduces a new feature and fixes a number of bugs and annoyances: New/changed features * Private chat. To send a private chat message to a player called Bob, type /msg bob Hi Bob! . Names can be abbreviated. /whisper or /tell can be used instead of /msg. * The message log on the info...",
+				"feedlabel": "Community Announcements",
+				"date": 1234236524,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738297767826",
+				"title": "Mayhem Intergalactic version 1.2.2 now available",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738297767826",
+				"is_external_url": true,
+				"author": "ChrisP",
+				"contents": "Version 1.2.2 is a minor bug-fix release. It is compatible with savefiles from version 1.2.1 (but not from version 1.2.0 or earlier). Similarly, version 1.2.2 clients can play on version 1.2.1 servers and vice versa. New/changed features * Increased maximum length of player name from 15 to 50. (Name...",
+				"feedlabel": "Community Announcements",
+				"date": 1233278966,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

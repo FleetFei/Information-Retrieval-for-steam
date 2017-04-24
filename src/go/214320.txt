@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 214320,
+		"newsitems": [
+			{
+				"gid": "1496591477367096768",
+				"title": "Now Available - Dollar Dash",
+				"url": "http://store.steampowered.com/news/10084/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/214320/'>Dollar Dash</a> is Now Available on Steam! Find it, rob it, and keep it. Grab the cash in this fast and frenetic top down multiplayer versus game. Dollar Dash will have you shouting for joy, as you make a dash with the cash. You must attack, defend or outrun your competitors in any of the three game mod...",
+				"feedlabel": "Product Release",
+				"date": 1362594600,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 214986,
+		"newsitems": [
+			{
+				"gid": "1515717154623409251",
+				"title": "New DLC Available - Hearts of Iron III: Their Finest Hour",
+				"url": "http://store.steampowered.com/news/8947/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/214986/\">Their Finest Hour</a>, all new content for <a href=\"http://store.steampowered.com/app/25890/\">Hearts of Iron II</a>, is now available on Steam! <strong>Their Finest Hour</strong> puts you back in the commander&#146;s seat during World War II. Win the war with new units, strategies and enhanced game modes. Destroy your enemies from within with an expanded espionage system th...",
+				"feedlabel": "Product Release",
+				"date": 1348681500,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

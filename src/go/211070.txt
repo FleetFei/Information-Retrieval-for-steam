@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 211070,
+		"newsitems": [
+			{
+				"gid": "91592053119632712",
+				"title": "No Activation, Linux port and Steam Cloud!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/91592053119632712",
+				"is_external_url": true,
+				"author": "JahnVegar",
+				"contents": "Dear players, We are presenting Linux Wine port of the game. Thank You very much to all players who took part in Beta! We also changed our activation system on all platforms to DLM V2 (Digital License Management). Players receives an serial key, but no activation required. Steam Cloud is working now...",
+				"feedlabel": "Community Announcements",
+				"date": 1480946410,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "243583460813360597",
+				"title": "Weekly Discount 75% for Linux Beta",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/243583460813360597",
+				"is_external_url": true,
+				"author": "Raidor [dph]",
+				"contents": "from 10-10-16 we support the Linux Beta Test with a weekly discount. Of course all platforms are discounted.",
+				"feedlabel": "Community Announcements",
+				"date": 1476100494,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "243583460812864874",
+				"title": "Public Linux Beta Test",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/243583460812864874",
+				"is_external_url": true,
+				"author": "JahnVegar",
+				"contents": "Dear players, We are launching public Beta test of Linux Check vs Mate port. Everybody who have a copy of the game, can take part in it. How To Do 1)Right Mouse Buttom (RMB) on Check vs Mate in your game library. 2)At the bottom - Properties. 3)At the top of the new window - BETAS 4)Enter this code ...",
+				"feedlabel": "Community Announcements",
+				"date": 1476088641,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 7
+	}
+}

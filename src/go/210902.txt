@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 210902,
+		"newsitems": [
+			{
+				"gid": "1515720987486408219",
+				"title": "New DLC Available - Crusader Kings II: Sunset Invasion",
+				"url": "http://store.steampowered.com/news/9376/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/210902/'>Crusader Kings II: Sunset Invasion</a>, all new content for <a href='http://store.steampowered.com/app/0/'>Crusader Kings II</a> is Now Available on Steam Crusader Kings II: Sunset Invasion is the third DLC expansion for the critically praised strategy/RPG Crusader Kings II. This fantasy scenario marks Paradox Development Studios first departure from hi...",
+				"feedlabel": "Product Release",
+				"date": 1353002520,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

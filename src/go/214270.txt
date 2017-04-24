@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 214270,
+		"newsitems": [
+			{
+				"gid": "1531474070464550577",
+				"title": "Now Available - Mensa Academy",
+				"url": "http://store.steampowered.com/news/8495/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/214270/\">Mensa Academy</a> is now available in most territories on Steam! Get ready to stretch your grey matter as you put yourself through more than 100 interesting and challenging puzzles designed to stretch and train your brain in key areas including logic, language, visual and more! Mensa Academy is the only...",
+				"feedlabel": "Product Release",
+				"date": 1343345160,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 15730,
+		"newsitems": [
+			{
+				"gid": "1515717154748600195",
+				"title": "Oddworld: Abe's Oddysee HD confirmed for PC, 360, PS3 and Vita",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1515717154748600195",
+				"is_external_url": true,
+				"author": "Alice O'Connor",
+				"contents": "Just Add Water has confirmed its <a href=\"http://www.shacknews.com/article/74296/oddworld-abes-oddysee-hd-getting-full-reboot\">HD reboot</a> of the classic charming puzzle-platformer <a href=\"http://www.shacknews.com/game/oddworld-abes-oddysee\">Oddworld: Abe's Oddysee</a> will get a downloadable release on PC, Xbox 360, PlayStation 3 and Vita. Now named <a href=\"http://www.shacknews.com/game/oddworld-abes-oddysee-new-n-tasty\">Oddworld: Abe's Oddysee - New 'n' Tasty</a>, it's coming in the fourth quarter of 2013. The PC edition is due a ...",
+				"feedlabel": "Shacknews",
+				"date": 1349071200,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1389606336004784132",
+				"title": "Oddworld: Abe's Oddysee HD getting full reboot",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1389606336004784132",
+				"is_external_url": true,
+				"author": "Steve Watts",
+				"contents": "<a href=\"http://www.shacknews.com/game/oddworld-abes-oddysee\">Oddworld: Abe's Oddysee</a> is getting its own HD version, but fans will have to wait a little longer to play it. Developer Oddworld Inhabitants has announced that the game will get a full reboot rather than just some HD visuals, and as a result won't be out until next summer. ",
+				"feedlabel": "Shacknews",
+				"date": 1339488900,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1189151036778520641",
+				"title": "Just Add Water Remaking Abe's Oddysee in HD",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1189151036778520641",
+				"is_external_url": true,
+				"author": "Steve Watts",
+				"contents": "<a href=\"http://www.shacknews.com/screenshots.x?gallery=16842&game_id=#img173757\"> </a> Series creator Lorne Lanning and the team at Just Add Water have announced that an HD remake of <a href=\"http://www.shacknews.com/reviews/game.x/973#graph1\">Oddworld: Abe's Oddysee</a> is in production. An interview in the March issue of EGM (via <a href=\"http://apps.facebook.com/upitone/?controller=news&op=view-news&news_id=66682\">Facebook</a>) outlines the plans for the game, nicknamed \"Abe HD.\" \"It's basically Abe's Oddysee being redone in a 3D ph...",
+				"feedlabel": "Shacknews",
+				"date": 1296514800,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

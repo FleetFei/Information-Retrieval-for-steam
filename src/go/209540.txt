@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 209540,
+		"newsitems": [
+			{
+				"gid": "522744579317290940",
+				"title": "Capital Spaceship Combat: Fractured Space",
+				"url": "http://store.steampowered.com/news/externalpost/rps/522744579317290940",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "The three coolest things to pilot in space battles are, in no particular order: mecha; capital ships; and EVE Online&#8217;s <a href=\"http://wiki.eveuniversity.org/Rifter\">Rifter</a>. Edge Case Games was formed by folks behind <a href=\"\">Strike Suit Zero</a> so they&#8217;ve dabbled with the first, and that third is off-limits, so here they are with capital ships ...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1416585617,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "522744579265427824",
+				"title": "Free 24-hour Access to Fractured Space for SSZ owners!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/522744579265427824",
+				"is_external_url": true,
+				"author": "Jamin",
+				"contents": "Some of you might be wondering why a mysterious game has appeared in your Steam libraries. Wonder no more... As an owner of Strike Suit Zero, you have free access to Fractured Space - the new game from the team behind SSZ - for 24 hours. The assumption is you like space, and you like spaceships. If ...",
+				"feedlabel": "Community Announcements",
+				"date": 1416508784,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "919042306876382798",
+				"title": "Strike Suit Zero: Director's Cut review: space worn",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/919042306876382798",
+				"is_external_url": true,
+				"author": "Robert Workman",
+				"contents": "<a href=\"https://www.shacknews.com/game/strike-suit-zero/\">Strike Suit Zero</a> harkens back to the golden age of space shooters, when games like <a href=\"https://www.shacknews.com/game/colony-wars/\">Colony Wars</a> <a href=\"https://www.shacknews.com/game/star-wars-starfighter/\">Star Wars: Starfighter</a> were more commonplace. Developer Born Ready Games attempted to pay homage to that era with last year's original PC release, however control issues (among other snags) hampered the ex...",
+				"feedlabel": "Shacknews",
+				"date": 1398427200,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 19
+	}
+}

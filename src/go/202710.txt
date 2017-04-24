@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 202710,
+		"newsitems": [
+			{
+				"gid": "1496586490628943871",
+				"title": "Wild, Man: Gas Powered Games Kickstarting Wildman",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1496586490628943871",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Nathan Grayson)",
+				"contents": "Gas Powered Games wants $1.1 million of your dollars. I also want $1.1 million of your dollars, but &#8211; instead of spending them on a mansion made of trampolines and a pony that&#8217;s also a rocketship &#8211; the Dungeon Siege and Supreme Commander dev is hoping to bring an RTS-RPG called <a href=\"http://www.kickstarter.com/projects/gaspoweredgames/wildman-an-evolutionary-action-rpg\">Wil...</a>",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1358199008,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1496586402290291344",
+				"title": "Interview: Nate Simpson On Comickybook Nonplayer",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1496586402290291344",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (David Valjalo)",
+				"contents": "<em>David Valjalo swings by to talk to game industry veteran turned comic creator Nate Simpson (Demigod, Supreme Commander) about his MMO-themed graphic novel that was conceived on the toilet, how everyone thought Demigod would go toe-to-toe with League Of Legends, and why he believes game addiction is ...</em>",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1357765244,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514593982643421942",
+				"title": "A Brief History Of The Battle Arena, Part Two",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1514593982643421942",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (RPS)",
+				"contents": "<em>Yesterday saw <a href=\"http://www.rockpapershotgun.com/2012/10/25/a-brief-history-of-the-battle-arena-part-one/\">part one</a> of our brief history of the games which followed in the lanes of DOTA. Part two looks at what happened next.</em> <a href=\"http://www.rockpapershotgun.com/2012/10/26/a-brief-history-of-the-battle-arena-part-two/#more-129396\" class=\"more-link\">(more&#8230;)</a> ",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1351260002,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

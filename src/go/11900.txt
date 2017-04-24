@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 11900,
+		"newsitems": [
+			{
+				"gid": "1425624895870860986",
+				"title": "Lumines Electronic Symphony: The Kotaku Review",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1425624895870860986",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://cache.gawkerassets.com/assets/images/9/2012/02/a976c12a81be745d03de5770817782f4.jpg\"> </a>Every time I fire up a <em>Lumines</em> game and am not instantly greeted by the mellow beats of <a href=\"http://www.youtube.com/watch?v=2Sf2V2Raqtc\">Mondo Grosso's \"Shinin\"</a> from the franchise's 2004 PSP debut, I can't help but feel a little disappointed. That song will forever be linked with the magical feeling of the first game, when Q Entertainment's simpl...",
+				"feedlabel": "Kotaku",
+				"date": 1329742800,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1425624895774331313",
+				"title": "Lumines On The Vita Is Cool, Except for the... Tapping Parts",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1425624895774331313",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://cache.gawkerassets.com/assets/images/9/2012/02/4bf05a7052663223d4ed9122f49aac89.jpg\"></a> <a rel=\"lytebox\" href=\"http://cache.gawkerassets.com/assets/images/9/2012/02/c134ca33f4014d8ed632fee8d7fa6369.jpg\"></a> <em>Lumines</em> was one of the best games on the original PlayStation Portable. It was sort of a rave version of <em>Tetris</em>, which was a very good thing. The successor to the PSP is now upon us, and so is a new <em>Lumines</em>, subtitled <em>Electronic Symphony</em>. The game could stand to be a littler harder, but it's a fun...",
+				"feedlabel": "Kotaku",
+				"date": 1329247800,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "777105285075766419",
+				"title": "Lumines Electronic Symphony is a 34-Track Love Letter to Electronic Muisc",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/777105285075766419",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://cache.gawkerassets.com/assets/images/9/2012/02/a5ab69a695a0a94d742ea92e34f2e1b1.jpg\"> </a>Years of playing games like the original <em>Lumines</em>, Harmonix's <em>Frequency</em>, or <a href=\"http://kotaku.com/5860873/all-i-need-are-waves-of-hexagonal-enemies-and-some-electronica-to-shoot-them-by\">Squid in a Box's PC shooter <em>Waves</em></a> have left me with a voracious appetite for electronic music, which is why the 34 tracks included in Ubisoft's <em>Lumines Electronic Symphony</em> have me drooling. Where else will you find music by ...",
+				"feedlabel": "Kotaku",
+				"date": 1328092800,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 14
+	}
+}

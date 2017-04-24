@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 200050,
+		"newsitems": [
+			{
+				"gid": "1461666363802332153",
+				"title": "Daily Deal - Naval War: Arctic Circle, 75% off!",
+				"url": "http://store.steampowered.com/news/8368/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% off <a href=\"http://store.steampowered.com/app/200050/\">Naval War: Arctic Circle</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/200050/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1341939900,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1389607509743332064",
+				"title": "Naval War: Arctic Circle Update Released",
+				"url": "http://store.steampowered.com/news/8261/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "1.0.8.1 (06-22-2012) Scenarios: - Added: \"Estonian Dawn\" mission (forum competition winner) Database: - Added: Chaff to air superiroty fighters (Su-27, Su-35, Jas-39). - Added: \"IsAmphibiousAssault\" role for Wasp and Mistral. - Updated: Tweaked autumn temperatures. Gameplay: - Fixed: AI automatic an...",
+				"feedlabel": "Product Update",
+				"date": 1340635860,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1569747879171092954",
+				"title": "Wot I Think: Naval War: Arctic Circle",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1569747879171092954",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Rob Zacny)",
+				"contents": "<em>You can&#8217;t save during a mission, and while that&#8217;s not all there is to say about <a href=\"http://www.paradoxplaza.com/games/naval-war-arctic-circle\">Naval War: Arctic Circle</a>, it&#8217;s an astonishing oversight that speaks volumes about this bumbling entry-level wargame. There are times it succeeds at being a far more accessible Harpoon-style wargame, whi...</em>",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1336757413,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 9
+	}
+}

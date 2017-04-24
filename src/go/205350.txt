@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 205350,
+		"newsitems": [
+			{
+				"gid": "777105285090480296",
+				"title": "Now Available - Mortal Kombat Arcade Kollection",
+				"url": "http://store.steampowered.com/news/7260/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/205350/\">Mortal Kombat Arcade Kollection</a> is Now Available on Steam and 15% off until Thursday February 9th 10AM PST. The Mortal Kombat Arcade Kollection, contains all three classic games (Mortal Kombat, Mortal Kombat 2 and Ultimate Mortal Kombat 3) available for download. All three games are complete version...",
+				"feedlabel": "Product Release",
+				"date": 1328205600,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

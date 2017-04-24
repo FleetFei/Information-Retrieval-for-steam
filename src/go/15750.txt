@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 15750,
+		"newsitems": [
+			{
+				"gid": "260454846494881233",
+				"title": "Stranger's Wrath HD 75% off this week",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/260454846494881233",
+				"is_external_url": true,
+				"author": "Oddworld Admin",
+				"contents": "We're delighted to announce that Stranger's Wrath HD is 75% off this week on Steam in a week long deal - offer ends 11 April. We hope you enjoy Stranger's bounty-hunting antics! OWI.",
+				"feedlabel": "Community Announcements",
+				"date": 1459796643,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1145261770008778361",
+				"title": "The Oddworld: Stranger's Wrath HD Remake is Filled With Gorgeous Bugs",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1145261770008778361",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Can you spot the bugs in this trailer for the HD remake of <em>Oddworld: Stranger's Wrath</em> for the PlayStation 3? That's right, they're hanging out in the ammo slots for Stranger's critter-launching crossbow, one of the greatest first-person shooter weapons of all time. It shoots insects, chipmunks, smal...",
+				"feedlabel": "Kotaku",
+				"date": 1316086800,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1191402208732967330",
+				"title": "Oddworld: Stranger's Wrath Update Released",
+				"url": "http://store.steampowered.com/news/4917/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Updates to Oddworld: Stranger's Wrath have been released. The updates will be applied automatically when your Steam client is restarted. The major changes include: Fixes * Performance issues. * Save game permissions issues. Save games and config file are now saved in \"Program Files\" to \"\\Documents\\O...",
+				"feedlabel": "Product Update",
+				"date": 1295632680,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

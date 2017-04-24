@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 10240,
+		"newsitems": [
+			{
+				"gid": "1515700145213894925",
+				"title": "Daily Deal - A Stroke of Fate: Operation Valkyrie, 75% off!",
+				"url": "http://store.steampowered.com/news/7635/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% off <a href=\"http://store.steampowered.com/app/10240/\">A Stroke of Fate: Operation Valkyrie</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/10240/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1333818600,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1226330460367805646",
+				"title": "Now Available - A Stroke of Fate: Operation Valkyrie",
+				"url": "http://store.steampowered.com/news/6654/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/10240/\">A Stroke of Fate: Operation Valkyrie</a> is now available on Steam! In this detective adventure game, control Standartenfuhrer Gerhard Mayer, a patriot who works in the Reich Security Head Office, as he does everything in his power to help the Resistance to overthrow the Nazi regime and stop the war. <a href=\"http://store.steampowered.com/app/10240/\"> </a> ...",
+				"feedlabel": "Product Release",
+				"date": 1319834580,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 10250,
+		"newsitems": [
+			{
+				"gid": "777103379530888920",
+				"title": "Daily Deal - PT Boats Gold, 66% off!",
+				"url": "http://store.steampowered.com/news/7145/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% off <a href=\"http://store.steampowered.com/sub/12139/\">PT Boats Gold</a> Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/sub/12139/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1326391200,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1226330460367789687",
+				"title": "Now Available - PT Boats Gold",
+				"url": "http://store.steampowered.com/news/6653/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/10250/\">PT Boats: Knights of the Seas</a> and <a href=\"http://store.steampowered.com/app/10260/\">PT Boats: South Gambit</a> are now available on Steam! Pick them both up in the <a href=\"http://store.steampowered.com/sub/12139/\">PT Boats Gold</a> pack! Combining key elements of a strategic, tactical and action simulator, the PT Boats series put you in full command of a lethal torpedo boat in the very heart of the theate...",
+				"feedlabel": "Product Release",
+				"date": 1319834580,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

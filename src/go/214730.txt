@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 214730,
+		"newsitems": [
+			{
+				"gid": "234577531166415332",
+				"title": "Daily Deal - Space Rangers HD: A War Apart, 75% Off",
+				"url": "http://store.steampowered.com/news/25049/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/214730/'>Space Rangers HD: A War Apart</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Sunday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/214730/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1477069200,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "517128939723615637",
+				"title": "Flagships update released for Space Rangers HD",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/517128939723615637",
+				"is_external_url": true,
+				"author": "Bercut -=EG=-",
+				"contents": "Version 2.1.1980 Additions: - New Coalition war ship class added: Flagship. Flagships have some unique abilities, available to player through dialog options; - New artifact added: Rals. It grants rocket weapons 15% chance to fire twice during one turn. Additional salvo will also require ammo; - New ...",
+				"feedlabel": "Community Announcements",
+				"date": 1430229089,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "521614150875054715",
+				"title": "New huge update released - Dominions",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/521614150875054715",
+				"is_external_url": true,
+				"author": "Sneaksie(RUS)",
+				"contents": "Additions: - New pirate base type – Dominions were added. They have a lot of special features and available for visiting only when player sticks to the pirate clan. Some functions were transferred from pirate bases to Dominion; - New micromodule type that increases items wear was added (side effect ...",
+				"feedlabel": "Community Announcements",
+				"date": 1412702656,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

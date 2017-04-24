@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 21140,
+		"newsitems": [
+			{
+				"gid": "1226331098152045865",
+				"title": "LEGO Universe ending in 2012",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1226331098152045865",
+				"is_external_url": true,
+				"author": "Steve Watts",
+				"contents": "The brick-based MMO <a href=\"http://www.shacknews.com/game/lego-universe\">LEGO Universe</a> will be shutting its plastic doors in January of 2012, NetDevil announced today. The company didn't pull any punches in specifying the reason for the closure: the free-to-play zone was plenty popular, but the game just didn't attract enough paying subscribers to sus...",
+				"feedlabel": "Shacknews",
+				"date": 1320411600,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1136251492243794438",
+				"title": "Daily Filter: August 15, 2011",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1136251492243794438",
+				"is_external_url": true,
+				"author": "Tyler J. Smith",
+				"contents": "<i>Shacknews receives a slew of new screenshots and trailers for upcoming games everyday. The most anticipated titles receive their own post, because we know you're eager to see that content. For the rest, we have the Daily Filter, a place to feature all of the media we add to our enormous database on ...</i>",
+				"feedlabel": "Shacknews",
+				"date": 1313435700,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1140750086043133126",
+				"title": "LEGO Universe 'free-to-play' trial incoming",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1140750086043133126",
+				"is_external_url": true,
+				"author": "Alice O'Connor",
+				"contents": "Eight months after <a href=\"http://www.shacknews.com/game/lego-universe\">LEGO Universe</a> launched on PC, the LEGO Group has announced that NetDevil's plastic-inspired MMO is to receive a slimline free-to-play version this August, though it sounds more like a free trial. <a href=\"/game/lego-universe/screenshots?screen_id=217575\"> </a><a href=\"/game/lego-universe/screenshots?screen_id=134509\"> </a> LEGO Universe Players of the free-to-play version will be limited to two adventure...",
+				"feedlabel": "Shacknews",
+				"date": 1308649500,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

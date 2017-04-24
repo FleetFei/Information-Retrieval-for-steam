@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 13240,
+		"newsitems": [
+			{
+				"gid": "919043658952129186",
+				"title": "Unreal Tournament returns as ambitious, fan-driven free first-person shooter",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/919043658952129186",
+				"is_external_url": true,
+				"author": "Robert Workman",
+				"contents": "It's been ages since the gaming community has seen any new content revolving around the <a href=\"http://www.shacknews.com/game/unreal-tournament/\">Unreal Tournament</a> franchise. But, today, Epic Games made good on its promise to spill the beans on a new project in the series. One that will focus just as much on being a tried-and-true first-person shooting exp...",
+				"feedlabel": "Shacknews",
+				"date": 1399548900,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "774848423548244332",
+				"title": "Epic Games founder Tim Sweeney enters AIAS Hall of Fame",
+				"url": "http://store.steampowered.com/news/externalpost/eurogamer/774848423548244332",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Epic Games founder Tim Sweeney is to be the newest member of the notable AIAS (Academy of Interactive Arts &amp; Sciences) Hall of Fame. Sweeney's name will rank alongside the likes of Nintendo icon Shigeru Miyamoto, id Software mastermind John Carmack, Blizzard boss Mike Morhaime and Sims creator W...",
+				"feedlabel": "Eurogamer",
+				"date": 1323353820,
+				"feedname": "eurogamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1081054590973805211",
+				"title": "Gears Of War Composer On Life Support",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1081054590973805211",
+				"is_external_url": true,
+				"author": "",
+				"contents": "On October 6, Gears of War composer Kevin Riepl tweeted that he thought someone \"roofied\" him while out drinking. He'd blacked out. \"Somethings effed up,\" he added. \"Like literally. Something knocked me out.\" Within days, Riepl was on life support. By the following day, Riepl was in the hospital fro...",
+				"feedlabel": "Kotaku",
+				"date": 1286766000,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

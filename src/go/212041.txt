@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 212041,
+		"newsitems": [
+			{
+				"gid": "1515717886799334804",
+				"title": "New DLC Available - Kung Fu Strike: The Warrior's Rise - Master Level, 25% Off!",
+				"url": "http://store.steampowered.com/news/9030/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "To celebrate the release of the <a href=\"http://store.steampowered.com/app/212041/\">Kung Fu Strike: The Warrior's Rise - Master Level</a> DLC, Digital Tribes is offering 25%* off Kung Fu Strike and the Master Level DLC. Taking its inspiration from ancient Chinese tales of revenge and retribution and then adding a dash of over-the-top martial arts and old...",
+				"feedlabel": "Product Release",
+				"date": 1349470860,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

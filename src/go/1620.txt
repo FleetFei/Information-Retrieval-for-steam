@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 1620,
+		"newsitems": [
+			{
+				"gid": "243583460813379669",
+				"title": "Some Little Things I ve Loved In RPGs, Vol 1",
+				"url": "http://store.steampowered.com/news/externalpost/rps/243583460813379669",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Richard Cobbett)",
+				"contents": "One of the main reasons I got into RPGs back in the day was that if you bought one, you were getting a lot of game for your money. That was important when there was only one birthday and one Christmas a year, and not much chance that some relative might pop their clogs in sync with Ultima VI coming ...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1476100825,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1407665032877429896",
+				"title": "Weeklong Deals, October 14",
+				"url": "http://store.steampowered.com/news/11587/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on new Weeklong Deals on Steam, available until October 21st at 10AM PST. <a href=\"http://store.steampowered.com/app/91900/\"> </a> <a href=\"http://store.steampowered.com/app/246600/\"> </a> <a href=\"http://store.steampowered.com/app/235820/\"> </a> <a href=\"http://store.steampowered.com/app/1620/\"> </a> <a href=\"http://store.steampowered.com/app/1640/\"> </a> <a href=\"http://store.steampowered.com/app/238710/\"> </a> <a href=\"http://store.steampowered.com/app/46370/\"> </a> <a href=\"http://store.steampowered.com/app/7840/\"> </a> <a href=\"http://store.steampowered.com/app/92300/\"> </a> <a href=\"http://store.steampowered.com/app/221260/\"> </a> <a href=\"http://store.steampowered.com/app/98500/\"> </a> <a href=\"http://store.steampowered.com/app/214700/\"> </a> <a href=\"http://store.steampowered.com/app/204630/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1381772220,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1459437403475624813",
+				"title": "New Weeklong Deals are now available on Steam!",
+				"url": "http://store.steampowered.com/news/10163/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on this week's Week Long Deals on Steam, available now until March 25th at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/46570/\"> </a> <a href=\"http://store.steampowered.com/app/203750/\"> </a> <a href=\"http://store.steampowered.com/app/231140/\"> </a> <a href=\"http://store.steampowered.com/app/218640/\"> </a> <a href=\"http://store.steampowered.com/app/63200/\"> </a> <a href=\"http://store.steampowered.com/app/33670/\"> </a> <a href=\"http://store.steampowered.com/app/1620/\"> </a> <a href=\"http://store.steampowered.com/app/215280/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1363626000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 20530,
+		"newsitems": [
+			{
+				"gid": "75839063735318703",
+				"title": "Get up to 80 percent off THQ Nordic games in Humble Store sale",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/75839063735318703",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Yesterday brought word of <a href=\"http://www.pcgamer.com/up-to-75-percent-off-hitman-rise-of-the-tomb-raider-life-is-strange-in-square-enix-sale/\">Square Enix&apos;s up-to-75-percent-off sale</a>, and today brings with it news of Humble Store&apos;s THQ Nordic Week limited-time discount period.&#xA0; Offering up to 80 percent off select games, the THQ Nordic Week sale casts its wallet-friendly net over some of the publish...",
+				"feedlabel": "PC Gamer",
+				"date": 1490099244,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 20530
+			},
+			{
+				"gid": "1479695996006724356",
+				"title": "Do You Want To Own The Saints Row Series? Or Just Buy Red Faction? Bids For Parts of THQ Must Be In By January 22.",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1479695996006724356",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/18av24qyb5zmejpg/original.jpg\"> </a>THQ, the <a href=\"http://kotaku.com/5969994/thqs-boss-explains-in-plain-english-what-the-hell-happened-to-his-company-today?tag=thq\">troubled</a> publisher of <em>Saints Row,</em> WWE games, <em>Company of Heroes</em>, <em>Metro: Last Light</em>, the new <em>South Park</em> role-playing game, <em>Red Faction</em> and more, may still be sold in its entirety to an investment group called Clearlake as part of a bankruptcy sale, according to a court ruling. But other inte...",
+				"feedlabel": "Kotaku",
+				"date": 1357633931,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515715547298981082",
+				"title": "Midweek Madness - Red Faction Franchise 75% off!",
+				"url": "http://store.steampowered.com/news/8825/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 75% on the <a href=\"http://store.steampowered.com/sub/15630/\">Red Faction Franchise</a> during this week's Midweek Madness*! Wreak havoc across the vast, open-world environment of Mars in the the critically acclaimed, best-selling <i>Red Faction Franchise</i>. Rebel against the Ultor Corporation, replace the dictator Sopot to restore peace, battle for lib...",
+				"feedlabel": "Announcement",
+				"date": 1347383100,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 22
+	}
+}

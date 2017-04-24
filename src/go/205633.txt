@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 205633,
+		"newsitems": [
+			{
+				"gid": "1515720987486358213",
+				"title": "New DLC Availble - Tropico 4: Megalopolis DLC",
+				"url": "http://store.steampowered.com/news/9377/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/205633/'>Tropico 4: Megalopolis DLC</a>, all new content for <a href='http://store.steampowered.com/app/0/'>Tropico 4: Steam Special Edition</a> is Now Available on Steam! Build the largest city in the Caribbean on an island with constant influx of immigrants. Deal with problems such as unemployment, over-population and food shortages. Use the Conventillo, a che...",
+				"feedlabel": "Product Release",
+				"date": 1353002400,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

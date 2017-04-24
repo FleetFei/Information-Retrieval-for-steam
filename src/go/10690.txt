@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 10690,
+		"newsitems": [
+			{
+				"gid": "523713810417456872",
+				"title": "Virtua Tennis 2009 75% off for one week!",
+				"url": "http://store.steampowered.com/news/3531/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/10690/\">Virtua Tennis 2009</a> is available for 75% off until March 8th! Create your own player and join the new World Tour where you are trained by a real-life legend of tennis to compete for the #1 ranking against the biggest stars. Then take your character online and prove you're the best with the new online...",
+				"feedlabel": "Announcement",
+				"date": 1267473322,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

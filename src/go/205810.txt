@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 205810,
+		"newsitems": [
+			{
+				"gid": "1533726502798589897",
+				"title": "Pre-purchase Now - Jagged Alliance: Crossfire",
+				"url": "http://store.steampowered.com/news/8545/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/205810/\">Jagged Alliance: Crossfire</a> is Available for Pre-purchase on Steam! The island of Arulco is free; however, there are other countries under the shadow of war that are ignored by the rest of the world. Khanpaa, a peaceful and tranquil nation, is being held in the terrifying iron grip of a group of paid...",
+				"feedlabel": "Announcement",
+				"date": 1343933640,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

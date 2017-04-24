@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 213030,
+		"newsitems": [
+			{
+				"gid": "1496587760469161067",
+				"title": "Penny Arcade: Rain-Slick 4 details emerge, features open overworld, less linear locations",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/1496587760469161067",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2013/01/27/new-penny-arcade-rain-slick-4-details-emerge-features-open-overworld/\" rel=\"bookmark\" title=\"Permanent Link to Penny Arcade: Rain-Slick 4 details emerge, features open overworld, less linear locations\"> </a> I wasn't aware that - deep breath - Penny Arcade's On the Rain-Slick Precipice of Darkness 3 was getting a sequel, much less one that wraps up the tril...quad...tetralogy once and for all. But it is, it's coming this Spring, and it will be slightly different from the last one. How slightly differe...",
+				"feedlabel": "PC Gamer",
+				"date": 1359298858,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1479695995291092642",
+				"title": "New Update - Penny Arcade's On the Rain-Slick Precipice of Darkness 3",
+				"url": "http://store.steampowered.com/news/9641/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The Beginning of the End, new DLC for <a href=\"http://store.steampowered.com/app/213030/\">Penny Arcade's On the Rain-Slick Precipice of Darkness 3</a>, is now available for FREE on Steam!* This bonus scenario takes place before the main story of Precipice of Darkness 3 and features a new playable character, new maps, enemies, spells, and more! *Update is...",
+				"feedlabel": "Product Update",
+				"date": 1356018660,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514593972532076343",
+				"title": "Just Updated - Penny Arcade's On the Rain-Slick Precipice of Darkness 3",
+				"url": "http://store.steampowered.com/news/9197/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Lair of the Seamstress, new DLC for <a href=\"http://store.steampowered.com/app/213030/\">Penny Arcade's On the Rain-Slick Precipice of Darkness 3</a>, is now available for FREE on Steam! This brutal bonus dungeon features unique mechanics designed to test players, and find them wanting. <a href=\"http://store.steampowered.com/app/213030/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1351188000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

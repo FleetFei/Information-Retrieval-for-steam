@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 11250,
+		"newsitems": [
+			{
+				"gid": "517128413778064550",
+				"title": "Steam Trading Cards are available now! Special Huge discount 85%!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/517128413778064550",
+				"is_external_url": true,
+				"author": "Mr. Horrible Gelatinous Blob",
+				"contents": "http://cs623717.vk.me/v623717644/28afa/rEsWeKCQu3M.jpg We are glad to announce that Steam Trading Cards added! And we give you Extrimely Huge discount 85%! You can unlock 5 trading cards, 4 epic wartime backgrounds, 6 badges and 5 aircraft emoticons. Take them all!",
+				"feedlabel": "Community Announcements",
+				"date": 1429557934,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "920163238287369007",
+				"title": "Multiple languages added",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/920163238287369007",
+				"is_external_url": true,
+				"author": "BukaDev",
+				"contents": "Fix notes 28.02.2014 — Languages added: Russian Spanish Japanese Czech",
+				"feedlabel": "Community Announcements",
+				"date": 1393583285,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1459453913513192104",
+				"title": "New Week Long Deals Available On Steam!",
+				"url": "http://store.steampowered.com/news/11453/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 80% on new Week Long Deals on Steam, available now until September 23rd at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/107800/\"> </a> <a href=\"http://store.steampowered.com/app/218640/\"> </a> <a href=\"http://store.steampowered.com/app/230700/\"> </a> <a href=\"http://store.steampowered.com/app/11250/\"> </a> <a href=\"http://store.steampowered.com/app/12390/\"> </a> <a href=\"http://store.steampowered.com/app/6250/\"> </a> <a href=\"http://store.steampowered.com/app/1670/\"> </a> <a href=\"http://store.steampowered.com/app/222980/\"> </a> <a href=\"http://store.steampowered.com/app/9710/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1379348160,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

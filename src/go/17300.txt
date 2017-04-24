@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 17300,
+		"newsitems": [
+			{
+				"gid": "250329347094162957",
+				"title": "Wot I Think: Crytek s VR Game The Climb",
+				"url": "http://store.steampowered.com/news/externalpost/rps/250329347094162957",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alec Meer)",
+				"contents": "Three fallacies I&#8217;m occasionally guilty of believing: 1) The Oculus Rift does not involve any of the physicality of the HTC Vive 2) VR gaming is riding a cart to minigame hell 3) There&#8217;s a ceiling on how good VR games can look Crytek&#8217;s beautiful and involving Oculus Rift game <a href=\"https://www.rockpapershotgun.com/tag/the-climb/\">The C...</a>",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1467388828,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "409054598164305270",
+				"title": "Photorealism Is Crucial To Games",
+				"url": "http://store.steampowered.com/news/externalpost/rps/409054598164305270",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alex Wiltshire)",
+				"contents": "Global illumination. Volumetric clouds. Sub-surface scattering. These are words that make me hot. But I know this feeling is forbidden. I should care about <em>games</em>, not the empty pursuit of photorealism. But oh my, it s so exciting, and not empty. In fact, I think that right now photorealism is becomi...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1441303202,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "410179229590727434",
+				"title": "Have You Played Crysis",
+				"url": "http://store.steampowered.com/news/externalpost/rps/410179229590727434",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Graham Smith)",
+				"contents": "<em><a href=\"http://www.rockpapershotgun.com/tag/have-you-played/\">Have You Played?</a> is an endless stream of game recommendations. One a day, every day of the year, perhaps for all time.</em> When later entries in a series go wrong, the disappointment tends not to blight the original people liked so much. Unfortunately <a href=\"http://www.rockpapershotgun.com/tag/crysis/\">Crysis</a> couldn&#8217;t maintain the things people lik...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1440513014,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 190
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 204734,
+		"newsitems": [
+			{
+				"gid": "1514593284399789392",
+				"title": "New DLC Available - Character DLC Mayhem MK13",
+				"url": "http://store.steampowered.com/news/9160/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/app/204734/\"> Character DLC Mayhem MK13</a> DLC is Now Available for <a href=\"http://store.steampowered.com/app/42170/\">Krater</a>. Mayhem Mk13, the pinnacle of aggressive assault technologies formed from the knowledge extracts of a Mutant Slayer&#146;s brain and the latest cybernetic limbs collected from the Underside. The Mayhem Mk13 will be your tank&#146;s best ...",
+				"feedlabel": "Product Release",
+				"date": 1351016280,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

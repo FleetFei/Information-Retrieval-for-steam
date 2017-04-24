@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 213850,
+		"newsitems": [
+			{
+				"gid": "295352659735226256",
+				"title": "Duels of the Planeswalkers Games on Sale!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/295352659735226256",
+				"is_external_url": true,
+				"author": "Wizards_Chris",
+				"contents": "Classic Magic games are on sale! In preparation for the spring release of new content to Magic Duels, we're offering a special 75% discount on Magic 2013, 2014, 2015. Pick them up before the sale ends on February 12!",
+				"feedlabel": "Community Announcements",
+				"date": 1454699051,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "378660375688093755",
+				"title": "Daily Deal for Magic 2013, 2014, and 2015!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/378660375688093755",
+				"is_external_url": true,
+				"author": "Wizards_Chris",
+				"contents": "Time for a Steam sale! In preparation for the Battle for Zendikar update to Magic Duels, take a look back at Magic’s past with a 75% discount on Magic 2013, 2014, 2015, and associated downloadable content. The sale lasts for today only, so head to the Steam store and get to it!",
+				"feedlabel": "Community Announcements",
+				"date": 1446501826,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "3188860337785024355",
+				"title": "Free Weekend - Magic 2014 — Duels of the Planeswalkers",
+				"url": "http://store.steampowered.com/news/13539/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Play <a href='http://store.steampowered.com/app/213850/'>Magic 2014 — Duels of the Planeswalkers</a> for FREE starting now through Sunday at 1PM Pacific Time. You can also pickup <a href='http://store.steampowered.com/app/213850/'>Magic 2014 — Duels of the Planeswalkers</a> at 75% off the regular price!* If you already have Steam installed, <a href='steam://run/213850'>click here</a> to install or play Magic 2014 — Duels of the Planeswalkers...",
+				"feedlabel": "Product Release",
+				"date": 1401988500,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

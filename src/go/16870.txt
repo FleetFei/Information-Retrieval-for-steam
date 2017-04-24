@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 16870,
+		"newsitems": [
+			{
+				"gid": "1478587214483500869",
+				"title": "Civilization V: Brave New World’s final two civs and how to play them",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/1478587214483500869",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2013/06/27/civilization-v-brave-new-worlds-final-two-civs-and-how-to-play-them/\" rel=\"bookmark\" title=\"Permanent Link to Civilization V: Brave New World&#8217;s final two civs and how to play them\"> </a> Last month, we walked you through seven of the nine new civs coming in Civilization V: Brave New World. The final two, Venice and the Shoshone, were at our fingertips, but not yet revealed. With the official announcement out of the bag, we can finally talk about them, and give you our impressions ...",
+				"feedlabel": "PC Gamer",
+				"date": 1372359353,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1462821444620518380",
+				"title": "Civilization V’s new civilization abilities and unique units, and how to use them",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/1462821444620518380",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/gallery/civilization-vs-new-civilization-abilities-and-unique-units-and-how-to-use-them/\" rel=\"bookmark\" title=\"Permanent Link to Civilization V&#8217;s new civilization abilities and unique units, and how to use them\"> </a> ",
+				"feedlabel": "PC Gamer",
+				"date": 1369242581,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1462817320085439260",
+				"title": "Civilization V designer Jon Shafer’s criticisms were “a little harsh,” says current designer",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/1462817320085439260",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2013/04/12/civilization-v-designer-ed-beach-jon-shafer/\" rel=\"bookmark\" title=\"Permanent Link to Civilization V designer Jon Shafer&#8217;s criticisms were &#8220;a little harsh,&#8221; says current designer\"> </a> Earlier this week I spoke to Ed Beach, Lead Designer on the Civilization V: Gods &amp; Kings expansion, as well as the upcoming Brave New World expansion. I asked Beach for his thoughts on Civ V designer Jon Shafer's recent self-criticisms regarding Civilization V's one unit per tile system and le...",
+				"feedlabel": "PC Gamer",
+				"date": 1365768607,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 14
+	}
+}

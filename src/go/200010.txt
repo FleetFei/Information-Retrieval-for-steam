@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 200010,
+		"newsitems": [
+			{
+				"gid": "567767801624283761",
+				"title": "Murdered: Soul Suspect, Quantum Conundrum Dev Closes",
+				"url": "http://store.steampowered.com/news/externalpost/rps/567767801624283761",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Nathan Grayson)",
+				"contents": "<a href=\"http://www.rockpapershotgun.com/2014/06/04/wot-i-think-murdered-soul-suspect/\">Murdered: Soul Suspect </a>was about a ghost detective trying to solve his own murder, but there&#8217;s not a whole lot of mystery steaming off developer Airtight&#8217;s color-drained corpse. Recent games like <a href=\"http://quantumconundrum.com/\">Quantum Conundrum</a> &#8211; while by no means bad &#8211; weren&#8217;t huge hits, there were ...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1404374456,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1496600520136148089",
+				"title": "New Week Long Deals Available on Steam!",
+				"url": "http://store.steampowered.com/news/10877/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on new Week Long Deals on Steam, available now until June 24th at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/11330/\"> </a> <a href=\"http://store.steampowered.com/app/22610/\"> </a> <a href=\"http://store.steampowered.com/app/200010/\"> </a> <a href=\"http://store.steampowered.com/app/234900/\"> </a> <a href=\"http://store.steampowered.com/app/92300/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1371488400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1479695995836597257",
+				"title": "Jason's Top Ten Games Of 2012",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1479695995836597257",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/18adi0pr8wn92jpg/original.jpg\"> </a> You don't realize just how good a gaming year it's been until you look back at all of the games you actually played. From physics puzzlers to ninja simulators, 2012's library was full of interesting, creative, unique experiences. I played a lot of games last year. A few were bad. Most were good. S...",
+				"feedlabel": "Kotaku",
+				"date": 1357228800,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 13
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 208981,
+		"newsitems": [
+			{
+				"gid": "1514576755613089772",
+				"title": "Now Available - Blades of Time, 20% off Limited Edition!",
+				"url": "http://store.steampowered.com/news/7799/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/208670/\">Blades of Time</a>, <a href=\"http://store.steampowered.com/app/208981/\">Blades of Time - Dismal Swamp DLC</a> and <a href=\"http://store.steampowered.com/sub/14239/\">Blades of Time - Limited Edition</a> which includes Blades of Time, the Dismal Swamp DLC and more is Now Available on Steam. The <a href=\"http://store.steampowered.com/sub/14239/\">Blades of Time - Limited Edition</a> is 20% off until Friday, April 27th 10AM PST. Ayumi, the gorgeous gun and sword-wielding...",
+				"feedlabel": "Product Release",
+				"date": 1334969160,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

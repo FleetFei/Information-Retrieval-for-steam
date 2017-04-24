@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 1280,
+		"newsitems": [
+			{
+				"gid": "75840229386216502",
+				"title": "Support us on Patreon!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75840229386216502",
+				"is_external_url": true,
+				"author": "Dark Nation",
+				"contents": "Comrades, Darklight Games is now accepting monthly donations via Patreon, an online crowdfunding platform, to support continued development of Darkest Hour. Pledging as a little as $1 a month will get you exclusive access to our Patreon feed where we will post development updates and sneak peeks tha...",
+				"feedlabel": "Community Announcements",
+				"date": 1491118977,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 1280
+			},
+			{
+				"gid": "75837698140575439",
+				"title": "Patch Release: v7.2.2",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75837698140575439",
+				"is_external_url": true,
+				"author": "Dark Nation",
+				"contents": "Comrades, Short and sweet this time: we have released a patch that fixes the persistent screen blurring bug that some players were experiencing. See you on the battlefield, Darklight Games",
+				"feedlabel": "Community Announcements",
+				"date": 1488530601,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 1280
+			},
+			{
+				"gid": "75836429546614807",
+				"title": "7.2.0 Test Sunday!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75836429546614807",
+				"is_external_url": true,
+				"author": "Theel",
+				"contents": "Another round on the house! https://scontent-ord1-1.xx.fbcdn.net/v/t1.0-0/q83/s480x480/16730430_10155080953166692_5525941085514562865_n.jpg?oh=5ce109b4e02651d6d3727e962e03b986&oe=5944CBD7 We will be testing 7.2.0 update this weekend. We will release the change log right before the test. To get the b...",
+				"feedlabel": "Community Announcements",
+				"date": 1487383991,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 118
+	}
+}

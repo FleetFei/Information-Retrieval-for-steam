@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 12140,
+		"newsitems": [
+			{
+				"gid": "295353300235611207",
+				"title": "It s About Time: Quantum Break Coming To PC",
+				"url": "http://store.steampowered.com/news/externalpost/rps/295353300235611207",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "Remedy (Max Payne, Alan Wake) have been making gorgeous, violent games about angry-sad men for years now. When they announced their latest, Quantum Break , it was revealed as an Xbox One exclusive. Moments ago, they announced that the time-troubling action game will also be coming to PCs. As long as...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1455203583,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "377538367947255075",
+				"title": "Have You Played Max Payne Kung Fu 3.0 Mod?",
+				"url": "http://store.steampowered.com/news/externalpost/rps/377538367947255075",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Graham Smith)",
+				"contents": "<em><a href=\"http://www.rockpapershotgun.com/tag/have-you-played/\">Have You Played?</a> is an endless stream of game recommendations. One a day, every day of the year, perhaps for all time.</em> Max Payne was a fine game all on its own, but the one thing to make its slow-motion bullet-dodging better was kung fu. That arrived in the form of the appropriately named <a href=\"http://www.moddb.com/mods/kung-fu-30\">Kung Fu mo...</a>",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1450105239,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "409053962651600625",
+				"title": "The 25 Best Action Games On PC",
+				"url": "http://store.steampowered.com/news/externalpost/rps/409053962651600625",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (John Walker)",
+				"contents": "You probably like action games. But which ones should you like best?! We&#8217;ve narrowed it down to 25, and then put them in the unimpeachably correct order. Read on for details of the best action biff-zap-collect-me-do gaming you can stuff down your trousers. &#8230; ",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1440691207,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 91
+	}
+}

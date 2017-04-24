@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 110500,
+		"newsitems": [
+			{
+				"gid": "419185796441358906",
+				"title": "Data Jammers: FastForward now available for Mac OS X!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/419185796441358906",
+				"is_external_url": true,
+				"author": "Fingers",
+				"contents": "Despite the (futile) efforts of the NSA to cover it up, Data Jammers: FastForward is now jamming on the Mac! Yep, it's true! Thanks to Henry K's efforts beyond the call of duty, Jammers is finally available for Mac gamers via Steam (with other groovy game portals to follow - watch the skies). So let...",
+				"feedlabel": "Community Announcements",
+				"date": 1439922960,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1513452059978606692",
+				"title": "Indie Royale Bundle Defends Some Dungeons",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1513452059978606692",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Jim Rossignol)",
+				"contents": "Rather good fantasy multiplayer tower defence thing, Dungeon Defenders (<a href=\"http://www.rockpapershotgun.com/2011/10/24/dungeon-defenders-review-pc/\">Wot I Think</a>), is at the heart of the May <a href=\"http://www.indieroyale.com/\">Indie Royale bundle</a>. The minimum at the time of writing is £3.26, and for that you get Dungeon Defenders, Containment: The Zombie Puzzler, Data Jammers: FastForward, Brainpipe &#8211; A P...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1336120217,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1207191734316451427",
+				"title": "Data Jammers: FastForward Updated",
+				"url": "http://store.steampowered.com/news/6772/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Change list: - added a difficulty level selection to make the game more approachable to new players - added a way to track your achievement progress during the game - added an option to restart the current level - fixed mouse cursor not disappearing during the game - fixed spacebar not working corre...",
+				"feedlabel": "Product Update",
+				"date": 1321334100,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

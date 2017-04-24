@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 204410,
+		"newsitems": [
+			{
+				"gid": "775978688494546140",
+				"title": "The Darkness II Demo Released",
+				"url": "http://store.steampowered.com/news/7206/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The Demo for <a href=\"http://store.steampowered.com/app/67370/\">The Darkness II</a> is now available to play on Steam! Get an early taste of this intense first person shooter inspired by the popular comic book series that delivers a twisted and gripping narrative of tragedy, modern crime drama, and supernatural horror! <a href=\"http://store.steampowered.com/app/67370/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1327434600,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

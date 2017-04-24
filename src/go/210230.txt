@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 210230,
+		"newsitems": [
+			{
+				"gid": "1569747879267818492",
+				"title": "Now Available - Nancy Drew: Tomb of the Lost Queen",
+				"url": "http://store.steampowered.com/news/7987/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/210230/\">Nancy Drew: Tomb of the Lost Queen</a> is Now Available on Steam! Enter the Cursed Tomb of the Lost Queen! Egyptologists and archaeologists are abuzz about recent discoveries by a university dig team, but suspicious accidents left the group isolated and leaderless. Is a curse burying their progress or i...",
+				"feedlabel": "Product Release",
+				"date": 1337197980,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

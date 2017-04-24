@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 11480,
+		"newsitems": [
+			{
+				"gid": "567767801688137101",
+				"title": "The game is back in Steam store, Russian language added!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/567767801688137101",
+				"is_external_url": true,
+				"author": "Sneaksie(RUS)",
+				"contents": "We are proud to present you this classic that started famous Men of War series. In addition to English, German, French, Spanish and Italian, the game can now be played in original Russian as well. If you bought the game earlier, before it was removed from the store, you'll also get the newly added R...",
+				"feedlabel": "Community Announcements",
+				"date": 1404460211,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1515717154599624301",
+				"title": "Daily Deal - Soldiers: Heroes of World War II, 66% off!",
+				"url": "http://store.steampowered.com/news/8933/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% off <a href=\"http://store.steampowered.com/app/11480/\">Soldiers: Heroes of World War II</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/11480/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1348592400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

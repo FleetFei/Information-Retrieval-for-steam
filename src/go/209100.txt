@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 209100,
+		"newsitems": [
+			{
+				"gid": "920159887961075453",
+				"title": "Resident Evil 4 Ultimate HD Edition comes to Steam on February 27",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/920159887961075453",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2014/01/22/resident-evil-4-ultimate-hd-edition-comes-to-steam-on-february-27/\" rel=\"bookmark\" title=\"Permanent Link to Resident Evil 4 Ultimate HD Edition comes to Steam on February 27\"> </a> I've played through Resident Evil 4 on Gamecube at least three times. Today, Capcom announced that it s bringing the ultimate, high definition version the game to Steam on February 27 for $20, meaning I ll definitely play through it again. It s really that good. The PC release will include all the...",
+				"feedlabel": "PC Gamer",
+				"date": 1390349350,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1010228077059831651",
+				"title": "Capcom 30th Anniversary Character Encyclopedia available now!!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1010228077059831651",
+				"is_external_url": true,
+				"author": "CapcomUnity",
+				"contents": "<a href=\"/gregaman/go/gallery/item/146582385\"> </a> If you're a Capcom super-fan, be sure to check out the <em><strong>Capcom 30th Anniversary Character Encyclopedia,&nbsp;</strong></em><strong></strong>available now on <strong><a href=\"http://amzn.to/1gZxaHu\">Amazon</a>&nbsp;</strong>for less than nine bucks!&nbsp; The book celebrates Capcom's thirty-year legacy of brilliant character design with more than 200 pages of lush art, character fac...",
+				"feedlabel": "Community Announcements",
+				"date": 1386805490,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1459441364811024277",
+				"title": "Daily Deal - Resident Evil: Operation Raccoon City, 66% Off",
+				"url": "http://store.steampowered.com/news/10478/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% on <a href='http://store.steampowered.com/app/209100/'>Resident Evil: Operation Raccoon City</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/209100/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1366995900,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 9
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 209330,
+		"newsitems": [
+			{
+				"gid": "564391378609512690",
+				"title": "Official 1.500 “Linux Support” Released!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/564391378609512690",
+				"is_external_url": true,
+				"author": "x-4000",
+				"contents": "This one brings official linux support to the game for the first time, as well as a 64bit build for OSX. There is also one minor bugfix in there, too. The game has always run well under WINE, but we're really glad to finally have proper native support for the game under linux! License Keys No More A...",
+				"feedlabel": "Community Announcements",
+				"date": 1405613387,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "920166227327180700",
+				"title": "Win The Space Race: The Last Federation s Out Soon",
+				"url": "http://store.steampowered.com/news/externalpost/rps/920166227327180700",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Craig Pearson)",
+				"contents": "It&#8217;s been interesting watching post-AI War <a href=\"http://www.arcengames.com/w/\">Arcen</a> at work. Their idiosyncratic drunken approach to genres has always resulted in games worth talking about. Granted, some of those words might not be all that complimentary, but they&#8217;ve never once released a game that had any hint of hubris....",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1397307659,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "920164870800447313",
+				"title": "Megaspace: 1 Hour Of AI War Follow-Up The Last Federation",
+				"url": "http://store.steampowered.com/news/externalpost/rps/920164870800447313",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alec Meer)",
+				"contents": "Older readers may recall that in <a href=\"http://www.rockpapershotgun.com/2014/02/07/arcen-return-to-space-the-last-federation/\">February</a> we took a peek at <a href=\"http://www.arcengames.com/w/index.php/tlf-features\">The Last Federation</a>, the new space strategy game from Arcen Games. Even older readers may recall that Arcen first came to our attention for AI War &#8211; and lo, <a href=\"http://www.rockpapershotgun.com/2009/08/28/officially-unintelligent-ai-war-versus-rps-part-1/\">many a joke</a> about Quintin and iron was spawned. After confusing everyone with...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1395244845,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 15
+	}
+}

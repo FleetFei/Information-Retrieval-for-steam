@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 17000,
+		"newsitems": [
+			{
+				"gid": "559756042411380694",
+				"title": "'Sandstorm' Expansion Phase 2 Hits Global Agenda Today",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/559756042411380694",
+				"is_external_url": true,
+				"author": "Garnett Lee",
+				"contents": "Massively multiplayer online shooter Global Agenda continues its summer \"Sandstorm\" expansion with the launch of phase 2 today. The new content includes the \"Sonoran Desert Zone\" which introduces the more free adventuring style play typically found in MMORPGs. I played some in this area at E3 and it...",
+				"feedlabel": "Shacknews",
+				"date": 1279854000,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "529354119230480958",
+				"title": "Shooter MMO 'Global Agenda' Ditches Subscriptions",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/529354119230480958",
+				"is_external_url": true,
+				"author": "Alice O'Connor",
+				"contents": "<a href=\"http://www.shacknews.com/reviews/game.x/8629#graph1\">Global Agenda</a> developer Hi-Rez Studios has shook up its business model less than five months after launch, announcing the abolition of subscription fees--meaning you need merely to buy the PC shooter MMO--and a move towards paid content updates. A free trial is available on <a href=\"http://store.steampowered.com/app/17020/\">Steam</a>, letting you play c...",
+				"feedlabel": "Shacknews",
+				"date": 1277480400,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

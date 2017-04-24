@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 207790,
+		"newsitems": [
+			{
+				"gid": "1010230612790284260",
+				"title": "Weeklong Deals, January 13th",
+				"url": "http://store.steampowered.com/news/12208/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "New Weeklong Deals, on sale until Monday, January 20th at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/46850/\"> </a> <a href=\"http://store.steampowered.com/app/204760/\"> </a> <a href=\"http://store.steampowered.com/app/254440/\"> </a> <a href=\"http://store.steampowered.com/app/98500/\"> </a> <a href=\"http://store.steampowered.com/app/34900/\"> </a> <a href=\"http://store.steampowered.com/app/207790/\"> </a> <a href=\"http://store.steampowered.com/app/34920/\"> </a> <a href=\"http://store.steampowered.com/app/225280/\"> </a> <a href=\"http://store.steampowered.com/app/58400/\"> </a> <a href=\"http://store.steampowered.com/app/207730/\"> </a> <a href=\"http://store.steampowered.com/app/258050/\"> </a> <a href=\"http://store.steampowered.com/app/248710/\"> </a> <a href=\"http://store.steampowered.com/app/215160/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1389636360,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1443641195618904149",
+				"title": "Now Available - Jane's Advanced Strike Fighters",
+				"url": "http://store.steampowered.com/news/7494/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/207790<br>\">Jane's Advanced Strike Fighters</a> is now available on Steam! Turn the Heavens into Hell! The Southern Azbaristan Democratic Front of South Azbaristan has only managed to hold off the North with the aid of the West, which supplies military and logistical aid to the tiny state in return for the oil expo...",
+				"feedlabel": "Product Release",
+				"date": 1331317860,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

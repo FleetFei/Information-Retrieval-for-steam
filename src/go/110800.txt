@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 110800,
+		"newsitems": [
+			{
+				"gid": "84840457403468059",
+				"title": "Daily Deal - L.A. Noire, 70% Off",
+				"url": "http://store.steampowered.com/news/26777/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 70% on <a href='http://store.steampowered.com/app/110800/'>L.A. Noire</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Monday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/110800/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1484416800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "295353300246865533",
+				"title": "Daily Deal - L.A. Noire Complete Edition, 80% Off",
+				"url": "http://store.steampowered.com/news/20370/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 80% on <a href='http://store.steampowered.com/sub/12072/'>L.A. Noire Complete Edition</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Tuesday at 10AM Pacific Time <a href=\"http://store.steampowered.com/sub/12072/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1455472800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "377537016001606162",
+				"title": "The city of L.A. Noire",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/377537016001606162",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Why I Love In <a href=\"http://www.pcgamer.com/why-i-love/\">Why I Love</a>, PC Gamer writers pick an aspect of PC gaming that they love and write about why it's brilliant. Today, Andy walks the beat in Los Angeles. I ve been to Los Angeles, and I didn t like it much. It s hot, it s crowded, it s filthy, and you can t walk anywhere. But as a setting...",
+				"feedlabel": "PC Gamer",
+				"date": 1448470851,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 27
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 214770,
+		"newsitems": [
+			{
+				"gid": "260456194808601180",
+				"title": "Play as X'Tabay, Uay Chivo, Flame Face or Jaguar!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/260456194808601180",
+				"is_external_url": true,
+				"author": "Brkfst",
+				"contents": "Hey Gold Edition players, Just a quick heads-up that we've uploaded new player costumes for four of the game's most notorious NPCs. Steam user Mujizik's lavishly animated reskins are free to download in the Guac Gold workshop. Enjoy! All versions of Guac are also 80% off until next Monday, April 25....",
+				"feedlabel": "Community Announcements",
+				"date": 1461086641,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "423688416230440705",
+				"title": "Updated Guac Bundle  STCE Loyalty Discount!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/423688416230440705",
+				"is_external_url": true,
+				"author": "Brkfst",
+				"contents": "Hey Guacamaniacs. We've rejigged the setup of the different versions of Guacamelee! here on Steam a little for your convenience. Now... 1. You can get the 'Guacamelee! Complete' bundle, containing Guacamelee! Gold Edition, Super Turbo Championship Edition and the Guacamelee Soundtrack, for $20 USD/C...",
+				"feedlabel": "Community Announcements",
+				"date": 1438722506,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "521623031789920353",
+				"title": "Find A Goat, Maybe Win Stuff",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/521623031789920353",
+				"is_external_url": true,
+				"author": "Soowagoo",
+				"contents": "http://i.imgur.com/D6Py2JD.jpg We're celebrating going over 10k Twitter followers by giving away a one of a kind Guacamelee swag bundle! We're offering a Guac t-shirt, postcards, and buttons. PLUS the winner will get the luchador mask we brought to PAX in 2012! http://i.imgur.com/JzsFW1N.jpg 2015 is...",
+				"feedlabel": "Community Announcements",
+				"date": 1420665565,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 18
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 207930,
+		"newsitems": [
+			{
+				"gid": "1461692466424512684",
+				"title": "New DLC Available - Sacred Citadel: Jungle Hunt",
+				"url": "http://store.steampowered.com/news/10436/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/222380/'>Jungle Hunt</a>, all new content for <a href='http://store.steampowered.com/app/207930/'>Sacred Citadel</a> is Now Available on Steam! The battle has been won, but the war is not over yet! \"Big Mama\", the malodorous leader of the evil Grimmoc has escaped with the stolen Seraphim artifact into the menacing jungles of Ancaria! Bring \"Big Mama\" to justice and r...",
+				"feedlabel": "Product Release",
+				"date": 1366616760,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1462817320237502418",
+				"title": "Now Available - Sacred Citadel",
+				"url": "http://store.steampowered.com/news/10305/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/207930/'>Sacred Citadel</a> is now available on Steam! Sharpen your axe, string your bow, brew your potions! Ancaria needs heroes like you. Grab your friends to join the resistance! The once peaceful land of Ancaria is in grave danger. The evil Ashen empire has enslaved its population and is using the orc-like G...",
+				"feedlabel": "Product Release",
+				"date": 1366150200,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1461690471662913894",
+				"title": "Pre-Purchase Now - Sacred Citadel, 10% off!",
+				"url": "http://store.steampowered.com/news/10266/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/207930/'>Sacred Citadel</a> is now available for Pre-Purchase on Steam and is 10% off! Sharpen your axe, string your bow, brew your potions! Ancaria needs heroes like you. Grab your friends to join the resistance! The once peaceful land of Ancaria is in grave danger. The evil Ashen empire has enslaved its popula...",
+				"feedlabel": "Announcement",
+				"date": 1364469120,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 212410,
+		"newsitems": [
+			{
+				"gid": "1531474070464287449",
+				"title": "Now Available - Inversion!",
+				"url": "http://store.steampowered.com/news/8494/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/212410/\">Inversion&trade;</a> is Now Available on Steam! Don't just defy gravity. Command it. Take on the role of a young father and husband, Davis Russell, who finds himself thrust into war when his peaceful city is invaded by an unknown enemy. With his daughter missing and conventional weapons and tactics all ...",
+				"feedlabel": "Product Release",
+				"date": 1343344020,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 12770,
+		"newsitems": [
+			{
+				"gid": "1175649119823840178",
+				"title": "Be Kind To Children and Buy Them the Correct Thor Video Game",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1175649119823840178",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://cache.gawkerassets.com/assets/images/9/2011/05/buythor.jpg\"></a> <a rel=\"lytebox\" href=\"http://cache.gawkerassets.com/assets/images/9/2011/05/explore_kotaku_videos_1437.jpg\"></a> There is a <em>Thor</em> movie out. We hear it's okay, <a href=\"http://www.metacritic.com/movie/thor\">at best</a>. Oh, <a href=\"http://io9.com/#!5799242/thor-the-best-superhero-movie-since-the-dark-knight\">maybe <em>better</em> than okay</a>? There are also <em>Thor</em> video games out, and, they're from Sega, the people who brought you bad <em>Iron Man</em> games. Have they done it again? We got the Xbox 360, Wii and DS Thor games, played through the early levels of eac...",
+				"feedlabel": "Kotaku",
+				"date": 1304708400,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

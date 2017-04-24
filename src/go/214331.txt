@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 214331,
+		"newsitems": [
+			{
+				"gid": "1496599168280775220",
+				"title": "New DLC Available - Dollar Dash - Robber's Toolkit DLC",
+				"url": "http://store.steampowered.com/news/10770/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/214331/'>Dollar Dash - Robber's Toolkit DLC</a>, all new content for <a href='http://store.steampowered.com/app/214320/'>Dollar Dash</a> is Now Available on Steam! The Robbers Tool Kit offers a wealth of new crazy weapons and upgrades, accompanied by a number of different shop items that are instantly unlocked for you. To top it off there are 2 new maps per game mode...",
+				"feedlabel": "Product Release",
+				"date": 1370358540,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

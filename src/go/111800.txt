@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 111800,
+		"newsitems": [
+			{
+				"gid": "521612880944494004",
+				"title": "French Indie Sale - Up To 80% Off Popular French Indie Games",
+				"url": "http://store.steampowered.com/news/14422/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Celebrate top French independent game developers with the French Indie Sale, running today on Steam! Organized by Seaven Studio together with over dozen other French indie developers, the promotion features 15 innovative French indie games. Pick from hits like Evoland, Fly&#146;N, Strike Vector and ...",
+				"feedlabel": "Announcement",
+				"date": 1410974340,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "920166227065953430",
+				"title": "Permanent discount on Blocks That Matter's sequel: Tetrobot and Co.",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/920166227065953430",
+				"is_external_url": true,
+				"author": "Captain Will",
+				"contents": "Hi submariners, To thank you for supporting us and playing our first game Blocks That Matter, we created a permanent discount for all of you. You can now purchase Tetrobot and Co. with an automatic 25% discount. With your support, we hope we''ll be able to fund our next game, Seasons after Fall. Tha...",
+				"feedlabel": "Community Announcements",
+				"date": 1396797085,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "920162437052026717",
+				"title": "New Weeklong Deals, Monday February 24th",
+				"url": "http://store.steampowered.com/news/12492/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "New Weeklong Deals roll over every Monday at 10AM Pacific Time. <a href=\"http://store.steampowered.com/app/91900/\"> </a> <a href=\"http://store.steampowered.com/app/2540/\"> </a> <a href=\"http://store.steampowered.com/app/263140/\"> </a> <a href=\"http://store.steampowered.com/app/237370/\"> </a> <a href=\"http://store.steampowered.com/app/1690/\"> </a> <a href=\"http://store.steampowered.com/app/205230/\"> </a> <a href=\"http://store.steampowered.com/app/234940/\"> </a> <a href=\"http://store.steampowered.com/app/212030/\"> </a> <a href=\"http://store.steampowered.com/app/111800/\"> </a> <a href=\"http://store.steampowered.com/app/235980/\"> </a> <a href=\"http://store.steampowered.com/app/220900/\"> </a> <a href=\"http://store.steampowered.com/app/231020/\"> </a> <a href=\"http://store.steampowered.com/app/251830/\"> </a> <a href=\"http://store.steampowered.com/app/6820/\"> </a> <a href=\"http://store.steampowered.com/app/240600/\"> </a> <a href=\"http://store.steampowered.com/app/244810/\"> </a> <a href=\"http://store.steampowered.com/app/9710/\"> </a> <a href=\"http://store.steampowered.com/app/207420/\"> </a> <a href=\"http://store.steampowered.com/app/229520/\"> </a> <a href=\"http://store.steampowered.com/app/102200/\"> </a> <a href=\"http://store.steampowered.com/app/25890/\"> </a> <a href=\"http://store.steampowered.com/app/203630/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1393266360,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 43
+	}
+}

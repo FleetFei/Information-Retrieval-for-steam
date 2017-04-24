@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 10696,
+		"newsitems": [
+			{
+				"gid": "596909999185031242",
+				"title": "Aliens vs. Predator Patches Scrapped for Consoles; PC Support Unchanged",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/596909999185031242",
+				"is_external_url": true,
+				"author": "Brian Leahy",
+				"contents": "SEGA has officially cut support for Rebellion's Aliens vs. Predator on the PlayStation 3 and Xbox 360 with no patches or updates planned for release, according to a <a href=\"http://forums.sega.com/showthread.php?t=334286\">forum post</a> (via <a href=\"http://www.aliensvspredator.net/home/news/games/sega-to-stop-support-for-avp-r48\">AVP.net</a>) by SEGA assistant community manager \"Clumsyorchid\". <a href=\"/screenshots.x?gallery=15232&game_id=7049&id=161236\"> </a><a href=\"/screenshots.x?gallery=15232&game_id=7049&id=161235\"> </a> Clumsyorchid explains that \"patches for the console ver...",
+				"feedlabel": "Shacknews",
+				"date": 1279228500,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "527102871541704997",
+				"title": "Aliens vs. Predator DLC Map Pack Goes on a Bughunt",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/527102871541704997",
+				"is_external_url": true,
+				"author": "Alice O'Connor",
+				"contents": "<a href=\"/screenshots.x?gallery=15232&game_id=7049&id=161235\"> </a> <a href=\"http://www.shacknews.com/reviews/game.x/7049#graph1\">Aliens vs. Predator</a> will pick up four all-new battlegrounds this July in a <a href=\"http://www.shacknews.com/onearticle.x/62685\">second</a> paid downloadable content map pack, publisher Sega has <a href=\"http://blogs.sega.com/europe/2010/06/30/aliens-vs-predator-new-dlc-bughunt-map-pack-available-7th-july/\">announced</a>, titled 'Bughunt.' Due out on July 7 at $6.99 (560 Microsoft Points) for PC, Xbox 360 and PlayStation 3, the Bughunt pack contains two new maps for AvP...",
+				"feedlabel": "Shacknews",
+				"date": 1277920200,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "530477488073614891",
+				"title": "Aliens vs. Predator DirectX 11 Benchmark Released",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/530477488073614891",
+				"is_external_url": true,
+				"author": "Alice O'Connor",
+				"contents": "Rebellion has released a swish standalone DirectX 11 PC benchmark test based upon its shooter <a href=\"http://www.shacknews.com/reviews/game.x/7051#graph1\">Aliens vs. Predator</a>, available in a 303MB download from <a href=\"http://www.fileshack.com/file.x/18995/Aliens+vs.+Predator+DirectX+11+Benchmark+Test\">FileShack</a>. <a href=\"/screenshots.x?gallery=13738&game_id=7049&id=148229\"> </a><a href=\"/screenshots.x?gallery=13738&game_id=7049&id=148228\"> </a> <em>This isn't the benchmark but is nice, isn't it?</em> The benchmark test requires a graphics support supporting DirectX 11 bells and whistles,...",
+				"feedlabel": "Shacknews",
+				"date": 1275102000,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

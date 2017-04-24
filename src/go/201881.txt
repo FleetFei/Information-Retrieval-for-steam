@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 201881,
+		"newsitems": [
+			{
+				"gid": "775978688500398014",
+				"title": "New Release - Assassin's Creed Revelations - Mediterranean Traveler Map",
+				"url": "http://store.steampowered.com/news/7211/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The new <a href=\"http://store.steampowered.com/app/201881/\">Assassin's Creed Revelations - Mediterranean Traveler Map</a> is now available on Steam! The Mediterranean Traveler Map Pack extends the Assassin&#146;s Creed&reg; Revelations multiplayer experience with the addition of six multiplayer maps, each introducing new gameplay opportunities through th...",
+				"feedlabel": "Product Release",
+				"date": 1327514460,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 19890,
+		"newsitems": [
+			{
+				"gid": "1141881629993205901",
+				"title": "Ubi canned \"Oblivion-style\" Might & Magic",
+				"url": "http://store.steampowered.com/news/externalpost/eurogamer/1141881629993205901",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Ubisoft recently experimented with an \"Oblivion-style\" Might &amp; Magic game though eventually ditched the concept, according to a developer resume. The LinkedIn profile of a senior game designer who worked at the publisher's Shanghai outpost for seven months in 2009, spotted by Twitter sleuth <a href=\"http://twitter.com/#!/supererogatory\" target=\"_blank\">Supe...</a>",
+				"feedlabel": "Eurogamer",
+				"date": 1313794740,
+				"feedname": "eurogamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 208670,
+		"newsitems": [
+			{
+				"gid": "1515717886793765361",
+				"title": "Daily Deal - Blades of Time, 40% off!",
+				"url": "http://store.steampowered.com/news/9009/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 40% off <a href=\"http://store.steampowered.com/app/208670/\">Blades of Time</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/208670/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1349456400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1389607120608314909",
+				"title": "In Which Blades of Time is Compared Favorably to Uncharted and God of War",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1389607120608314909",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/17q6xk5oahykpjpg/original.jpg\"> </a><em>While Konami's budget-priced remake of the failed X-Blades, was widely considered to be horrible idea by everyone forever, Kotaku commenter <a href=\"http://kotaku.com/speakup/forum?comment=50675844\">Tales of a Prinny</a> thinks it's the vengeful warrior's / adventuring archaeologists'' knees. Just goes to show there's an audience for everything.</em> So <em>Blades of T...</em>",
+				"feedlabel": "Kotaku",
+				"date": 1340040600,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514576755613089772",
+				"title": "Now Available - Blades of Time, 20% off Limited Edition!",
+				"url": "http://store.steampowered.com/news/7799/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/208670/\">Blades of Time</a>, <a href=\"http://store.steampowered.com/app/208981/\">Blades of Time - Dismal Swamp DLC</a> and <a href=\"http://store.steampowered.com/sub/14239/\">Blades of Time - Limited Edition</a> which includes Blades of Time, the Dismal Swamp DLC and more is Now Available on Steam. The <a href=\"http://store.steampowered.com/sub/14239/\">Blades of Time - Limited Edition</a> is 20% off until Friday, April 27th 10AM PST. Ayumi, the gorgeous gun and sword-wielding...",
+				"feedlabel": "Product Release",
+				"date": 1334969160,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

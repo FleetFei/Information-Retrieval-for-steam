@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 12200,
+		"newsitems": [
+			{
+				"gid": "260454846519867467",
+				"title": "Daily Deal - Bully: Scholarship Edition, 75% Off",
+				"url": "http://store.steampowered.com/news/21298/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/12200/'>Bully: Scholarship Edition</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Wednesday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/12200/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1460394000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "377538916259586227",
+				"title": "Daily Deal - Bully: Scholarship Edition, 75% Off",
+				"url": "http://store.steampowered.com/news/19688/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/12200/'>Bully: Scholarship Edition</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Friday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/12200/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1450288800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "552009088168130715",
+				"title": "Daily Deal - Bully: Scholarship Edition, 75% Off",
+				"url": "http://store.steampowered.com/news/14189/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/12200/'>Bully: Scholarship Edition</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Thursday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/12200/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1408467600,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 12
+	}
+}

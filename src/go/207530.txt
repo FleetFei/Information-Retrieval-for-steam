@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 207530,
+		"newsitems": [
+			{
+				"gid": "1515715547298981077",
+				"title": "Midweek Madness - Swedish Indie Pack!",
+				"url": "http://store.steampowered.com/news/8832/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "An awesome group of indie developers from Sweden have come together to create the <a href=\"http://store.steampowered.com/sub/16612/\">Swedish Indie Pack</a> for this week's Midweek Madness*! This Pack includes: * <a href=\"http://store.steampowered.com/app/29160/\">Blueberry Garden</a>; * <a href=\"http://store.steampowered.com/app/46000/\">Bob Came in Pieces</a>; * <a href=\"http://store.steampowered.com/app/35480/\">Dwarfs!?</a>; * <a href=\"http://store.steampowered.com/app/42140/\">Hamilton's Great Adventure</a>; * <a href=\"http://store.steampowered.com/app/15400/\">Harvest: Massive Encounter</a>; * <a href=\"http://store.steampowered.com/app/42120/\">Lead and Gold: Gangs of the W...</a>",
+				"feedlabel": "Announcement",
+				"date": 1347383100,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1533726502745266972",
+				"title": "Daily Deal - Noitu Love 2 Devolution, 50% off!",
+				"url": "http://store.steampowered.com/news/8511/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 50% off <a href=\"http://store.steampowered.com/app/207530/\">Noitu Love 2 Devolutiont</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/207530/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1343840700,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514576755662468379",
+				"title": "Now Available - Noitu Love 2 Devolution, 20% off",
+				"url": "http://store.steampowered.com/news/7755/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/207530/\">Noitu Love 2 Devolution</a> is Now Available on Steam and 20% off until 10 AM PST on Monday, April 30th. A century after the legendary boy Noitu Love saved the world from the evil Darns, they rise again, but in a chaos of time-bending mayhem! Now it's up to the new hero of the Peacekeepers, Xoda Rap, to...",
+				"feedlabel": "Product Release",
+				"date": 1335194640,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

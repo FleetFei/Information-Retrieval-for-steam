@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 200530,
+		"newsitems": [
+			{
+				"gid": "521613086879717512",
+				"title": "Receive a 40% discount when you purchase Movie Edit Pro 2015 Plus.",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/521613086879717512",
+				"is_external_url": true,
+				"author": "MAGIX Video PM",
+				"contents": "Owners of MAGIX Movie Edit Pro 2013 Plus and/or Movie Edit Pro 2014 Plus receive a 40% discount when purchasing Movie Edit Pro 2015 Plus. Offer expires October 3rd 2014. NEW! Now available on Steam: MAGIX Movie Edit Pro 2015 Plus Experience the new 64-bit Turbo power and edit all your projects from ...",
+				"feedlabel": "Community Announcements",
+				"date": 1411389852,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "3189986872686275113",
+				"title": "Magix Movie Edit Pro 2013 Updated",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/3189986872686275113",
+				"is_external_url": true,
+				"author": "mdlouhy",
+				"contents": "Important changes to version 12.0.4.3 compared to 12.0.2.3 Various bug fixes to: Blu-ray authoring Import compatibility Export Import and Export Preview rendering Display errors in certain mix situations Effect handling Audio recording Video recording Import projects from Movie Edit Touch Compatibil...",
+				"feedlabel": "Community Announcements",
+				"date": 1402931436,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1459455885553102355",
+				"title": "Weeklong Deals, October 7",
+				"url": "http://store.steampowered.com/news/11586/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 33%-80% on new Weeklong Deals on Steam, available now until October 14 at 10AM PST. <a href=\"http://store.steampowered.com/app/214360/\"> </a> <a href=\"http://store.steampowered.com/app/46560/\"> </a> <a href=\"http://store.steampowered.com/app/218660/\"> </a> <a href=\"http://store.steampowered.com/app/49300/\"> </a> <a href=\"http://store.steampowered.com/app/234390/\"> </a> <a href=\"http://store.steampowered.com/app/55140/\"> </a> <a href=\"http://store.steampowered.com/app/243120/\"> </a> <a href=\"http://store.steampowered.com/app/200530/\"> </a> <a href=\"http://store.steampowered.com/app/47000/\"> </a> <a href=\"http://store.steampowered.com/app/200170/\"> </a> <a href=\"http://store.steampowered.com/app/70200/\"> </a> <a href=\"http://store.steampowered.com/app/231910/\"> </a> <a href=\"http://store.steampowered.com/app/202860/\"> </a> <a href=\"http://store.steampowered.com/app/7860/\"> </a> <a href=\"http://store.steampowered.com/app/6220/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1381259460,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

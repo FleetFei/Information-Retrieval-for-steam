@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 207114,
+		"newsitems": [
+			{
+				"gid": "1389607509664109992",
+				"title": "New DLC Available - Ridge Racer Unbounded Extended Pack: 3 Vehicles + 5 Paint Jobs",
+				"url": "http://store.steampowered.com/news/8243/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/207114/\">Ridge Racer&trade; Unbounded - Extended Pack: 3 Vehicles + 5 Paint Jobs</a> DLC is Now Available for Ridge Racer&trade; Unbounded! A super sports car, 2 classic 60s machines and 5 paint jobs (PAC-MAN&trade;, GALAGA&trade;, TEKKEN&trade;, SOULCALIBUR&trade;, ACE COMBAT&trade;), this pack has it all! <a href=\"http://store.steampowered.com/app/207114/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1340299440,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

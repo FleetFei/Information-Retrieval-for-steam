@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 208546,
+		"newsitems": [
+			{
+				"gid": "1533726502921041281",
+				"title": "New Free DLC Available - Dungeon Defenders: Jester Hero DLC",
+				"url": "http://store.steampowered.com/news/8589/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/app/208546/\">Jester Hero</a>, new DLC for <a href=\"http://store.steampowered.com/app/65800/\">Dungeon Defenders</a> is Now Available on Steam and Free until Wednesday, August 22nd 10AM PDT. A sly trickster born in a whimsical realm of chaos, the Jester's abilities are shrouded in mystery. She can quickly turn the tide of battle by using any weapon and can deceive ene...",
+				"feedlabel": "Product Release",
+				"date": 1344463020,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

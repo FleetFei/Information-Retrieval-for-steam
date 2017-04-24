@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 206415,
+		"newsitems": [
+			{
+				"gid": "1515700144951290215",
+				"title": "New DLC Available - Crazy Machines Elements: Gadget Fun and Tricky Riddles",
+				"url": "http://store.steampowered.com/news/7610/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Crazy Machines Elements - <a href=\"http://store.steampowered.com/app/206415/\">Collision Course & Mental Activity</a> DLC is now available on Steam! Now that you&#146;ve wet your feet with Elements, it&#146;s time to dig in and put your mind to work on even more brain sizzling fun. Indulge your curiosity and open up the Gadget Fun Pack to find a selection...",
+				"feedlabel": "Product Release",
+				"date": 1332523260,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

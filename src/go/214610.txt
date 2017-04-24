@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 214610,
+		"newsitems": [
+			{
+				"gid": "423688416252899797",
+				"title": "60% OFF Cherry Tree High Comedy Club during Japanese Indie Games Festival",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/423688416252899797",
+				"is_external_url": true,
+				"author": "jay_rab",
+				"contents": "Hey Comedians and Doujin lovers! Right now Cherry Tree High Comedy Club is on sale for 60% and that is no joke! We are taking part in the Japanese Indie Games Festival along with other great doujins so you should pick this game up for you or your friends: http://store.steampowered.com/app/214610/ As...",
+				"feedlabel": "Community Announcements",
+				"date": 1439259519,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "522745035917812693",
+				"title": "Now Updated with 'Dewesternized' Version!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/522745035917812693",
+				"is_external_url": true,
+				"author": "Nyu Media",
+				"contents": "Apologies for the late announcement, but let's make this official! Due to popular demand, we have released a 'dewesternized' localization of Cherry Tree High Comedy Club which uses the original Japanese setting, Japanese character names / place names, etc. This new localization is now the ‘official ...",
+				"feedlabel": "Community Announcements",
+				"date": 1417062519,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "522744579260204273",
+				"title": "Cherry Tree High I! My! Girls! is Available NOW!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/522744579260204273",
+				"is_external_url": true,
+				"author": "Nyu Media",
+				"contents": "Cherry Tree High I! My! Girls! is now available on Steam as a standalone game priced $3.99, and together with the original game Cherry Tree High Comedy Club in the Cherry Tree High Complete Pack, priced $9.99. http://store.steampowered.com/app/333220 As promised, the new, 'dewesternized' localizatio...",
+				"feedlabel": "Community Announcements",
+				"date": 1416502889,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

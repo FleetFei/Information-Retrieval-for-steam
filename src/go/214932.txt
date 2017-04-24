@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 214932,
+		"newsitems": [
+			{
+				"gid": "919039334576522430",
+				"title": "New DLC Available - BioShock Infinite: Burial at Sea - Episode Two",
+				"url": "http://store.steampowered.com/news/12713/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/214932/'>BioShock Infinite: Burial at Sea - Episode Two</a>, all new content for <a href='http://store.steampowered.com/app/8870/'>BioShock Infinite</a> is Now Available on Steam! See the world through Elizabeth&#146;s eyes in BioShock Infinite: Burial at Sea &#150; Episode Two. Set immediately after the conclusion of Burial at Sea &#150; Episode One, this final ep...",
+				"feedlabel": "Product Release",
+				"date": 1395766740,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 205610,
+		"newsitems": [
+			{
+				"gid": "1459437403507867102",
+				"title": "Daily Deal - Port Royale 3, 75% Off",
+				"url": "http://store.steampowered.com/news/10173/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/205610/'>Port Royale 3</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/205610/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1363712400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1479695212955828960",
+				"title": "New DLC Available - Port Royale 3: New Adventures DLC",
+				"url": "http://store.steampowered.com/news/9563/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/215972/'>Port Royale 3: New Adventures DLC</a>, all new content for <a href='http://store.steampowered.com/app/205610/'>Port Royale 3</a> is Now Available on Steam! Everybody who looks for new challenges should try the New Adventures DLC. Five new scenarios are waiting for you, each one with unique task that will let you experience unseen and thrilling situations. So...",
+				"feedlabel": "Product Release",
+				"date": 1355246580,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515719004482373096",
+				"title": "New DLC Available - Port Royale 3: Harbour Master",
+				"url": "http://store.steampowered.com/news/9096/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/215970/\">Port Royale 3: Harbour Master DLC</a>, a new expansion for <a href=\"http://store.steampowered.com/app/205610/\">Port Royale 3</a>, is now available on Steam! With the Harbour Master DLC you can enhance Port Royale 3 with six completely new building types, several decoration objects for your cities and with an economic adviser, who will give you useful hints. ...",
+				"feedlabel": "Product Release",
+				"date": 1350405600,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

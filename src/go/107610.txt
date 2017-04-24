@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 107610,
+		"newsitems": [
+			{
+				"gid": "774849604965165168",
+				"title": "Waves Updated",
+				"url": "http://store.steampowered.com/news/7065/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "New Content • New \"Chase\" Game mode added • 28 New Steam Achievements Bugfixes • Fixed the highscore display showing scores that are below your current highscore either locally or amongst your friends list. <a href=\"http://store.steampowered.com/app/107600/\"> </a> ",
+				"feedlabel": "Product Update",
+				"date": 1324479480,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

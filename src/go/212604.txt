@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 212604,
+		"newsitems": [
+			{
+				"gid": "1515717154600668358",
+				"title": "Now Available - The Amazing Spider-Man™ and 4 additional DLC",
+				"url": "http://store.steampowered.com/news/8934/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/212580/\">The Amazing Spider-Man&trade;</a> is now available on Steam! Harness Spider-Man&#146;s powers with Manhattan as your playground! Set shortly after the events of Columbia Pictures' new film, The Amazing Spider-Man throws New York City's brand new hero back into free-roaming, web-slinging action, as he pr...",
+				"feedlabel": "Product Release",
+				"date": 1348592400,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

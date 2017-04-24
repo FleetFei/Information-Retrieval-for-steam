@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 208030,
+		"newsitems": [
+			{
+				"gid": "1389604433805246062",
+				"title": "Now Available - Moon Breakers",
+				"url": "http://store.steampowered.com/news/7993/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Free to Play - <a href=\"http://store.steampowered.com/app/208030/\">Moon Breakers</a> is now available on Steam! Moon Breakers is a free to play, multi-player 3D space combat game set in an alternate WWII-inspired future. As either a Government or Pirate pilot, take to the stars in single-seat starfighters and engage in epic dogfights for Helium-3 around ...",
+				"feedlabel": "Product Release",
+				"date": 1337276640,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

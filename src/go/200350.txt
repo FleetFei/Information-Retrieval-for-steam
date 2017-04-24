@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 200350,
+		"newsitems": [
+			{
+				"gid": "1514588903110577096",
+				"title": "Now Available - Starvoid",
+				"url": "http://store.steampowered.com/news/8758/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/200350/\">Starvoid</a> is now available on Steam! Purchase before September 6th at 10AM Pacific time and receive a free extra copy to send to a friend! Starvoid is a multiplayer real time strategy game, wrapped in the easy-to-pick-up and easy-to-play structure of a first person shooter. Take the role of a mercena...",
+				"feedlabel": "Product Release",
+				"date": 1346351160,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514588200525312639",
+				"title": "Pre-Purchase Now - Starvoid",
+				"url": "http://store.steampowered.com/news/8734/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/200350/\">Starvoid</a> is now available for pre-purchase on Steam! Act now and receive early access to the full game and an extra copy to send to a friend! Starvoid is a multiplayer real time strategy game, wrapped in the easy-to-pick-up and easy-to-play structure of a first person shooter. Take the role of a mer...",
+				"feedlabel": "Announcement",
+				"date": 1346085840,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

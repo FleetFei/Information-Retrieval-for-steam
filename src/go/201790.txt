@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 201790,
+		"newsitems": [
+			{
+				"gid": "75842128756072849",
+				"title": "Orcs Must Die! Unchained is now available!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75842128756072849",
+				"is_external_url": true,
+				"author": "Harmoniabot",
+				"contents": "http://cdn.akamai.steamstatic.com/steam/apps/427270/extras/orcs-running-header.jpg Robot Entertainment today announced that their hilarious action tower defense game ORCS MUST DIE! UNCHAINED is now commercially available! Players can download the game from Steam or directly from OrcsMustDie.com. Orc...",
+				"feedlabel": "Community Announcements",
+				"date": 1492635773,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 201790
+			},
+			{
+				"gid": "75840229402004599",
+				"title": "Orc Week Celebration for OMDU Launch Announcement!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75840229402004599",
+				"is_external_url": true,
+				"author": "Harmoniabot",
+				"contents": "OMDU to release on April 19, 2017! That’s right, War Mages, Orcs Must Die! Unchained is exiting open beta and officially launching on April 19! This free-to-play commercial release features classic Orcs Must Die! gameplay players and also heralds the return of head-to-head gameplay in the form of Sa...",
+				"feedlabel": "Community Announcements",
+				"date": 1491496466,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 201790
+			},
+			{
+				"gid": "75840229394849172",
+				"title": "Now Available - Orcs Must Die! Franchise Pack",
+				"url": "http://store.steampowered.com/news/28620/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Celebrate Orc Week by saving big on the <a href='http://store.steampowered.com/bundle/3092/'>Orcs Must Die franchise</a>!* Get 90% off on Orcs Must Die games, or buy the whole franchise bundle for an added discount. *Offer ends Monday April 10 at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/201790/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1491325380,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 201790
+			}
+		]
+		,
+		"count": 24
+	}
+}

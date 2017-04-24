@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 105400,
+		"newsitems": [
+			{
+				"gid": "1028241116378554543",
+				"title": "Fable III - Missing CD Keys (Resolved)",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1028241116378554543",
+				"is_external_url": true,
+				"author": "MS Ryz0n",
+				"contents": "Hey folks, I'm a bit out of my realm here in the Fable section (I work on the AOE titles here at Microsoft) - but I've been coordinating with the folks at Valve and Lionhead in the last couple of weeks to get working keys generated and uploaded when the issue came to light. Recent purchasers of Fabl...",
+				"feedlabel": "Community Announcements",
+				"date": 1385673765,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1027113495234893072",
+				"title": "Daily Deal - Fable III, 75% Off",
+				"url": "http://store.steampowered.com/news/11827/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/105400/'>Fable III</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Wednesday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/105400/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1384192800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1461693009591248558",
+				"title": "Daily Deal - Fable III, 75% Off",
+				"url": "http://store.steampowered.com/news/10454/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/105400/'>Fable III</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/105400/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1366822800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 12
+	}
+}

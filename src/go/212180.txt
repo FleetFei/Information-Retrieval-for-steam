@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 212180,
+		"newsitems": [
+			{
+				"gid": "519383914575233945",
+				"title": "Combat Arms Goes Transatlantic",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/519383914575233945",
+				"is_external_url": true,
+				"author": "Combat Arms Community Manager",
+				"contents": "Attention Soldiers, We've got some exciting news for you: Combat Arms Europe and North America will join forces on Tuesday, June 30, to merge into one unified service! With this change, players in Europe, North America and Oceania will be able to compete against each other via the new Combat Arms se...",
+				"feedlabel": "Community Announcements",
+				"date": 1432859164,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1497726886785803261",
+				"title": "Combat Arms Updated",
+				"url": "http://store.steampowered.com/news/10896/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Welcome to the new Combat Arms. Experience the redesigned UI, rebalanced reward, the all new low gravity map, and more in Combat Arms&#146; latest update! New UI The Combat Arms user interface has been redesigned to make it easier to find matches, manage equipment, and more! New features have been i...",
+				"feedlabel": "Product Update",
+				"date": 1371680760,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514593284388330244",
+				"title": "Combat Arms Updated",
+				"url": "http://store.steampowered.com/news/9159/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "• All new map, Bloodbath Bazaar. • A revamped Blood Money map. • More ways to play on the Death Row map. • A revamped User Interface, featuring dozens improvements to make the Combat Arms experience even better. • Even more guns added to the world&#146;s largest online Arsenal <a href=\"http://store.steampowered.com/app/212180/\"> </a> ",
+				"feedlabel": "Product Update",
+				"date": 1350972660,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

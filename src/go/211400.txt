@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 211400,
+		"newsitems": [
+			{
+				"gid": "75838332271706341",
+				"title": "It s about Rime: Zelda-like adventure gets release date",
+				"url": "http://store.steampowered.com/news/externalpost/rps/75838332271706341",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Brendan Caldwell)",
+				"contents": "While the joys of the new Zelda on Switch are being experienced by all and/or sundry, we in PC land have to resort to scowling and then writing about how <a href=\"https://www.rockpapershotgun.com/2017/03/13/what-can-rpgs-learn-from-zelda-breath-of-the-wild/\">we can still learn lessons</a> from Nintendo s long-running adventures of Link the Landscaper. But what s this, sailing over the horizon? It s <a href=\"https://www.rockpapershotgun.com/tag/rime/\">Rime</a> , ...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1489425484,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 211400
+			},
+			{
+				"gid": "91592690490963516",
+				"title": "Daily Deal - Deadlight, 80% Off",
+				"url": "http://store.steampowered.com/news/26072/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 80% on <a href='http://store.steampowered.com/app/211400/'>Deadlight</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Saturday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/211400/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1481220000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 211400
+			},
+			{
+				"gid": "255956312795069560",
+				"title": "Deadlight: Director s Cut Out June, Survival Mode Deets",
+				"url": "http://store.steampowered.com/news/externalpost/rps/255956312795069560",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Joe Donnelly)",
+				"contents": "I was pretty torn with sidescrolling platformer/survival &#8216;em up <a href=\"https://www.rockpapershotgun.com/tag/deadlight/\">Deadlight</a> when I first played it a few years back. For the most part, I enjoyed its zombie apocalypse narrative, its challenging gauntlet sequences and its wonderfully bleak presentation, however really struggled with certain jarr...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1464176343,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

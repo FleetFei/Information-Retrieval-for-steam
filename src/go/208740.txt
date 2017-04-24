@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 208740,
+		"newsitems": [
+			{
+				"gid": "1515720987304911759",
+				"title": "New DLC Available - Game of Thrones - Beyond the Wall (Blood Bound) DLC",
+				"url": "http://store.steampowered.com/news/9325/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/208740/\">Game of Thrones - Beyond the Wall (Blood Bound) DLC</a> is now available on Steam! Travel beyond the Wall, 10 years prior to the events of Game of Thrones! Plunge into the dark past of Mors Westford and delve deep into Wildling territory in a perilous mission… that same mission where Mors earned his nic...",
+				"feedlabel": "Product Release",
+				"date": 1352413440,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

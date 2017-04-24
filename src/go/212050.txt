@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 212050,
+		"newsitems": [
+			{
+				"gid": "1461692466436749928",
+				"title": "New Weeklong Deals on Steam!",
+				"url": "http://store.steampowered.com/news/10440/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on new Week Long Deals on Steam, available now until April 29th at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/211280/\"> </a> <a href=\"http://store.steampowered.com/app/46480/\"> </a> <a href=\"http://store.steampowered.com/app/46490/\"> </a> <a href=\"http://store.steampowered.com/app/46550/\"> </a> <a href=\"http://store.steampowered.com/app/12420/\"> </a> <a href=\"http://store.steampowered.com/app/46850/\"> </a> <a href=\"http://store.steampowered.com/app/212050/\"> </a> <a href=\"http://store.steampowered.com/app/206370/\"> </a> <a href=\"http://store.steampowered.com/app/227240/\"> </a> <a href=\"http://store.steampowered.com/app/223470/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1366650000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1531474070428913397",
+				"title": "Now Available - Resonance",
+				"url": "http://store.steampowered.com/news/8476/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/212050/\">Resonance</a> is Now Available on Steam and 10% off until Wednesday, Auguset 1st 10AM PDT. When a brilliant particle physicist dies unexpectedly, the race is on to secure his terrible new technology before it falls into the wrong hands. The lives of four playable characters become entangled as they figh...",
+				"feedlabel": "Product Release",
+				"date": 1343233800,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1389607509647253877",
+				"title": "Brand-New Indie Game Resonance is the Best 1990s Adventure Game I've Played in Years",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1389607509647253877",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/17qd2o80z71mdjpg/original.jpg\"> </a> I am a big fan of adventure games. They've been my favorite genre for decades. I like them quite a lot. Enough to have named my cat Guybrush. I have sampled and enjoyed many indie adventure games, both old and new, this year. And I mention all of this so that you will realize the weight of my word...",
+				"feedlabel": "Kotaku",
+				"date": 1340208000,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

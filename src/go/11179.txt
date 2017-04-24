@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 11179,
+		"newsitems": [
+			{
+				"gid": "1496591023745447181",
+				"title": "Free-to-play Blood Bowl: Star Coach announced",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1496591023745447181",
+				"is_external_url": true,
+				"author": "Alice O'Connor",
+				"contents": "If you like the team-management side of Blood Bowl but not the turn-based strategy of matches, and would rather games were free than costing money, then, er, hey! Cyanide is working on a free-to-play version of the Games Workshop tabletop game which focuses purely on management, aiming for release o...",
+				"feedlabel": "Shacknews",
+				"date": 1362484800,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 16710,
+		"newsitems": [
+			{
+				"gid": "1461666363761032485",
+				"title": "Daily Deal - Insecticide Part 1, 66% off!",
+				"url": "http://store.steampowered.com/news/8359/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% off <a href=\"http://store.steampowered.com/app/16710/\">Insecticide Part 1</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/16710/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1341767100,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

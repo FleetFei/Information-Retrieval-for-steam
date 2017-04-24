@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 214230,
+		"newsitems": [
+			{
+				"gid": "1514595968612646005",
+				"title": "Now Available - Family Guy™: Back to the Multiverse",
+				"url": "http://store.steampowered.com/news/9418/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/214230/'>Family Guy&trade;: Back to the Multiverse</a> is Now Available on Steam! Everyone&#146;s favorite foul-mouthed baby Stewie stars alongside his faithful booze hound Brian in the Family Guy event of the year - Family Guy: Back to the Multiverse! Save Quahog from utter annihilation! Stewie and Brian team u...",
+				"feedlabel": "Product Release",
+				"date": 1353434040,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515720987471043119",
+				"title": "Pre-Purchase Now - Family Guy™: Back to the Multiverse",
+				"url": "http://store.steampowered.com/news/9375/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/214230/'>Family Guy&trade;: Back to the Multiverse</a> is Now Available for Pre-Purchase on Steam and is 10% off! Everyone&#146;s favorite foul-mouthed baby Stewie stars alongside his faithful booze hound Brian in the Family Guy event of the year - Family Guy: Back to the Multiverse! Save Quahog from utter annih...",
+				"feedlabel": "Product Release",
+				"date": 1352942880,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

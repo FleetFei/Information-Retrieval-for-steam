@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 206882,
+		"newsitems": [
+			{
+				"gid": "1387355123815366005",
+				"title": "New DLC Available - Airline Tycoon 2 Falcon Airlines",
+				"url": "http://store.steampowered.com/news/8190/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/206882/\">Falcon Airlines</a>, new content for Airline Tycoon 2, is Now Available on Steam. He&#146;s back! Siggi Sorglos, synonymous with German diligence, punctuality and cuckoo clocks, returns to the airline business with this DLC for Airline Tycoon 2. Play the entire campaign form the main game plus two brand...",
+				"feedlabel": "Product Release",
+				"date": 1339616760,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

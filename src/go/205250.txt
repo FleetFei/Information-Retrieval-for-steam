@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 205250,
+		"newsitems": [
+			{
+				"gid": "75838960584469860",
+				"title": "3DMark Vantage Update Released",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75838960584469860",
+				"is_external_url": true,
+				"author": "FM_James",
+				"contents": "Futuremark benchmarks use a component called SystemInfo to identify the hardware in your system. This patch updates SystemInfo to version 5.0. SystemInfo 5.0 Improved stability and performance. Updated CPUID module for improved hardware detection with Intel \"Kaby Lake\" and AMD Ryzen processors. Upda...",
+				"feedlabel": "Community Announcements",
+				"date": 1489592116,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 205250
+			},
+			{
+				"gid": "252586225972940910",
+				"title": "3DMark Vantage Update Released",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/252586225972940910",
+				"is_external_url": true,
+				"author": "FM_James",
+				"contents": "Futuremark benchmarks use a component called SystemInfo to identify the hardware in your system. This patch updates SystemInfo to version 4.48. SystemInfo 4.48 Improved compatibility with the latest hardware. ",
+				"feedlabel": "Community Announcements",
+				"date": 1471529061,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 205250
+			},
+			{
+				"gid": "250329347104780200",
+				"title": "3DMark Vantage Update Released",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/250329347104780200",
+				"is_external_url": true,
+				"author": "FM_James",
+				"contents": "Futuremark benchmarks use a component called SystemInfo to identify the hardware in your system. This patch updates SystemInfo to version 4.47. SystemInfo 4.47 Improved compatibility with the latest hardware. ",
+				"feedlabel": "Community Announcements",
+				"date": 1467642868,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 18
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 108800,
+		"newsitems": [
+			{
+				"gid": "243581744550623540",
+				"title": "Daily Deal - Crysis 2 - Maximum Edition, 75% Off",
+				"url": "http://store.steampowered.com/news/24227/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/108800/'>Crysis 2 - Maximum Edition</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Sunday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/108800/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1474045200,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "567767801649055159",
+				"title": "Weekend Deal - Crysis 2 - Maximum Edition, 75% Off",
+				"url": "http://store.steampowered.com/news/13766/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 75% on <a href='http://store.steampowered.com/app/108800'>Crysis 2 - Maximum Edition</a> as part of this week's Weekend Deal*! Aliens are decimating New York City, only you have the technology to survive. Adapt in real time using the unique Nanosuit 2 Stealth, Armor and Power abilities, then tackle the alien menace in ways a regular soldier could o...",
+				"feedlabel": "Announcement",
+				"date": 1404406800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1010228711665175598",
+				"title": "The Steam Holiday Sale Day 2!",
+				"url": "http://store.steampowered.com/news/12144/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <b><a href='http://store.steampowered.com/'>Steam Holiday Sale</a></b> continues today with huge savings throughout the store! Check back often to take advantage of our eight-hour <b>Flash Sales</b>. You can even help select what goes on sale with our <b>Community's Choice Voting Sales</b>. In addition to Flash and Vote sales, more than a hundred games and app...",
+				"feedlabel": "Announcement",
+				"date": 1387563000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

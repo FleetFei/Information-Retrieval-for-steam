@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 17440,
+		"newsitems": [
+			{
+				"gid": "522598086077251753",
+				"title": "EA Week, Day Five: Save on Mirror's Edge, Dead Space,  Spore",
+				"url": "http://store.steampowered.com/news/3941/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "It's Friday, and how better to celebrate the end of the work week than with 75% off <a href=\"http://store.steampowered.com/app/17410/\">Mirror's Edge</a>? Well, maybe 50% off <a href=\"http://store.steampowered.com/app/17470/\">Dead Space</a> or 33% off all <a href=\"http://store.steampowered.com/app/17390/\">Spore</a> titles. Yeah, those are also acceptable ways to celebrate. What are you waiting for? These deals only last for one day - A different offer starts at ...",
+				"feedlabel": "Announcement",
+				"date": 1276880400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

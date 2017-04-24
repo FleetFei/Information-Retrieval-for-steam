@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 214150,
+		"newsitems": [
+			{
+				"gid": "3188860337784241254",
+				"title": "Stardock Weekend Deal 50-75% Off!",
+				"url": "http://store.steampowered.com/news/13541/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 50-75%* on all Stardock titles during the <a href='http://store.steampowered.com/sale/stardock20yr'>Stardock Weekend Deal</a>! Explore the farthest reaches of space or the remnants of a magical world. Battle in arenas with godlike titans, or as political candidates with godlike egos. Titles include: <a href='http://store.steampowered.com/app/228260/'>Fallen Enchantress: Legendary Heroes</a> <a href='http://store.steampowered.com/app/204880/'>Sins of a Solar Emp...</a>",
+				"feedlabel": "Announcement",
+				"date": 1401987600,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1533727235374246808",
+				"title": "Now Available Galactic Civilizations I: Ultimate Edition!",
+				"url": "http://store.steampowered.com/news/8633/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/214150/\">Galactic Civilizations I: Ultimate Edition</a> is Now Available on Steam! Galactic Civilizations is a space based strategy game in which you are in control of humanity's destiny. The year is 2178, the Terran Alliance has invented a new technology -- Hyperdrive. But the secret has leaked to the other civ...",
+				"feedlabel": "Product Release",
+				"date": 1344965400,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

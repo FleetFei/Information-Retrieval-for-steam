@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 206720,
+		"newsitems": [
+			{
+				"gid": "1514595968612918189",
+				"title": "New DLC Available - Cities in Motion: London",
+				"url": "http://store.steampowered.com/news/9417/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/206720/'>Cities in Motion: London</a>, all new content for <a href='http://store.steampowered.com/app/0/'>Cities in Motion</a> is Now Available on Steam London; the smoky, foggy city on the river Thames. It&#146;s narrow streets and bridges pose a series of new challenges for public transportation. Citizens travel to the city center for work every day and return...",
+				"feedlabel": "Product Release",
+				"date": 1353434460,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

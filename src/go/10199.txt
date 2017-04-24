@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 10199,
+		"newsitems": [
+			{
+				"gid": "255955041671051876",
+				"title": "In defense of Call of Duty",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/255955041671051876",
+				"is_external_url": true,
+				"author": "",
+				"contents": "I ve given Call of Duty a lot of shit, and for good reasons. The ideas that made CoD 4 special have been recycled so much that all the narrative tricks and killstreaks taste as fresh as the Mountain Dew and Doritos that give us XP boosts every year. The campaigns are so guided I only feel half-prese...",
+				"feedlabel": "PC Gamer",
+				"date": 1462930448,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "423688185533539181",
+				"title": "The Call of Duty series ranked",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/423688185533539181",
+				"is_external_url": true,
+				"author": "",
+				"contents": "",
+				"feedlabel": "PC Gamer",
+				"date": 1438208701,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1479694159152795512",
+				"title": "This Might Be the Last Cosplay You'd Expect from Japan",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1479694159152795512",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/1877bu0poaqb2jpg/original.jpg\"> </a>When you think of Japan and cosplay, you probably imagine ladies dressed in skimpy anime outfits or dudes in Gundam gear. And you'd probably be right! That type of cosplay is prevalent, sure, but it's not the only game in town&mdash;especially with more and more Japanese players <a href=\"http://kotaku.com/5964525/forget-the-haters-japan-hearts-call-of-duty\">totally digging</a> <em>Cal...</em>",
+				"feedlabel": "Kotaku",
+				"date": 1354519800,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 273
+	}
+}

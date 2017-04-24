@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 201830,
+		"newsitems": [
+			{
+				"gid": "1443640567804242332",
+				"title": "Daily Deal - Jurassic Park, 66% off!",
+				"url": "http://store.steampowered.com/news/7419/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% off <a href=\"http://store.steampowered.com/app/201830/\">Jurassic Park</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/201830/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1330539000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738298939321",
+				"title": "Global  Personal Stats",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738298939321",
+				"is_external_url": true,
+				"author": "Atrus (Seg)",
+				"contents": "You can now track the Steam Community's progress in Jurassic Park: The Game! <b>Global Stats</b> <a href=\"http://steamcommunity.com/stats/JurassicPark/stats/\">Jurassic Park: The Game - Global Stats</a> In addition to achievements, you can now see how many deaths have occurred across all players in the Steam Community. <b>Personal Stats</b> Now you can show off your personal pro...",
+				"feedlabel": "Community Announcements",
+				"date": 1323994993,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1218451139457601158",
+				"title": "Jurassic Park: The Lost Scores",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1218451139457601158",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alec Meer)",
+				"contents": "",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1321633620,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

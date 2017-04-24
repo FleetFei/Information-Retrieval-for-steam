@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 203778,
+		"newsitems": [
+			{
+				"gid": "1389607509765982676",
+				"title": "New DLC Available - Crusader Kings II - Sword of Islam, African Unit Pack, and Songs of the Caliph",
+				"url": "http://store.steampowered.com/news/8277/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/203778/\">Sword of Islam</a>, the first expansion for <a href=\"http://store.steampowered.com/app/203770/\">Crusader Kings II</a>, as well as the <a href=\"http://store.steampowered.com/app/210892/\">African Unit Pack</a> and <a href=\"http://store.steampowered.com/app/210893/\">Songs of the Caliph</a> DLC's are now available on Steam! Sword of Islam adds playable Muslim rulers to the game as well as adds more than 20 new features to the game including new counties/titles, Polygamy, ...",
+				"feedlabel": "Product Release",
+				"date": 1340734980,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

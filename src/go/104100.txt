@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 104100,
+		"newsitems": [
+			{
+				"gid": "1172272050072083120",
+				"title": "New Release: Inside a Star-Filled Sky",
+				"url": "http://store.steampowered.com/news/5460/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/104100/\">Inside a Star-Filled Sky</a> is now available. Inside a Star-filled Sky is an infinite, recursive, tactical shooter by award-winning designer Jason Rohrer (Passage, Between). What if you could enter an object in a level and find a level inside of it? What if you could enter an object in that level and f...",
+				"feedlabel": "Product Release",
+				"date": 1305430620,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

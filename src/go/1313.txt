@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 1313,
+		"newsitems": [
+			{
+				"gid": "521623031792790037",
+				"title": "Have You Played Sin?",
+				"url": "http://store.steampowered.com/news/externalpost/rps/521623031792790037",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Graham Smith)",
+				"contents": "<em><a href=\"http://www.rockpapershotgun.com/tag/have-you-played/\">Have You Played?</a> is an endless stream of game recommendations. One a day, every day of the year, perhaps for all time.</em> Released on October 31st 1998, less than two weeks before the first Half-Life, <a href=\"http://www.gog.com/game/sin_gold\">Sin</a> is an odd footnote in the first-person shooter&#8217;s growth from carefree, violent romp towards ...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1420731037,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1496586402288638267",
+				"title": "Timey Wimey: Lots Of Footage Of The Half-Life Alpha",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1496586402288638267",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Craig Pearson)",
+				"contents": "Way back in time, when the world was in 8-bit and we all paid for our cholera gruel with children&#8217;s teeth, Valve were working on Half-Life. It wasn&#8217;t very good, and Valve took the decision to rewrite most of the game. Somewhere in the multiverse there&#8217;s a universe where that versio...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1357761612,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 211800,
+		"newsitems": [
+			{
+				"gid": "1045127258959239532",
+				"title": "Dead Hungry Diner 1.11 Update",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1045127258959239532",
+				"is_external_url": true,
+				"author": "BMG Eric",
+				"contents": "Some more bug fixes Fixed resource leak causing game to hang when playing a long time Fixed potential crash when script code returns an error Fixed OK button in loading error screen Fixed wrong and/or badly selected display size in fallback screen size selection code Removed a SetCurosPos call in ho...",
+				"feedlabel": "Community Announcements",
+				"date": 1383578276,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1172353020062186917",
+				"title": "Dead Hungry Diner 1.10 Update",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1172353020062186917",
+				"is_external_url": true,
+				"author": "BMG Eric",
+				"contents": "This is mainly a bug fix release dealing with invalid resolutions and problems with integrated graphics and other low end graphics chips. Fix: Bug in reading desktop size sometimes leading to non-displayable resolutions Fix: Allowing only resolution less or equal than desktop dimensions Fix: No (bro...",
+				"feedlabel": "Community Announcements",
+				"date": 1382460578,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1407665032687543451",
+				"title": "Dead Hungry Diner 1.9 Update",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1407665032687543451",
+				"is_external_url": true,
+				"author": "BMG Eric",
+				"contents": "Finally there! Thank you to all the friendly players who tried the Beta version and reported bugs and missing stuff! It wouldn't have worked without you! What's new: Steam Trading Cards Achievements Leaderboards for All-You-Can-Eat levels (and new difficulty progression) Little indicators for diffcu...",
+				"feedlabel": "Community Announcements",
+				"date": 1381424927,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 9
+	}
+}

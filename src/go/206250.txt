@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 206250,
+		"newsitems": [
+			{
+				"gid": "1533727235374607297",
+				"title": "Now Available - Cladun X2, 20% off!",
+				"url": "http://store.steampowered.com/news/8640/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/206250/\">Cladun X2</a> is now available on Steam and is 20% off until August 21st at 10AM Pacific time! Cladun X2 is a hack n' slash dungeon crawler with a retro RPG finish and a nearly infinite level of character customization. From stats to equipment to character classes to creating your own hero, Cladun X2 pr...",
+				"feedlabel": "Product Release",
+				"date": 1344966180,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

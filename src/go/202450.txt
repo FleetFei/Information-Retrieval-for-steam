@@ -1,0 +1,10 @@
+{
+	"appnews": {
+		"appid": 202450,
+		"newsitems": [
+
+		]
+		,
+		"count": 0
+	}
+}

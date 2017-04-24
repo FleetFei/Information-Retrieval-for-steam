@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 203344,
+		"newsitems": [
+			{
+				"gid": "1569747879248672893",
+				"title": "New DLC Available - Jagged Alliance: Back in Action - Shades of Red",
+				"url": "http://store.steampowered.com/news/7975/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/app/203344/\">Jagged Alliance: Back in Action - Shades of Red</a> DLC is Now Available on Steam! The threat of a nuclear disaster has never been greater! The nefarious terrorist Ante Silevic has captured an atomic weapon and plans to attack a meeting of the world leaders in Eastern Europe. Three hardened mercenar...",
+				"feedlabel": "Product Release",
+				"date": 1337100660,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

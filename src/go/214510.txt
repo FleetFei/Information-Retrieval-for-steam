@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 214510,
+		"newsitems": [
+			{
+				"gid": "920166227483831292",
+				"title": "Midweek Madness - Lego Titles - Up to 75% off",
+				"url": "http://store.steampowered.com/news/13008/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on <a href='http://store.steampowered.com/sale/lego_midweek/'>Warner Brothers LEGO Titles</a> as part of this week's Midweek Madness*! *Offer ends Friday at 10AM Pacific Time. <a href=\"http://store.steampowered.com/app/249130/\"> </a> <a href=\"http://store.steampowered.com/app/214510/\"> </a> <a href=\"http://store.steampowered.com/app/21000/\"> </a> <a href=\"http://store.steampowered.com/app/213330/\"> </a> <a href=\"http://store.steampowered.com/app/21130/\"> </a> <a href=\"http://store.steampowered.com/app/204120/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1397581200,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1027113495190055676",
+				"title": "Daily Deal - LEGO The Lord of the Rings, 75% Off",
+				"url": "http://store.steampowered.com/news/11823/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/214510/'>LEGO The Lord of the Rings</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Tuesday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/214510/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1384106400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1495474251100190853",
+				"title": "Midweek Madness - LEGO The Lord of the Rings, 75% Off",
+				"url": "http://store.steampowered.com/news/10844/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 75% on <a href='http://store.steampowered.com/app/214510/'>LEGO The Lord of the Rings</a> during this week's Midweek Madness*! Based on The Lord of the Rings motion picture trilogy, LEGO&reg; The Lord of the Rings follows the original story-lines of The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, and The Lor...",
+				"feedlabel": "Announcement",
+				"date": 1370973240,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

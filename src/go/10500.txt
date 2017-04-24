@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 10500,
+		"newsitems": [
+			{
+				"gid": "424810855067065290",
+				"title": "Free Weekend - Total War Titles - 33% to 75% off!",
+				"url": "http://store.steampowered.com/news/17293/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Play all <a href='http://store.steampowered.com/sale/free_total_war_weekend_2015/'>Total War Titles</a> FOR FREE now until 1pm pacific on Sunday! Also save 33% to 75% off until Monday at 10am Pacific! <a href=\"http://store.steampowered.com/app/325610/\"> </a> <a href=\"http://store.steampowered.com/app/214950/\"> </a> <a href=\"http://store.steampowered.com/app/201271/\"> </a> <a href=\"http://store.steampowered.com/app/201270/\"> </a> <a href=\"http://store.steampowered.com/app/10500/\"> </a> <a href=\"http://store.steampowered.com/app/4700/\"> </a> <a href=\"http://store.steampowered.com/app/34030/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1435251840,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "522745760263082078",
+				"title": "Now on Linux!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/522745760263082078",
+				"is_external_url": true,
+				"author": "[FERAL] Edwin",
+				"contents": "Empire Total War is now available on Linux!",
+				"feedlabel": "Community Announcements",
+				"date": 1418152370,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "522745760259785645",
+				"title": "Daily Deal - Empire: Total War , 50% Off",
+				"url": "http://store.steampowered.com/news/15210/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 50% on <a href='http://store.steampowered.com/app/10500/'>Empire: Total War&trade;</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Thursday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/10500/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1418148000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 41
+	}
+}

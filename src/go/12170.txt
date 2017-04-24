@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 12170,
+		"newsitems": [
+			{
+				"gid": "182787402037390671",
+				"title": "Why I love physical videogame maps",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/182787402037390671",
+				"is_external_url": true,
+				"author": "",
+				"contents": "My introduction to the Ultima series was a late one. Having missed numbers one through eight for a number of reasons (namely age, and the fact my dad had a bizarre and exclusive penchant for pinball games a genre which in turn commandeered our games library throughout my childhood), I decided to pic...",
+				"feedlabel": "PC Gamer",
+				"date": 1478108678,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "250335145780147242",
+				"title": "Have You Played Grand Theft Auto?",
+				"url": "http://store.steampowered.com/news/externalpost/rps/250335145780147242",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alec Meer)",
+				"contents": "<em><a href=\"https://www.rockpapershotgun.com/tag/have-you-played/\">Have You Played?</a> is an endless stream of game retrospectives. One a day, every day of the year, perhaps for all time.</em> Y&#8217;know, the original one. Before 3D. Before Rockstar. Before the world changed. &#8230; ",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1472135414,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "272838467484913184",
+				"title": "Artificial Life: Grand Theft Auto V s Live Deer Webcam",
+				"url": "http://store.steampowered.com/news/externalpost/rps/272838467484913184",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "Even as I begin the long process of writing about all of the games I saw and the people I spoke to at GDC, I&#8217;ve found a new distraction. The San Andreas Streaming Deer Cam is a live feed of a modded <a href=\"https://www.rockpapershotgun.com/tag/Grand-Theft-Auto-V/\">GTA V</a> that &#8220;creates and follows a deer wandering through the fictional state of San Andre...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1458560119,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 266
+	}
+}

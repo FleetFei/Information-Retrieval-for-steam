@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 11370,
+		"newsitems": [
+			{
+				"gid": "1478589028253256269",
+				"title": "New Week Long Deals Available on Steam!",
+				"url": "http://store.steampowered.com/news/11113/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on new Week Long Deals on Steam, available now until July 29th at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/6220/\"> </a> <a href=\"http://store.steampowered.com/app/2990/\"> </a> <a href=\"http://store.steampowered.com/app/201510/\"> </a> <a href=\"http://store.steampowered.com/app/12360/\"> </a> <a href=\"http://store.steampowered.com/app/11370/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1374512400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1459441364930192254",
+				"title": "New Week Long Deals Available on Steam!",
+				"url": "http://store.steampowered.com/news/10498/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 80% on new Week Long Deals on Steam, available now until May 6th at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/47000/\"> </a> <a href=\"http://store.steampowered.com/app/72000/\"> </a> <a href=\"http://store.steampowered.com/app/204220/\"> </a> <a href=\"http://store.steampowered.com/app/227800/\"> </a> <a href=\"http://store.steampowered.com/app/45000/\"> </a> <a href=\"http://store.steampowered.com/app/16730/\"> </a> <a href=\"http://store.steampowered.com/app/11370/\"> </a> <a href=\"http://store.steampowered.com/app/12460/\"> </a> <a href=\"http://store.steampowered.com/app/23700/\"> </a> <a href=\"http://store.steampowered.com/app/209190/\"> </a> <a href=\"http://store.steampowered.com/app/200900/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1367259060,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1139628550952153553",
+				"title": "Daily Deal - Nikopol: Secrets of the Immortals 50% off!",
+				"url": "http://store.steampowered.com/news/6006/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 50% off <a href=\"http://store.steampowered.com/app/11370/\">Nikopol: Secrets of the Immortals</a> Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/11370/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1312822920,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

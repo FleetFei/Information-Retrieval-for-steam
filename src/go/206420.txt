@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 206420,
+		"newsitems": [
+			{
+				"gid": "1858141774303309910",
+				"title": "Saints Row 2 is free on GOG right now",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1858141774303309910",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "It&#8217;s Saints Row a go-go round GOG today as the store celebrates more of Volition&#8217;s wacky open-world crime &#8217;em ups arriving DRM-free on its virtual shelves. Some Saints games have been on GOG for ages but now the lineup is complete with the addition of Saints Row 4 (the one where yo...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1492683347,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 9480
+			},
+			{
+				"gid": "75842128755170563",
+				"title": "Agents of Mayhem items for Saints Row IV Steam Workshop!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75842128755170563",
+				"is_external_url": true,
+				"author": "[V] IdolNinja",
+				"contents": "http://cdn.edgecast.steamstatic.com/steamcommunity/public/images/clans/4459162/419e959c15a05d201180f6220e08fabff3455f5c.jpg Get your FREE Agents of Mayhem customization items for Saints Row IV Steam Workshop! http://steamcommunity.com/sharedfiles/filedetails/?id=908364009 Agents of Mayhem is the upc...",
+				"feedlabel": "Community Announcements",
+				"date": 1492614260,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 206420
+			},
+			{
+				"gid": "75836429559844887",
+				"title": "Saints Row IV Steam Workshop contest!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75836429559844887",
+				"is_external_url": true,
+				"author": "[V] IdolNinja",
+				"contents": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/4459162/cd1ba5e3f44d62e57fe933a4d1b2a24274e4833c.jpg Calling all Saints Row modders! Deep Silver and Volition are holding a contest for the best new Saints Row IV PC Steam Workshop mods, and giving away some gaming hardware courtes...",
+				"feedlabel": "Community Announcements",
+				"date": 1487700329,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 76
+	}
+}

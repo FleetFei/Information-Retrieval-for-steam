@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 12810,
+		"newsitems": [
+			{
+				"gid": "252584317717866893",
+				"title": "Overlord II now available on SteamOS, Mac and Linux",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/252584317717866893",
+				"is_external_url": true,
+				"author": "VPLtd",
+				"contents": "Overlord II is now available for your Steam Machine as well as Mac and Linux computers. Virtual Programming and Codemasters have ported this bigger, badder and more beautifully destructive action adventure to these systems where you have a Glorious Empire to smash and a massive Netherworld to revive...",
+				"feedlabel": "Community Announcements",
+				"date": 1469612603,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "378660375676145532",
+				"title": "Happy Halloween! Celebrate now with the Overlord Ultimate Evil Edition at 40% OFF!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/378660375676145532",
+				"is_external_url": true,
+				"author": "Stgx",
+				"contents": "Happy Halloween! Celebrate now with the Overlord Ultimate Evil Edition! Grab all the Overlord titles now, including the brand spanking new Overlord: Fellowship of evil Now 40% OFF the Overlord Ultimate Evil Edition - This Halloween weekend only! ",
+				"feedlabel": "Community Announcements",
+				"date": 1446216137,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "371904442458088471",
+				"title": "Overlord Ultimate Evil Collection - Includes new Overlord Fellowship of Evil",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/371904442458088471",
+				"is_external_url": true,
+				"author": "david.hatton",
+				"contents": "The Codemasters sale weekend is in full swing with up to 90% across the catalogue. Grab Overlord Ultimate Evil Collection - now Includes new Overlord: Fellowship of Evil",
+				"feedlabel": "Community Announcements",
+				"date": 1445696645,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 7
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 209772,
+		"newsitems": [
+			{
+				"gid": "1514576755679641033",
+				"title": "Now Available - Darwinia  DEFCON Soundtracks",
+				"url": "http://store.steampowered.com/news/7809/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/app/209771/\">Darwinia Soundtrack</a> and <a href=\"http://store.steampowered.com/app/209772/\">DEFCON Soundtrack</a> are Now Available on Steam. The Darwinia Soundtrack features original music by DMA-SC and Trash80. The DEFCON Soundtrack was remixed from the original in-game music that resulted in DEFCON receiving a choice award nomination for Best Audio in 2008. Alist...",
+				"feedlabel": "Product Release",
+				"date": 1335282840,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

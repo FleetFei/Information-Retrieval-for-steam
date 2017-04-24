@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 102510,
+		"newsitems": [
+			{
+				"gid": "1441390351498574303",
+				"title": "New DLC Available - Kingdoms of Amalur: Reckoning - Legend of Dead Kel",
+				"url": "http://store.steampowered.com/news/7576/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The Kingdoms of Amalur: Reckoning - <a href=\"http://store.steampowered.com/app/102510/\">Legend of Dead Kel</a> DLC is now available on Steam! The legendary pirate Dead Kel and his Hanged Men have returned to haunt the seas of northern Amalur. Embark on a journey to the distant island of Gallows End with the eccentric Captain Brattigan in an adventure tha...",
+				"feedlabel": "Product Release",
+				"date": 1332283020,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

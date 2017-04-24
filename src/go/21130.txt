@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 21130,
+		"newsitems": [
+			{
+				"gid": "920166227483831292",
+				"title": "Midweek Madness - Lego Titles - Up to 75% off",
+				"url": "http://store.steampowered.com/news/13008/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on <a href='http://store.steampowered.com/sale/lego_midweek/'>Warner Brothers LEGO Titles</a> as part of this week's Midweek Madness*! *Offer ends Friday at 10AM Pacific Time. <a href=\"http://store.steampowered.com/app/249130/\"> </a> <a href=\"http://store.steampowered.com/app/214510/\"> </a> <a href=\"http://store.steampowered.com/app/21000/\"> </a> <a href=\"http://store.steampowered.com/app/213330/\"> </a> <a href=\"http://store.steampowered.com/app/21130/\"> </a> <a href=\"http://store.steampowered.com/app/204120/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1397581200,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1218451139479879499",
+				"title": "Lego Harry Potter Years 5-7 Review",
+				"url": "http://store.steampowered.com/news/externalpost/eurogamer/1218451139479879499",
+				"is_external_url": true,
+				"author": "",
+				"contents": "It's all in the wand. This tool of mystical power may be threaded with a phoenix feather in J. K. Rowling's ubiquitous mythology, but here, in the latest of Traveller's Tales' similarly successful mash-ups, its core is pure brick. Create and destroy. These twin, conflicting concepts have fired Lego'...",
+				"feedlabel": "Eurogamer",
+				"date": 1321624800,
+				"feedname": "eurogamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1218451139452010727",
+				"title": "LEGO Harry Potter Years 5-7 Shows How Good LEGO Games Can Look",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1218451139452010727",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://cache.gawkerassets.com/assets/images/9/2011/11/efae03b28c178c0491db9ff635cb6df6.jpg\"></a> Lego is at it again with <em>LEGO Harry Potter Years 5-7</em>, charming the pants off the players with it's dialogue free, semi satirical versions of the movies. What really stands out this time is how good the game looks and feels. As a cinematic adventure the game stays pretty close to plot as far as I ca...",
+				"feedlabel": "Kotaku",
+				"date": 1321534800,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 7
+	}
+}

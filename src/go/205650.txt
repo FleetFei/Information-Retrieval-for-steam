@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 205650,
+		"newsitems": [
+			{
+				"gid": "521614893462291590",
+				"title": "[STEAM FOCUS WEEKEND 09-13 OCT]",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/521614893462291590",
+				"is_external_url": true,
+				"author": "Neitsabes",
+				"contents": "Enjoy 75% off The Testament of Sherlock Holmes Also available, exceptional discounts on the entire Focus catalog including fresh releases such as Styx: Master of Shadows and also ALL the publisher best sellers! >> http://store.steampowered.com/sale/focusweekend2014",
+				"feedlabel": "Community Announcements",
+				"date": 1412875649,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "919044138153340090",
+				"title": "A RELEASE DATE AND NEW SCREENSHOTS FOR CRIMES  PUNISHMENTS!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/919044138153340090",
+				"is_external_url": true,
+				"author": "Freki_FOCUS",
+				"contents": "Crimes & Punishments, the new investigation game developed by Frogwares studio, is now set for release on consoles and PC on early September 2014! On this occasion, discover 3 new screenshots of the game, featuring Sherlock Holmes and Doctor Watson investigating some of the crime scenes from the 6 e...",
+				"feedlabel": "Community Announcements",
+				"date": 1400055711,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "920163060466273854",
+				"title": "THE TESTAMENT OF SHERLOCK HOLMES: Japanese on Steam",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/920163060466273854",
+				"is_external_url": true,
+				"author": "Freki_FOCUS",
+				"contents": "‘One of the legendary sleuth’s greatest investigation’ as described by IGN, The Testament of Sherlock Holmes has added Japanese subtitles on Steam. To enable the subtitles, go the game properties in Steam client (right click on the game), choose Language tab and select Japanese from the drop down me...",
+				"feedlabel": "Community Announcements",
+				"date": 1393411253,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 12
+	}
+}

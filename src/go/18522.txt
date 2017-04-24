@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 18522,
+		"newsitems": [
+			{
+				"gid": "774848423543220744",
+				"title": "New Release - Defense Grid: The Awakening - You Monster! DLC",
+				"url": "http://store.steampowered.com/news/6947/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/18522/\">You Monster!</a>, new content for <a href=\"http://store.steampowered.com/app/18500/\">Defense Grid: The Awakening</a>, is now available on Steam. Defense Grid: The Awakening and a bundle including Defense Grid: The Awakening and all 5 of the DLC are 50% off until December 14th, 2011 at 10AM Pacific Time. In this first full-story expansion to the award-winnin...",
+				"feedlabel": "Product Release",
+				"date": 1323285660,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

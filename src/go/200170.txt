@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 200170,
+		"newsitems": [
+			{
+				"gid": "252586225994824926",
+				"title": "Worms W.M.D is Out Now!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/252586225994824926",
+				"is_external_url": true,
+				"author": "Danny_Team17",
+				"contents": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/18939040/2d9b80f19dba62b48243fea4724a395f29f0db2f.gif We're Mighty Dangerous! The worms are back in their most destructive game yet. With a gorgeous, hand-drawn 2D look, brand new weapons, the introduction of crafting, vehicles and...",
+				"feedlabel": "Community Announcements",
+				"date": 1472052316,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "252584970547670406",
+				"title": "Worms W.M.D - Mechanized Mayhem Trailer!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/252584970547670406",
+				"is_external_url": true,
+				"author": "Danny_Team17",
+				"contents": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/18939040/31421f01d7c542af24d24d564fbb071a56d8d4b7.gif The Worms have unleashed mechanized mayhem in Worms W.M.D! Shoot, slam, smash, blast and spray the enemy with a variety of devastating vehicles from the tried and tested Tank to...",
+				"feedlabel": "Community Announcements",
+				"date": 1470737073,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "251457560643173543",
+				"title": "Huge Savings with the Team17 Publisher Sale",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/251457560643173543",
+				"is_external_url": true,
+				"author": "Danny_Team17",
+				"contents": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/9585530/f57a530d1c174ab114aac77701fb96748206a036.gif Welcome to the Team17 Publisher sale! We’ve got some sizzling hot deals for you and things are heating up! For a short time only you can get up to 90% of Team17 games, so what ar...",
+				"feedlabel": "Community Announcements",
+				"date": 1469121961,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 30
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 18521,
+		"newsitems": [
+			{
+				"gid": "524850435134318907",
+				"title": "Defense Grid: Resurgence Map Pack 4 Released",
+				"url": "http://store.steampowered.com/news/3975/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Map Pack 4, the grand finale release of the Resurgence Map Pack Series is now available on Steam. The final installment of the Resurgence series includes two more environments sure to challenge your tactical planning. In <i>Kill Zone</i>, will you construct your defenses near the spiral road in, the spiral...",
+				"feedlabel": "Product Release",
+				"date": 1277311200,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

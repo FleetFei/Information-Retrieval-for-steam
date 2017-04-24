@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 130,
+		"newsitems": [
+			{
+				"gid": "255956312806330152",
+				"title": "Have You Played Half-Life: Blue Shift?",
+				"url": "http://store.steampowered.com/news/externalpost/rps/255956312806330152",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alec Meer)",
+				"contents": "<em><a href=\"https://www.rockpapershotgun.com/tag/have-you-played/\">Have You Played?</a> is an endless stream of game retrospectives. One a day, every day of the year, perhaps for all time.</em> Gearbox&#8217;s Barney-starring add-on is the black sheep of the Half-Life family, although at the time I never encountered any reason why that should be the case. My teenage tastes ...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1464445806,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "371902438138929037",
+				"title": "RPS Discusses: Do Expansion Packs Still Matter?",
+				"url": "http://store.steampowered.com/news/externalpost/rps/371902438138929037",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (RPS)",
+				"contents": "Expansion packs were once a core part of playing PC games, but they can often feel less essential in a world of constant updates and microtransactions. Original game Alec, expansions Adam and Graham, and brief DLC Alice gathered to discuss their favourite game expansions and why they still think the...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1444068000,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738299581066",
+				"title": "Half-Life: Blue Shift update released",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299581066",
+				"is_external_url": true,
+				"author": "alfred",
+				"contents": "We have updated the public release of Half-Life: Blue Shift. This update contains all the changes from the recent beta, thanks to the whole community for their help with testing and suggesting new features. Changes in this update are: Converted Half-Life: Blue Shift to the new SteamPipe content syst...",
+				"feedlabel": "Community Announcements",
+				"date": 1375308348,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

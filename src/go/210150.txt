@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 210150,
+		"newsitems": [
+			{
+				"gid": "919037794415731261",
+				"title": "Patch 4.5 live",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/919037794415731261",
+				"is_external_url": true,
+				"author": "shadowkaly",
+				"contents": "Hello everybody! We have finally come around to implement another patch for Pole Position 2012 and we hope that version 4.5 will fix a lot of problems some of you might have encountered. The patch will be up in a few minutes. Here is a full list of improvements: - Fixed: Price for fan stickers is no...",
+				"feedlabel": "Community Announcements",
+				"date": 1394026939,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1388479713315090621",
+				"title": "Pole Position 2012 Update Released",
+				"url": "http://store.steampowered.com/news/8097/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Pole Position 2012 Update 4.3 Changelog: - Bug fixed: When you deactivated or activated a team, that team would be doubled - Bug fixed: Self-developed fuel tanks above level 2 could not be installed - The effect of the driver attribute &#147;Quick on Curves&#148; has been reduced - Bug fixed: An inc...",
+				"feedlabel": "Product Update",
+				"date": 1338386880,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1513451426248753907",
+				"title": "Pole Position 2012 Update Released",
+				"url": "http://store.steampowered.com/news/7871/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Pole Position 2012 Patch 4.2 - Overtaking chance increased - When a car is taking a Pit Stop, there shouldn't be a traffic jam anymore - Player cars should not encounter random car failures anymore - Fixed a bug that allowed too many fan merchandise to be sold - When a save file is overwritten, the ...",
+				"feedlabel": "Product Update",
+				"date": 1335542400,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

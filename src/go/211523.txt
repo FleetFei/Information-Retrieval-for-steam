@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 211523,
+		"newsitems": [
+			{
+				"gid": "1496587030624519256",
+				"title": "New DLC Available - Max Payne 3: Deathmatch Made In Heaven Pack",
+				"url": "http://store.steampowered.com/news/9791/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/211523/'>Max Payne 3: Deathmatch Made In Heaven Pack</a>, all new content for <a href='http://store.steampowered.com/app/204100/'>Max Payne 3</a> is Now Available on Steam Download the Deathmatch Made in Heaven Pack for four new multiplayer modes, weapons, items, burst and new arcade mode. In Dead Men Walking co-op mode, fight waves of enemies as Max and Passos, earn...",
+				"feedlabel": "Product Release",
+				"date": 1358879340,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

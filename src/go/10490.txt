@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 10490,
+		"newsitems": [
+			{
+				"gid": "1496591023742951789",
+				"title": "Iron Man 3 Will Have All of Tony Stark's Armors. All of Them.",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1496591023742951789",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/18gkftca58p1hjpg/original.jpg\"> </a> The newest teaser for Marvel Comics' upcoming action flick shows a bit more of the drama surrounding Tony Stark as his life blows up around him. There's political tension involving a new President, best friend Rhodey flying around in the Iron Patriot armor from the comics and Mr. Stark himself loo...",
+				"feedlabel": "Kotaku",
+				"date": 1362490200,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1497714835817051609",
+				"title": "Iron Man's New Armour Can Fit On Your Desk",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1497714835817051609",
+				"is_external_url": true,
+				"author": "",
+				"contents": "I'm not sold on the Mark XLII armour in the upcoming <em>Iron Man 3</em>. There's just so much <em>gold</em>. But hey, colour preferences aside, you can at least count on Hot Toys to nail the plastic representation of the thing in adult collectible form. Priced at $165, he'll be out in May, comes with a range of extr...",
+				"feedlabel": "Kotaku",
+				"date": 1360139400,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1497714198968789118",
+				"title": "Iron Fett? Boba Man? Yeah, Boba Man.",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1497714198968789118",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/18d8h19izwh2xjpg/original.jpg\"> </a>So special effects wizard Stan Winston has a school named after him, aimed at instructing whole new generations in the art of practical movie magic. This image was posted on their Facebook page yesterday. As loathe as I am to entertain the prospect of fanfiction, a sexy drunk playboy bounty hunter ...",
+				"feedlabel": "Kotaku",
+				"date": 1359707400,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 35
+	}
+}

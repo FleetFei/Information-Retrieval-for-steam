@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 207111,
+		"newsitems": [
+			{
+				"gid": "1568621883782394737",
+				"title": "New DLC Available - Ridge Racer Unbounded - 1 Machine and the Hearse",
+				"url": "http://store.steampowered.com/news/7937/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/app/207111/\">1 Machine and The Hearse </a> DLC is Now Available on Steam! The machine that started the legacy & a gloomy hearse. <a href=\"http://store.steampowered.com/app/207111/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1336669380,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

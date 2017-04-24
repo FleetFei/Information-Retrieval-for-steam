@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 209370,
+		"newsitems": [
+			{
+				"gid": "511492468655861682",
+				"title": "The best visual novels for beginners",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/511492468655861682",
+				"is_external_url": true,
+				"author": "",
+				"contents": "",
+				"feedlabel": "PC Gamer",
+				"date": 1423518104,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "522745759948197602",
+				"title": "New translation",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/522745759948197602",
+				"is_external_url": true,
+				"author": "Scout",
+				"contents": "Available in English, Korean, and now Japanese! 日本語版をリリースした！",
+				"feedlabel": "Community Announcements",
+				"date": 1417671671,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "919035892204847311",
+				"title": "Valentine's Day Daily Deal, up to 85% off select games",
+				"url": "http://store.steampowered.com/news/12413/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save up to 85% on <a href='http://store.steampowered.com/sale/Valentines'>select games</a>! Offer ends Sunday at 10AM Pacific Time. <a href=\"http://store.steampowered.com/app/209370/\"> </a> <a href=\"http://store.steampowered.com/app/232430/\"> </a> <a href=\"http://store.steampowered.com/app/251990/\"> </a> <a href=\"http://store.steampowered.com/app/247870/\"> </a> <a href=\"http://store.steampowered.com/app/245150/\"> </a> <a href=\"http://store.steampowered.com/app/238930/\"> </a> <a href=\"http://store.steampowered.com/app/214700/\"> </a> <a href=\"http://store.steampowered.com/app/203810/\"> </a> <a href=\"http://store.steampowered.com/app/108710/\"> </a> <a href=\"http://store.steampowered.com/sale/Valentines\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1392400800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 11
+	}
+}

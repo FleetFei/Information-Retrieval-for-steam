@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 201290,
+		"newsitems": [
+			{
+				"gid": "920166227338690778",
+				"title": "Daily Deal - Sins of a Solar Empire: Rebellion - 75% Off!",
+				"url": "http://store.steampowered.com/news/12911/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href=\"http://store.steampowered.com/app/204880/\">Sins of a Solar Empire: Rebellion</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Monday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/204880/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1397322000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1459437403475624836",
+				"title": "Daily Deal - Sins of a Solar Empire: Trinity, 66% Off",
+				"url": "http://store.steampowered.com/news/10157/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% on <a href='http://store.steampowered.com/app/201290/'>Sins of a Solar Empire: Trinity</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/201290/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1363626000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1496591023711514990",
+				"title": "Daily Deal - Sins of a Solar Empire: Trinity, 66% Off",
+				"url": "http://store.steampowered.com/news/10053/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% on <a href='http://store.steampowered.com/app/201290/'>Sins of a Solar Empire: Trinity</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/201290/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1362420000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 10
+	}
+}

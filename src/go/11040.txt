@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 11040,
+		"newsitems": [
+			{
+				"gid": "1461690660100217118",
+				"title": "Creepy Watson 'announced,' is probably right behind you",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1461690660100217118",
+				"is_external_url": true,
+				"author": "Steve Watts",
+				"contents": "April Fool's Day is not only a time for terrible prank game ideas and ill-timed, legitimate game announcements that are met with skepticism. Once in a while a prank comes along that we actually want to play, at least for a few minutes until the novelty wears off. This year, that game is Creepy Watso...",
+				"feedlabel": "Shacknews",
+				"date": 1364830200,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "523722902385320613",
+				"title": "You’re A-Scaring Me, My Dear Watson",
+				"url": "http://store.steampowered.com/news/externalpost/rps/523722902385320613",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Kieron Gillen)",
+				"contents": "First thing of the day I saw was this video of Sherlock Holmes: Nemesis which Christopher Webb forwarded to us. It&#8217;s OLD! as people may say, but it started my day with a smile. Or a chill. This is a creepy Watson. A very creepy Watson. <a href=\"http://www.rockpapershotgun.com/2010/06/08/youre-a-scaring-me-my-dear-watson/#more-31595\" class=\"more-link\">(more&#8230;)</a> ",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1275989479,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

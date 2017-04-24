@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 206785,
+		"newsitems": [
+			{
+				"gid": "1389604433906974418",
+				"title": "Pre-Purchase Now - Sleeping Dogs, 10% off!",
+				"url": "http://store.steampowered.com/news/8040/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/202170/\">Sleeping Dogs</a> is now available for pre-purchase on Steam! Act now to save 10% plus get upgraded to the Limited Edition for free and receive two exclusive DLC packs! Welcome to Hong Kong, a vibrant neon city teaming with life, whose exotic locations and busy streets hide one of the most powerful and ...",
+				"feedlabel": "Announcement",
+				"date": 1337794080,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

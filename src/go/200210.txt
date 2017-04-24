@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 200210,
+		"newsitems": [
+			{
+				"gid": "75841595748112396",
+				"title": "Patch Notes 27.7.X.13",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75841595748112396",
+				"is_external_url": true,
+				"author": "Myzzrym",
+				"contents": "Hey there people! Hope you all had your fair share of fun with April’s Fools content, because we’re back with a brand new dungeon as promised! Enter the first wing of the hidden Mountain Temple and defeat the High Monk Daichi to prevent the arrival of the Demon Lord Xil! ----------------------------...",
+				"feedlabel": "Community Announcements",
+				"date": 1492102333,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 200210
+			},
+			{
+				"gid": "75839596809809790",
+				"title": "Patch Notes X12 - Spring Cleaning Time!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75839596809809790",
+				"is_external_url": true,
+				"author": "Myzzrym",
+				"contents": "Hey there people! We’re back at it with a new Patch! Not too many new things this time but a ton of fixes and some balance changes! Also read until the end to get a preview of what will be coming in the future! -------------------------------------- **New!** - Spring time is here! Cherry blossoms ar...",
+				"feedlabel": "Community Announcements",
+				"date": 1490293282,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 200210
+			},
+			{
+				"gid": "91593954389048096",
+				"title": "Patch Notes 27.7.XMAS - New Ice Tomb Encounter, Items  balancing changes",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/91593954389048096",
+				"is_external_url": true,
+				"author": "Realm_Devs",
+				"contents": "Santa Bagston is coming… to town! So be good for goodness sake As we are approaching X-Mas and New Year’s Eve, this will be the second and last part of our winter update for this year. You will be able to face a new winter encounter and can finally start collecting those snowflake tokens! Also inclu...",
+				"feedlabel": "Community Announcements",
+				"date": 1482353709,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 24
+	}
+}

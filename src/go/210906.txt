@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 210906,
+		"newsitems": [
+			{
+				"gid": "1497714199081634817",
+				"title": "Crusader Kings 2: The Republic review",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/1497714199081634817",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/review/crusader-kings-2-the-republic-review/\" rel=\"bookmark\" title=\"Permanent Link to Crusader Kings 2: The Republic review\"> </a> The large-scale grand strategy of Crusader Kings 2 can feel Game of Thrones-ian in its web of intrigue and plotting. The Republic expansion takes place on a smaller scale. At times, its petty inter-family squabbling feels more like medieval Eastenders. Brilliant. The Republic is largely about trad...",
+				"feedlabel": "PC Gamer",
+				"date": 1359999055,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1496586490650293568",
+				"title": "New DLC Available - Crusader Kings II",
+				"url": "http://store.steampowered.com/news/9740/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Three new DLC's for <a href=\"http://store.steampowered.com/app/203770/\">Crusader Kings II</a> are now available on Steam! <a href=\"http://store.steampowered.com/app/210906/\">The Republic</a> is the third expansion for the critically praised strategy / RPG Crusader Kings II. In The Republic you play as a Patrician in one of the great medieval Merchant Republics. Expand your trade empire as you compete with the...",
+				"feedlabel": "Product Release",
+				"date": 1358272500,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

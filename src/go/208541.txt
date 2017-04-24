@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 208541,
+		"newsitems": [
+			{
+				"gid": "1515700145057946574",
+				"title": "New DLC Available - Dungeon Defenders: Series EV Hero",
+				"url": "http://store.steampowered.com/news/7675/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/208541/\">Series EV Hero DLC</a> is Now Available on Steam and includes a new Hero to play in <a href=\"http://store.steampowered.com/app/65800/\">Dungeon Defenders</a>. Purchase this week to save 25%. Offer ends April 5th 10AM PST. Assembled long ago by a master mechanic within the depths of Sky City, the Series EV automaton has been powered back to life and is ready ...",
+				"feedlabel": "Product Release",
+				"date": 1333061160,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 19900,
+		"newsitems": [
+			{
+				"gid": "341512658327289526",
+				"title": "Games I Was Wrong About: Part Two",
+				"url": "http://store.steampowered.com/news/externalpost/rps/341512658327289526",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alec Meer)",
+				"contents": "<a href=\"https://www.rockpapershotgun.com/2016/01/13/games-i-was-wrong-about-1/\">Last week</a>, in the wake of MGSV opening my eyes to a series I&#8217;d long disdained, I shared a quartet of games I now feel I either dismissed out of hand or unreasonably feted. Here&#8217;s the rest of that list, though I suspect if I sat down and went through every review I ever wrote over the las...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1453230053,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "419185796441644098",
+				"title": "Clint Hocking Has Left Amazon Game Studios",
+				"url": "http://store.steampowered.com/news/externalpost/rps/419185796441644098",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Graham Smith)",
+				"contents": "Clint Hocking has been cursed by a witch and is now doomed to travel the games industry, joining new developers and then leaving before releasing a single game. In the last five years, the Far Cry 2 designer has joined and left LucasArts, joined and left Valve, and as of yesterday, joined and left A...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1439928004,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "423688416251334579",
+				"title": "Have You Played Far Cry 2?",
+				"url": "http://store.steampowered.com/news/externalpost/rps/423688416251334579",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "<em><a href=\"http://www.rockpapershotgun.com/tag/have-you-played/\">Have You Played?</a> is an endless stream of game recommendations. One a day, every day of the year, perhaps for all time.</em> I don&#8217;t have a single favourite FPS and find such conversation boring but if someone asks and I want to test their mettle, I&#8217;ll tell them it&#8217;s <a href=\"http://www.rockpapershotgun.com/tag/far-cry-2/\">Far Cry 2</a>. If they s...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1439218802,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 49
+	}
+}

@@ -15,7 +15,10 @@ function gIdlist(){
 	fs.readFile(fReadName, function(err, data) {
     	if(err) throw err;
 	    var rawarray = data.toString().split("\n");
-		var raw_url = "http://store.steampowered.com/api/appdetails/?appids=";
+	    //爬虫所有信息
+// 		var raw_url = "http://store.steampowered.com/api/appdetails/?appids=";
+		//爬虫news
+		var raw_url = "http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid=";
 		var array=[];
 		for(var i=1, j=1; i<rawarray.length; i++,j++){
 			array[j]=rawarray[i];
@@ -24,7 +27,7 @@ function gIdlist(){
 		
 		async.eachSeries(array, function (id,callback) {
 			 var html = "";
-			 var url =raw_url+id;
+			 var url =raw_url+id+"&count=3&maxlength=300&format=json";
 			 console.log(url);
 			 //request by get
 			 http.get(url, function(res) {
@@ -36,7 +39,7 @@ function gIdlist(){
 					 console.log("suceed linking to ----- >> "+url);
 					 var content =html;
 					 // write to file
-					 var fWriteName = path.resolve(__dirname, "../src/Comdcpt/"); 
+					 var fWriteName = path.resolve(__dirname, "../src/go"); 
 					//  console.log(fWriteName);
 					 fs.writeFile(fWriteName+"/"+id+".txt",content,function (err) {
 						 if (err) throw err ;

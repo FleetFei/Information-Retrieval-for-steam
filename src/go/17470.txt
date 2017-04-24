@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 17470,
+		"newsitems": [
+			{
+				"gid": "75838332253743465",
+				"title": "Daily Deal - Dead Space, 75% Off",
+				"url": "http://store.steampowered.com/news/27970/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/17470/'>Dead Space</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Friday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/17470/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1488996000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 17470
+			},
+			{
+				"gid": "84840457406783176",
+				"title": "How Resident Evil 4 turned System Shock 3 into Dead Space",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/84840457406783176",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Resident Evil 4&#x2019;s influence has become immeasurable since its release in 2005. Games like Gears of War and Uncharted owe much to the game that revolutionized third-person action controls. However, one popular sci-fi horror game would look a lot like an entirely different sci-fi horror game if...",
+				"feedlabel": "PC Gamer",
+				"date": 1484496018,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "341510664119835570",
+				"title": "Four Reasons To Love Toilets In Games",
+				"url": "http://store.steampowered.com/news/externalpost/rps/341510664119835570",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "Toilets. Great, aren&#8217;t they? &#8230; ",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1451062819,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 136
+	}
+}

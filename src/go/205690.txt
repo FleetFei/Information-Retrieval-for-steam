@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 205690,
+		"newsitems": [
+			{
+				"gid": "431567758212691738",
+				"title": "Achievments, True Fullscreen, and More!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/431567758212691738",
+				"is_external_url": true,
+				"author": "bbrizzi",
+				"contents": "Some among us will recall that quite some time ago there was a large update. It worked on Windows but not on OSX. That changes today! The 2.0 update, now available and working on both Windows and OSX, is a complete overhaul of the game that completely ditches Flash. The immediate advantages of this ...",
+				"feedlabel": "Community Announcements",
+				"date": 1436721796,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "521617330558729206",
+				"title": "Windows 8.1 Fix",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/521617330558729206",
+				"is_external_url": true,
+				"author": "bbrizzi",
+				"contents": "There was an issue with Windows 8.1 that prevented the game from running. This has been fixed by adding the VC++ 2010 redistributable to the install. A side note on the OSX version: newer versions of OSX depreciated key library functions that cause the 2.0 update to not work on anything past 10.6. T...",
+				"feedlabel": "Community Announcements",
+				"date": 1415719532,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "521614150866904216",
+				"title": "Have You Played 1000 Amps?",
+				"url": "http://store.steampowered.com/news/externalpost/rps/521614150866904216",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (John Walker)",
+				"contents": "<em><a href=\"http://www.rockpapershotgun.com/tag/have-you-played/\">Have You Played?</a> is an endless stream of game recommendations. One a day, every day of the year, perhaps for all time.</em> Sometimes there are games that I know for a fact people would absolutely adore, but I know for an equally certain fact most of them won&#8217;t ever give it a try. The absolutely st...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1412692215,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 10
+	}
+}

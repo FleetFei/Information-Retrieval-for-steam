@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 15190,
+		"newsitems": [
+			{
+				"gid": "1145252445355546892",
+				"title": "E3 2011: New Brothers in Arms: Furious 4 announced",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/1145252445355546892",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2011/06/06/e3-2011-new-brothers-in-arms-furious-4-announced/\" rel=\"bookmark\" title=\"Permanent Link to E3 2011: New Brothers in Arms: Furious 4 announced\"> </a> Gearbox have revealed a new Brothers in Arms game at the Ubisoft press conference. It's a welcome return for the series, which has been quiet since Hell's Highway, which came out way back in 2008. The new game will take a very, very different approach to previous games. We'll have more details ver...",
+				"feedlabel": "PC Gamer",
+				"date": 1307397491,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

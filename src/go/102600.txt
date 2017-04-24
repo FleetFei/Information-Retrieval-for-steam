@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 102600,
+		"newsitems": [
+			{
+				"gid": "75842128756072681",
+				"title": "Orcs Must Die! Unchained is now available!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75842128756072681",
+				"is_external_url": true,
+				"author": "Harmoniabot",
+				"contents": "http://cdn.akamai.steamstatic.com/steam/apps/427270/extras/orcs-running-header.jpg Robot Entertainment today announced that their hilarious action tower defense game ORCS MUST DIE! UNCHAINED is now commercially available! Players can download the game from Steam or directly from OrcsMustDie.com. Orc...",
+				"feedlabel": "Community Announcements",
+				"date": 1492635769,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 102600
+			},
+			{
+				"gid": "75840229402006950",
+				"title": "Orc Week Celebration for OMDU Launch Announcement!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75840229402006950",
+				"is_external_url": true,
+				"author": "Harmoniabot",
+				"contents": "OMDU to release on April 19, 2017! That’s right, War Mages, Orcs Must Die! Unchained is exiting open beta and officially launching on April 19! This free-to-play commercial release features classic Orcs Must Die! gameplay players and also heralds the return of head-to-head gameplay in the form of Sa...",
+				"feedlabel": "Community Announcements",
+				"date": 1491496523,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 102600
+			},
+			{
+				"gid": "83715191659362736",
+				"title": "Welcome to the Orcs Must Die! Community",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/83715191659362736",
+				"is_external_url": true,
+				"author": "Harmoniabot",
+				"contents": "What’s shakin’ bacons? Maximilian here with some friendly advice. They won’t let me have an actual forum account so I’m making Harmonia post this for me. If you're looking to connect with other War Mages or for help with level strategy, look no further! The Order Academy has the best of the best! Go...",
+				"feedlabel": "Community Announcements",
+				"date": 1484763802,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 14
+	}
+}

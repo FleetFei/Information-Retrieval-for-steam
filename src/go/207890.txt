@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 207890,
+		"newsitems": [
+			{
+				"gid": "1460569840295890515",
+				"title": "Daily Deal - Football Manager 2013™, 66% Off",
+				"url": "http://store.steampowered.com/news/10663/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "In celebration of the Champions League Final, today's Deal: Save 66% on <a href='http://store.steampowered.com/app/207890/'>Football Manager 2013&trade;</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/207890/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1369501500,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1495465667576524623",
+				"title": "Weekend Deal - Football Manager 2013™, 50% Off",
+				"url": "http://store.steampowered.com/news/10085/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 50% on <a href='http://store.steampowered.com/app/207890/'>Football Manager 2013&trade;</a> as part of this week's Weekend Deal*! <i>Football Manager</i> is the best-selling, most realistic football management series ever made. For any fan who has ever dreamed of making the big decisions, both on and off the field, this year's version allows you to take co...",
+				"feedlabel": "Announcement",
+				"date": 1362679500,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514593982949431056",
+				"title": "I'm Playing the Best/Worst Sports Game of the Year, and it's Killing me",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1514593982949431056",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/184f6qgvo05xojpg/original.jpg\"> </a>I love sports. I love video games. That doesn't mean I automatically love sports video games, because as a non-American, most professional and polished titles don't really appeal. I love my football games, though, from <em>FIFA</em> to <em>Pro Evo</em>, and that means I've also got a soft spot for the <em>Football Manag...</em>",
+				"feedlabel": "Kotaku",
+				"date": 1352160000,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 6
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 11500,
+		"newsitems": [
+			{
+				"gid": "522593734582046524",
+				"title": "Weekend Deal - 75% off Codemasters Racing Pack",
+				"url": "http://store.steampowered.com/news/3773/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 75% off <a href=\"http://store.steampowered.com/sub/4060\">Codemasters Racing Pack</a>, including DiRT2, DiRT, FUEL, GRID, and ToCA Race Driver 3. ",
+				"feedlabel": "Announcement",
+				"date": 1272644268,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

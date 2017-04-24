@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 203810,
+		"newsitems": [
+			{
+				"gid": "75835955403349979",
+				"title": "Dear Esther Landmark Edition out tomorrow on PC, free to owners of original",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/75835955403349979",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Last year, The Chinese Room released a console version of its flagship non-combat exploration game Dear Esther&#x2014;named the Landmark Edition&#x2014;and suggested it would <a href=\"http://www.pcgamer.com/dear-esther-update-will-be-free-for-owners-of-the-original/\">one day land on PC</a>. It&apos;s now doing exactly that, the developer has revealed, and will be completely free-of-charge to ow...",
+				"feedlabel": "PC Gamer",
+				"date": 1487000165,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "75835955402803644",
+				"title": "Dear Esther s Landmark Edition wandering out Tuesday",
+				"url": "http://store.steampowered.com/news/externalpost/rps/75835955402803644",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "The &#8216;Landmark Edition&#8217; of seminal walky story <a href=\"https://www.rockpapershotgun.com/tag/dear-esther/\">Dear Esther</a> will launch tomorrow, developers The Chinese Room have announced. It&#8217;s basically the same game, but remade in the Unity engine with a few tweaks and a director&#8217;s commentary. It&#8217;ll be free for everyone who already...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1486987492,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "243582826889208179",
+				"title": "Alice And Pip: What Is (And Isn t) A Walking Simulator?",
+				"url": "http://store.steampowered.com/news/externalpost/rps/243582826889208179",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (RPS)",
+				"contents": "<em>Alice and Pip have been off wandering their way through digital worlds from Proteus to Sacramento and are now hobbling towards a shared definition of a walking simulator. Find out what conclusions they&#8217;ve reached and why their definition categorically does not include Dear Esther!</em> <strong>Pip:</strong> Alice, ...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1475265631,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 51
+	}
+}

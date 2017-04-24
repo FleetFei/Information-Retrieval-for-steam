@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 207610,
+		"newsitems": [
+			{
+				"gid": "91592690502323519",
+				"title": "The Walking Dead Season 3 launch trailer introduces a familiar face",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/91592690502323519",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Fans of no-win, morally fraught decision making rejoice. The Walking Dead Season 3: A New Frontier is a little more than a week away, and today Telltale released the third season&apos;s launch trailer. You can watch the video above. Announced at The Game Awards 2016, A New Frontier kicks off with th...",
+				"feedlabel": "PC Gamer",
+				"date": 1481490459,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "91592690497892517",
+				"title": "The Walking Dead Season 1 free for Twitch Prime members",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/91592690497892517",
+				"is_external_url": true,
+				"author": "",
+				"contents": "In November, Twitch Prime offered up Watch Dogs 2 goodies and two free games as <a href=\"http://www.pcgamer.com/twitch-primes-free-november-loot-includes-watch-dogs-2-content-and-two-games/\">membership bonuses</a>, and in a similar vein, its first bonus for December is a gratis game: the first season of Telltale&apos;s The Walking Dead. Available until December 13, TWD can be had for nowt by following the instru...",
+				"feedlabel": "PC Gamer",
+				"date": 1481385622,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "91592053119258707",
+				"title": "The Walking Dead Season 3 begins with two episodes this month",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/91592053119258707",
+				"is_external_url": true,
+				"author": "",
+				"contents": "We&apos;re used to waiting weeks or sometimes months between Telltale episodes, so here&apos;s a bit of good news if you&apos;re looking forward to The Walking Dead&apos;s upcoming third season. It was revealed this weekend that the first two episodes will be released on the exact same day, on Decem...",
+				"feedlabel": "PC Gamer",
+				"date": 1480937457,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 224
+	}
+}

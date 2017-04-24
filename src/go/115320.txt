@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 115320,
+		"newsitems": [
+			{
+				"gid": "521614150509124516",
+				"title": "Daily Deal - Prototype Franchise, 75% Off",
+				"url": "http://store.steampowered.com/news/14559/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/115320/'>Prototype Franchise</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Friday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/115320/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1412182800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "564391378672437675",
+				"title": "Daily Deal - Prototype 2, 75% Off",
+				"url": "http://store.steampowered.com/news/13897/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/115320/'>Prototype 2</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Sunday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/115320/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1405702800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "920169016725368353",
+				"title": "Activision Publisher Weekend - Day 4",
+				"url": "http://store.steampowered.com/news/13142/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/sale/acti_pub4\">Activision Publisher Weekend</a> continues today with great deals on Activision titles! From now through Monday* pick up titles up to 75% off! Today's Daily Deal features the <a href=\"http://store.steampowered.com/app/115320/\">Prototype</a> franchise at 75% off! Additionally, play the <a href=\"http://store.steampowered.com/app/209160/\">Call of Duty: Ghosts</a> Multiplayer for Free throughout the weekend! *All...",
+				"feedlabel": "Announcement",
+				"date": 1399222800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 209790,
+		"newsitems": [
+			{
+				"gid": "1478591738299280213",
+				"title": "Splice 50% off in Steam for Linux Sale!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299280213",
+				"is_external_url": true,
+				"author": "Cipher Prime Studios",
+				"contents": "All Linux games are on sale through Feb 21st. Pick up <a href=\"http://store.steampowered.com/app/209790/\">Splice</a> for half-price! Both the PC and Mac versions of <a href=\"http://store.steampowered.com/app/209790/\">Splice</a> support Steam featurs such as Achievments and Cloud saves. For the moment, the Linux version does not support these features. <a href=\"http://store.steampowered.com/sale/linux_release/\"> </a>",
+				"feedlabel": "Community Announcements",
+				"date": 1360898092,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738299209525",
+				"title": "5 More Games in The Humble Bundle",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299209525",
+				"is_external_url": true,
+				"author": "Cipher Prime Studios",
+				"contents": "Five more games were just added to <a href=\"http://humblebundle.com\">The Humble Bundle for Android #4</a> today. By spending more than the average, you now get <a href=\"http://%22http//store.steampowered.com/app/112100%22\"><i>Avadon: The Black Fortress</i></a>, <a href=\"http://www.adamatomic.com/canabalt/\"><i>Canabalt</i></a>, <a href=\"http//store.steampowered.com/app/26500\"><i>Cogs</i></a>, <a href=\"http://store.steampowered.com/app/63500\"><i>Swords & Soldiers HD</i></a>, and <a href=\"http://store.steampowered.com/app/61600\"><i>Zen Bound 2</i></a>, all in addition to the original six: <a href=\"http://store.steampowered.com/app/209790/\"> Splice </a>, <a href=\"http://store.steampowered.com/app/41210/\"><i>Eufloria</i></a>, <a href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=92975821\"><i>Waking Mars</i></a>, <a href=\"http://store.steampowered.com/app/40700\"><i>Machinarium</i></a>, <a href=\"http://store.steampowered.com/app/26900\"><i>Crayon Physi...</i></a>",
+				"feedlabel": "Community Announcements",
+				"date": 1353020778,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738299191782",
+				"title": "Splice is in The Humble Bundle!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299191782",
+				"is_external_url": true,
+				"author": "Cipher Prime Studios",
+				"contents": "We're super excited to announce that we made it into <a href=\"http://humblebundle.com\">The Humble Bundle</a>! Through November 21st, you can pick up <a href=\"http://store.steampowered.com/app/209790/\"><i>Splice</i></a>, <a href=\"http://store.steampowered.com/app/41210/\"><i>Eufloria</i></a>, <a href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=92975821\"><i>Waking Mars</i></a>, <a href=\"http://store.steampowered.com/app/40700\"><i>Machinarium</i></a>, <a href=\"http://store.steampowered.com/app/26900\"><i>Crayon Physics</i></a>, <a href=\"http://store.steampowered.com/app/204060\"><i>Superbrothers: Sword & Sworcery EP</i></a>, and the soundtracks for each game at a fraction of their sale prices! <a href=\"http://humblebundle.com\"> </a> The <a href=\"http://humblebundle.com\">Humble Bundle for...</a>",
+				"feedlabel": "Community Announcements",
+				"date": 1352847001,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 15
+	}
+}

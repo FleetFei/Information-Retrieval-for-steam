@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 203850,
+		"newsitems": [
+			{
+				"gid": "567768347627062938",
+				"title": "The Flare Path: Devoted To Dovetail",
+				"url": "http://store.steampowered.com/news/externalpost/rps/567768347627062938",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Tim Stone)",
+				"contents": "Dovetail Games&#8217; vision and mission statements are remarkably similar to The Flare Path&#8217;s. Replace company with column , hobbies with articles , and delight and retain customers with debag and retrain readers and they&#8217;re pretty much identical. Whether we see eye to eye on flight sim...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1405080017,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "567768347563639326",
+				"title": "Train Sim Devs Getting Into Planes With Microsoft Tech",
+				"url": "http://store.steampowered.com/news/externalpost/rps/567768347563639326",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "Microsoft are shutting down <a href=\"https://microsoftflight.com/en-us/home/\">Microsoft Flight</a> in October, they announced <a href=\"https://news.microsoftflight.com/blogs/news/archive/2014/07/03/flight-shutdown-announcement.aspx\">only last week</a> It&#8217;s a sad, small death for what was once of The Big Names in PC gaming. Well, sort of. This week brings news that as Microsoft Flight prepares to fly off into the sunset, Microsoft&#8217;s fly &#8216;em ups...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1404993650,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "3189986872513073368",
+				"title": "The Flare Path: Tales Of The Unexpected",
+				"url": "http://store.steampowered.com/news/externalpost/rps/3189986872513073368",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Tim Stone)",
+				"contents": "Blimey! What a week! Not only did Harris, the Flare Path quartermaster, pick up twenty thousand exclamation marks dirt cheap at a local fire sale, the world of flight simulation was rocked by a trio of 2000lb news Paveways!!! We literally can&#8217;t move for !s in the office at present! I&#8217;m a...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1402660840,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 30
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 100400,
+		"newsitems": [
+			{
+				"gid": "510365936296950373",
+				"title": "Silo 2.3.1 Update Available",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/510365936296950373",
+				"is_external_url": true,
+				"author": "Nevercenter",
+				"contents": "We're excited to announce that Silo 2.3.1 is ready! New/Changed Features in v2.3.1 Data directories have changed (for a better launch experience for users coming from Silo 2.2 and earlier). Windows versions are now large-address-aware, this is particularly helpful for 32-bit users when running on a ...",
+				"feedlabel": "Community Announcements",
+				"date": 1422606858,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1479695995260541260",
+				"title": "Now Available - Silo 2",
+				"url": "http://store.steampowered.com/news/9625/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/100400/'>Silo 2</a> is Now Available on Steam and is 20% off for a limited time! Silo 2 is a focused 3D modeling application with the ability to effortlessly switch between organically sculpting high-polygon models and precisely controlling hard-edged surfaces. It can be used for anything from creating 3D charac...",
+				"feedlabel": "Product Release",
+				"date": 1355940240,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

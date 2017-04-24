@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 18420,
+		"newsitems": [
+			{
+				"gid": "521613086901451236",
+				"title": "Special sale on Crazy Machines!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/521613086901451236",
+				"is_external_url": true,
+				"author": "ImALittleBear",
+				"contents": "Dear Fans, We are honored to be part of Steam's week long sale! Until September 29th you can buy this game for only $4.99 If you have not played this game before , now is a great time to do so!",
+				"feedlabel": "Community Announcements",
+				"date": 1411415444,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "920169016774756361",
+				"title": "Special Sale on Crazy Machines!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/920169016774756361",
+				"is_external_url": true,
+				"author": "ImALittleBear",
+				"contents": "As part of Steam's week long sale, grab Crazy Machines for only $3.39 until May 12th.",
+				"feedlabel": "Community Announcements",
+				"date": 1399311040,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1171140449293548073",
+				"title": "New Release - Crazy Machines 2: Time Travel Add-On",
+				"url": "http://store.steampowered.com/news/5113/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/18408/\">Crazy Machines 2: Time Travel Add-On</a> is now available on Steam and is 10% off for the first week*! The Master of Crazy is back with 50 new prehistoric levels! New to Crazy Machines? Pick-up the <a href=\"http://store.steampowered.com/sub/7578/\">Crazy Machines 2 Everything Pack</a> for 40% off*! *Discounts end March 18th at 10AM PST <a href=\"http://store.steampowered.com/app/18408/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1299883680,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

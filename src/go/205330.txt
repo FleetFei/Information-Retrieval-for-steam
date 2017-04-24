@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 205330,
+		"newsitems": [
+			{
+				"gid": "774852936529441080",
+				"title": "Now Available - Law  Order: Legacies, 15% off!",
+				"url": "http://store.steampowered.com/news/7244/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/205330/\">Law & Order: Legacies</a> is now available for both Mac & PC and is 15% off until February 6th at 10AM Pacific time! In Law & Order: Legacies, you play as fan-favorite investigators and prosecutors through 7 standalone cases that piece together a season-wide mystery. Discover multiple endings with innov...",
+				"feedlabel": "Product Release",
+				"date": 1327945800,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 203210,
+		"newsitems": [
+			{
+				"gid": "243581744553046602",
+				"title": "Titan Attacks for Android",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/243581744553046602",
+				"is_external_url": true,
+				"author": "cprince",
+				"contents": "So, we finally made Titan Attacks for Android a thing. It is here. And it is free, if you can stand ads, so there's no excuse not to have it on your phone!* If you can't stand ads you can give Google a couple of bucks to make them go away, but only weirdos do that. * Unless you are one of those stra...",
+				"feedlabel": "Community Announcements",
+				"date": 1474103185,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1010228711621694804",
+				"title": "Puppygames Fill The Humble Weekly Bundle",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1010228711621694804",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (John Walker)",
+				"contents": "The Humble Puppy Bundle sounds&#8230; I really don&#8217;t know. Puppies are cute, so good. But a bundle of them, all at once? I can&#8217;t take on that much responsibility! Oh, and dogs are rubbish! Fortunately this is a <a href=\"https://www.humblebundle.com/weekly\">Humble Weekly Bundle from Puppygames</a>, consisting of the UK developer&#8217;s ...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1387487122,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1027114673558363418",
+				"title": "Titan Attacks 2.01 Released",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1027114673558363418",
+				"is_external_url": true,
+				"author": "cprince",
+				"contents": "We've just released the latest incarnation of Titan Attacks. This version has a very slightly different difficulty curve which you'll chiefly notice past level 100. Believe it or not we actually had people wrapping the game so often their score caused an integer overflow! So now it'll be a bit harde...",
+				"feedlabel": "Community Announcements",
+				"date": 1385029867,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 202130,
+		"newsitems": [
+			{
+				"gid": "1461692466297660369",
+				"title": "Imp-rove Impire With Some Free DLC",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1461692466297660369",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Craig Pearson)",
+				"contents": "Did you dig <a href=\"www.paradoxplaza.com/games/impire\">Impire</a>? Are you still delving deep into Paradox&#8217;s dungeon management game? Then this story is for you. Paradox are releasing an ore-ful lot of DLC for free, and they demond you play it. There&#8217;s a vein of new single-player, multiplayer, and customisation content being released...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1366311601,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1462817320229521059",
+				"title": "Midweek Madness - Impire, 50% Off",
+				"url": "http://store.steampowered.com/news/10294/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 50% on <a href='http://store.steampowered.com/app/202130/'>Impire</a> during this week's Midweek Madness*! Take control the of demon Báal-Abaddon as he attempts to rebuild his mighty hell spawn form. With the aid of dozens of evil creatures big and small as well as an arsenal of spells, you will help him construct a dungeon underworld of limitless e...",
+				"feedlabel": "Announcement",
+				"date": 1366131900,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1459437403512911115",
+				"title": "New DLC Available - Impire DLC's",
+				"url": "http://store.steampowered.com/news/10181/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/230900/\">Creatures of the Night</a> and Black and White Demons , new content for <a href=\"http://store.steampowered.com/app/202130/\">Impire</a>, are now available on Steam! Creatures of the Night adds in the Succubus and Warlock into the dungeon. Black and White Demons adds in new imps for you to choose from. <a href=\"http://store.steampowered.com/app/230900/\"> </a> <a href=\"http://store.steampowered.com/app/230920/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1363722060,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

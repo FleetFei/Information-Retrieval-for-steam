@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 212630,
+		"newsitems": [
+			{
+				"gid": "1495464934881306980",
+				"title": "Daily Deal - Tom Clancy's Ghost Recon: Future Soldier™, up to 65% Off",
+				"url": "http://store.steampowered.com/news/10041/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save up to 65% on <a href='http://store.steampowered.com/sub/25980/'>Tom Clancy's Ghost Recon: Future Soldier&trade;</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/sub/25980/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1362074400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1498842001595702689",
+				"title": "New DLC Available - Tom Clancy's Ghost Recon Future Soldier: Khyber Strike",
+				"url": "http://store.steampowered.com/news/9992/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href='http://store.steampowered.com/app/227130/'>Khyber Strike</a> DLC, all new content for <a href='http://store.steampowered.com/app/212630/'>Tom Clancy's Ghost Recon Future Soldier&reg;</a> is Now Available on Steam! This new content includes 3 new multiplayer maps, 1 new multiplayer game mode, 1 Guerrilla Mode map and Level cap increase of +10. <a href=\"http://store.steampowered.com/app/212630/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1361901600,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1496587030448043150",
+				"title": "New DLC Available - Tom Clancy's Ghost Recon Future Soldier - Raven Strike DLC",
+				"url": "http://store.steampowered.com/news/9724/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/212672/'>Tom Clancy's Ghost Recon Future Soldier - Raven Strike DLC</a>, all new content for <a href='http://store.steampowered.com/app/212630/'>Tom Clancy's Ghost Recon: Future Soldier&trade;</a> is Now Available on Steam! The <strong>Raven Strike DLC Pack</strong> is a throwback to traditional Ghost Recon gameplay. It features larger maps, complex missions and an increased level of...",
+				"feedlabel": "Product Release",
+				"date": 1358449200,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 9
+	}
+}

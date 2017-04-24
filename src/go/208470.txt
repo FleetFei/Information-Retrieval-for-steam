@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 208470,
+		"newsitems": [
+			{
+				"gid": "1496599168327146919",
+				"title": "New DLC Available - Tryst: Survival DLC",
+				"url": "http://store.steampowered.com/news/10789/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/208470/'>Tryst: Survival DLC</a>, all new content for <a href='http://store.steampowered.com/app/208460/'>Tryst</a> is Now Available on Steam. To celebrate <a href=\"http://store.steampowered.com/search/?publisher=BlueGiant%20Interactive\">Blue Giant Interactive</a> is offering 75% off <a href=\"http://store.steampowered.com/app/208460/\">Tryst</a> and <a href=\"http://store.steampowered.com/app/80000/\">APOX!</a>* The Survival DLC adds the following to Tryst: New Game Mode (Survival) - Team up with a friend and hold your own against regular waves of enemies on the ...",
+				"feedlabel": "Product Release",
+				"date": 1370460420,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

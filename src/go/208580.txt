@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 208580,
+		"newsitems": [
+			{
+				"gid": "243581623180254175",
+				"title": "ASPYR 20th Anniversary Weekend, up to 75% Off",
+				"url": "http://store.steampowered.com/news/24225/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on select titles during the <a href='http://store.steampowered.com/sale/aspyr/'>ASPYR 20th Anniversary Weekend</a>*! Titles Include: <a href=\"http://store.steampowered.com/app/49520/\">Borderlands 2</a> <a href=\"http://store.steampowered.com/app/65980/\">Civilization Beyond Earth</a> <a href=\"http://store.steampowered.com/app/115300/\">Modern Warfare 3</a> <a href=\"http://store.steampowered.com/app/244160/\">Homeworld Remastered Collection</a> <a href=\"http://store.steampowered.com/app/8870/\">Bioshock Infinite</a> <a href=\"http://store.steampowered.com/app/208580/\">STAR WARS Knights of the Old Republic II - The Sith Lords</a> <a href=\"http://store.steampowered.com/app/391720/\">Layers of Fear</a> <a href=\"http://store.steampowered.com/app/24780/\">SimCity 4 Deluxe Edition</a> And...",
+				"feedlabel": "Product Release",
+				"date": 1473959400,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "295355928888003162",
+				"title": "A New Hope? Unreal-Powered KOTOR Fan Remake",
+				"url": "http://store.steampowered.com/news/externalpost/rps/295355928888003162",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alec Meer)",
+				"contents": "Feels like it&#8217;s far too soon to be remaking <a href=\"https://www.rockpapershotgun.com/tag/Star-Wars:-Knights-of-The-Old-Republic/\">Star Wars: Knights of the Old Republic</a> but a) they&#8217;ve rebooted the Spider-Man movies 48 times in 18 months and b) KOTOR is, in fact, 13 years old oh god I&#8217;m so ancient how did this happen help help. So maybe the time isn&#8217;t too un-wr...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1457716515,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "377538916267738290",
+				"title": "The best RPGs of all time",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/377538916267738290",
+				"is_external_url": true,
+				"author": "",
+				"contents": "",
+				"feedlabel": "PC Gamer",
+				"date": 1450483200,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 9
+	}
+}

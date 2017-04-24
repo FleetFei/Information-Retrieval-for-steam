@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 111600,
+		"newsitems": [
+			{
+				"gid": "1172353020071944086",
+				"title": "Serious Sam Double D XXL blasts onto PC",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1172353020071944086",
+				"is_external_url": true,
+				"author": "Ozzie Mejia",
+				"contents": "When Shacknews spoke to Mommy's Best Games <a href=\"http://www.shacknews.com/article/77668/serious-sam-double-d-xxl-has-high-chance-of-pc\">earlier this year</a> about <a href=\"http://www.shacknews.com/game/serious-sam-double-d\">Serious Sam Double D XXL</a>, the developer stated that there was a good chance the game would eventually find its way from Xbox Live Arcade to PC. That time has arrived, as XXL has been added to the core Double D PC version as a free ti...",
+				"feedlabel": "Shacknews",
+				"date": 1382449500,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1172353020026083975",
+				"title": "Serious Sam Double D XXL Free Upgrade",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1172353020026083975",
+				"is_external_url": true,
+				"author": "br33dlove",
+				"contents": "Devolver Digital and developer Mommy’s Best Games are excited to announce that the bombastic 2D shooter Serious Sam Double D has been upgraded to Serious Sam Double D XXL on Steam! All the fantastic new content from the Xbox LIVE Arcade hit have made their way to Steam in a free title update to all ...",
+				"feedlabel": "Community Announcements",
+				"date": 1382381769,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1136252673411921373",
+				"title": "New Release: Serious Sam Double D",
+				"url": "http://store.steampowered.com/news/6163/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/111600/\">Serious Sam Double D</a> is Now Available and 10% off until September 6th 10AM PST. Get an additional 10% off if you own Serious Sam <a href=\"http://store.steampowered.com/app/41000/\">HD First Encounter</a>, <a href=\"http://store.steampowered.com/app/41010/\">HD Second Encounter</a>, <a href=\"http://store.steampowered.com/app/901553/\">HD Gold Edition</a> or <a href=\"http://store.steampowered.com/app/41070/\">Serious Sam 3: BFE</a>. The first release in the Serious Sam Indie Series Sam explodes into the second dimension us...",
+				"feedlabel": "Product Release",
+				"date": 1314724080,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

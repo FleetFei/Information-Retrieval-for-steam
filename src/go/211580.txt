@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 211580,
+		"newsitems": [
+			{
+				"gid": "511492468638181958",
+				"title": "\"Wishlist\" Wanderlust Adventures Today!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/511492468638181958",
+				"is_external_url": true,
+				"author": "Leth",
+				"contents": "store.steampowered.com/app/240620 WISHLIST TODAYWanderlust Adventures will be ultimate Wanderlust experience! Wishlist Wanderlust Adventures today to make sure you get it as soon as it launches! ABOUT WANDERLUST ADVENTURES Wanderlust Adventures is the spiritual successor to Wanderlust: Rebirth. Unli...",
+				"feedlabel": "Community Announcements",
+				"date": 1423095506,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "3171973016574179619",
+				"title": "Rebirth Reborn: Wanderlust Adventures",
+				"url": "http://store.steampowered.com/news/externalpost/rps/3171973016574179619",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "If you have ever played and enjoyed Secret Of Mana, you may already be aware of <a href=\"http://www.wanderlustgame.com/wr/\">Wanderlust: Rebirth</a>, a top-down action RPG with combat and graphics reminiscent of Square&#8217;s real-time battler. <a href=\"http://www.wanderlustgame.com/\">Wanderlust Adventures</a> is a sequel/spin-off to Rebirth, expanding into a free-roaming open world, as the...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1403283640,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "3189986872468102973",
+				"title": "Wanderlust Adventures Debut Trailer",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/3189986872468102973",
+				"is_external_url": true,
+				"author": "2 Angry Inches",
+				"contents": "Hey! We are proud to reveal our debut trailer for Wanderlust Adventures! We hope you enjoy, and feel free to ask us any questions! https://www.youtube.com/watch?v=fdAo5E513lM",
+				"feedlabel": "Community Announcements",
+				"date": 1402584969,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 12
+	}
+}

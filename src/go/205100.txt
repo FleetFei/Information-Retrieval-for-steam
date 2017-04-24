@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 205100,
+		"newsitems": [
+			{
+				"gid": "252586225980765658",
+				"title": "Dishonored 2 Gamescom Trailer Shows Emily s Skillz",
+				"url": "http://store.steampowered.com/news/externalpost/rps/252586225980765658",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Jessica Famularo)",
+				"contents": "There will be many ways to play <a href=\"https://www.rockpapershotgun.com/tag/dishonored-2/\">Dishonored 2</a> , rewarding players for stealth and more brazen maneuvers both. We got a glimpse of <a href=\"https://www.rockpapershotgun.com/2016/08/05/dishonored-2-corvo/\"> some of Corvo&#8217;s more aggressive skills</a> at QuakeCon. Now, with Gamescom festivities well underway, Arkane gives us a glimpse at what empress Emily Kaldwin has up her...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1471716050,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "257086017102486037",
+				"title": "The Assassin s Guide To The City: Dishonored 2",
+				"url": "http://store.steampowered.com/news/externalpost/rps/257086017102486037",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "During one decade in the late eighteenth century, one gang was reportedly responsible for around 80% of bank robberies in America. That gang was led by George Leonidas Leslie, an architect and a criminal genius. He utilised his knowledge of buildings and their secret ways to break them down piece by...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1468008020,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "249202181074312556",
+				"title": "Twisting Time And Space: Dishonored 2 Gameplay Trailer",
+				"url": "http://store.steampowered.com/news/externalpost/rps/249202181074312556",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "Bethesda&#8217;s E3 showcase wrapped up this evening (LA time) and I was there, in an enormous hangar, as new things were announced (Prey! Quake!) and more details of the games we&#8217;ve already played or heard about were released. The pick of the crop was <a href=\"https://www.rockpapershotgun.com/tag/Dishonored-2/\">Dishonored 2</a> , which had that rarest of t...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1465792542,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 180
+	}
+}

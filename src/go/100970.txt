@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 100970,
+		"newsitems": [
+			{
+				"gid": "1407665761143234247",
+				"title": "ArtRage 3.5.8 - Steam DRM Removed, CD Key Required.",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1407665761143234247",
+				"is_external_url": true,
+				"author": "ArtRage",
+				"contents": "The recent ArtRage 3.5.8 update removes the Steam DRM requirement from the product meaning that it can be launched without Steam running. However this does mean that you need to unlock the product when you first launch it after the update. You can find the Serial Number to unlock the product in the ...",
+				"feedlabel": "Community Announcements",
+				"date": 1382063689,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1515717154781441660",
+				"title": "Now Available - Software on Steam, 10% off!",
+				"url": "http://store.steampowered.com/news/8993/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://www.steampowered.com/software/\">Software</a> is Now Available on Steam and all new software titles are 10% off!* The Software titles now available via Steam are: <a href=\"http://store.steampowered.com/app/100970/\">ArtRage Studio Pro</a> <a href=\"http://store.steampowered.com/app/100410/\">CameraBag 2</a> <a href=\"http://store.steampowered.com/app/214850/\">GameMaker: Studio</a> <a href=\"http://store.steampowered.com/app/100980/\">3D-Coat</a> <a href=\"http://store.steampowered.com/app/205250/\">3DMark Vantage</a> <a href=\"http://store.steampowered.com/app/205270/\">3DMark 11</a> <a href=\"http://store.steampowered.com/app/1840/\">Source Filmmaker</a> Many of the launch titles will take advantage of popular Steamworks feature...",
+				"feedlabel": "Product Release",
+				"date": 1349215440,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

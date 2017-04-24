@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 18523,
+		"newsitems": [
+			{
+				"gid": "1496587685383158169",
+				"title": "New DLC Available - Defense Grid: Containment DLC",
+				"url": "http://store.steampowered.com/news/9798/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/18523/'>Defense Grid: Containment DLC</a>, all new content for <a href='http://store.steampowered.com/app/18500/'>Defense Grid: The Awakening</a> is Now Available on Steam! Defense Grid: Containment is the all-new expansion to the award-winning tower defense game: Defense Grid: The Awakening. The Containment DLC provides players with many hours of new content inclu...",
+				"feedlabel": "Product Release",
+				"date": 1358965260,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

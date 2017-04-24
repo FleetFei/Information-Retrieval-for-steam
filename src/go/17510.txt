@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 17510,
+		"newsitems": [
+			{
+				"gid": "1478591738299173594",
+				"title": "CMW NOW AVAILABLE ON STEAM",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299173594",
+				"is_external_url": true,
+				"author": "Tibberius Bane",
+				"contents": "NOW AVAILABLE ON STEAM http://store.steampowered.com/app/219640/ Today is the launch of Chivalry: Medieval Warfare, a First-person slasher with a multiplayer focus set in the medieval era. This is melee combat finally done right. Prepare for epic medieval battle in 1st or 3rd person as Chivalry: Med...",
+				"feedlabel": "Community Announcements",
+				"date": 1350406967,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738299138206",
+				"title": "2 Hours Left to Get Beta Access",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299138206",
+				"is_external_url": true,
+				"author": "Tibberius Bane",
+				"contents": "Chivalry: Medeival Warfare, the spiritual successor to Age of Chivalry has only 2 hours left on its kickstarter! If you pledge at the $50 or more level you will recieve beta access starting this sunday! Find out more here: <a href=\"http://www.kickstarter.com/projects/1711512107/chivalry-medieval-warfare\">Chivalry Medieval Warfare Kickstarter</a>",
+				"feedlabel": "Community Announcements",
+				"date": 1347679484,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738299083899",
+				"title": "New Developer Blog Released",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299083899",
+				"is_external_url": true,
+				"author": "Tibberius Bane",
+				"contents": "Fixing Broken Link: <a href=\"www.ChivalrytheGame.com\"> www.ChivalrytheGame.com </a>",
+				"feedlabel": "Community Announcements",
+				"date": 1341977326,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 14
+	}
+}

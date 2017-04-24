@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 18710,
+		"newsitems": [
+			{
+				"gid": "1139628550956404911",
+				"title": "Humble Indie Bundle 3 sales pass $2 million",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1139628550956404911",
+				"is_external_url": true,
+				"author": "Alice O'Connor",
+				"contents": "Sales for the \"pay what you want\" <a href=\"http://www.humblebundle.com/\" target=\"_blank\">Humble Indie Bundle 3</a> have passed the $2,000,000 mark, an impressive factoid which also provides a handy reminder that today is the last day you can snap up the mega-bargain. If you haven't yet, do so! The Humble Indie Bundle 3 is now the most successful of the four...",
+				"feedlabel": "Shacknews",
+				"date": 1312870500,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1136249593784991463",
+				"title": "Humble Indie Bundle 3 launches",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1136249593784991463",
+				"is_external_url": true,
+				"author": "Alice O'Connor",
+				"contents": "Out of the blue, another stonking 'pay what you want' <a href=\"http://www.humblebundle.com/\">Humble Indie Bundle</a> launched this morning. The <a href=\"http://www.humblebundle.com/\" target=\"_blank\">Humble Indie Bundle 3</a> packs DRM-free versions of <a href=\"http://www.shacknews.com/game/vvvvvv\">VVVVVV</a>, <a href=\"http://www.shacknews.com/game/hammerfight\">Hammerfight</a>, <a href=\"http://www.shacknews.com/game/crayon-physics-deluxe\">Crayon Physics Deluxe</a>, <a href=\"http://www.shacknews.com/game/cogs\">Cogs</a>, and <a href=\"http://www.shacknews.com/game/and-yet-it-moves\">And Yet It Moves</a>, bristling with new features and coming to new platforms. As with the three pre...",
+				"feedlabel": "Shacknews",
+				"date": 1311672600,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

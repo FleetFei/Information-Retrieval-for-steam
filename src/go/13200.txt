@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 13200,
+		"newsitems": [
+			{
+				"gid": "774848423548244332",
+				"title": "Epic Games founder Tim Sweeney enters AIAS Hall of Fame",
+				"url": "http://store.steampowered.com/news/externalpost/eurogamer/774848423548244332",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Epic Games founder Tim Sweeney is to be the newest member of the notable AIAS (Academy of Interactive Arts &amp; Sciences) Hall of Fame. Sweeney's name will rank alongside the likes of Nintendo icon Shigeru Miyamoto, id Software mastermind John Carmack, Blizzard boss Mike Morhaime and Sims creator W...",
+				"feedlabel": "Eurogamer",
+				"date": 1323353820,
+				"feedname": "eurogamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

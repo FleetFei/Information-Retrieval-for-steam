@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 209830,
+		"newsitems": [
+			{
+				"gid": "341514010392186527",
+				"title": "Lone Survivor Original Soundtrack is now available on Steam!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/341514010392186527",
+				"is_external_url": true,
+				"author": "Jasper",
+				"contents": "Hi everyone. Thanks for all your support for this game over the last four years. Thanks for all the kind messages and amazing fanart. Today I'm releasing the Lone Survivor Original Soundtrack as DLC on Steam, for all those who've asked. The soundtrack has sold really well elsewhere and in future I p...",
+				"feedlabel": "Community Announcements",
+				"date": 1454333390,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1045127258745303661",
+				"title": "Lone Survivor: The Director's Cut comes to PC and Mac as 100% FREE DLC",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1045127258745303661",
+				"is_external_url": true,
+				"author": "Jasper",
+				"contents": "Hi there! I'm really proud to announce that the latest update for Lone Survivor, (now known as The Director's Cut), is now live on Steam. For more information about the update, please see my blog at: http://www.superflatgames.com/wordpress The changes took me close to a year to make, but in the end ...",
+				"feedlabel": "Community Announcements",
+				"date": 1383217433,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1459441364959364214",
+				"title": "Daily Deal - Lone Survivor, 75% Off",
+				"url": "http://store.steampowered.com/news/10504/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/209830/'>Lone Survivor</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/209830/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1367341200,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

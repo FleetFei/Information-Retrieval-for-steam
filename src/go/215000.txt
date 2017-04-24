@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 215000,
+		"newsitems": [
+			{
+				"gid": "1533726502729741684",
+				"title": "New DLC Available - Victoria II: American Civil War Spritepack",
+				"url": "http://store.steampowered.com/news/8531/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/app/215000/\">American Civil War Spritepack</a> is now available for <a href=\"http://store.steampowered.com/app/42960/\">Victoria II</a> on Steam! This spritepack will give you 12 historically authentic modelled units for the &#147;American Civil War Era&#148; with new animations, for a more realistic and more beautiful game atmosphere. Units are equipped with muskets...",
+				"feedlabel": "Product Release",
+				"date": 1343783340,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

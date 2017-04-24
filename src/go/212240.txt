@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 212240,
+		"newsitems": [
+			{
+				"gid": "255955126812584581",
+				"title": "Collector's Decoration Box",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/255955126812584581",
+				"is_external_url": true,
+				"author": "Sabina",
+				"contents": "http://nxcache.nexon.net/spotlight/235/00IvC-ca0fcabf-eead-4f74-81b6-7c31fcd22774.jpg Who wants more wings? Within each Collector's Decoration Box is a random item from a vast list of possibilities, including one of six different sets of wings, such as the Skull Dragon, Minotaur and Fairy styles! Ch...",
+				"feedlabel": "Community Announcements",
+				"date": 1463094874,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "255955126812581479",
+				"title": "Patch Notes: Visit the Tomb of Immortals!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/255955126812581479",
+				"is_external_url": true,
+				"author": "Sabina",
+				"contents": "http://nxcache.nexon.net/spotlight/235/00IlQ-1e456fe0-219f-47ad-bbc2-9b5c98229815.jpg Explore the new individual dungeon, the Tomb of Immortals! This dungeon is best suited for players level 130 and above. Grab some friends and head to Eastern Mohenjodaro, where you can enter the dungeon as a party ...",
+				"feedlabel": "Community Announcements",
+				"date": 1463094799,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "272839101167979164",
+				"title": "Atlantica Online March Update Patch Notes",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/272839101167979164",
+				"is_external_url": true,
+				"author": "Sabina",
+				"contents": "http://nxcache.nexon.net/spotlight/235/00IsU-681b1488-219c-4a22-b5f5-1e8b6c773969.jpg Atlantica Online's March update has arrived, and it’s chock-full of events! Read on, but don't forget the Vulcanus Ring Enhancement Event or Mythic Minotaur Items! Read More",
+				"feedlabel": "Community Announcements",
+				"date": 1458770214,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 10
+	}
+}

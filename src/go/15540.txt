@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 15540,
+		"newsitems": [
+			{
+				"gid": "1478589028062648076",
+				"title": "Drop that Beat Like an Ugly Baby Update Released",
+				"url": "http://store.steampowered.com/news/11108/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "July 18th, 2013 -- Ugly Baby Update -- CURING COW RODS We spent the last two weeks asking a bunch of questions. What is the game missing? Is there really ever going to be a cure for male pattern baldness? Was that sandwich that I just ate from the fridge mine? No matter! You&#146;re not interested i...",
+				"feedlabel": "Product Update",
+				"date": 1374179040,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738299545303",
+				"title": "July 18th, 2013 -- Ugly Baby Update -- CURING COW RODS",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299545303",
+				"is_external_url": true,
+				"author": "mcarriere",
+				"contents": "We spent the last two weeks asking a bunch of questions. What is the game missing? Is there really ever going to be a cure for male pattern baldness? Was that sandwich that I just ate from the fridge mine? No matter! You’re not interested in our thoughts, you’re interested in our progress! FILEBROWS...",
+				"feedlabel": "Community Announcements",
+				"date": 1374178422,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1479713748794591348",
+				"title": "Drop that Beat Like an Ugly Baby Update Released",
+				"url": "http://store.steampowered.com/news/11025/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "July 3rd, 2013 -- Ugly Baby Update -- /es4H81Qj Michael here! This update is filled with things that you guys have been asking for, so I hope you&#146;re happy! (When I read that line to myself, the voice is a guilt-tripping grandmother. I really don&#146;t mean it like that, though.) <b>FILEBROWSER</b>: I...",
+				"feedlabel": "Product Update",
+				"date": 1372883640,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 23
+	}
+}

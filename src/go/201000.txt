@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 201000,
+		"newsitems": [
+			{
+				"gid": "1226331098139423587",
+				"title": "Now Available - Geneforge Saga",
+				"url": "http://store.steampowered.com/news/6678/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/sub/12171/\">Geneforge Saga</a> is Now Available on Steam and 20% off until November 9th 10AM Pacific Time. Geneforge Saga is a collection of 5 classic Fantasy Role Playing Game titles from developer Spiderweb Software and offered on Steam for the first time in one great bundle! <a href=\"http://store.steampowered.com/sub/12171/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1320254700,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

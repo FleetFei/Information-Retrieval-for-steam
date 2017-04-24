@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 204760,
+		"newsitems": [
+			{
+				"gid": "1010230612790284260",
+				"title": "Weeklong Deals, January 13th",
+				"url": "http://store.steampowered.com/news/12208/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "New Weeklong Deals, on sale until Monday, January 20th at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/46850/\"> </a> <a href=\"http://store.steampowered.com/app/204760/\"> </a> <a href=\"http://store.steampowered.com/app/254440/\"> </a> <a href=\"http://store.steampowered.com/app/98500/\"> </a> <a href=\"http://store.steampowered.com/app/34900/\"> </a> <a href=\"http://store.steampowered.com/app/207790/\"> </a> <a href=\"http://store.steampowered.com/app/34920/\"> </a> <a href=\"http://store.steampowered.com/app/225280/\"> </a> <a href=\"http://store.steampowered.com/app/58400/\"> </a> <a href=\"http://store.steampowered.com/app/207730/\"> </a> <a href=\"http://store.steampowered.com/app/258050/\"> </a> <a href=\"http://store.steampowered.com/app/248710/\"> </a> <a href=\"http://store.steampowered.com/app/215160/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1389636360,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1027114127885740556",
+				"title": "Weeklong Deals, November 18",
+				"url": "http://store.steampowered.com/news/11898/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "New Weeklong Deals, on sale until Monday, November 25th at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/236490/\"> </a> <a href=\"http://store.steampowered.com/app/43100/\"> </a> <a href=\"http://store.steampowered.com/app/204760/\"> </a> <a href=\"http://store.steampowered.com/app/46260/\"> </a> <a href=\"http://store.steampowered.com/app/91900/\"> </a> <a href=\"http://store.steampowered.com/app/65500/\"> </a> <a href=\"http://store.steampowered.com/app/99200/\"> </a> <a href=\"http://store.steampowered.com/app/7110/\"> </a> <a href=\"http://store.steampowered.com/app/98510/\"> </a> <a href=\"http://store.steampowered.com/app/34920/\"> </a> <a href=\"http://store.steampowered.com/app/235360/\"> </a> <a href=\"http://store.steampowered.com/app/4520/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1384828320,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1477467113466683239",
+				"title": "New Weeklong Sales Available on Steam",
+				"url": "http://store.steampowered.com/news/11376/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up 50-75% on new Week Long Deals on Steam, available now until September 2nd at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/203250/\"> </a> <a href=\"http://store.steampowered.com/app/223470/\"> </a> <a href=\"http://store.steampowered.com/app/232770/\"> </a> <a href=\"http://store.steampowered.com/app/234940/\"> </a> <a href=\"http://store.steampowered.com/app/205910/\"> </a> <a href=\"http://store.steampowered.com/app/207190/\"> </a> <a href=\"http://store.steampowered.com/app/204760/\"> </a> <a href=\"http://store.steampowered.com/app/46420/\"> </a> <a href=\"http://store.steampowered.com/app/46430/\"> </a> <a href=\"http://store.steampowered.com/app/211180/\"> </a> <a href=\"http://store.steampowered.com/app/215770/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1378145460,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

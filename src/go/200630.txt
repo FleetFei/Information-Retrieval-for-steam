@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 200630,
+		"newsitems": [
+			{
+				"gid": "1478591738299048119",
+				"title": "Patch v1.03 Released. World Editor + Dedicated Servers.",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299048119",
+				"is_external_url": true,
+				"author": "TheInsultComic",
+				"contents": "Hey guys, I've just uploaded the latest version of Gettysburg: Armored Warfare (v1.03) to the Steam servers, it should go LIVE later today. Major changes include the release of the stand alone World Editor, and the release of the dedicated Game Server binaries. You can download the v1.03 dedicated s...",
+				"feedlabel": "Community Announcements",
+				"date": 1336742593,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738299030429",
+				"title": "Welcome to the Gettysburg: Armored Warfare Official Steam Group!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299030429",
+				"is_external_url": true,
+				"author": "TheInsultComic",
+				"contents": "Hey guys, I'll be making announcements for all upcoming patches, and important events! Upcoming are the release of the server binaries so you can run your own server, major improvements to the entire game, and obviously the Desert Warfare Mod and Steamworkshop mod tools! Thanks a lot, and stay tuned...",
+				"feedlabel": "Community Announcements",
+				"date": 1336263872,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1515700145020528924",
+				"title": "Now Available - Gettysburg: Armored Warfare",
+				"url": "http://store.steampowered.com/news/7651/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/200630/\">Gettysburg: Armored Warfare</a> is now available on Steam! Customize an army of both futuristic and period soldiers, tanks, boats, zeppelins and more. Control your army from above using traditional real time strategy controls. Then take control of any unit in the third person perspective for direct comb...",
+				"feedlabel": "Product Release",
+				"date": 1332867060,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 208710,
+		"newsitems": [
+			{
+				"gid": "1515717886773885898",
+				"title": "Impressions: Colour Bind",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1515717886773885898",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (John Walker)",
+				"contents": "I am sure I&#8217;m not very good at <a href=\"http://www.colourbind.com/\">Colour Bind</a>. But Colour Bind is definitely very good at me. This puzzle platformer is as tough to describe as it is to play, challenging you to drive a two-wheeled, invertible vehicle, capable of increasing its size in order to bounce itself around. But driving t...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1349380807,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515717154633164247",
+				"title": "Steam Workshop for Colour Bind is Now Available!",
+				"url": "http://store.steampowered.com/news/8949/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Puppy Punch Productions and developer Finn Morgan's new PC release, <a href=\"http://store.steampowered.com/app/208710/\">Colour Bind</a>, is the latest addition to Steam Workshop. Colour Bind's mind bending use of coloured gravity is now in the hands of their users to explore and create their own puzzles. \"One of my goals with Colour Bind was to fully exp...",
+				"feedlabel": "Product Release",
+				"date": 1348717140,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1513465018362280872",
+				"title": "Now Available - Colour Bind, 20% off!",
+				"url": "http://store.steampowered.com/news/8929/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/208710/\">Colour Bind</a> is now available on Steam and is 20% off until October 1st at 10AM Pacific Time! Colour Bind is a physics platform-puzzler set in an abstract world where gravity is determined not by mass, but by colour. Navigate this unique world by manipulating colour and gravity to solve each level. B...",
+				"feedlabel": "Product Release",
+				"date": 1348507680,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

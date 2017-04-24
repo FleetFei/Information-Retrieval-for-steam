@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 21000,
+		"newsitems": [
+			{
+				"gid": "920166227483831292",
+				"title": "Midweek Madness - Lego Titles - Up to 75% off",
+				"url": "http://store.steampowered.com/news/13008/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on <a href='http://store.steampowered.com/sale/lego_midweek/'>Warner Brothers LEGO Titles</a> as part of this week's Midweek Madness*! *Offer ends Friday at 10AM Pacific Time. <a href=\"http://store.steampowered.com/app/249130/\"> </a> <a href=\"http://store.steampowered.com/app/214510/\"> </a> <a href=\"http://store.steampowered.com/app/21000/\"> </a> <a href=\"http://store.steampowered.com/app/213330/\"> </a> <a href=\"http://store.steampowered.com/app/21130/\"> </a> <a href=\"http://store.steampowered.com/app/204120/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1397581200,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1461694911252132514",
+				"title": "Daily Deal - LEGO® Batman 2 DC Super Heroes™ , 75% Off",
+				"url": "http://store.steampowered.com/news/10614/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href=\"http://store.steampowered.com/app/21000/\">LEGO Batman</a> and <a href=\"http://store.steampowered.com/app/213330\">LEGO&reg; Batman 2 DC Super Heroes&trade; </a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/21000/\"> </a> <a href=\"http://store.steampowered.com/app/213330\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1368637200,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1389607509683559537",
+				"title": "Now Available - LEGO® Batman 2 DC Super Heroes™",
+				"url": "http://store.steampowered.com/news/8251/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/213330/\">LEGO&reg; Batman 2 DC Super Heroes&trade;</a> is Now Available on Steam and 10% off until 10AM PST Friday, June 29th. Owners of LEGO Batman, LEGO Harry Potter: Years 1-4 or LEGO Harry Potter: Years 5-7 get an additional 5% off. <a href=\"http://store.steampowered.com/app/21000/\">LEGO Batman</a> is also available at 33% off until 10AM PST Friday, June 29th. L...",
+				"feedlabel": "Product Release",
+				"date": 1340384400,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 10
+	}
+}

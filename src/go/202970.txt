@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 202970,
+		"newsitems": [
+			{
+				"gid": "405678163078848378",
+				"title": "Weekend Deal - Call of Duty Franchise, up to 67% off!",
+				"url": "http://store.steampowered.com/news/18441/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 67% on <a href='http://store.steampowered.com/sale/cod/'>Call of Duty games</a> as part of this week's Weekend Deal*! Includes various discounts on Advanced Warfare, Ghosts, Black Ops II, and more! <a href=\"http://store.steampowered.com/sale/cod/\"> </a> <b> <a href=\"http://store.steampowered.com/sale/cod/\"> </a> <b> <a href=\"http://store.steampowered.com/sale/cod/\"> </a></b></b>",
+				"feedlabel": "Announcement",
+				"date": 1442509143,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "521613086897845839",
+				"title": "Rudy Giuliani defends Call of Duty against lawsuit from former Panama dictator",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/521613086897845839",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2014/09/22/rudy-giuliani-defends-call-of-duty-against-lawsuit-from-former-dictator-of-panama/\" rel=\"bookmark\" title=\"Permanent Link to Rudy Giuliani defends Call of Duty against lawsuit from former Panama dictator\"> </a> Here's something you probably didn't expect to see today: Rudy Giuliani, the former New York City mayor, defending Call of Duty: Black Ops and publisher Activision in a lawsuit filed by Manuel Noriega, the former military dictator of Panama. Noriega was woven into Call of Duty: Black Ops 2 often r...",
+				"feedlabel": "PC Gamer",
+				"date": 1411411145,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "552009641585437919",
+				"title": "Call of Duty: Advanced Warfare multiplayer preview: robo-suits, new maps and an advanced wardrobe",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/552009641585437919",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/previews/call-of-duty-advanced-warfare-multiplayer-preview-robo-suits-new-maps-and-an-advanced-wardrobe/\" rel=\"bookmark\" title=\"Permanent Link to Call of Duty: Advanced Warfare multiplayer preview: robo-suits, new maps and an advanced wardrobe\"> </a> Comparisons to Titanfall were inevitable after Call of Duty: Advanced Warfare's multiplayer was revealed last week, but Sledgehammer have been playing with Advanced Warfare's jump-thrust move shortly after finishing work on Modern Warfare 3 in 2011, and Tribes fans will tell you that Titanfall har...",
+				"feedlabel": "PC Gamer",
+				"date": 1408543205,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 122
+	}
+}

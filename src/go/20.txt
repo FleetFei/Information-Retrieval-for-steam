@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 20,
+		"newsitems": [
+			{
+				"gid": "255955672063740708",
+				"title": "Have You Played Team Fortress Classic?",
+				"url": "http://store.steampowered.com/news/externalpost/rps/255955672063740708",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Graham Smith)",
+				"contents": "<em><a href=\"https://www.rockpapershotgun.com/tag/have-you-played/\">Have You Played?</a> is an endless stream of game retrospectives. One a day, every day of the year, perhaps for all time.</em> I did and I didn&#8217;t like it. To me, Team Fortress Classic was unfairly dumped in a bin called &#8220;a team-based multiplayer shooter like Counter-Strike only messy and guff.&#8...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1463841052,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "409054598159485732",
+				"title": "Bif! Bam! Pow! Team Fortress 2 Comic Issue #5 Out",
+				"url": "http://store.steampowered.com/news/externalpost/rps/409054598159485732",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "I haven&#8217;t played <a href=\"http://www.rockpapershotgun.com/tag/team-fortress-2/\">Team Fortress 2</a> in almost a year, Steam tells me, but by gum! I haven&#8217;t stopped caring about the goofy world have created for their free-to-play FPS. Valve have some of the funniest fun in games, and I don&#8217;t especially mind if the yaks come through webcomics rather...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1441187851,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "517126407359402898",
+				"title": "Classic Team Fortress: Steam Release For Fortress Forever",
+				"url": "http://store.steampowered.com/news/externalpost/rps/517126407359402898",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1427720436,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 11
+	}
+}

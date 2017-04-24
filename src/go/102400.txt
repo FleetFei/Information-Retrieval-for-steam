@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 102400,
+		"newsitems": [
+			{
+				"gid": "1514588200593707392",
+				"title": "Daily Deal - Vertex Dispenser, 66% off!",
+				"url": "http://store.steampowered.com/news/8736/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% off <a href=\"http://store.steampowered.com/app/102400/\">Vertex Dispenser</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/102400/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1346346000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1140750086014656514",
+				"title": "Vertex Dispenser demo out now on Steam",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/1140750086014656514",
+				"is_external_url": true,
+				"author": "",
+				"contents": "The video above is a trailer for Vertex Dispenser, a new indie puzzle game in which you must surround segments of a shape to capture it, and then the colours of your captured vertices to gain power for special abilities. You don't just fight for control of doughnuts, there are hundreds of shapes and...",
+				"feedlabel": "PC Gamer",
+				"date": 1308230397,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

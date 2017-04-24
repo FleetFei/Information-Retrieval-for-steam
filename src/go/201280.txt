@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 201280,
+		"newsitems": [
+			{
+				"gid": "1389607509680834442",
+				"title": "Deus Ex: Human Revolution 75% off on Steam, original Deus Ex cheap as chips",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/1389607509680834442",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2012/06/22/deus-ex-human-revolution-75-off-on-steam-original-deus-ex-cheap-as-chips/\" rel=\"bookmark\" title=\"Permanent Link to Deus Ex: Human Revolution 75% off on Steam, original Deus Ex cheap as chips\"> </a> \"Cheap as chips\" is a throwaway UK saying for something that has plunged straight through the realm of \"inexpensive,\" surpassed the grotty lands of \"surprisingly good value\" and come to rest in the sugary sands of \"tat.\" Few things in this world are cheaper than the pots of oily polystyrene packs ...",
+				"feedlabel": "PC Gamer",
+				"date": 1340374920,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1136257433231539001",
+				"title": "New DLC Available - Deus Ex: Human Revolution - The Missing Link",
+				"url": "http://store.steampowered.com/news/6542/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "New DLC is now available for <a href=\"http://store.steampowered.com/app/28050\">Deus Ex: Human Revolution</a>! The Deus Ex: Human Revolution conspiracy grows deeper in <a href=\"http://store.steampowered.com/app/201280/\">The Missing Link</a>. During Adam&#146;s quest for the truth in Deus Ex: Human Revolution, he mysteriously vanishes for three days. Where was he? What did he find out? The Missing Link reveal...",
+				"feedlabel": "Product Release",
+				"date": 1318893960,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 18700,
+		"newsitems": [
+			{
+				"gid": "510365936294662620",
+				"title": "We've released And Yet It Moves on iOS",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/510365936294662620",
+				"is_external_url": true,
+				"author": "mml",
+				"contents": "6 years after its Steam release, And Yet It Moves is finally launching on iOS. https://itunes.apple.com/app/id919968656 This is Steam and you obviously played the game on your PC. You sure have friends that enjoy playing on mobiles – or like to play on the go yourself. We'd be happy if you let peopl...",
+				"feedlabel": "Community Announcements",
+				"date": 1422552156,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1423373914985135504",
+				"title": "Daily Deal - And Yet It Moves, 75% off!",
+				"url": "http://store.steampowered.com/news/7415/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% off <a href=\"http://store.steampowered.com/app/18700/\">And Yet It Moves</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/18700/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1330193400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738298975698",
+				"title": "Update 1.3.0",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738298975698",
+				"is_external_url": true,
+				"author": "cheesus",
+				"contents": "What's New in this Version: 2 NEW GAMEPLAY MODIFICATIONS: Game Speed and Fixed Camera. Find them in the modifications menu. Have fun setting the game speed to 150%! BUG FIXES: - Enhanced startup process. - Game will not throttle anymore when in background. - Fixed that loading message was displayed ...",
+				"feedlabel": "Community Announcements",
+				"date": 1330011686,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 20
+	}
+}

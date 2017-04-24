@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 211820,
+		"newsitems": [
+			{
+				"gid": "75835955399929166",
+				"title": "Starbound to revamp space travel in future update",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/75835955399929166",
+				"is_external_url": true,
+				"author": "",
+				"contents": "When it&apos;s not working on its <a href=\"http://www.pcgamer.com/starbound-developer-shows-new-image-of-its-advance-wars-meets-fire-emblem-game/\">two new games</a>, Starbound developer Chucklefish finds the time to update, well, Starbound, its spacey, science fiction sandbox game. True to that, a new post on the <a href=\"http://playstarbound.com/spaceoff/\">Chuckleblog</a> sheds a bit of light on an upcoming patch that will revamp the way space travel works. You...",
+				"feedlabel": "PC Gamer",
+				"date": 1486918840,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "75835160708469980",
+				"title": "Midweek Madness - Starbound, 33% Off",
+				"url": "http://store.steampowered.com/news/27202/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 33% on <a href='http://store.steampowered.com/app/211820'>Starbound</a> during this week's Midweek Madness*! You&#146;ve fled your home, only to find yourself lost in space with a damaged ship. Your only option is to beam down to the planet below and gather the resources you need to repair your ship and set off to explore the vast, infinite univers...",
+				"feedlabel": "Announcement",
+				"date": 1486491000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "83715191658537022",
+				"title": "Starbound 1.2.2 Changelog",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/83715191658537022",
+				"is_external_url": true,
+				"author": "mollygos",
+				"contents": "Hey everyone! That unstable hotfix from last week is now a stable hotfix! Thank you to everyone who checked out the unstable branch and helped ensure we weren't releasing a hotbreak. Here's what we fixed: Fix a bug causing frequent save file corruption on Windows after power loss Fix generated monst...",
+				"feedlabel": "Community Announcements",
+				"date": 1484744059,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 100
+	}
+}

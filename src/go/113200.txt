@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 113200,
+		"newsitems": [
+			{
+				"gid": "75839596820050561",
+				"title": "The Binding of Isaac: Afterbirth+ gets its first 'mod booster'",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/75839596820050561",
+				"is_external_url": true,
+				"author": "",
+				"contents": "The Binding of Isaac: Afterbirth was, er, ushered into the world <a href=\"http://www.pcgamer.com/the-binding-of-isaac-afterbirth-goes-live-on-steam-today/\">a few months ago</a>, and if you&apos;re not up to date with the roguelikey action game and its various incarnations, know that it&apos;s basically The Binding of Isaac: Rebirth but with a load of additional tweaks and content, and modding...",
+				"feedlabel": "PC Gamer",
+				"date": 1490537929,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 113200
+			},
+			{
+				"gid": "91593954436077044",
+				"title": "The Binding of Isaac: Afterbirth+ goes live on Steam today",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/91593954436077044",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Today&apos;s <a href=\"http://bindingofisaac.com/post/155355804054/afterbirth-is-out\">announcement</a> that The Binding of Isaac: Afterbirth+ is live <a href=\"http://store.steampowered.com/app/570660/\">on Steam</a> was a bit premature, because at this particular moment it is actually not live at all. But it&apos;s coming, any minute now, possibly by the time you read this, and creator Edmund McMillen said in a message that while ...",
+				"feedlabel": "PC Gamer",
+				"date": 1483478743,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "91592690495186389",
+				"title": "The Binding of Isaac: Afterbirth+ gets a January launch date and a creepy teaser",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/91592690495186389",
+				"is_external_url": true,
+				"author": "",
+				"contents": "The <a href=\"http://www.pcgamer.com/the-binding-of-isaac/\">Binding of Isaac: Afterbirth+</a> isn&apos;t going to make it out before the end of the year, but it will come awfully close. Developer Edmund McMillen <a href=\"http://bindingofisaac.com/post/154255262019/for-those-of-you-who-are-blind-the-binding-of\">announced today</a> that the game will debut on Steam on January 3 with a full suite of mod tools, new items, trinkets, and pickups, a new final chapter...",
+				"feedlabel": "PC Gamer",
+				"date": 1481320581,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 60
+	}
+}

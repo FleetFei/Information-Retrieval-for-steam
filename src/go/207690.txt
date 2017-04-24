@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 207690,
+		"newsitems": [
+			{
+				"gid": "260456194800865783",
+				"title": "Have You Played Botanicula",
+				"url": "http://store.steampowered.com/news/externalpost/rps/260456194800865783",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (John Walker)",
+				"contents": "<em><a href=\"https://www.rockpapershotgun.com/tag/have-you-played/\">Have You Played?</a> is an endless stream of game retrospectives. One a day, every day of the year, perhaps for all time.</em> With <a href=\"https://www.rockpapershotgun.com/2016/03/24/samorost-3-review/\">Samorost 3</a> out last month, hopefully interest in creators Amanita Design is high. Perhaps you missed their utterly lovely <a href=\"https://www.rockpapershotgun.com/tag/Botanicula/\">Botanicula</a> ? &#8230; ",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1460901627,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "260456194798177839",
+				"title": "New Game From Amanita Design",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/260456194798177839",
+				"is_external_url": true,
+				"author": "Amanita Design",
+				"contents": "Check out Samorost 3 - the latest game from the makers of Machinarium and Botanicula: http://store.steampowered.com/app/421120",
+				"feedlabel": "Community Announcements",
+				"date": 1460837411,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "272839101170857220",
+				"title": "Wot I Think: Samorost 3",
+				"url": "http://store.steampowered.com/news/externalpost/rps/272839101170857220",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (John Walker)",
+				"contents": "<em>From the team most famous for Machinarium, Aminita Design, comes the third game in the Samorost series. Don&#8217;t worry if you&#8217;ve never heard of the first two &#8211; they were both tiny Flash games. <a href=\"https://www.rockpapershotgun.com/tag/Samorost-3/\">Samorost 3</a> is a full-length, full-screen adventure that requires no prior knowledge. How doe...</em>",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1458838832,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 14
+	}
+}

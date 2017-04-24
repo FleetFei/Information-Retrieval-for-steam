@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 210931,
+		"newsitems": [
+			{
+				"gid": "1533727235269025860",
+				"title": "Now Available - Killing Floor: Ash Hardy Character Pack DLC",
+				"url": "http://store.steampowered.com/news/8606/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/app/35429/\">Killing Floor: Ash Hardy Character Pack</a> is Now Available on Steam! After years earning the grudging respect of her male peers, Harding finally made captain - just as the Horzine nightmare erupted to destroy her ambitions, drowning Harding's elite military unit in blood and madness. Now Ash is a ...",
+				"feedlabel": "Product Release",
+				"date": 1344612300,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

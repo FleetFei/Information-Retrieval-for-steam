@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 201020,
+		"newsitems": [
+			{
+				"gid": "1514595968774561832",
+				"title": "College Basketball is Officially Dead to Video Games",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1514595968774561832",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/186fqj7x13f3kjpg/original.jpg\"> </a>For years, 2K Sports maintained server support for the final edition of its defunct series, like <em>All-Pro Football 2K8, NHL 2K10</em>, and, most importantly, <em>College Hoops 2K8</em>, where a robust user community was updating, re-rating and sharing rosters well into this year. It now appears online support for...",
+				"feedlabel": "Kotaku",
+				"date": 1353866400,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514588200409602169",
+				"title": "You Don't Have to Wait for NBA 2K13 to See Which Dream Team Would Win",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1514588200409602169",
+				"is_external_url": true,
+				"author": "",
+				"contents": "If you want to face off the 1992 USA \"Dream Team\" of basketball versus the 2012 edition, without waiting for <em>NBA 2K13</em>, <a href=\"http://forums.nba-live.com/downloads.php?view=detail&df_id=2600\">NLSC has the file you need,</a> provided you're playing <em>NBA 2K12</em> on a PC. ",
+				"feedlabel": "Kotaku",
+				"date": 1345674600,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1389605077273873288",
+				"title": "If He Doesn't Win Re-Election, President Obama Can Always Coach the Dallas Mavericks",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1389605077273873288",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/17nqltisebpf9jpg/original.jpg\"> </a>Or the Chicago Bulls. Or Golden State Warriors. Or any team in NBA 2K12's Association or My Player modes, <a href=\"http://www.reddit.com/r/gaming/comments/u3kbg/so_its_2019_in_my_nba2k12_basketball_franchise/\">as Reddit user soadfan09</a> discovered today. This has actually been known for some time, but it's still cool to see POTUS now as HCOTDM. He'll show up on the sidelines about three seasons into yo...",
+				"feedlabel": "Kotaku",
+				"date": 1337968800,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 21
+	}
+}

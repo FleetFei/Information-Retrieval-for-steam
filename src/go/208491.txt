@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 208491,
+		"newsitems": [
+			{
+				"gid": "1479695212957398384",
+				"title": "New DLC Available - Assassin’s Creed® III – The Hidden Secrets Pack",
+				"url": "http://store.steampowered.com/news/9569/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/208491/'>Assassin&#146;s Creed&reg; III &#150; The Hidden Secrets Pack</a>, all new content for <a href='http://store.steampowered.com/app/0/'>Assassin&#146;s Creed&reg; III</a> is Now Available on Steam! The Hidden Secrets Pack adds three extra missions, taking you from the Lost Mayan Ruins to the high seas. Every success is rewarded with an in-game weapon! You...",
+				"feedlabel": "Product Release",
+				"date": 1355251500,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

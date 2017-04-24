@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 201480,
+		"newsitems": [
+			{
+				"gid": "1515700145269698877",
+				"title": "Midweek Madness - From Holland With Love Pack",
+				"url": "http://store.steampowered.com/news/7710/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "From the land of windmills and wooden shoes, check out the <a href=\"http://store.steampowered.com/sub/14092/\">From Holland with Love Pack</a> during this week's Midweek Madness! This bundle has seven great indie games for a fantastic price! Plus, if you already own one of the titles in the pack, you'll receive an extra copy of that game to give to a fri...",
+				"feedlabel": "Announcement",
+				"date": 1334083500,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "775978688493628641",
+				"title": "So Many Sams: Indie Royale Gets Serious",
+				"url": "http://store.steampowered.com/news/externalpost/rps/775978688493628641",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "How many bundles are there? So many bundles. And here&#8217;s another from the folks at <a href=\"http://www.indieroyale.com/\">Indie Royale</a>. This time it&#8217;s what they&#8217;re calling a Lightning bundle, perhaps because it falls outside their normal release schedule. These types of bundle will, I believe, focus on one series or deve...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1327422528,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1227455739172835232",
+				"title": "WIT: Serious Sam – The Random Encounter",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1227455739172835232",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (John Walker)",
+				"contents": "",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1319535208,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

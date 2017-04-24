@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 201882,
+		"newsitems": [
+			{
+				"gid": "1423373915037702597",
+				"title": "Midweek Madness - Assassin's Creed Revelations, 50% off!",
+				"url": "http://store.steampowered.com/news/7435/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Take 50% off <a href=\"http://store.steampowered.com/app/201870/\">Assassin's Creed Revelations</a> during this week's Midweek Madness*! In Assassin&#146;s Creed&reg; Revelations, master assassin Ezio Auditore walks in the footsteps of the legendary mentor Altair, on a journey of discovery and revelation. It is a perilous path &#150; one that will take Ezi...",
+				"feedlabel": "Announcement",
+				"date": 1330469760,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

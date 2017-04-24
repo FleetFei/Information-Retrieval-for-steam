@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 207060,
+		"newsitems": [
+			{
+				"gid": "1479694159139710913",
+				"title": "Will Anyone Really Care If There's No More Baseball on the Xbox 360?",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1479694159139710913",
+				"is_external_url": true,
+				"author": "",
+				"contents": "The first week after Thanksgiving is typically when <em>MLB The Show</em>'s publicity machine rolls out the first screenshots and begins teasing upcoming details for the game, and right on schedule <a href=\"http://kotaku.com/5964770/your-first-look-at-the-only-baseball-youre-getting-in-2013/gallery/\">we got them this past week.</a> <em>The Show</em> has had no serious competition for five years. Next year it won't have any...",
+				"feedlabel": "Kotaku",
+				"date": 1354469400,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1533724603043201981",
+				"title": "Did MLB 2K12 Bring Together an All-Star Pitcher and This Swimsuit Model?",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1533724603043201981",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Rumors are flying that Kate Upton, the cover model for this year's Swimsuit Edition of Sports Illustrated, is now dating Justin Verlander, <a href=\"http://kotaku.com/5871770/an-mvp-graces-mlb-2k12s-cover\">the cover model for, well, <em>Major League Baseball 2K12</em></a>. And <a href=\"http://kotaku.com/5885511/sports-illustrateds-swimsuit-cover-girl-shows-mlb-2k12-how-to-push-her-buttons\">a series of promotional shoots for that video game</a>, according to unnamed sources, is what brought the ...",
+				"feedlabel": "Kotaku",
+				"date": 1342117800,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1388479970773551800",
+				"title": "MLB 2K12 is Finally Getting Patched",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1388479970773551800",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/17on71ebiyuonjpg/original.jpg\"> </a>Nearly three months after its release, <em>Major League Baseball 2K12</em> got its first and possibly only title update yesterday, a development that leaves a few more tea leaves pointing to the end of the title. The game went without a patch from its release March 6, despite a few conspicuous bugs that aro...",
+				"feedlabel": "Kotaku",
+				"date": 1338742800,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 9
+	}
+}

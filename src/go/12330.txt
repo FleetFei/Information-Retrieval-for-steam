@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 12330,
+		"newsitems": [
+			{
+				"gid": "524845354867671364",
+				"title": "DarkStar One Trailer Goes Pew Pew on Xbox 360",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/524845354867671364",
+				"is_external_url": true,
+				"author": "Chris Faylor",
+				"contents": "The revamped Xbox 360 edition of Darkstar One is due soon--Europe gets it June 4, followed by North America on July 6--so publisher Kalypso has put out a new trailer. Described as a \"space shooter/RPG,\" the Xbox 360 release--fully titled DarkStar One - Broken Alliance--packs enhanced visuals and oth...",
+				"feedlabel": "Shacknews",
+				"date": 1272493980,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

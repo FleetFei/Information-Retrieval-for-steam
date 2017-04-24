@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 204315,
+		"newsitems": [
+			{
+				"gid": "1027114127646099588",
+				"title": "Now Available on Steam - Awesomenauts - Private Mels",
+				"url": "http://store.steampowered.com/news/11866/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/204315/'>Awesomenauts - Private Mels</a> all new content for <a href='http://store.steampowered.com/app/204300/'>Awesomenauts</a> is Now Available on Steam! Mels is a cool kid that visited the Ronimo studio some months ago as part of a day that was organized for him by the Make-A-Wish Foundation. The Make-A-Wish Foundations is a non-profit organisation that grants wi...",
+				"feedlabel": "Product Release",
+				"date": 1384449720,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

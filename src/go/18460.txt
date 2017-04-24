@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 18460,
+		"newsitems": [
+			{
+				"gid": "91592053105650195",
+				"title": "Issues with applications configuration....",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/91592053105650195",
+				"is_external_url": true,
+				"author": "ImALittleBear",
+				"contents": "Hello Crazy Machines Fans! It has come to our attention that there may be an issue with the way our Crazy Machines 1.5 is delivered to our customers. If you could provide us more information on the behavior of the program when you install, we would appreciate it. So far, we've received a couple of r...",
+				"feedlabel": "Community Announcements",
+				"date": 1480612086,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

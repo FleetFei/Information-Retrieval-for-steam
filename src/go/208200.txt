@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 208200,
+		"newsitems": [
+			{
+				"gid": "241332569605362703",
+				"title": "Midweek Madness - the DOOM Franchise, up to 50% Off",
+				"url": "http://store.steampowered.com/news/24953/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 50% on the <a href='http://store.steampowered.com/sale/doom/'>DOOM Franchise</a> during this week's Midweek Madness*! DOOM returns as a brutally fun and challenging modern-day shooter experience. Relentless demons, impossibly destructive guns, and fast, fluid movement provide the foundation for intense, first-person combat. *Offer ends Tuesda...",
+				"feedlabel": "Product Release",
+				"date": 1476814200,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "377538367933305925",
+				"title": "Weekend Deal - DOOM Franchise, up to 75% Off",
+				"url": "http://store.steampowered.com/news/19647/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on the <a href='http://store.steampowered.com/sale/doom/'>DOOM franchise</a> as part of this week's Weekend Deal*! To celebrate #doomsday and the pre-purchase of <a href='http://store.steampowered.com/sale/doom/'>DOOM</a>, we are offering up to 75% off the DOOM Franchise on Steam. *Offer ends Monday at 10AM Pacific Time <a href=\"http://store.steampowered.com/sale/doom/\"> </a>",
+				"feedlabel": "Product Release",
+				"date": 1449772980,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "919043659054105742",
+				"title": "Daily Deal - Doom 3: BFG Edition, 75% Off",
+				"url": "http://store.steampowered.com/news/13293/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/208200/'>Doom 3: BFG Edition</a>, <a href=\"http://store.steampowered.com/app/9050/\">DOOM 3</a>, <a href=\"http://store.steampowered.com/app/2280/\">Ultimate DOOM</a>, <a href=\"http://store.steampowered.com/app/2300/\">DOOM II</a> and <a href=\"http://store.steampowered.com/app/2290/\">Final DOOM</a> !* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Monday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/208200/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1399741200,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 7
+	}
+}

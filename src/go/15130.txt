@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 15130,
+		"newsitems": [
+			{
+				"gid": "1515720987448120504",
+				"title": "Fans Waiting for the Beyond Good  Evil Sequel Just Have to Keep Waiting, Ubisoft Head Confirms",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1515720987448120504",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/18587sseaijt7jpg/original.jpg\"> </a> Fans of <em>Beyond Good & Evil</em> have been waiting a very long time for a sequel. The game, which came out in 2003, was envisioned as part of a trilogy but as the years have gone by, fans have let their expectations wane. A 2011 HD re-release seemed to be it for a while, until some <a href=\"http://kotaku.com/5911849/a-few-more-beyond-good--evil-2-screenshots\">screenshots</a> from <em>Beyo...</em>",
+				"feedlabel": "Kotaku",
+				"date": 1352842200,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1389604433866276319",
+				"title": "A Few More Beyond Good  Evil 2 Screenshots",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1389604433866276319",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/17n987go94u03jpg/original.jpg\"> </a>Over the weekend, some supposed new screenshots of <em>Beyond Good & Evil 2</em> - <a href=\"http://kotaku.com/5909555/finally-a-good-look-at-beyond-good--evil-2s-detailed-dirty-environments?tag=beyondgoodevil2\">or at least <em>BG&E2's</em> tech demo</a> - look to have turned up. Interestingly, while they share the same setting <a href=\"http://kotaku.com/5909396/looks-like-weve-got-some-more-screens-from-beyond-good--evil-2/gallery/1?tag=beyondgoodevil2\">as the last screens</a> (and the tech demo video), these actually have star Jade front and centre, and show sequences not de...",
+				"feedlabel": "Kotaku",
+				"date": 1337551200,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1569747879167817796",
+				"title": "Finally, A Good Look at Beyond Good  Evil 2’s Detailed, Dirty Environments",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1569747879167817796",
+				"is_external_url": true,
+				"author": "",
+				"contents": "It's been a virtual flood of leaks and glimpses this week for <em>Beyond Good & Evil 2</em>. There've been comments about tech requirements and a screenshot of the sequel's gameworld. Now, a video flythrough of the environmental design has popped up. Now, this footage has popped up before in <a href=\"http://kotaku.com/5861705/theres-new-beyond-good--evil-2-footage-though-it-sucks\">a presentation t...</a>",
+				"feedlabel": "Kotaku",
+				"date": 1336734000,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 29
+	}
+}

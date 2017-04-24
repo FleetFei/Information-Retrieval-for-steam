@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 207190,
+		"newsitems": [
+			{
+				"gid": "1477467113466683239",
+				"title": "New Weeklong Sales Available on Steam",
+				"url": "http://store.steampowered.com/news/11376/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up 50-75% on new Week Long Deals on Steam, available now until September 2nd at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/203250/\"> </a> <a href=\"http://store.steampowered.com/app/223470/\"> </a> <a href=\"http://store.steampowered.com/app/232770/\"> </a> <a href=\"http://store.steampowered.com/app/234940/\"> </a> <a href=\"http://store.steampowered.com/app/205910/\"> </a> <a href=\"http://store.steampowered.com/app/207190/\"> </a> <a href=\"http://store.steampowered.com/app/204760/\"> </a> <a href=\"http://store.steampowered.com/app/46420/\"> </a> <a href=\"http://store.steampowered.com/app/46430/\"> </a> <a href=\"http://store.steampowered.com/app/211180/\"> </a> <a href=\"http://store.steampowered.com/app/215770/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1378145460,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1462817319971088748",
+				"title": "New Weeklong Deals are now on Steam!",
+				"url": "http://store.steampowered.com/news/10362/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on this week's Week Long Deals on Steam, available now until April 15th at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/91900/\"> </a> <a href=\"http://store.steampowered.com/app/207190/\"> </a> <a href=\"http://store.steampowered.com/app/6270/\"> </a> <a href=\"http://store.steampowered.com/app/61000/\"> </a> <a href=\"http://store.steampowered.com/app/18300/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1365440880,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1513451426135979805",
+				"title": "Now Available - Fireburst, 20% off!",
+				"url": "http://store.steampowered.com/news/7829/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/207190/\">Fireburst</a> is Now Available on Steam and 20% off until Wednesday, May 2nd at 10AM PST. Blast opponents off the road with Fireburst, an explosively fun fast-paced arcade style racing game with fantastic graphics. Rev up to scorching speeds to outrun opponents on a dozen different tracks, setting them ...",
+				"feedlabel": "Product Release",
+				"date": 1335376320,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

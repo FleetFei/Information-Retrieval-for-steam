@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 213670,
+		"newsitems": [
+			{
+				"gid": "251457560657406892",
+				"title": "Fart Bigger In South Park: The Fractured But Whole",
+				"url": "http://store.steampowered.com/news/externalpost/rps/251457560657406892",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Steven Messner)",
+				"contents": "<a href=\"https://www.rockpapershotgun.com/tag/south-park-the-fractured-but-whole/\">South Park: The Fractured But Whole</a> isn&#8217;t just content to offer up another round of hilarious role-playing, it will also be improving on the fundamentals of The Stick of Truth including some pretty epic farts that can tear a hole in the time-space continuum. In a recently released developer di...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1469462181,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "371904442451265615",
+				"title": "Weekend Deal - South Park : The Stick of Truth , 75% Off",
+				"url": "http://store.steampowered.com/news/18973/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 75% on <a href='http://store.steampowered.com/app/213670/'>South Park&trade;: The Stick of Truth&trade;</a> as part of this week's Weekend Deal*! From the perilous battlefields of the fourth-grade playground, a young hero will rise, destined to be South Park&#146;s savior. From the creators of South Park, Trey Parker and Matt Stone, comes an epic qu...",
+				"feedlabel": "Announcement",
+				"date": 1445533500,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "517127039051043113",
+				"title": "Midweek Madness - South Park : The Stick of Truth , 66% Off",
+				"url": "http://store.steampowered.com/news/16238/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 66% on <a href='http://store.steampowered.com/app/213670'>South Park&trade;: The Stick of Truth&trade;</a> during this week's Midweek Madness*! From the perilous battlefields of the fourth-grade playground, a young hero will rise, destined to be South Park&#146;s savior. From the creators of South Park, Trey Parker and Matt Stone, comes an epic que...",
+				"feedlabel": "Announcement",
+				"date": 1428426000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 11
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 209080,
+		"newsitems": [
+			{
+				"gid": "75842128755877904",
+				"title": "ALLIANCE GAZETTE VOL.4",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75842128755877904",
+				"is_external_url": true,
+				"author": "Keyvias",
+				"contents": "Greetings Fellow Sky captains and Crews! Yeshan are being testing now! We got to fight chargers and strikers (not their final name) and their mighty boss, the Eviscerator. If you want to be the first to see all the content we’re working on. Follow us at twitch.tv/gunsoficarus where we show off every...",
+				"feedlabel": "Community Announcements",
+				"date": 1492631113,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 209080
+			},
+			{
+				"gid": "75841595748584610",
+				"title": "ALLIANCE GAZETTE VOL.3",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75841595748584610",
+				"is_external_url": true,
+				"author": "Keyvias",
+				"contents": "Greetings Fellow Sky captains and Crews! Things broke! But, that’s what should happen in testing and this one looked really interesting. While the team works hard on the fixes and changes to the world map (details incoming!) we continued our work on Ambush and night maps! Remember, if you want to se...",
+				"feedlabel": "Community Announcements",
+				"date": 1492113622,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 209080
+			},
+			{
+				"gid": "75840229423779500",
+				"title": "ALLIANCE GAZETTE VOL.2",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75840229423779500",
+				"is_external_url": true,
+				"author": "Keyvias",
+				"contents": "http://gunsoficarus.com/wp-content/uploads/2017/04/Screen-Shot-2017-04-11-at-4.05.07-PM.png Greetings Fellow Sky captains and Crews! Week 2 begins with an eclipse. We just released a hotfix to address a lot of the feedback we have received.  You can find all the notes here. While we squash bugs thou...",
+				"feedlabel": "Community Announcements",
+				"date": 1492017100,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 209080
+			}
+		]
+		,
+		"count": 181
+	}
+}

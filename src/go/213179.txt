@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 213179,
+		"newsitems": [
+			{
+				"gid": "1479694818706325843",
+				"title": "Now Available for Mac - The Lord of the Rings Online",
+				"url": "http://store.steampowered.com/news/9537/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/212500/'>The Lord of the Rings Online</a> is Now Available for Mac on Steam! In The Lord of the Rings Online&trade;, join the world&#146;s greatest fellowship of players in the award-winning online re-creation of J. R. R. Tolkien&#146;s legendary Middle-earth. From the crumbling, shadowed ruins of Weathertop to ...",
+				"feedlabel": "Product Release",
+				"date": 1354904940,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

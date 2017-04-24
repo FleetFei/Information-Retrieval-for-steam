@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 211440,
+		"newsitems": [
+			{
+				"gid": "378660375676849458",
+				"title": "Mac and Linux versions now available",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/378660375676849458",
+				"is_external_url": true,
+				"author": "SmudgedCat",
+				"contents": "It's been a long time coming but The Adventures of Shuggy is now available to play on Linux and OSX.",
+				"feedlabel": "Community Announcements",
+				"date": 1446232965,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1027115944945397969",
+				"title": "Shuggy merchandise now available",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1027115944945397969",
+				"is_external_url": true,
+				"author": "SmudgedCat",
+				"contents": "The Adventures of Shuggy merchandise is now available to buy including t-shirts, hats, bags and cups. http://www.cafepress.com/smudgedcat ",
+				"feedlabel": "Community Announcements",
+				"date": 1386240461,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1460569840373101088",
+				"title": "New Weeklong Deals are Now Available!",
+				"url": "http://store.steampowered.com/news/10697/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on new Week Long Deals on Steam, available now until June 3rd at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/46400/\"> </a> <a href=\"http://store.steampowered.com/app/227200/\"> </a> <a href=\"http://store.steampowered.com/app/227080/\"> </a> <a href=\"http://store.steampowered.com/app/211260/\"> </a> <a href=\"http://store.steampowered.com/app/39650/\"> </a> <a href=\"http://store.steampowered.com/app/210550/\"> </a> <a href=\"http://store.steampowered.com/app/211440/\"> </a> <a href=\"http://store.steampowered.com/sub/12467\"> </a> <a href=\"http://store.steampowered.com/app/70600/\"> </a> <a href=\"http://store.steampowered.com/app/214360/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1369674000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 5
+	}
+}

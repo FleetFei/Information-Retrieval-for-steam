@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 200710,
+		"newsitems": [
+			{
+				"gid": "75840229423752478",
+				"title": "Daily Deal - Torchlight II, 75% Off",
+				"url": "http://store.steampowered.com/news/28815/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/200710/'>Torchlight II</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Friday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/200710/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1492016400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 200710
+			},
+			{
+				"gid": "295353300243254869",
+				"title": "Daily Deal - Torchlight II, 75% Off",
+				"url": "http://store.steampowered.com/news/20369/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/200710/'>Torchlight II</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Monday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/200710/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1455386400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "409054598174989579",
+				"title": "Daily Deal - Torchlight II, 75% Off",
+				"url": "http://store.steampowered.com/news/18307/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/200710/'>Torchlight II</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Tuesday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/200710/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1441558800,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 35
+	}
+}

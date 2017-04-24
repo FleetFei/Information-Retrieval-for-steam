@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 19320,
+		"newsitems": [
+			{
+				"gid": "1461665741271801135",
+				"title": "Daily Deal - Space Ark, 75% off!",
+				"url": "http://store.steampowered.com/news/8312/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% off <a href=\"http://store.steampowered.com/app/19320/\">Space Ark</a>! Look for the deals each day on the front page of Steam. Or follow us on <a href=\"http://twitter.com/steam_games\">twitter</a> or <a href=\"http://www.facebook.com/Steam\">Facebook</a> for instant notifications wherever you are! <a href=\"http://store.steampowered.com/app/19320/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1341248700,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1443641916896697829",
+				"title": "Now Available - Space Ark",
+				"url": "http://store.steampowered.com/news/7509/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/19320/\">Space Ark</a> is Now Available on Steam and is 10% off for the first week! Space Ark is a fun arcade/puzzle game with a hint of retro arcade flavour. Your team of animal &#145;Arkonauts&#146; has escaped your once peaceful solar system, which has been shattered by a wandering black hole, and are now loo...",
+				"feedlabel": "Product Release",
+				"date": 1331925900,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

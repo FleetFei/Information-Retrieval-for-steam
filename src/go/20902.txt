@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 20902,
+		"newsitems": [
+			{
+				"gid": "919035892212502731",
+				"title": "The Witcher series gets free Steam weekend",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/919035892212502731",
+				"is_external_url": true,
+				"author": "Andrew Yoon",
+				"contents": "If you've yet to experience CD Projekt RED's RPG series, you'll be able to jump in for free this weekend on Steam. Both <a href=\"http://store.steampowered.com/app/20900/\" target=\"blank\">The Witcher Enhanced Edition</a> and <a href=\"http://store.steampowered.com/app/20920/\" target=\"blank\">The Witcher 2: Assassins of Kings</a> will be free to play until Sunday, 1PM PT.",
+				"feedlabel": "Shacknews",
+				"date": 1392378300,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1533724603032472486",
+				"title": "Witcher series sells 4 million",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1533724603032472486",
+				"is_external_url": true,
+				"author": "Steve Watts",
+				"contents": "The Witcher series has sold more than 4 million copies across its two main series titles, according to CD Projekt RED. The combined sales of <a href=\"http://www.shacknews.com/game/the-witcher\">The Witcher</a> and <a href=\"http://www.shacknews.com/game/the-witcher-2-assassins-of-kings\">The Witcher 2: Assassins of Kings</a> have hit the healthy number across the PC, Mac, and Xbox 360. The Witcher: Versus or the interactive comic fo...",
+				"feedlabel": "Shacknews",
+				"date": 1342072800,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1515700145121239236",
+				"title": "Witcher dev giving away \"legendary\" PC RPG free on GOG.com on Thursday",
+				"url": "http://store.steampowered.com/news/externalpost/eurogamer/1515700145121239236",
+				"is_external_url": true,
+				"author": "",
+				"contents": "CD Projekt Red will give away a \"legendary\" PC RPG for free on GOG.com this Thursday, 5th April, Eurogamer can reveal. The giveaway coincides with CD Projekt's Spring Conference, which is being streamed live at 5pm GMT (presumably 6pm BST). Note that giveaway has nothing to do with the \"extraordinar...",
+				"feedlabel": "Eurogamer",
+				"date": 1333369560,
+				"feedname": "eurogamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 10
+	}
+}

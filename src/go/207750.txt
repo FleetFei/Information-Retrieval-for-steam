@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 207750,
+		"newsitems": [
+			{
+				"gid": "377537016002154133",
+				"title": "Now LIVE: Non-Latin character support, \"Play NEXT\"  \"RANDOM\" (Build 1451)",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/377537016002154133",
+				"is_external_url": true,
+				"author": "Empty Clip Studios",
+				"contents": "Hello everyone! Following a break-in period in beta, we are putting Build 1451 on the live branch, since there have been no reported issues with this new build. As mentioned in the previous announcement, this build contains non-Latin character support as well as new \"play next\" and \"play random\" fun...",
+				"feedlabel": "Community Announcements",
+				"date": 1448483955,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "377536659000489671",
+				"title": "Big update: Non-Latin character support, \"Play NEXT\"  \"RANDOM\", now in PC beta! (Build 1450)",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/377536659000489671",
+				"is_external_url": true,
+				"author": "Empty Clip Studios",
+				"contents": "Hello everyone! We're really excited to announce that a large update that's been a long time coming and has now hit beta. In addition to bug fixes, we finally finished re-factoring our font engine to handle multiple non-Latin character sets simultaneously. It's a rather large backend upgrade, so def...",
+				"feedlabel": "Community Announcements",
+				"date": 1448135519,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "424811489620124963",
+				"title": "Build 1170 (PC): Fixes for start-up issues",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/424811489620124963",
+				"is_external_url": true,
+				"author": "Empty Clip Studios",
+				"contents": "Thanks to your reports, we think we finally nailed the startup issue affecting some systems with Raptr and XFire overlays. This definitely fixes it on our test systems, let us know! This build also fixes a couple of other reported issues. On the horizon: we've got some long-requested features we've ...",
+				"feedlabel": "Community Announcements",
+				"date": 1436282184,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 22
+	}
+}

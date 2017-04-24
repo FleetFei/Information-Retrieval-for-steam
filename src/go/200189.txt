@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 200189,
+		"newsitems": [
+			{
+				"gid": "1514593284420749845",
+				"title": "New DLC Available - Worms Revolution: Funfair Pack",
+				"url": "http://store.steampowered.com/news/9179/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/app/200189/\">Funfair Pack</a>, new content for <a href=\"http://store.steampowered.com/app/200170/\">Worms Revolution</a> is Now Available on Steam. The Funfair Pack includes: * - 5 new single player puzzle missions. * - A stunning new Funfair theme for Worms&trade; Revolution that can be used in local and online matches. * - Armageddon, Skunk, Napalm Strike and the br...",
+				"feedlabel": "Product Release",
+				"date": 1351098480,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

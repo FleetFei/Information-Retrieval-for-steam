@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 204185,
+		"newsitems": [
+			{
+				"gid": "1497714198941338717",
+				"title": "Now Available - Waveform Soundtrack",
+				"url": "http://store.steampowered.com/news/9862/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The<a href='http://store.steampowered.com/app/204185/'>Soundtrack to Waveform</a> is Now Available on Steam! Experience the musical masterpiece that accompanied the critically acclaimed Waveform. This collection of stellar sound-waves composed by Scott McFadyen is the perfect companion piece to the light-wave riding gameplay of Waveform. Let it take your...",
+				"feedlabel": "Product Release",
+				"date": 1359651360,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

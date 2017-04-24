@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 201700,
+		"newsitems": [
+			{
+				"gid": "75837063479254992",
+				"title": "Daily Deal - DiRT Showdown, 90% Off",
+				"url": "http://store.steampowered.com/news/27778/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 90% on <a href='http://store.steampowered.com/app/201700/'>DiRT Showdown</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Monday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/201700/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1488045600,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 201700
+			},
+			{
+				"gid": "378661646680365426",
+				"title": "DiRT Showdown - Play it on your Steam Machine",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/378661646680365426",
+				"is_external_url": true,
+				"author": "Stgx",
+				"contents": "DiRT Showdown is now available to play on your Steam Machine! To celebrate this historic event - enjoy an 80% discount through this week and weekend!",
+				"feedlabel": "Community Announcements",
+				"date": 1447254791,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "423688185540411584",
+				"title": "70% Off DiRT Showdown!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/423688185540411584",
+				"is_external_url": true,
+				"author": "david.hatton",
+				"contents": "70% Off DiRT Showdown! Race, crash and hoon your way through a world tour of motorised mayhem in DiRT Showdown! Crowd atmosphere, social gameplay and accessibility are all ramped up in this turbo- injected shot of driving delirium. Smash down the accelerator and earn the adulation of frenzied crowds...",
+				"feedlabel": "Community Announcements",
+				"date": 1438373231,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 13
+	}
+}

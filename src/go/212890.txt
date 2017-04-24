@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 212890,
+		"newsitems": [
+			{
+				"gid": "1459442480520760208",
+				"title": "New DLC Available - Dishonored - Void Walker Arsenal",
+				"url": "http://store.steampowered.com/news/10602/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/212890/'>Dishonored - Void Walker Arsenal</a>, all new content for <a href='http://store.steampowered.com/app/0/'>Dishonored</a> is Now Available on Steam. The gifts of the Outsider are bestowed unto those who walk the Void. With the Void Walker&#146;s Arsenal add-on pack, gain immediate access to four content bundles previously available only through pre-orderi...",
+				"feedlabel": "Product Release",
+				"date": 1368550920,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

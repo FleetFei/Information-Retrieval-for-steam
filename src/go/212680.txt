@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 212680,
+		"newsitems": [
+			{
+				"gid": "75838332257358142",
+				"title": "Daily Deal - FTL: Faster Than Light, 75% Off",
+				"url": "http://store.steampowered.com/news/28014/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/212680/'>FTL: Faster Than Light</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Saturday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/212680/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1489082400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 212680
+			},
+			{
+				"gid": "75837698134612338",
+				"title": "Into The Breach: FTL follow-up is smart, tense and surprising",
+				"url": "http://store.steampowered.com/news/externalpost/rps/75837698134612338",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "Within a couple of minutes of sitting down with Justin Ma and a build of his new game, <a href=\"https://www.rockpapershotgun.com/tag/into-the-breach/\">Into the Breach</a> , preconceptions are torn to shreds. Ma is one half of the team behind FTL and when Into the Breach was announced, I wasn t alone in thinking it looked like tactical skirmisher Advance Wars, with a...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1488387600,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 212680
+			},
+			{
+				"gid": "75835955392668085",
+				"title": "FTL devs announce tactical kaiju battler Into The Breach",
+				"url": "http://store.steampowered.com/news/externalpost/rps/75835955392668085",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Adam Smith)",
+				"contents": "The creators of <a href=\"https://www.rockpapershotgun.com/tag/FTL:-Faster-Than-Light/\">FTL</a> have announced their next game, Into the Breach , and it looks a bit like the isometric, tactical version of EDF I&#8217;ve always wanted. Tasked with defending the last remnants of humanity from giant monsters, you&#8217;ll protect cities and fight monsters in randomly generated...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1486744978,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 81
+	}
+}

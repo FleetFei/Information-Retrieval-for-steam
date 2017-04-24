@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 202652,
+		"newsitems": [
+			{
+				"gid": "1461706326582506422",
+				"title": "Now Available - Steel Storm: Forgotten Prison DLC",
+				"url": "http://store.steampowered.com/news/11513/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/202652/'>Steel Storm: Forgotten Prison DLC</a> is Now Available on Steam Steel Storm: Forgotten Prison DLC will bring you back into Steel Storm's universe after a prolonged period of peace. The command of Royal Interstellar Armored Corps (R.I.A.C.) discovered ongoing activity at their long abandoned installation...",
+				"feedlabel": "Product Release",
+				"date": 1380043620,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

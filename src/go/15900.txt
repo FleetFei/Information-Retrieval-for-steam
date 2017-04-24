@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 15900,
+		"newsitems": [
+			{
+				"gid": "919037794723645313",
+				"title": "Updated to V.1.0.30 - 7 Wonders 2",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/919037794723645313",
+				"is_external_url": true,
+				"author": "GamerByDay",
+				"contents": "We have updated the Steam build of 7 Wonders 2 to V.1.0.30. This allows compatibility with Windows 8, as well as a few bug fixes. We apologize for any saved games that are lost, but feel the update is necessary to keep the game on Steam. Happy Gaming!",
+				"feedlabel": "Community Announcements",
+				"date": 1394570340,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

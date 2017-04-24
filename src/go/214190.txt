@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 214190,
+		"newsitems": [
+			{
+				"gid": "255953140173131928",
+				"title": "New Server Tools are Live!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/255953140173131928",
+				"is_external_url": true,
+				"author": "Minimum",
+				"contents": "Greetings Minimum Players! We are excited to announce that after some great feedback during beta, a new build is up on the main branch, and Minimum is back up in the store (with a \"welcome back\" sale price!). If you didn't get a chance to check out the beta, here are some highlights: Player Hosted S...",
+				"feedlabel": "Community Announcements",
+				"date": 1461274916,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "260456194805402361",
+				"title": "New Build, New Browsers!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/260456194805402361",
+				"is_external_url": true,
+				"author": "Minimum",
+				"contents": "Greetings Minimum Users! After a few weeks of beta, we’ve taken some great feedback from the community and made some significant updates to the game. Our big focus has been on visualization and transparency for the new server system (Please note, this is still on the BETA BRANCH). Among other fixes:...",
+				"feedlabel": "Community Announcements",
+				"date": 1461010157,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "272839101167794973",
+				"title": "Beta Tomorrow!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/272839101167794973",
+				"is_external_url": true,
+				"author": "Minimum",
+				"contents": "Greetings Minimum Fans, Minimum is back! Players will find the game they’ve come to know and love in great shape, with all the action that brought them here in the first place intact. We’ve made a few tweaks that we think will make for an overall improved experience. We're going to run a quick beta ...",
+				"feedlabel": "Community Announcements",
+				"date": 1458765812,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 85
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 15960,
+		"newsitems": [
+			{
+				"gid": "919043499634540581",
+				"title": "Little Farm Updated - Patched for Win 8 / 8.1 Machines",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/919043499634540581",
+				"is_external_url": true,
+				"author": "GamerByDay",
+				"contents": "We released a patch to take care of launching issues on Windows 8 & 8.1. Thanks to the community for their feedback. Happy Gaming!",
+				"feedlabel": "Community Announcements",
+				"date": 1399488931,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

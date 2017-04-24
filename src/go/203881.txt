@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 203881,
+		"newsitems": [
+			{
+				"gid": "1514588200525737797",
+				"title": "New DLC Available - Microsoft Flight: C-46",
+				"url": "http://store.steampowered.com/news/8731/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/app/203881\">C-46</a>, new content for <a href=\"http://store.steampowered.com/app/203850/\">Microsoft Flight</a>, is now available on Steam! A king-sized bush plane that's perfect for the wilds of Alaska, the C-46 was originally built as a cargo and troop transport during WWII. This twin-engine aircraft can carry up to 17,000 pounds of fuel and cargo to almost any rem...",
+				"feedlabel": "Product Release",
+				"date": 1346086980,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

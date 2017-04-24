@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 209811,
+		"newsitems": [
+			{
+				"gid": "1514593284398449464",
+				"title": "New DLC Available - XCOM: Enemy Unknown Elite Soldier Pack",
+				"url": "http://store.steampowered.com/news/9162/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/app/209811/\">XCOM: Enemy Unknown Elite Soldier Pack</a> is Now Available for <a href=\"http://store.steampowered.com/app/200510/\">XCOM: Enemy Unknown</a> on Steam. Customize your squad with three new bonus items. Instantly unlock a new recruit in your barracks inspired by the original X-COM: UFO Defense. Outfit your soldiers with specialized armor upgrades including t...",
+				"feedlabel": "Product Release",
+				"date": 1351012860,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

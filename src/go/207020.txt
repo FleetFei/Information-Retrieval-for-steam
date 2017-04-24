@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 207020,
+		"newsitems": [
+			{
+				"gid": "1389606335927754088",
+				"title": "Now Available - Bang Bang Racing",
+				"url": "http://store.steampowered.com/news/8159/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/207020/\">Bang Bang Racing</a> is Now Available on Steam and 15% off until Friday, June 15th 10AM PDT! Bang Bang Racing delivers fast-paced racing around every corner and down every straight. Drive high-speed, pumped-up racing cars through cones, tires and exploding barrels! Be one step ahead of your competitors,...",
+				"feedlabel": "Product Release",
+				"date": 1339173540,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

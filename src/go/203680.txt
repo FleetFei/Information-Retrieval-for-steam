@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 203680,
+		"newsitems": [
+			{
+				"gid": "1477466580268456363",
+				"title": "Pre-Purchase Now - F1 2013™",
+				"url": "http://store.steampowered.com/news/11334/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Pre-Purchase <a href=\"http://store.steampowered.com/app/223670/\">F1 2013</a> and get 10% off*. Also by pre-purchasing you help unlock other special rewards. Possible rewards include a free copy of <a href=\"http://store.steampowered.com/app/203680/\">F1 RACESTARS</a>, a 50% off Coupon for any Codemasters title on Steam, and a free copy of <a href='http://store.steampowered.com/app/208500/'>F1 2012</a>. Check out the <a href='http://store.steampowered.com/app/223670/'>store page</a> for more details. Make history in FORMU...",
+				"feedlabel": "Announcement",
+				"date": 1377637440,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1495465667716188679",
+				"title": "New Weeklong Deals are now on Steam!",
+				"url": "http://store.steampowered.com/news/10115/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save up to 75% on this week's Week Long Deals on Steam, available now until March 18th at 10AM Pacific time! <a href=\"http://store.steampowered.com/app/39690/\"> </a> <a href=\"http://store.steampowered.com/app/220460/\"> </a> <a href=\"http://store.steampowered.com/app/218310/\"> </a> <a href=\"http://store.steampowered.com/app/208140/\"> </a> <a href=\"http://store.steampowered.com/app/550/\"> </a> <a href=\"http://store.steampowered.com/app/205950/\"> </a> <a href=\"http://store.steampowered.com/app/107800/\"> </a> <a href=\"http://store.steampowered.com/app/208500/\"> </a> <a href=\"http://store.steampowered.com/app/203680/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1363021320,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1479695995991337234",
+				"title": "New DLC Available - F1 Race Stars - Canada, India, and China Tracks",
+				"url": "http://store.steampowered.com/news/9700/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Three new tracks are available for <a href='http://store.steampowered.com/app/203680/'>F1 RACE STARS&trade;</a> on Steam! <a href=\"http://store.steampowered.com/app/220813/\">F1 Race Stars - China Track</a> <a href=\"http://store.steampowered.com/app/220811/\">F1 Race Stars - India Track</a> <a href=\"http://store.steampowered.com/app/220812/\">F1 Race Stars - Canada Track</a> <a href=\"http://store.steampowered.com/app/203680/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1357604580,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 7
+	}
+}

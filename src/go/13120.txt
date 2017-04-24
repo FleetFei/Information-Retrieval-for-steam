@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 13120,
+		"newsitems": [
+			{
+				"gid": "1478591738299191646",
+				"title": "AA 3.3.1 Opt-In is live again",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738299191646",
+				"is_external_url": true,
+				"author": "BoomBom",
+				"contents": "Latest AA3.3.1 version available in Opt-In-Beta of Steam. US-ARMY official FOB Bayonet is running it. Remeber; when on a Download-cap, this will replace Your current Public game completely by downloading a full-version of AA3.3.1 beta",
+				"feedlabel": "Community Announcements",
+				"date": 1352562302,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

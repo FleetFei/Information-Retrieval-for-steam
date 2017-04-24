@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 1260,
+		"newsitems": [
+			{
+				"gid": "567767801604225935",
+				"title": "Killing Floor reaches the 'End of the Line' with new update",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/567767801604225935",
+				"is_external_url": true,
+				"author": "Ozzie Mejia",
+				"contents": "Tripwire Interactive is well into development for next year's <a href=\"http://www.shacknews.com/tag/killing-floor-2\">Killing Floor 2</a>. But the studio hasn't forgotten the first <a href=\"http://www.shacknews.com/game/killing-floor\">Killing Floor</a> and is planning a substantial update for later today. The End of the Line update will include a couple of paid DLC packs, as well as a new map pack that will be free...",
+				"feedlabel": "Shacknews",
+				"date": 1404315000,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1010228711564361728",
+				"title": "Killing Floor spin-off Calamity hits Ouya",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1010228711564361728",
+				"is_external_url": true,
+				"author": "Alice O'Connor",
+				"contents": "Now that the Ouya has forever changed the face of gaming as we know it, you may find yourself wondering \"So what am I to do with my Ouya now?\" If you enjoy murdering monsters, here, dust off that Ouya and fire up <a href=\"\">Killing Floor: Calamity</a>. Series creator Tripwire today released a top-down spin-off of ...",
+				"feedlabel": "Shacknews",
+				"date": 1387364400,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1027115944978723974",
+				"title": "Killing Floor celebrates Twisted Christmas again",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1027115944978723974",
+				"is_external_url": true,
+				"author": "Alice O'Connor",
+				"contents": "It's lucky that Christmas is coming, as otherwise nothing would be happening in the world of video games. <a href=\"http://www.shacknews.com/game/killing-floor\">Killing Floor</a> developer Tripwire today announced the return of Twisted Christmas, an event which transforms the co-op survival FPS into a wintry horrorshow. This being the fourth such celebratio...",
+				"feedlabel": "Shacknews",
+				"date": 1386255600,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 13
+	}
+}

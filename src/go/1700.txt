@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 1700,
+		"newsitems": [
+			{
+				"gid": "1192527567542788044",
+				"title": "Arx Fatalis Source Code Released",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1192527567542788044",
+				"is_external_url": true,
+				"author": "Alice O'Connor",
+				"contents": "<a href=\"/screenshots.x?gallery=16716&game_id=780&id=172747\"> </a> Over eight years after launching, Arkane Studios' RPG <a href=\"http://www.shacknews.com/reviews/game.x/780\">Arx Fatalis</a>, has received a new patch and, more excitingly, had its source code released. Patch 1.21 improves compatibility with modern systems, which means that if you fancy poking around under the hood of Arx Fatalis, you can safely do so--wi...",
+				"feedlabel": "Shacknews",
+				"date": 1295044800,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1192527567541047513",
+				"title": "Arx Fatalis Update Released",
+				"url": "http://store.steampowered.com/news/4885/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Updates to Arx Fatalis have been released. The updates will be applied automatically when your Steam client is restarted. The major changes include: <b>v1.21</b> * Improved overall game stability under Microsoft© Windows Vista© & Windows 7©. * Fixed blinking effect that may happen when starting a new game....",
+				"feedlabel": "Product Update",
+				"date": 1295030940,
+				"feedname": "steam_updates",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

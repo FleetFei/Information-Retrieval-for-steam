@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 115110,
+		"newsitems": [
+			{
+				"gid": "75835794571591069",
+				"title": "Happy 6th Birthday Stacking!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75835794571591069",
+				"is_external_url": true,
+				"author": "Spaff",
+				"contents": "6 years ago today Stacking was released into the world! To celebrate we've put the game on sale for 90% off! Happy Birthday Stacking!",
+				"feedlabel": "Community Announcements",
+				"date": 1486593628,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "409053962654160753",
+				"title": "Get Your Head Around Double Fine s New Metroidvania",
+				"url": "http://store.steampowered.com/news/externalpost/rps/409053962654160753",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alec Meer)",
+				"contents": "<a href=\"http://www.adultswim.com/games/headlander/\">Headlander</a> is the next game from Double Fine, and with news that the project lead from the wonderful <a href=\"http://www.rockpapershotgun.com/tag/stacking/\">Stacking</a> is in charge I&#8217;m definitely paying attention. Borrowing the body-swapping concept from that Russian Doll-themed game, Headlander applies it more of a Metroidvania structure, with some ...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1440754802,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1028241116307375628",
+				"title": "DF On Stacking And Costume Quest: ‘Anything Is Possible’",
+				"url": "http://store.steampowered.com/news/externalpost/rps/1028241116307375628",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Nathan Grayson)",
+				"contents": "Hey! Did you hear the news about <a href=\"http://www.stackingvideogame.com/\">Stacking</a> and <a href=\"http://store.steampowered.com/app/115100/\">Costume Quest</a>? No? Oh, right, that&#8217;s because I&#8217;m still in the process of reporting it. Well, the short version is, Double Fine &#8211; after what Tim Schafer describes as &#8220;a daring and top-secret midnight raid&#8221; on Nordic Games HQ ...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1385539253,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 11
+	}
+}

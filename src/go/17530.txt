@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 17530,
+		"newsitems": [
+			{
+				"gid": "75835955407188299",
+				"title": "Our next game X-Morph: Defense",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75835955407188299",
+				"is_external_url": true,
+				"author": "Pacanus",
+				"contents": "https://giant.gfycat.com/TestyUnitedHuia.gif Hello D.I.P.R.I.P. fans :) We are finally able to announce our next game X-Morph: Defense. Check out the Announcement trailer and tell us what you think: https://youtu.be/wvoqAA7ZUVs If you like the trailer you can read more about the game at: http://www....",
+				"feedlabel": "Community Announcements",
+				"date": 1487092441,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738297768378",
+				"title": "Update 1.0.0.10 for D.I.P.R.I.P. Warm Up has been released",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738297768378",
+				"is_external_url": true,
+				"author": "Pacanus",
+				"contents": "A non mandatory server update addressing missile balancing issues has been released. The changes will be applied as soon as a server is updated. The full change log for this update is: Version 1.0.0.10 CHANGED - changed missile homing time from 1.5s back to 2.0s - changed blue rocket fire rate from ...",
+				"feedlabel": "Community Announcements",
+				"date": 1235998912,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1478591738297768301",
+				"title": "Server problems fixed",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1478591738297768301",
+				"is_external_url": true,
+				"author": "Pacanus",
+				"contents": "An update was released yesterday fixing the recent dedicated server problems. Achievements and statistics are also working properly now. ",
+				"feedlabel": "Community Announcements",
+				"date": 1235557156,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 8
+	}
+}

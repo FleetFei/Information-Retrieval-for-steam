@@ -1,0 +1,35 @@
+{
+	"appnews": {
+		"appid": 104020,
+		"newsitems": [
+			{
+				"gid": "423688416247721201",
+				"title": "Story Time: Nero Makes The Move to PC Next Year",
+				"url": "http://store.steampowered.com/news/externalpost/rps/423688416247721201",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Emily Gera)",
+				"contents": "Nero first launched on Xbox One a few months ago as an exclusive for our console brethren. But O those developers can&#8217;t get enough of that sweet and sultry PC stank. Game studio Storm in a Teacup is going for the full-on magic trifecta and bringing their game to PS4 and PC sometime next year. ...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1439132402,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "777103922024017409",
+				"title": "Now Available - Storm in a Teacup",
+				"url": "http://store.steampowered.com/news/7192/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/104020/\">Storm in a Teacup</a> is Now Available on Steam and 15% off until Thursday January 26th 10AM PST. Take Storm on a wonderful adventure in his magical teacup. Storm's brother Cloud has created an amazing dream-like world for you to explore! Solve puzzles, avoid pitfalls and beat the bad guys in this imagi...",
+				"feedlabel": "Product Release",
+				"date": 1327003860,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 2
+	}
+}

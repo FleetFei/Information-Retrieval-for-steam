@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 11280,
+		"newsitems": [
+			{
+				"gid": "91591419806502434",
+				"title": "Steam awards",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/91591419806502434",
+				"is_external_url": true,
+				"author": "MathieuFrogames",
+				"contents": "Are penguins a farm animal? Who know? Maybe. Probably! Let's find out, vote Penguins Arena for “Best Use Of A Farm Animal” Award http://store.steampowered.com/app/11280/",
+				"feedlabel": "Community Announcements",
+				"date": 1479929607,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "241332296598621084",
+				"title": "New map, better AI + Farabel",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/241332296598621084",
+				"is_external_url": true,
+				"author": "MathieuFrogames",
+				"contents": "We're really happy to offer you this new update of Penguins Arena! What's new? a new map (for a total of 18 official maps) we've rolled back our AI code a bit as the last update added some issues with our bots Today we're also releasing our new game, Farabel! http://store.steampowered.com/app/364200...",
+				"feedlabel": "Community Announcements",
+				"date": 1476465714,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "243582826899208764",
+				"title": "Farabel, the game that starts out at the end",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/243582826899208764",
+				"is_external_url": true,
+				"author": "MathieuFrogames",
+				"contents": "http://www.farabel.com/_external_files/images/Gif_Diablotin2.gif Our new game, Farabel releases on PC, Mac, and Linux October 14. As usual, it's a refreshing and fun to play game. But it's also the most innovative game we ever made: Farabel is a turn-based strategy game that starts out at the end! S...",
+				"feedlabel": "Community Announcements",
+				"date": 1475504829,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 12
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 202690,
+		"newsitems": [
+			{
+				"gid": "75839063718222514",
+				"title": "Minor Update 1.5.8",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/75839063718222514",
+				"is_external_url": true,
+				"author": "rob",
+				"contents": "There's a small new update for Hegemony Gold out today. The main purpose was to remove the old (pre-Steam) registration system, but while we were in there we also fixed a crash related to Steam Controllers and enabled cloud saves for those of you gaming on multiple machines. Let us know if you run i...",
+				"feedlabel": "Community Announcements",
+				"date": 1489690659,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 202690
+			},
+			{
+				"gid": "524998829173851845",
+				"title": "Help Make the Next Chapter in Hegemony",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/524998829173851845",
+				"is_external_url": true,
+				"author": "rob",
+				"contents": "If you haven't heard the news yet, we're currently running a Kickstarter campaign for Hegemony III: Clash of the Ancients! This all-new game goes back to a time before Philip and Caesar when ancient civilizations like the Greeks, Celts, Romans and Etruscans battled in ancient Italy to forge the next...",
+				"feedlabel": "Community Announcements",
+				"date": 1419024357,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1515700145071313459",
+				"title": "Now Available - Hegemony Gold: Wars of Ancient Greece",
+				"url": "http://store.steampowered.com/news/7682/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/202690/\">Hegemony Gold: Wars of Ancient Greece</a> is now available on Steam! Conquer the ancient Greek world in this epic strategy wargame that expands and refines the award-winning Hegemony: Philip of Macedon with brand new content and features. Experience the full range of warfare from reconnaissance and raid...",
+				"feedlabel": "Product Release",
+				"date": 1333132980,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

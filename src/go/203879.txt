@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 203879,
+		"newsitems": [
+			{
+				"gid": "1531474070437273235",
+				"title": "New DLC Available - Microsoft Flight: Carbon Cub Deluxe",
+				"url": "http://store.steampowered.com/news/8481/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/app/203879/\">Carbon Cub Deluxe</a>, new content for <a href=\"http://store.steampowered.com/app/203850/\">Microsoft Flight</a>, is now available on Steam and 25% off until Wednesday, August 1st 10AM PDT! Explore the exciting world of bush flying and get those hard-to-reach Aerocaches in the Carbon Cub! Cub Crafters' modern, high-performance aircraft reinvents the class...",
+				"feedlabel": "Product Release",
+				"date": 1343253180,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 115100,
+		"newsitems": [
+			{
+				"gid": "518256742339912168",
+				"title": "Adventure Time Studio Making A Costume Quest Cartoon",
+				"url": "http://store.steampowered.com/news/externalpost/rps/518256742339912168",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Emily Gera)",
+				"contents": "It&#8217;s like something you&#8217;d heckle in a moment of drunk inspiration while watching Dragon&#8217;s Den: What if Double Fine and the guys behind Adventure Time joined forces for some reason? Double Fine Studios&#8217; Greg Rice has <a href=\"https://twitter.com/GregRicey/status/599300901547847680\">confirmed</a> just that is happening. Frederator Studios, who yo...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1431896426,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "521614893508719237",
+				"title": "Wot I Think: Costume Quest 2",
+				"url": "http://store.steampowered.com/news/externalpost/rps/521614893508719237",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alec Meer)",
+				"contents": "<em><a href=\"http://www.costumequest2.com/\">Costume Quest 2</a> is a roleplaying and puzzle game from Psychonauts and Broken Age studio Double Fine. It&#8217;s about kids&#8217; Halloween costumes actually transforming them, and thus enabling them to battle time-travelling dentists and candy-snatching aliens, in a fight to save the future from su...</em>",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1412949651,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "521614150874338247",
+				"title": "Now Available on Steam - Costume Quest 2",
+				"url": "http://store.steampowered.com/news/14616/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/275180/'>Costume Quest 2</a> is Now Available on Steam! A sequel to the popular Halloween adventure from Double Fine Productions! Trick, treat and pick a fight with villianous dental soldiers in Costume Quest 2, the sweet sequel to Double Fine&#146;s hit original, Costume Quest, that turned fans of all ages into...",
+				"feedlabel": "Product Release",
+				"date": 1412701380,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 18
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 17810,
+		"newsitems": [
+			{
+				"gid": "523713810398362914",
+				"title": "Weekend Deal: SpellForce Franchise 75% Off!",
+				"url": "http://store.steampowered.com/news/3525/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/search/?advanced=0&term=spellforce&category1=998\"> </a>The entire <a href=\"http://store.steampowered.com/search/?advanced=0&term=spellforce&category1=998\">SpellForce franchise</a> is available for 75% off until Monday! This includes <a href=\"http://store.steampowered.com/app/17810/\">SpellForce: Dragon Storm</a>, <a href=\"http://store.steampowered.com/app/17800/\">SpellForce: Shadow Wars</a>, <a href=\"http://store.steampowered.com/app/39540/\">SpellForce 1: Platinum Edition</a>, and <a href=\"http://store.steampowered.com/app/39550/\">SpellForce 2: Gold Edition</a>. ",
+				"feedlabel": "Announcement",
+				"date": 1267129168,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

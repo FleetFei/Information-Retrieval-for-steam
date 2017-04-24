@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 19510,
+		"newsitems": [
+			{
+				"gid": "243583460812949591",
+				"title": "Five Nights At Freddy s: Sister Location Lurches Out",
+				"url": "http://store.steampowered.com/news/externalpost/rps/243583460812949591",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Alice O'Connor)",
+				"contents": "BOO! You thought you were safe for a good few weeks but no, the spookening has begun. The spooky-spoos are out and they&#8217;ve come a-spooking. By which I mean Five Nights at Freddy&#8217;s: Sister Location launched over the weekend. The latest in Scott Cawthon&#8217;s smash hit jumpscare &#8217;e...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1476090429,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "252586225973091083",
+				"title": "The RPS Summer Games: Five Nights At Freddy s",
+				"url": "http://store.steampowered.com/news/externalpost/rps/252586225973091083",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Philippa Warr)",
+				"contents": "Third on the <a href=\"https://www.rockpapershotgun.com/tag/rps-summer-games/\">RPS Summer Games</a> agenda is <a href=\"https://www.rockpapershotgun.com/tag/Five-Nights-At-Freddys/\">Five Nights At Freddy&#8217;s</a> . The cult favourite horror game challenges you to spend five nights in the security room of a building populated by animatronic horrors. Some people find it dull/daft and some people find it unbearably tense. For the Summer Games...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1471532403,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "255955672070207479",
+				"title": "Five Nights At Freddy s: Sister Location Gets First Trailer",
+				"url": "http://store.steampowered.com/news/externalpost/rps/255955672070207479",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Joe Donnelly)",
+				"contents": "I have the cold today which means I&#8217;m irritable and sniffly and struggling with the Monday morning blues more than usual. Perhaps the first trailer for animatronic scare fest <a href=\"https://www.rockpapershotgun.com/tag/sister-location/\">Five Nights at Freddy&#8217;s: Sister Location</a> that snuck out of the shadows over the weekend can scare the sickness ou...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1463995456,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 7
+	}
+}

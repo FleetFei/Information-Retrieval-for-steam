@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 10180,
+		"newsitems": [
+			{
+				"gid": "920169016666427476",
+				"title": "Activision Publisher Weekend - Day 3",
+				"url": "http://store.steampowered.com/news/13141/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "The <a href=\"http://store.steampowered.com/sale/acti_pub3\">Activision Publisher Weekend</a> continues today with great deals on Activision titles! From now through Monday* pick up titles up to 75% off! Additionally, play the <a href=\"http://store.steampowered.com/app/209160/\">Call of Duty: Ghosts</a> Multiplayer for Free throughout the weekend! Today's Daily Deal features the Call of Duty franchise** at 50% off!...",
+				"feedlabel": "Announcement",
+				"date": 1399136400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1479694159152795512",
+				"title": "This Might Be the Last Cosplay You'd Expect from Japan",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1479694159152795512",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/1877bu0poaqb2jpg/original.jpg\"> </a>When you think of Japan and cosplay, you probably imagine ladies dressed in skimpy anime outfits or dudes in Gundam gear. And you'd probably be right! That type of cosplay is prevalent, sure, but it's not the only game in town&mdash;especially with more and more Japanese players <a href=\"http://kotaku.com/5964525/forget-the-haters-japan-hearts-call-of-duty\">totally digging</a> <em>Cal...</em>",
+				"feedlabel": "Kotaku",
+				"date": 1354519800,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1514593284396312927",
+				"title": "Modern Warfare 2 Favela map returns",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/1514593284396312927",
+				"is_external_url": true,
+				"author": "Steve Watts",
+				"contents": "The controversial \"Favela\" map has been reinstated in <a href=\"http://www.shacknews.com/game/call-of-duty-2011-title-tba/\">Call of Duty: Modern Warfare 2</a>, after being pulled temporarily due to <a href=\"http://www.shacknews.com/article/76098/call-of-duty-modern-warfare-2-map-favela-pulled-following\">complaints</a> of religious insensitivity. A small update will let the map show up on playlists again, with the offending portions now removed. The patch is only 17 MB, reports <a href=\"http://mp1st.com/2012/10/22/favela-returns-to-call-of-duty-modern-warfare-2-on-the-ps3-new-mw3-247-playlists-inbound/\">MP1...</a>",
+				"feedlabel": "Shacknews",
+				"date": 1350980100,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 182
+	}
+}

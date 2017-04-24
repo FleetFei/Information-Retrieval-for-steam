@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 12250,
+		"newsitems": [
+			{
+				"gid": "75835794570879790",
+				"title": "Why I love fake gambling and in-game casinos according to a psychologist",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/75835794570879790",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Here&apos;s the thing: I don&apos;t gamble in real life. Glasgow, where I live, is full of bookmakers and casinos, and while I don&apos;t take issue with anyone who does throw money at roulette or horses or sport&#x2014;<a href=\"http://www.pcgamer.com/youtuber-avoids-prison-after-pleading-guilty-to-fifa-gambling-offences/\">so long as it&apos;s lawful</a>&#x2014;it&apos;s just something that&apos;s never in...",
+				"feedlabel": "PC Gamer",
+				"date": 1486576549,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "517127039054796381",
+				"title": "Surviving Grand Theft Auto's pedestrian cheats",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/517127039054796381",
+				"is_external_url": true,
+				"author": "",
+				"contents": "Why I Love In <a href=\"http://www.pcgamer.com/why-i-love/\">Why I Love</a>, PC Gamer writers pick an aspect of PC gaming that they love and write about why it's brilliant. Today, Phil explains the joy of GTA's riot mode cheats. People can be funny about cheats. Some take a hard line against them. They're only interested in the game as it was meant ...",
+				"feedlabel": "PC Gamer",
+				"date": 1428515341,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "521617330456251252",
+				"title": "GTA: San Andreas Steam update removes songs, resolution options",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/521617330456251252",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"/grand-theft-auto-san-andreas-steam-update-removes-songs-resolution-options/\"> </a> Ten years after its release,&nbsp;Grand Theft Auto: San Andreas has been updated&nbsp;<a href=\"http://store.steampowered.com/app/12120/\" target=\"_blank\">on Steam</a>. Ordinarily this would be good news, suggesting that changes had been made to make accommodations for new operating systems or hardware, but this new version of San Andreas takes far more away from the g...",
+				"feedlabel": "PC Gamer",
+				"date": 1415557049,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 6
+	}
+}

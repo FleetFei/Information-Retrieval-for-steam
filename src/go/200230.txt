@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 200230,
+		"newsitems": [
+			{
+				"gid": "510365936312828212",
+				"title": "French language support for Off-Road Drive",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/510365936312828212",
+				"is_external_url": true,
+				"author": "Sneaksie(RUS)",
+				"contents": "French translation has been added to the game, bringing the total number of supported languages to 6.",
+				"feedlabel": "Community Announcements",
+				"date": 1422986516,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "521616306758628443",
+				"title": "Spanish and Italian languages for Off-Road Drive",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/521616306758628443",
+				"is_external_url": true,
+				"author": "Sneaksie(RUS)",
+				"contents": "The game can now be played in Spanish and Italian in addition to English, Russian and German.",
+				"feedlabel": "Community Announcements",
+				"date": 1414429587,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "3189986872693152137",
+				"title": "Russian and German language support added",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/3189986872693152137",
+				"is_external_url": true,
+				"author": "Sneaksie(RUS)",
+				"contents": "Off-Road Drive racing sim can be played in Russian and German in addition to default English now.",
+				"feedlabel": "Community Announcements",
+				"date": 1402940950,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 4
+	}
+}

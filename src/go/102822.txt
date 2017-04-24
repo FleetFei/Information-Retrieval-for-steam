@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 102822,
+		"newsitems": [
+			{
+				"gid": "1136252673412811436",
+				"title": "New DLC Available - The Sims Medieval: Pirates  Nobles",
+				"url": "http://store.steampowered.com/news/6170/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "New DLC for <a href=\"http://store.steampowered.com/app/102820/\">The Sims Medieval</a> is now available on Steam in North America! <a href=\"http://store.steampowered.com/app/102822/\">The Sims Medieval Pirates & Nobles</a> will release in other regions soon. Check the <a href=\"http://store.steampowered.com/\">Steam New Releases</a> tab on the front page for updates. The Sims Medieval Pirates & Nobles introduces new quests, treasure hunting, and new objects...",
+				"feedlabel": "Product Release",
+				"date": 1314735900,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

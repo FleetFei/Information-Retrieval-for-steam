@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 201272,
+		"newsitems": [
+			{
+				"gid": "777105285103737814",
+				"title": "Fall of the Samurai’s new toys won’t split Shogun 2′s online playerbase",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/777105285103737814",
+				"is_external_url": true,
+				"author": "",
+				"contents": "&nbsp; Shogun 2: Total War’s standalone expansion will let you play online with existing Shogun 2 players, even if they haven't bought it. Whether you’ve discovered Fall of the Samurai’s trains, gatling guns and cannons or not, you’ll still be able to compete online with swords and muskets. “One of ...",
+				"feedlabel": "PC Gamer",
+				"date": 1328287377,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "775973688877328840",
+				"title": "Total War: Shogun 2 DLC adds decapitation, limb severing, blood, Hattori clan",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/775973688877328840",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a href=\"http://www.pcgamer.com/2011/11/30/total-war-shogun-2-dlc-adds-decapitation-limb-severing-blood-hattori-clan/\" rel=\"bookmark\" title=\"Permanent Link to Total War: Shogun 2 DLC adds decapitation, limb severing, blood, Hattori clan\"> </a> It's a well known fact that samurai warriors contained five times as much blood as ordinary humans. This would allow them to gush pints and pints of gore at the slightest nick of a samurai sword, therefore allowing them to die in the most spectacular fashion. The latest Blood Pack Total War DLC wi...",
+				"feedlabel": "PC Gamer",
+				"date": 1322668246,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "775973688876189071",
+				"title": "New Release - Total War: SHOGUN 2 Hattori Clan Pack  Blood Pack DLCs",
+				"url": "http://store.steampowered.com/news/6890/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Total War: SHOGUN 2 - <a href=\"http://store.steampowered.com/app/34345/\">The \"Hattori\" Clan Pack</a> and <a href=\"http://store.steampowered.com/app/201272/\">Blood Pack</a> downloadable content are now available on Steam. The Hattori Clan Pack includes all four unlocks previously only available in the Total War: SHOGUN 2 Limited Edition. It includes the Hattori clan faction - masters of the Iga-ryu ninjutsu, ...",
+				"feedlabel": "Product Release",
+				"date": 1322661780,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

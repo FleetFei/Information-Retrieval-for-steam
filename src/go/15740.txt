@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 15740,
+		"newsitems": [
+			{
+				"gid": "252584317741176560",
+				"title": "Munch's Oddysee 2016 Update 14",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/252584317741176560",
+				"is_external_url": true,
+				"author": "Oddworld Admin",
+				"contents": "Hi Oddworld fans. We're pushing live another update today that does the following: 1. Adds a few new higher poly models from Munch's Oddysee HD, namely the Big Bro Slig. 2. Offers higher-quality pre-rendered cut-scenes. 3. Fixes the instances where the camera would look at the wrong thing during rea...",
+				"feedlabel": "Community Announcements",
+				"date": 1470169938,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "252584317733018522",
+				"title": "Munch's Oddysee 2016 updated with new 'HD' audio, brightness tweaks, other fixes",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/252584317733018522",
+				"is_external_url": true,
+				"author": "Oddworld Admin",
+				"contents": "Hi Oddworld fans. Once again, thanks for your patience. We continue to work on and refine our new port of Oddworld: Munch's Oddysee now it's out of beta - our latest updates and patches include: 1 - much higher quality (bit-rate) sound effects throughout 2 - the inclusion of the newer audio from Mun...",
+				"feedlabel": "Community Announcements",
+				"date": 1469974878,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "252584317718127057",
+				"title": "Six Years Later, Developers Fix Munch s Oddysee Port",
+				"url": "http://store.steampowered.com/news/externalpost/rps/252584317718127057",
+				"is_external_url": true,
+				"author": "contact@rockpapershotgun.com (Steven Messner)",
+				"contents": "You know that saying better late than never? It&#8217;s an odd one, especially when you&#8217;ve kinda forgotten about a thing and then suddenly one day the developers are like, &#8220;Oh, remember that port of that game we released six years ago that wasn&#8217;t so good? Yeah, we&#8217;re fixing t...",
+				"feedlabel": "Rock, Paper, Shotgun",
+				"date": 1469618634,
+				"feedname": "rps",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 14
+	}
+}

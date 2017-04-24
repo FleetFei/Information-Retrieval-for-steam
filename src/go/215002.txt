@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 215002,
+		"newsitems": [
+			{
+				"gid": "1461692466426718171",
+				"title": "3 New Victoria II DLC's Now Available",
+				"url": "http://store.steampowered.com/news/10437/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Three new DLC's for <a href=\"http://store.steampowered.com/app/42960\">Victoria II</a> are now available on Steam! <a href=\"http://store.steampowered.com/app/215002/\">Songs of the Civil War</a> adds nine minutes of music to enhance the atmosphere of Victoria II. <a href=\"http://store.steampowered.com/app/215003/\">German Unit Pack</a> adds updated uniforms and units for German soldiers. This includes units and uniforms for the German Empire, North German Federatio...",
+				"feedlabel": "Product Release",
+				"date": 1366625340,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

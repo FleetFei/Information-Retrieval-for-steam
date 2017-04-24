@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 202200,
+		"newsitems": [
+			{
+				"gid": "377538916263214156",
+				"title": "No Game Left Behind: Stardock Brings Update to GalCiv II!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/377538916263214156",
+				"is_external_url": true,
+				"author": "IslandDog",
+				"contents": "The crew here at Stardock cares a lot about our community and the games that we produce for you. That's why we're pleased to announce that version 2.20 for Galactic Civilizations II is available for you today! Even when a title is \"finished\" and put out to market, there are always little things we f...",
+				"feedlabel": "Community Announcements",
+				"date": 1450375595,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "3188860337784241254",
+				"title": "Stardock Weekend Deal 50-75% Off!",
+				"url": "http://store.steampowered.com/news/13541/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Save 50-75%* on all Stardock titles during the <a href='http://store.steampowered.com/sale/stardock20yr'>Stardock Weekend Deal</a>! Explore the farthest reaches of space or the remnants of a magical world. Battle in arenas with godlike titans, or as political candidates with godlike egos. Titles include: <a href='http://store.steampowered.com/app/228260/'>Fallen Enchantress: Legendary Heroes</a> <a href='http://store.steampowered.com/app/204880/'>Sins of a Solar Emp...</a>",
+				"feedlabel": "Announcement",
+				"date": 1401987600,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "919039334533728351",
+				"title": "Daily Deal - Galactic Civilizations II: Ultimate Edition, 75% Off",
+				"url": "http://store.steampowered.com/news/12700/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/202200/'>Galactic Civilizations II: Ultimate Edition</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Wednesday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/202200/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1395680400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 9
+	}
+}

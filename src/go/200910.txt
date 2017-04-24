@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 200910,
+		"newsitems": [
+			{
+				"gid": "371903707722123553",
+				"title": "Before the Echo now available for Mac and Linux!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/371903707722123553",
+				"is_external_url": true,
+				"author": "Feep",
+				"contents": "Huzzah! Now all users of Steam may climb the Tower, engage in witty repartee, and dance battle until the cows come home! I mean, where were the cows, anyway? How did they get out? This should be looked into. I'm glad they're home, but still.",
+				"feedlabel": "Community Announcements",
+				"date": 1444850055,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "517126407361347879",
+				"title": "Sequence renamed to Before the Echo",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/517126407361347879",
+				"is_external_url": true,
+				"author": "Feep",
+				"contents": "Due to a legal claim by Jax Ltd., Sequence has been renamed to Before the Echo. Which sucks, but it ain't worth the hassle. Trust me. Sorry for the inconvenience and confusion, guys.",
+				"feedlabel": "Community Announcements",
+				"date": 1427767543,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "1459437403486349502",
+				"title": "He Believes Voice Controls Can Actually Work In A Video Game",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1459437403486349502",
+				"is_external_url": true,
+				"author": "",
+				"contents": "When I first saw <em><a href=\"http://www.kickstarter.com/projects/iridiumstudios/there-came-an-echo-0\">There Came An Echo</a></em>, the Wil Wheaton-supported Kickstarter project whose creators want $90,000 to make a voice-controlled real-time strategy game, I thought it was kind of absurd. Voice commands? Who wants to use some sort of gimmick to play an RTS? What's wrong with a mouse and keyb...",
+				"feedlabel": "Kotaku",
+				"date": 1363631400,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 13
+	}
+}

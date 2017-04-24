@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 211260,
+		"newsitems": [
+			{
+				"gid": "295355928887928995",
+				"title": "They Bleed Pixels is now playable in Japanese!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/295355928887928995",
+				"is_external_url": true,
+				"author": "Spooky Squid",
+				"contents": "http://press.spookysquidgames.com/steam/japanese-release-announce.jpg ːtbphappyːThanks to the fine folks at Playism you can now play They Bleed Pixels in Japanese. Everything from the chapter start quotations to the bonus artist bios has been translated, and we worked closely with Playism to ensure ...",
+				"feedlabel": "Community Announcements",
+				"date": 1457715714,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "499119164380431325",
+				"title": "They Bleed Pixels T-Shirts and More Now Available from We Love Fine",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/499119164380431325",
+				"is_external_url": true,
+				"author": "Spooky Squid",
+				"contents": "http://press.spookysquidgames.com/steam/wlf-announce-01.jpg We've teamed up with the fine folks at We Love Fine to offer a fantastic set of They Bleed Pixels shirts and bags adorned with everyone's favourite clawed little girl ːtbphappyː. Right now there are four designs available with more colours ...",
+				"feedlabel": "Community Announcements",
+				"date": 1434561822,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "519384546583667139",
+				"title": "They Bleed Pixels gets new levels in free Crimson Update",
+				"url": "http://store.steampowered.com/news/externalpost/pcgamer/519384546583667139",
+				"is_external_url": true,
+				"author": "",
+				"contents": "There are over 21,000 articles on PCGamer.com&mdash;I counted&mdash;and somehow not one of them is about They Bleed Pixels. That seems like a mistake, and one I will now attempt to rectify. They Bleed Pixels is a hardcore combat-platformer. It's slower then, say,&nbsp;Super Meat Boy, but bolsters th...",
+				"feedlabel": "PC Gamer",
+				"date": 1433416983,
+				"feedname": "pcgamer",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 11
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 204450,
+		"newsitems": [
+			{
+				"gid": "405677533508393887",
+				"title": "Daily Deal - Call of Juarez Gunslinger, 75% Off",
+				"url": "http://store.steampowered.com/news/18318/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 75% on <a href='http://store.steampowered.com/app/204450/'>Call of Juarez&reg; Gunslinger</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Saturday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/204450/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1441904400,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "920166226871974194",
+				"title": "Daily Deal - Call of Juarez® Gunslinger, 66% Off",
+				"url": "http://store.steampowered.com/news/12789/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 66% on <a href='http://store.steampowered.com/app/204450/'>Call of Juarez&reg; Gunslinger</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Friday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/204450/\"> </a> ",
+				"feedlabel": "Announcement",
+				"date": 1396458000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1010231247472768645",
+				"title": "Call of Juarez Gunslinger Update 1.05 Released",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/1010231247472768645",
+				"is_external_url": true,
+				"author": "kanosek",
+				"contents": "Fixed: - problems with enemy AI movement on some CPU configurations leading to gameplay blocks (on the Henry Plummer bossfight, the Grey Wolf encounter, etc.) For anybody who encountered this issue, it's strongly recommended to start over their playthrough for the best possible experience. Enjoy! Ch...",
+				"feedlabel": "Community Announcements",
+				"date": 1389868230,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 12
+	}
+}

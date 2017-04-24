@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 206180,
+		"newsitems": [
+			{
+				"gid": "1459437403512349419",
+				"title": "The Most Comfortable Inns, Bars And Taverns In Video Games",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1459437403512349419",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/18hyzrudfw3vujpg/original.jpg\"> </a> <a href=\"http://kotaku.com/5989105/the-noisiest-dirtiest-bars-and-taverns-in-video-games\">Earlier this month we visited taverns and bars that are noisy and dangerous</a>. Now it is time to look for their exact opposite: The coziest, most calm, most peaceful places to hang out. Places that focus more on the relaxed atmosphere, the music, and advancing the game's story, rather than getting o...",
+				"feedlabel": "Kotaku",
+				"date": 1363705200,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1459437403490783015",
+				"title": "The Best-Looking Isometric Games",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1459437403490783015",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/18hveh6jngls2jpg/original.jpg\"> </a>Games with isometric graphics&mdash;a slightly rotated view with a top-down perspective&mdash;were a big deal several years ago. Static, isometric maps, mostly used in strategy and role-playing games, allowed the developers to create spectacular, detailed visuals, and most of them have aged really ...",
+				"feedlabel": "Kotaku",
+				"date": 1363644000,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "1495465667615268988",
+				"title": "The Noisiest, Dirtiest Bars and Taverns in Video Games",
+				"url": "http://store.steampowered.com/news/externalpost/kotaku/1495465667615268988",
+				"is_external_url": true,
+				"author": "",
+				"contents": "<a rel=\"lytebox\" href=\"http://img.gawkerassets.com/img/18gr0ib5bb1zsjpg/original.jpg\"> </a> Bars, clubs and noisy taverns are always crucial locations in a story-driven game. They are save points, places where we can sell useless stuff from our inventory, gather information, meet a key character, or just simply get into trouble. We have selected bars and inns that look the grittiest. Bar...",
+				"feedlabel": "Kotaku",
+				"date": 1362758400,
+				"feedname": "kotaku",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 3
+	}
+}

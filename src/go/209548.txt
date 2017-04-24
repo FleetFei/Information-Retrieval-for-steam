@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 209548,
+		"newsitems": [
+			{
+				"gid": "1461694911442393906",
+				"title": "New Workshop and DLC Available - Strike Suit Zero, 50% Off",
+				"url": "http://store.steampowered.com/news/10643/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href='http://store.steampowered.com/app/209540/'>Strike Suit Zero </a> has launched a New Workshop today on Steam. In addition <a href='http://store.steampowered.com/app/209548/'>Strike Suit Zero - Heroes of the Fleet </a>, all new content for <a href='http://store.steampowered.com/app/209540/'>Strike Suit Zero </a> is Now Available on Steam. To celebrate the Strike Suit Mega Bundle is 50% Off!* <a href=\"http://steamcommunity.com/workshop/browse?appid=209540\">Strike Suit Zero Workshop</a> Adventurous Mod-Makers can now take the ...",
+				"feedlabel": "Product Release",
+				"date": 1369076040,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

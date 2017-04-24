@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 213154,
+		"newsitems": [
+			{
+				"gid": "1515715547298776373",
+				"title": "New DLC Available - Transformers™: Fall of Cybertron™ - DINOBOT Destructor Pack",
+				"url": "http://store.steampowered.com/news/8835/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "<a href=\"http://store.steampowered.com/app/213154/\">Transformers&trade;: Fall of Cybertron&trade; - DINOBOT Destructor Pack</a>, new content for <a href=\"http://store.steampowered.com/app/213120/\">Transformers&trade;: Fall of Cybertron&trade;</a>, is now available on Steam! Download this pack to get 4 new characters (SWOOP, GRIMLOCK, SLUG and SNARL) and their associated parts for use in Multiplayer. <a href=\"http://store.steampowered.com/app/213154/\"> </a> ",
+				"feedlabel": "Product Release",
+				"date": 1347381540,
+				"feedname": "steam_release",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}

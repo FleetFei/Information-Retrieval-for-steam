@@ -1,0 +1,48 @@
+{
+	"appnews": {
+		"appid": 204240,
+		"newsitems": [
+			{
+				"gid": "524998195205528181",
+				"title": "The Bridge available in 5 new languages!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/524998195205528181",
+				"is_external_url": true,
+				"author": "Ty_Taylor",
+				"contents": "http://i.imgur.com/s2vBCDJ.png The award-winning black-and-white puzzler is now available in 5 new languages: Traditional Chinese (繁體中文), Finnish (Suomi), Swedish (Svenska), Danish (Dansk), and Norwegian (Norsk). These professionally-localized translations make a total of 23 languages fully supporte...",
+				"feedlabel": "Community Announcements",
+				"date": 1418368037,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			},
+			{
+				"gid": "552009641938935609",
+				"title": "Daily Deal - The Bridge, 90% Off",
+				"url": "http://store.steampowered.com/news/14240/",
+				"is_external_url": false,
+				"author": "Valve",
+				"contents": "Today's Deal: Save 90% on <a href='http://store.steampowered.com/app/204240/'>The Bridge</a>!* Look for the deals each day on the front page of Steam. Or follow us on <a href='http://twitter.com/steam_games'>twitter</a> or <a href='http://www.facebook.com/Steam'>Facebook</a> for instant notifications wherever you are! *Offer ends Wednesday at 10AM Pacific Time <a href=\"http://store.steampowered.com/app/204240/\"> </a>",
+				"feedlabel": "Announcement",
+				"date": 1408986000,
+				"feedname": "steam_announce",
+				"feed_type": 0,
+				"appid": 0
+			},
+			{
+				"gid": "552007738856303741",
+				"title": "The Bridge available in 6 new languages!",
+				"url": "http://store.steampowered.com/news/externalpost/steam_community_announcements/552007738856303741",
+				"is_external_url": true,
+				"author": "Ty_Taylor",
+				"contents": "http://i.imgur.com/4mOcDQE.png The award-winning black-and-white puzzler is now available in 6 new languages: Polish (Polski), Japanese (日本の), Simplified Chinese (简体中文), Korean (한국어), Thai (ไทย), and Arabic (العربية). These professionally-localized translations make a total of 18 languages fully sup...",
+				"feedlabel": "Community Announcements",
+				"date": 1406929426,
+				"feedname": "steam_community_announcements",
+				"feed_type": 1,
+				"appid": 0
+			}
+		]
+		,
+		"count": 15
+	}
+}

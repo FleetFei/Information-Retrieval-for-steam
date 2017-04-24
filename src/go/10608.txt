@@ -1,0 +1,22 @@
+{
+	"appnews": {
+		"appid": 10608,
+		"newsitems": [
+			{
+				"gid": "523716718241775720",
+				"title": "Empire: Total War Patch Brings AI Tweaks",
+				"url": "http://store.steampowered.com/news/externalpost/shacknews/523716718241775720",
+				"is_external_url": true,
+				"author": "Chris Faylor",
+				"contents": "Despite the recent release of <a href=\"http://www.shacknews.com/reviews/game.x/7875\">Napoleon: Total War</a>, developer Creative Assembly is continuing to support its predeccesor Empire: Total War as a new update hit today. <a href=\"http://www.shacknews.com/screenshots.x?gallery=11006&game_id=4635#img128295\"> </a><a href=\"/screenshots.x?gallery=13384&game_id=4635&id=145383\"> </a> The 1.6 update, now available as an automatic download through digital distribution platform Steam (which the game requires to run),...",
+				"feedlabel": "Shacknews",
+				"date": 1270077600,
+				"feedname": "shacknews",
+				"feed_type": 0,
+				"appid": 0
+			}
+		]
+		,
+		"count": 1
+	}
+}
