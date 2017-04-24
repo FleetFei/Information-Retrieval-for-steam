@@ -158,7 +158,7 @@ function SearchDisplay(response) {
 		+"<p class='list-group-item-text  text-success'>"+ descript +"</p>"
 		+"<ul class='list-group text-warning'>"+genre+"</ul>"
 		+"</a>");
-		$("#enterResult3").append(a);
+		$("#EnterResult3").append(a);
 	}
 	
 	
