@@ -133,8 +133,8 @@ function SearchDisplay(response) {
 		+"<h4 class='list-group-item-heading text-primary'>"+name+"</h4>"
 		+"<h4 class='text-primary'>"+rate+"</h4>"
 		+"<h4 class='text-danger'>"+year+"</h4>"
+		+"<h4 class='list-group text-warning'>"+genre+"</h4>"
 		+"<p class='list-group-item-text  text-success'>"+ descript +"</p>"
-		+"<ul class='list-group text-warning'>"+genre+"</ul>"
 		+"</a>");
 		$("#EnterResult2").append(a);
 	}
@@ -155,8 +155,8 @@ function SearchDisplay(response) {
 		+"<h4 class='list-group-item-heading text-primary'>"+name+"</h4>"
 		+"<h4 class='text-primary'>"+rate+"</h4>"
 		+"<h4 class='text-danger'>"+year+"</h4>"
+		+"<h4 class='list-group text-warning'>"+genre+"</h4>"
 		+"<p class='list-group-item-text  text-success'>"+ descript +"</p>"
-		+"<ul class='list-group text-warning'>"+genre+"</ul>"
 		+"</a>");
 		$("#EnterResult3").append(a);
 	}
@@ -178,8 +178,8 @@ function SearchDisplay(response) {
 		+"<h4 class='list-group-item-heading text-primary'>"+name+"</h4>"
 		+"<h4 class='text-primary'>"+rate+"</h4>"
 		+"<h4 class='text-danger'>"+year+"</h4>"
+		+"<h4 class='list-group text-warning'>"+genre+"</h4>"
 		+"<p class='list-group-item-text  text-success'>"+ descript +"</p>"
-		+"<ul class='list-group text-warning'>"+genre+"</ul>"
 		+"</a>");
 		$("#RecommendGame").append(a);
 	}
