@@ -96,9 +96,11 @@ public class NameSearch extends HttpServlet {
 		ArrayList<relativeName> queryEntering1 = enterresult.originAllMatchResult;
 		ArrayList<relativeName> queryEntering2 = enterresult.originNmatchResult;
 		ArrayList<relativeName> queryEntering3 = enterresult.originSuggestResult;
+		
+		System.out.println("!!!!!!!!!!!!!"  + enterresult.suggestionResult.toString());
 
 	
-		String despath = this.getServletContext().getRealPath("/WEB-INF/classes/descriptionTrec.trectext");
+		String despath = this.getServletContext().getRealPath("/WEB-INF/classes/descriptionforSearch.trectext");
 		String indexpath = this.getServletContext().getRealPath("/WEB-INF/classes/LuceneProcess");
 		String pathStopword = this.getServletContext().getRealPath("/WEB-INF/classes/stopword.txt");
 		
@@ -111,25 +113,26 @@ public class NameSearch extends HttpServlet {
 				
 				ArrayList<relativeName> enterallmatch = enterresult.originAllMatchResult;
 				ArrayList<relativeName> enterNmatch = enterresult.originNmatchResult;
-				ArrayList<relativeName> enterSuggest = enterresult.originNmatchResult;
+				ArrayList<relativeName> enterSuggest = enterresult.originSuggestResult;
 				ArrayList<relativeName> recommend = recArray.originResult;
 
 				if (sort.equals("byrating")) {
-					enterresult.setAllmatchResult(sr.sortByRating(enterallmatch));
-					enterresult.setNmatchResult(sr.sortByRating(enterNmatch));
-					enterresult.setSuggestResult(sr.sortByRating(enterSuggest));
+					enterresult.setoriginAllmatchResult(sr.sortByRating(enterallmatch));
+					enterresult.setoriginNmatchResult(sr.sortByRating(enterNmatch));
+					enterresult.setoriginSuggestResult(sr.sortByRating(enterSuggest));
 					recArray.setOriginResult((sr.sortByRating(recommend)));
 				}
 				else {
-					enterresult.setAllmatchResult(sr.sortByReleasedate(enterallmatch));
-					enterresult.setNmatchResult(sr.sortByReleasedate(enterNmatch));
-					enterresult.setSuggestResult(sr.sortByReleasedate(enterSuggest));
+					enterresult.setoriginAllmatchResult(sr.sortByReleasedate(enterallmatch));
+					enterresult.setoriginNmatchResult(sr.sortByReleasedate(enterNmatch));
+					enterresult.setoriginSuggestResult(sr.sortByReleasedate(enterSuggest));
 					recArray.setOriginResult((sr.sortByReleasedate(recommend)));
 					
 				}
 				
 				queryEntering1 = enterresult.originAllMatchResult;
 				queryEntering2 = enterresult.originNmatchResult;
+				queryEntering3 = enterresult.originSuggestResult;
 				result3 = recArray.originResult;
 
 			}
@@ -175,12 +178,25 @@ public class NameSearch extends HttpServlet {
 		JSONObject son2 = new JSONObject();
 		for(int i=0; i<queryEntering2.size(); i++){			
 			
-			son1.put("Rid", i+1);
-			son1.put("Rname", queryEntering2.get(i).name);
-			son1.put("Description", frd.getDescription(despath, queryEntering2.get(i)));
-			son1.put("Genre", queryEntering2.get(i).tags);
-			son1.put("rate", queryEntering2.get(i).rating);
+			son2.put("Rid", i+1);
+			son2.put("Rname", queryEntering2.get(i).name);
+			son2.put("Description", frd.getDescription(despath, queryEntering2.get(i)));
+			son2.put("Genre", queryEntering2.get(i).tags);
+			son2.put("rate", queryEntering2.get(i).rating);
 			EnterArray2.add(son2);
+		}
+		
+		//2.只符合query
+		JSONArray EnterArray3 = new JSONArray();
+		JSONObject son4 = new JSONObject();
+		for(int i=0; i<queryEntering3.size(); i++){			
+			
+			son4.put("Rid", i+1);
+			son4.put("Rname", queryEntering3.get(i).name);
+			son4.put("Description", frd.getDescription(despath, queryEntering3.get(i)));
+			son4.put("Genre", queryEntering3.get(i).tags);
+			son4.put("rate", queryEntering3.get(i).rating);
+			EnterArray3.add(son4);
 		}
 
 		
@@ -202,6 +218,7 @@ public class NameSearch extends HttpServlet {
 		root.put("TypingData", Typingarray);
 		root.put("EnterData1", EnterArray1);
 		root.put("EnterData2", EnterArray2);
+		root.put("EnterData3", EnterArray3);
 		root.put("RecommendData", RecommendArray);
 		//设置response
 		response.setCharacterEncoding("utf-8");
@@ -211,6 +228,8 @@ public class NameSearch extends HttpServlet {
 		System.out.println("TypingData:"+Typingarray);
 		System.out.println("EnterData1:"+EnterArray1);
 		System.out.println("EnterData2:"+EnterArray2);
+		System.out.println("EnterData3:"+EnterArray3);
+
 		System.out.println("RecommendData:"+RecommendArray);
 		System.out.println("后端产给前端－－>传回的结果"+root);
 		//传输json

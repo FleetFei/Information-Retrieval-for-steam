@@ -77,6 +77,21 @@ public class EnterSearchResult {
 
 	
 	
+	public void setoriginAllmatchResult(ArrayList<relativeName> input) {
+		this.originAllMatchResult = input;
+		
+	}
+	
+	public void setoriginNmatchResult(ArrayList<relativeName> input) {
+		this.originNmatchResult = input;
+		
+	}	
+	public void setoriginSuggestResult(ArrayList<relativeName> input) {
+		this.originSuggestResult = input;
+		
+	}
+	
+	
 	
 	
 	

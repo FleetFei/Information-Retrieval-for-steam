@@ -10,11 +10,10 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import ObjectsandTools.KeywordsResult;
 import ObjectsandTools.relativeName;
 import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
-import service.searchQuery;
-
 import service.*;
 
 /**
@@ -43,8 +42,13 @@ public class KeyWordSearch extends HttpServlet {
 		String[] genre = request.getParameterValues("Tag");
 		String publisher = request.getParameter("Publisher");
 		String releasing = request.getParameter("releasingYear");
+		String sort = request.getParameter("sort");
+
 		System.out.println("用户输入keyword："+keyword);
 		ArrayList<String> tag = new ArrayList<>();
+		
+		SortResults sr = new SortResults();
+		findResultDetails frd = new findResultDetails();
 		//判断用户是否选择tag
 		if(genre!=null){
 			for(int i=0;i<genre.length;i++){
@@ -60,14 +64,36 @@ public class KeyWordSearch extends HttpServlet {
 		System.out.println("用户输入releasing："+releasing);
 		
 		//确认路径
+		String despath = this.getServletContext().getRealPath("/WEB-INF/classes/descriptionforSearch.trectext");
 		String path = this.getServletContext().getRealPath("/WEB-INF/classes/SearchGameList.txt");
 		String indexpath = this.getServletContext().getRealPath("/WEB-INF/classes/LuceneProcess");
 		String pathStopword = this.getServletContext().getRealPath("/WEB-INF/classes/stopword.txt");
 		
 		//Typing内容
-		ArrayList<String> keywordResult = new ArrayList<>();
+		ArrayList<relativeName> keywordResult = new ArrayList<>();
 		try {
-			keywordResult = new searchKeywords(path).search(pathStopword,indexpath,keyword,tag,publisher,releasing).Result;
+			KeywordsResult recArray = new searchKeywords(path).search(pathStopword,indexpath,keyword,tag,publisher,releasing);
+			keywordResult = recArray.originResult;
+			
+			if (!sort.equals("bydefault")) {
+				
+				ArrayList<relativeName> recommend = recArray.originResult;
+
+				if (sort.equals("byrating")) {
+
+					recArray.setOriginResult((sr.sortByRating(recommend)));
+				}
+				else {
+
+					recArray.setOriginResult((sr.sortByReleasedate(recommend)));
+					
+				}
+				keywordResult = recArray.originResult;
+
+				
+
+
+			}
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -75,8 +101,12 @@ public class KeyWordSearch extends HttpServlet {
 		JSONArray Typingarray = new JSONArray();
 		JSONObject son = new JSONObject();
 		for(int i=0; i<keywordResult.size(); i++){
-			son.put("Rid", i);
-			son.put("Rname", keywordResult.get(i));
+
+			son.put("Rid", i+1);
+			son.put("Rname", keywordResult.get(i).name);
+			son.put("Description", frd.getDescription(despath, keywordResult.get(i)));
+			son.put("Genre", keywordResult.get(i).tags);
+			son.put("rate", keywordResult.get(i).rating);
 			Typingarray.add(son);
 		}
 		System.out.println("keyword Search内容："+keywordResult.toString());
