@@ -136,9 +136,9 @@ function SearchDisplay(response) {
 	for(var i in RecommendGame) {
 		var name = RecommendGame[i].Rname;
 		var id = RecommendGame[i].Rid;
-		var descript =  enterResult2[i].Description;
-		var genre = enterResult2[i].Genre;
-		var rate = enterResult2[i].rate;
+		var descript =  RecommendGame[i].Description;
+		var genre = RecommendGame[i].Genre;
+		var rate = RecommendGame[i].rate;
 		
 		var b="123";
 		for(i in genre){
