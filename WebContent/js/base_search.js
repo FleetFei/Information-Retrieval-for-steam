@@ -140,13 +140,13 @@ function SearchDisplay(response) {
 	}
 	
 	//enterResult3
-	for(var i in RecommendGame) {
-		var name = RecommendGame[i].Rname;
-		var id = RecommendGame[i].Rid;
-		var descript =  RecommendGame[i].Description;
-		var genre = RecommendGame[i].Genre;
-		var rate = RecommendGame[i].rate;
-		var year = RecommendGame[i].year;
+	for(var i in enterResult3) {
+		var name = enterResult3[i].Rname;
+		var id = enterResult3[i].Rid;
+		var descript =  enterResult3[i].Description;
+		var genre = enterResult3[i].Genre;
+		var rate = enterResult3[i].rate;
+		var year = enterResult3[i].year;
 //		var b="";
 //		for(i in genre){
 //			b = b + "<li class='list-group-item'>"+genre[i]+"</li>"; 
