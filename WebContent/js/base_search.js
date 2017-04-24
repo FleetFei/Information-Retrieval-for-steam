@@ -101,16 +101,17 @@ function SearchDisplay(response) {
 		var descript =  enterResult1[i].Description;
 		var genre = enterResult1[i].Genre;
 		var rate = enterResult1[i].rate;
-		
-		var b="123";
-		for(i in genre){
-			b = b + "<li class='list-group-item'>"+genre[i]+"</li>"; 
-		}
+		var year = RecommendGame[i].year;
+//		var b="";
+//		for(i in genre){
+//			b = b + "<li class='list-group-item'>"+genre[i]+"</li>"; 
+//		}
 		var a = $("<a href='#' class='list-group-item' id=namesearch" + id + ">"
 		+"<h4 class='list-group-item-heading text-primary'>"+name+"</h4>"
 		+"<h4 class='text-primary'>"+rate+"</h4>"
+		+"<h4 class='text-danger'>"+year+"</h4>"
 		+"<p class='list-group-item-text text-success'>"+ descript +"</p>"
-		+"<ul class='list-group'>"+b+"</ul>"
+		+"<ul class='list-group text-warning'>"+genre+"</ul>"
 		+"</a>");
 		$("#EnterResult1").append(a);
 	}
@@ -121,16 +122,17 @@ function SearchDisplay(response) {
 		var descript =  enterResult2[i].Description;
 		var genre = enterResult2[i].Genre;
 		var rate = enterResult2[i].rate;
-		
-		var b="123";
-		for(i in genre){
-			b = b + "<li class='list-group-item'>"+genre[i]+"</li>"; 
-		}
+		var year = RecommendGame[i].year;
+//		var b="";
+//		for(i in genre){
+//			b = b + "<li class='list-group-item'>"+genre[i]+"</li>"; 
+//		}
 		var a = $("<a href='#' class='list-group-item' id=namesearch" + id + ">"
 		+"<h4 class='list-group-item-heading text-primary'>"+name+"</h4>"
 		+"<h4 class='text-primary'>"+rate+"</h4>"
+		+"<h4 class='text-danger'>"+year+"</h4>"
 		+"<p class='list-group-item-text  text-success'>"+ descript +"</p>"
-		+"<ul class='list-group'>"+b+"</ul>"
+		+"<ul class='list-group text-warning'>"+genre+"</ul>"
 		+"</a>");
 		$("#EnterResult2").append(a);
 	}
@@ -141,16 +143,17 @@ function SearchDisplay(response) {
 		var descript =  RecommendGame[i].Description;
 		var genre = RecommendGame[i].Genre;
 		var rate = RecommendGame[i].rate;
-		
-		var b="123";
-		for(i in genre){
-			b = b + "<li class='list-group-item'>"+genre[i]+"</li>"; 
-		}
+		var year = RecommendGame[i].year;
+//		var b="";
+//		for(i in genre){
+//			b = b + "<li class='list-group-item'>"+genre[i]+"</li>"; 
+//		}
 		var a = $("<a href='#' class='list-group-item' id=namesearch" + id + ">"
 		+"<h4 class='list-group-item-heading text-primary'>"+name+"</h4>"
 		+"<h4 class='text-primary'>"+rate+"</h4>"
+		+"<h4 class='text-danger'>"+year+"</h4>"
 		+"<p class='list-group-item-text  text-success'>"+ descript +"</p>"
-		+"<ul class='list-group'>"+b+"</ul>"
+		+"<ul class='list-group text-warning'>"+genre+"</ul>"
 		+"</a>");
 		$("#RecommendGame").append(a);
 	}
