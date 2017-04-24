@@ -36,7 +36,7 @@ import ObjectsandTools.relativeName;
 public class searchQuery {
 	
 	private BufferedReader gamelistReader;
-	int x = 10;
+	int x = 100;
 	
 //	constructor: open gamelist reader
 	public searchQuery(String path) throws IOException {
@@ -303,6 +303,7 @@ public class searchQuery {
 		
 		List<relativeName> NmatchInitial = new ArrayList<relativeName>();
 		List<relativeName> incorrectSpell = new ArrayList<relativeName>();
+
 
 		if (NmatchInitialResult.size() < x) {
 			NmatchInitial = NmatchInitialResult;

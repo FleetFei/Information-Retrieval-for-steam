@@ -107,6 +107,8 @@ public class KeyWordSearch extends HttpServlet {
 			son.put("Description", frd.getDescription(despath, keywordResult.get(i)));
 			son.put("Genre", keywordResult.get(i).tags);
 			son.put("rate", keywordResult.get(i).rating);
+			son.put("year", keywordResult.get(i).releasedate);
+
 			Typingarray.add(son);
 		}
 		System.out.println("keyword Search内容："+keywordResult.toString());

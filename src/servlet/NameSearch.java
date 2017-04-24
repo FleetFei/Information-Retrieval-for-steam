@@ -145,6 +145,8 @@ public class NameSearch extends HttpServlet {
 				son3.put("Description", frd.getDescription(despath, result3.get(i)));
 				son3.put("Genre", result3.get(i).tags);
 				son3.put("rate", result3.get(i).rating);
+				son3.put("year", result3.get(i).releasedate);
+
 				RecommendArray.add(son3);
 			}
 		} catch (Exception e) {
@@ -171,6 +173,8 @@ public class NameSearch extends HttpServlet {
 			son1.put("Description", frd.getDescription(despath, queryEntering1.get(i)));
 			son1.put("Genre", queryEntering1.get(i).tags);
 			son1.put("rate", queryEntering1.get(i).rating);
+			son1.put("year", queryEntering1.get(i).releasedate);
+
 			EnterArray1.add(son1);
 		}
 		//2.只符合query
@@ -183,6 +187,8 @@ public class NameSearch extends HttpServlet {
 			son2.put("Description", frd.getDescription(despath, queryEntering2.get(i)));
 			son2.put("Genre", queryEntering2.get(i).tags);
 			son2.put("rate", queryEntering2.get(i).rating);
+			son2.put("year", queryEntering2.get(i).releasedate);
+
 			EnterArray2.add(son2);
 		}
 		
@@ -196,6 +202,8 @@ public class NameSearch extends HttpServlet {
 			son4.put("Description", frd.getDescription(despath, queryEntering3.get(i)));
 			son4.put("Genre", queryEntering3.get(i).tags);
 			son4.put("rate", queryEntering3.get(i).rating);
+			son4.put("year", queryEntering3.get(i).releasedate);
+
 			EnterArray3.add(son4);
 		}
 
