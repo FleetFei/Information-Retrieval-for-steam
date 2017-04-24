@@ -370,27 +370,40 @@ public class searchQuery {
 	boolean ifTagMatch(ArrayList<String> tags, String gametags, String inputpublisher, String inputreleasedate, String publisher, String releasedate) {
 
 		releasedate = releasedate.toLowerCase();
-		boolean test = false;
-		if (!inputpublisher.equals("unknown")  && publisher.equals(inputpublisher)) {
-			return true;
+		boolean test = true;
+		
+		
+		
+		
+		if (!inputpublisher.equals("unknown")  && !publisher.equals(inputpublisher)) {
+			return false;
 		}
+		
 		if ((inputreleasedate != null && !inputreleasedate.equals("")) && !releasedate.equals(inputreleasedate)) {
 			return false;
 		}
 		
-		if (tags == null) {
-			return true;
-		}
-		else if (gametags.equals("none")) {
+		if (gametags.equals("none")) {
 			return false ;
 		}
-		for (String st : tags) {
-			System.out.println(st);
-			if (gametags.contains(st.toLowerCase())) {
-				test = true;
-				return true;
-			}
+
+		if (tags == null || tags.isEmpty()) {
+			
+			return true;
 		}
+		else {
+			System.out.println("test here");
+			test = false;
+			for (String st : tags) {
+				if (gametags.contains(st.toLowerCase())) {
+					test = true;
+					return true;
+				}
+			}
+			
+		}
+		
+		
 		if (!test) {
 			return false;
 		}
