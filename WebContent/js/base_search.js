@@ -103,7 +103,7 @@ function SearchDisplay(response) {
 		var descript =  enterResult1[i].Description;
 		var genre = enterResult1[i].Genre;
 		var rate = enterResult1[i].rate;
-		var year = RecommendGame[i].year;
+		var year = enterResult1[i].year;
 //		var b="";
 //		for(i in genre){
 //			b = b + "<li class='list-group-item'>"+genre[i]+"</li>"; 
@@ -124,7 +124,7 @@ function SearchDisplay(response) {
 		var descript =  enterResult2[i].Description;
 		var genre = enterResult2[i].Genre;
 		var rate = enterResult2[i].rate;
-		var year = RecommendGame[i].year;
+		var year = enterResult2[i].year;
 //		var b="";
 //		for(i in genre){
 //			b = b + "<li class='list-group-item'>"+genre[i]+"</li>"; 
