@@ -235,10 +235,12 @@ public class searchQuery {
 					}
 //					此处是加入的拼写错误的结果并加入rating
 					if (ifaddResult3) {
-						incorrectSpellResult.add(new relativeName(tempappid, scoreToResult3, templine,ratingscore, tempreleasedate, temptag));
-						ifaddResult3 = false;
-						ifContains = false;
-						continue;
+						if(query.length() > 5) {
+							incorrectSpellResult.add(new relativeName(tempappid, scoreToResult3, templine,ratingscore, tempreleasedate, temptag));
+							ifaddResult3 = false;
+							ifContains = false;
+							continue;
+						}
 					}
 				}
 //				检查是否含有首字母，与searchTyping同理
