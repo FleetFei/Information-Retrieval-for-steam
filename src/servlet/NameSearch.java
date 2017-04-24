@@ -142,14 +142,17 @@ public class NameSearch extends HttpServlet {
 			
 			
 			JSONObject son3 = new JSONObject();
-			for(int i=0; i<result3.size(); i++){			
+			for(int i=0; i<20; i++){	
+				if ( i >= result3.size()) {
+					break;
+				}
 				son3.put("Rid", i+1);
 				son3.put("Rname", result3.get(i).name);
 				son3.put("Description", frd.getDescription(despath, result3.get(i)));
 				son3.put("Genre", result3.get(i).tags);
 				son3.put("rate", result3.get(i).rating);
 				son3.put("year", result3.get(i).releasedate);
-
+				System.out.println(result3.size());
 				RecommendArray.add(son3);
 			}
 		} catch (Exception e) {
@@ -165,12 +168,17 @@ public class NameSearch extends HttpServlet {
 			son.put("Rname", queryTyping.get(i));
 			Typingarray.add(son);
 		}
-		
+		System.out.println(queryEntering1.size());
+		System.out.println(queryEntering2.size());
+		System.out.println(queryEntering3.size());
 		//1.所有选择全部符合
 		JSONArray EnterArray1 = new JSONArray();
 		JSONObject son1 = new JSONObject();
-		for(int i=0; i<queryEntering1.size(); i++){			
-			
+
+		for(int i=0; i<20; i++){			
+			if ( i >= queryEntering1.size()) {
+				break;
+			}
 			son1.put("Rid", i+1);
 			son1.put("Rname", queryEntering1.get(i).name);
 			son1.put("Description", frd.getDescription(despath, queryEntering1.get(i)));
@@ -183,8 +191,10 @@ public class NameSearch extends HttpServlet {
 		//2.只符合query
 		JSONArray EnterArray2 = new JSONArray();
 		JSONObject son2 = new JSONObject();
-		for(int i=0; i<queryEntering2.size(); i++){			
-			
+		for(int i=0; i<20; i++){			
+			if ( i >= queryEntering2.size()) {
+				break;
+			}
 			son2.put("Rid", i+1);
 			son2.put("Rname", queryEntering2.get(i).name);
 			son2.put("Description", frd.getDescription(despath, queryEntering2.get(i)));
@@ -198,8 +208,10 @@ public class NameSearch extends HttpServlet {
 		//2.只符合query
 		JSONArray EnterArray3 = new JSONArray();
 		JSONObject son4 = new JSONObject();
-		for(int i=0; i<queryEntering3.size(); i++){			
-			
+		for(int i=0; i<20; i++){			
+			if ( i >= queryEntering3.size()) {
+				break;
+			}
 			son4.put("Rid", i+1);
 			son4.put("Rname", queryEntering3.get(i).name);
 			son4.put("Description", frd.getDescription(despath, queryEntering3.get(i)));

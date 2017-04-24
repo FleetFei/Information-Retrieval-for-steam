@@ -191,8 +191,8 @@ public class searchKeywords {
 						
 						if (taglist != null) {
 							for (String st : taglist) {
-								if (!temptag.contains(st)) {
-									ifContains = false;
+								if (temptag.contains(st.toLowerCase())) {
+									ifContains = true;
 								}
 							}
 						}

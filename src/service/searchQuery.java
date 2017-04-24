@@ -113,6 +113,7 @@ public class searchQuery {
 		}
 
 		publisher = publisher.toLowerCase();
+		
 		if (releasedate != null) {
 			releasedate = releasedate.toLowerCase();
 		}
@@ -341,10 +342,11 @@ public class searchQuery {
 //	如果user没有选择tag，则返回所有
 //	如果user选择了tag，但是游戏没有tag，优先返回allmatch
 	boolean ifTagMatch(ArrayList<String> tags, String gametags, String inputpublisher, String inputreleasedate, String publisher, String releasedate) {
+
+		releasedate = releasedate.toLowerCase();
 		
-		
-		if (!inputpublisher.equals("unknown") && publisher.equals(inputpublisher)) {
-			return false;
+		if (!inputpublisher.equals("unknown")  && publisher.equals(inputpublisher)) {
+			return true;
 		}
 		if ((inputreleasedate != null && !inputreleasedate.equals("")) && !releasedate.equals(inputreleasedate)) {
 			return false;
@@ -357,8 +359,9 @@ public class searchQuery {
 			return false ;
 		}
 		for (String st : tags) {
-			if (!gametags.contains(st)) {
-				return false;
+			System.out.println(st);
+			if (gametags.contains(st.toLowerCase())) {
+				return true;
 			}
 		}
 		return true;

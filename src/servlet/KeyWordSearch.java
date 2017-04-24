@@ -100,8 +100,10 @@ public class KeyWordSearch extends HttpServlet {
 		}
 		JSONArray Typingarray = new JSONArray();
 		JSONObject son = new JSONObject();
-		for(int i=0; i<keywordResult.size(); i++){
-
+		for(int i=0; i<20; i++){
+			if ( i >= keywordResult.size()) {
+				break;
+			}
 			son.put("Rid", i+1);
 			son.put("Rname", keywordResult.get(i).name);
 			son.put("Description", frd.getDescription(despath, keywordResult.get(i)));
@@ -116,7 +118,7 @@ public class KeyWordSearch extends HttpServlet {
 		
 		//创建JsonObject
 		JSONObject root = new JSONObject();
-		root.put("keywordResult", keywordResult);
+		root.put("keywordResult", Typingarray);
 
 		//设置response
 		response.setCharacterEncoding("utf-8");
