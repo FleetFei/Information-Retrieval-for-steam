@@ -93,8 +93,10 @@ public class NameSearch extends HttpServlet {
 			suggestionResult: 有小错误，eg：拼写错误，会修正
 		 */
 		EnterSearchResult enterresult = new searchQuery(path).searchEntering(inputSearch,tag, publisher,releasing);
-		ArrayList<String> queryEntering1 = enterresult.allMatchResult;
-		ArrayList<String> queryEntering2 = enterresult.initialResult;
+		ArrayList<relativeName> queryEntering1 = enterresult.originAllMatchResult;
+		ArrayList<relativeName> queryEntering2 = enterresult.originNmatchResult;
+		ArrayList<relativeName> queryEntering3 = enterresult.originSuggestResult;
+
 	
 		String despath = this.getServletContext().getRealPath("/WEB-INF/classes/descriptionTrec.trectext");
 		String indexpath = this.getServletContext().getRealPath("/WEB-INF/classes/LuceneProcess");
@@ -103,7 +105,6 @@ public class NameSearch extends HttpServlet {
 		JSONArray RecommendArray = new JSONArray();
 		try {
 			KeywordsResult  recArray=new searchKeywords(path).search(pathStopword,indexpath,null, tag, publisher, releasing);
-			ArrayList<String> tmp = recArray.Result;
 			ArrayList<relativeName> result3 = recArray.originResult;
 			
 			if (!sort.equals("bydefault")) {
@@ -114,8 +115,6 @@ public class NameSearch extends HttpServlet {
 				ArrayList<relativeName> recommend = recArray.originResult;
 
 				if (sort.equals("byrating")) {
-					System.out.println("!!!!!!!!!!!!");
-
 					enterresult.setAllmatchResult(sr.sortByRating(enterallmatch));
 					enterresult.setNmatchResult(sr.sortByRating(enterNmatch));
 					enterresult.setSuggestResult(sr.sortByRating(enterSuggest));
@@ -129,15 +128,15 @@ public class NameSearch extends HttpServlet {
 					
 				}
 				
-				queryEntering1 = enterresult.allMatchResult;
-				queryEntering2 = enterresult.initialResult;
+				queryEntering1 = enterresult.originAllMatchResult;
+				queryEntering2 = enterresult.originNmatchResult;
 				result3 = recArray.originResult;
 
 			}
 			
 			
 			JSONObject son3 = new JSONObject();
-			for(int i=0; i<tmp.size(); i++){			
+			for(int i=0; i<result3.size(); i++){			
 				son3.put("Rid", i+1);
 				son3.put("Rname", result3.get(i).name);
 				son3.put("Description", frd.getDescription(despath, result3.get(i)));
@@ -163,22 +162,24 @@ public class NameSearch extends HttpServlet {
 		JSONArray EnterArray1 = new JSONArray();
 		JSONObject son1 = new JSONObject();
 		for(int i=0; i<queryEntering1.size(); i++){			
+			
 			son1.put("Rid", i+1);
-			son1.put("Rname", queryEntering1.get(i));
-//			son1.put("Description", description);
-//			son1.put("Genre", tags);
-//			son1.put("rate", rate);
+			son1.put("Rname", queryEntering1.get(i).name);
+			son1.put("Description", frd.getDescription(despath, queryEntering1.get(i)));
+			son1.put("Genre", queryEntering1.get(i).tags);
+			son1.put("rate", queryEntering1.get(i).rating);
 			EnterArray1.add(son1);
 		}
 		//2.只符合query
 		JSONArray EnterArray2 = new JSONArray();
 		JSONObject son2 = new JSONObject();
 		for(int i=0; i<queryEntering2.size(); i++){			
-			son2.put("Rid", i+1);
-			son2.put("Rname", queryEntering2.get(i));
-//			son2.put("Description", description);
-//			son2.put("Genre", tags);
-//			son2.put("rate", rate);
+			
+			son1.put("Rid", i+1);
+			son1.put("Rname", queryEntering2.get(i).name);
+			son1.put("Description", frd.getDescription(despath, queryEntering2.get(i)));
+			son1.put("Genre", queryEntering2.get(i).tags);
+			son1.put("rate", queryEntering2.get(i).rating);
 			EnterArray2.add(son2);
 		}
 
