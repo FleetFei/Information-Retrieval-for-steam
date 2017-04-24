@@ -108,6 +108,7 @@ function SearchDisplay(response) {
 		}
 		var a = $("<a href='#' class='list-group-item' id=namesearch" + id + ">"
 		+"<h4 class='list-group-item-heading text-primary'>"+name+"</h4>"
+		+"<h4 class='text-primary'>"+rate+"</h4>"
 		+"<p class='list-group-item-text text-success'>"+ descript +"</p>"
 		+"<ul class='list-group'>"+b+"</ul>"
 		+"</a>");
@@ -127,6 +128,7 @@ function SearchDisplay(response) {
 		}
 		var a = $("<a href='#' class='list-group-item' id=namesearch" + id + ">"
 		+"<h4 class='list-group-item-heading text-primary'>"+name+"</h4>"
+		+"<h4 class='text-primary'>"+rate+"</h4>"
 		+"<p class='list-group-item-text  text-success'>"+ descript +"</p>"
 		+"<ul class='list-group'>"+b+"</ul>"
 		+"</a>");
@@ -146,6 +148,7 @@ function SearchDisplay(response) {
 		}
 		var a = $("<a href='#' class='list-group-item' id=namesearch" + id + ">"
 		+"<h4 class='list-group-item-heading text-primary'>"+name+"</h4>"
+		+"<h4 class='text-primary'>"+rate+"</h4>"
 		+"<p class='list-group-item-text  text-success'>"+ descript +"</p>"
 		+"<ul class='list-group'>"+b+"</ul>"
 		+"</a>");
