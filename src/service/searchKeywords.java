@@ -33,7 +33,7 @@ import PreprocessTools.stopwordRemover;
 public class searchKeywords {
 	
 	BufferedReader gamelistReader;
-	int x = 10;
+	int x = 20;
 	int y = 2;
 	
 //	Constructor: open reader to read SearchGameList
@@ -179,7 +179,7 @@ public class searchKeywords {
 			// Initialize the MyRetrievalModel
 			QueryRetrievalModel model = new QueryRetrievalModel(ixreader, indexpath);
 //			use Lucene to read index and get topN results for keywords
-			List<Document> relativeDocs = model.retrieveQuery(processedQuery, 100);
+			List<Document> relativeDocs = model.retrieveQuery(processedQuery, 1000);
 //			put results into appIds
 			if (relativeDocs != null) {
 				for (Document doc : relativeDocs) {

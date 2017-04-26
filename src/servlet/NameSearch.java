@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.HashMap;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -142,13 +143,14 @@ public class NameSearch extends HttpServlet {
 			
 			
 			JSONObject son3 = new JSONObject();
+			HashMap<String, String> result3Des = frd.getDescription(despath, result3);
 			for(int i=0; i<20; i++){	
 				if ( i >= result3.size()) {
 					break;
 				}
 				son3.put("Rid", i+1);
 				son3.put("Rname", result3.get(i).name);
-				son3.put("Description", frd.getDescription(despath, result3.get(i)));
+				son3.put("Description", result3Des.get(result3.get(i).appid));
 				son3.put("Genre", result3.get(i).tags);
 				son3.put("rate", result3.get(i).rating);
 				son3.put("year", result3.get(i).releasedate);
@@ -174,14 +176,14 @@ public class NameSearch extends HttpServlet {
 		//1.所有选择全部符合
 		JSONArray EnterArray1 = new JSONArray();
 		JSONObject son1 = new JSONObject();
-
+		HashMap<String, String> qeresult1 = frd.getDescription(despath, queryEntering1);
 		for(int i=0; i<20; i++){			
 			if ( i >= queryEntering1.size()) {
 				break;
 			}
 			son1.put("Rid", i+1);
 			son1.put("Rname", queryEntering1.get(i).name);
-			son1.put("Description", frd.getDescription(despath, queryEntering1.get(i)));
+			son1.put("Description", qeresult1.get(queryEntering1.get(i).appid));
 			son1.put("Genre", queryEntering1.get(i).tags);
 			son1.put("rate", queryEntering1.get(i).rating);
 			son1.put("year", queryEntering1.get(i).releasedate);
@@ -191,13 +193,15 @@ public class NameSearch extends HttpServlet {
 		//2.只符合query
 		JSONArray EnterArray2 = new JSONArray();
 		JSONObject son2 = new JSONObject();
+		HashMap<String, String> qeresult2 = frd.getDescription(despath, queryEntering2);
+
 		for(int i=0; i<20; i++){			
 			if ( i >= queryEntering2.size()) {
 				break;
 			}
 			son2.put("Rid", i+1);
 			son2.put("Rname", queryEntering2.get(i).name);
-			son2.put("Description", frd.getDescription(despath, queryEntering2.get(i)));
+			son2.put("Description", qeresult2.get(queryEntering2.get(i).appid));
 			son2.put("Genre", queryEntering2.get(i).tags);
 			son2.put("rate", queryEntering2.get(i).rating);
 			son2.put("year", queryEntering2.get(i).releasedate);
@@ -208,13 +212,15 @@ public class NameSearch extends HttpServlet {
 		//2.只符合query
 		JSONArray EnterArray3 = new JSONArray();
 		JSONObject son4 = new JSONObject();
+		HashMap<String, String> qeresult3 = frd.getDescription(despath, queryEntering3);
+
 		for(int i=0; i<20; i++){			
 			if ( i >= queryEntering3.size()) {
 				break;
 			}
 			son4.put("Rid", i+1);
 			son4.put("Rname", queryEntering3.get(i).name);
-			son4.put("Description", frd.getDescription(despath, queryEntering3.get(i)));
+			son4.put("Description", qeresult3.get(queryEntering3.get(i).appid));
 			son4.put("Genre", queryEntering3.get(i).tags);
 			son4.put("rate", queryEntering3.get(i).rating);
 			son4.put("year", queryEntering3.get(i).releasedate);

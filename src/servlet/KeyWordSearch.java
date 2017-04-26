@@ -3,6 +3,7 @@ package servlet;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.HashMap;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -101,13 +102,15 @@ public class KeyWordSearch extends HttpServlet {
 		}
 		JSONArray Typingarray = new JSONArray();
 		JSONObject son = new JSONObject();
+		HashMap<String, String> resultDes = frd.getDescription(despath, keywordResult);
+		System.out.println(keywordResult.size());
 		for(int i=0; i<20; i++){
 			if ( i >= keywordResult.size()) {
 				break;
 			}
 			son.put("Rid", i+1);
 			son.put("Rname", keywordResult.get(i).name);
-			son.put("Description", frd.getDescription(despath, keywordResult.get(i)));
+			son.put("Description", resultDes.get(keywordResult.get(i).appid));
 			son.put("Genre", keywordResult.get(i).tags);
 			son.put("rate", keywordResult.get(i).rating);
 			son.put("year", keywordResult.get(i).releasedate);
