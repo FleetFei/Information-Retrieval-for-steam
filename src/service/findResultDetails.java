@@ -70,4 +70,28 @@ public class findResultDetails {
 		return result;
 	}
 	
+	public void adjustRecommend(ArrayList<relativeName> allMatchlist, ArrayList<relativeName> nMatchlist, ArrayList<relativeName> Recommendlist) {
+		HashSet<relativeName> deletewait = new HashSet<relativeName>();
+		
+		
+		for (relativeName game: Recommendlist) {
+			for (relativeName amgame: allMatchlist) {
+				if (amgame.appid.equals(game.appid)) {
+					deletewait.add(game);
+					continue;
+				}
+			}
+			for (relativeName nmgame: nMatchlist) {
+				if (nmgame.appid.equals(game.appid)) {
+					deletewait.add(game);
+				}
+			}
+		}
+		
+		for (relativeName game : deletewait) {
+			Recommendlist.remove(game);
+		}
+		
+	}
+	
 }

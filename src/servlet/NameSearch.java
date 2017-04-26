@@ -109,7 +109,6 @@ public class NameSearch extends HttpServlet {
 		
 		JSONArray RecommendArray = new JSONArray();
 		try {
-			System.out.println("3");
 			KeywordsResult  recArray=new searchKeywords(path).search(pathStopword,indexpath,null, tag, publisher, releasing);
 			ArrayList<relativeName> result3 = recArray.originResult;
 			
@@ -140,7 +139,8 @@ public class NameSearch extends HttpServlet {
 				result3 = recArray.originResult;
 
 			}
-			
+			frd.adjustRecommend(queryEntering1, queryEntering2, result3);
+
 			
 			JSONObject son3 = new JSONObject();
 			HashMap<String, String> result3Des = frd.getDescription(despath, result3);
