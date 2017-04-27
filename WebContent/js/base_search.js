@@ -61,31 +61,36 @@ function NameSearch() {
 	 * 搜索内容：name, tag, publisher, releasingdate, sort
 	 */
 	var name = $('#User_Sch_input').val();
-	var tag =[];
-	var publisher =$("input[name='pub']:checked").val();
-	var releasingYear=$("#releasingYear").val();
-	var sort = $("input[name='pub2']:checked").val();
-	$("input[type=checkbox]:checked").each(function() {
-		//由于复选框一般选中的是多个,所以可以循环输出 
-//		alert("you choose : "+$(this).val());
-		tag.push($(this).val());
-	}); 
-	 $.ajax({  
-         type:'post',  
-         dataType:'json',
-         traditional :true,  
-         url:"http://localhost:8080/SteamGame/NameSearch",  
-         data:{'Name':name,'Tag':tag,'Publisher':publisher,'releasingYear':releasingYear,'sort':sort},  
-         success:function(data){  
-       	 	SearchDisplay(data);
-         }  
-     });  
+	alert("name=="+name);
+	if(name!=""){
+		var tag =[];
+		var publisher =$("input[name='pub']:checked").val();
+		var releasingYear=$("#releasingYear").val();
+		var sort = $("input[name='pub2']:checked").val();
+		$("input[type=checkbox]:checked").each(function() {
+			//由于复选框一般选中的是多个,所以可以循环输出 
+		//		alert("you choose : "+$(this).val());
+			tag.push($(this).val());
+		}); 
+		 $.ajax({  
+		     type:'post',  
+		     dataType:'json',
+		     traditional :true,  
+		     url:"http://localhost:8080/SteamGame/NameSearch",  
+		     data:{'Name':name,'Tag':tag,'Publisher':publisher,'releasingYear':releasingYear,'sort':sort},  
+		     success:function(data){  
+		   	 	SearchDisplay(data);
+		     }  
+		 });  
+	}
+	else{
+		alert("please type name of game");
+	}
 }
 
 
 
 function SearchDisplay(response) {
-	
 	//先删除以前查找的内容
 	$("#EnterResult1").empty();
 	$("#EnterResult2").empty();
