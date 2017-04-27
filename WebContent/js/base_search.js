@@ -61,7 +61,6 @@ function NameSearch() {
 	 * 搜索内容：name, tag, publisher, releasingdate, sort
 	 */
 	var name = $('#User_Sch_input').val();
-	alert("name=="+name);
 	if(name!=""){
 		var tag =[];
 		var publisher =$("input[name='pub']:checked").val();
@@ -78,7 +77,10 @@ function NameSearch() {
 		     traditional :true,  
 		     url:"http://localhost:8080/SteamGame/NameSearch",  
 		     data:{'Name':name,'Tag':tag,'Publisher':publisher,'releasingYear':releasingYear,'sort':sort},  
-		     success:function(data){  
+		     success:function(data){ 
+		     	$("#EnterResult2panel").attr("style","display: block;");
+       	 		$("#EnterResult3panel").attr("style","display: block;");
+       	 		$("#Recommendpanel").attr("style","display: block;");
 		   	 	SearchDisplay(data);
 		     }  
 		 });  
